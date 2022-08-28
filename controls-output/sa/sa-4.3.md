@@ -1,0 +1,79 @@
+---
+copyright:
+  years: 2020, 2022
+lastupdated: "2022-08-28"
+keywords: 
+subcollection: controls
+---
+
+
+{:android: data-hd-operatingsystem="android"}
+{:api: .ph data-hd-interface="api"}
+{:audio: .audio}
+{:authenticated-content: .authenticated-content}
+{:beta: .beta}
+{:c#: .ph data-hd-programlang="c#"}
+{:cli: .ph data-hd-interface="cli"}
+{:codeblock: .codeblock}
+{:curl: .ph data-hd-programlang="curl"}
+{:deprecated: .deprecated}
+{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
+{:experimental: .experimental}
+{:external: .external target="_blank"}
+{:faq: data-hd-content-type="faq"}
+{:generic: data-hd-programlang="generic"}
+{:go: .ph data-hd-programlang="go"}
+{:help: data-hd-content-type="help"}
+{:here: .ph data-hd-vposition="here"}
+{:hide-dashboard: .hide-dashboard}
+{:hide-in-docs: .hide-in-docs}
+{:important: .important}
+{:ios: data-hd-operatingsystem="ios"}
+{:java: .ph data-hd-programlang="java"}
+{:javascript: .ph data-hd-programlang="javascript"}
+{:middle: .ph data-hd-position="middle"}
+{:node: .ph data-hd-programlang="node"}
+{:note: .note}
+{:objectc: .ph data-hd-programlang="Objective C"}
+{:php: .ph data-hd-programlang="PHP"}
+{:pre: .pre}
+{:preview: .preview}
+{:python: .ph data-hd-programlang="python"}
+{:release-note: data-hd-content-type="release-note"}
+{:right: .ph data-hd-position="right"}
+{:row-headers: .row-headers}
+{:ruby: .ph data-hd-programlang="ruby"}
+{:screen: .screen}
+{:shortdesc: .shortdesc}
+{:step: data-tutorial-type="step"}
+{:support: data-reuse="support"}
+{:swift: .ph data-hd-programlang="swift"}
+{:term: .term}
+{:terraform: .ph data-hd-interface="terraform"}
+{:tip: .tip}
+{:troubleshoot: data-hd-content-type="troubleshoot"}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
+{:tsSymptoms: .tsSymptoms}
+{:tutorial: data-hd-content-type="tutorial"}
+{:ui: .ph data-hd-interface="ui"}
+{:unity: .ph data-hd-programlang="unity"}
+{:vbnet: .ph data-hd-programlang="vb.net"}
+{:video: .video}
+
+
+# SA-4.3 - DEVELOPMENT METHODS / TECHNIQUES / PRACTICES
+
+## Requirements
+{: #requirements}
+
+The organization requires the developer of the information system, system component, or information system service to demonstrate the use of a system development life cycle that includes [organization-defined state-of-the-practice system/security engineering methods, software development methods, testing/evaluation/validation techniques, and quality control processes].
+
+## Control Supplemental Guidance
+{: #supplemental_guidance}
+
+Following a well-defined system development life cycle that includes state-of-the-practice software development methods, systems/security engineering methods, quality control processes, and testing, evaluation, and validation techniques helps to reduce the number and severity of latent errors within information systems, system components, and information system services. Reducing the number/severity of such errors reduces the number of vulnerabilities in those systems, components, and services.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| sa-4.3_prm_1 |  | organization-defined state-of-the-practice system/security engineering methods, software development methods, testing/evaluation/validation techniques, and quality control processes |

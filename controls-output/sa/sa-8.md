@@ -1,0 +1,90 @@
+---
+copyright:
+  years: 2020, 2022
+lastupdated: "2022-08-28"
+keywords: 
+subcollection: controls
+---
+
+
+{:android: data-hd-operatingsystem="android"}
+{:api: .ph data-hd-interface="api"}
+{:audio: .audio}
+{:authenticated-content: .authenticated-content}
+{:beta: .beta}
+{:c#: .ph data-hd-programlang="c#"}
+{:cli: .ph data-hd-interface="cli"}
+{:codeblock: .codeblock}
+{:curl: .ph data-hd-programlang="curl"}
+{:deprecated: .deprecated}
+{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
+{:experimental: .experimental}
+{:external: .external target="_blank"}
+{:faq: data-hd-content-type="faq"}
+{:generic: data-hd-programlang="generic"}
+{:go: .ph data-hd-programlang="go"}
+{:help: data-hd-content-type="help"}
+{:here: .ph data-hd-vposition="here"}
+{:hide-dashboard: .hide-dashboard}
+{:hide-in-docs: .hide-in-docs}
+{:important: .important}
+{:ios: data-hd-operatingsystem="ios"}
+{:java: .ph data-hd-programlang="java"}
+{:javascript: .ph data-hd-programlang="javascript"}
+{:middle: .ph data-hd-position="middle"}
+{:node: .ph data-hd-programlang="node"}
+{:note: .note}
+{:objectc: .ph data-hd-programlang="Objective C"}
+{:php: .ph data-hd-programlang="PHP"}
+{:pre: .pre}
+{:preview: .preview}
+{:python: .ph data-hd-programlang="python"}
+{:release-note: data-hd-content-type="release-note"}
+{:right: .ph data-hd-position="right"}
+{:row-headers: .row-headers}
+{:ruby: .ph data-hd-programlang="ruby"}
+{:screen: .screen}
+{:shortdesc: .shortdesc}
+{:step: data-tutorial-type="step"}
+{:support: data-reuse="support"}
+{:swift: .ph data-hd-programlang="swift"}
+{:term: .term}
+{:terraform: .ph data-hd-interface="terraform"}
+{:tip: .tip}
+{:troubleshoot: data-hd-content-type="troubleshoot"}
+{:tsCauses: .tsCauses}
+{:tsResolve: .tsResolve}
+{:tsSymptoms: .tsSymptoms}
+{:tutorial: data-hd-content-type="tutorial"}
+{:ui: .ph data-hd-interface="ui"}
+{:unity: .ph data-hd-programlang="unity"}
+{:vbnet: .ph data-hd-programlang="vb.net"}
+{:video: .video}
+
+
+# SA-8 - SECURITY ENGINEERING PRINCIPLES
+
+## Requirements
+{: #requirements}
+
+The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.
+
+## Control Additional FS Cloud Specifications
+{: #additional-fs-cloud-specifications}
+
+Solutions must minimize the reliance on underlying network and operating system infrastructure to ensure system independence.
+
+Develop applications to leverage cloud scalability capabilities, with service level obligations based on their availability requirements.
+
+NIST Publication 800-144 - Guidelines on Security and Privacy in Public Cloud Computing emphasize logical separation of resources.  The organization must ensure applications are designed to separate each layer of the stack.  Access to each layer must ensure separation of duties.
+
+API architecture must utilize HTTP (W3C) standards and use RESTful APIs. 
+
+APIs shall be subject to the same security controls as any other resource within the system.
+
+APIs shall be platform and operating system independent.
+
+## Control Supplemental Guidance
+{: #supplemental_guidance}
+
+Organizations apply security engineering principles primarily to new development information systems or systems undergoing major upgrades. For legacy systems, organizations apply security engineering principles to system upgrades and modifications to the extent feasible, given the current state of hardware, software, and firmware within those systems. Security engineering principles include, for example: (i) developing layered protections; (ii) establishing sound security policy, architecture, and controls as the foundation for design; (iii) incorporating security requirements into the system development life cycle; (iv) delineating physical and logical security boundaries; (v) ensuring that system developers are trained on how to build secure software; (vi) tailoring security controls to meet organizational and operational needs; (vii) performing threat modeling to identify use cases, threat agents, attack vectors, and attack patterns as well as compensating controls and design patterns needed to mitigate risk; and (viii) reducing risk to acceptable levels, thus enabling informed risk management decisions.
