@@ -15,6 +15,8 @@ subcollection: controls
 # AU - Audit and Accountability
 {: #au-overview}
 
+The Audit and Accountability family consists of the controls that follow.
+
 - [AU-1 - Audit And Accountability Policy And Procedures](/docs/controls?topic=controls-au-1)
 - [AU-2 - Audit Events](/docs/controls?topic=controls-au-2)
 - [AU-2.3 - Reviews And Updates](/docs/controls?topic=controls-au-2.3)

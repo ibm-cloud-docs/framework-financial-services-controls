@@ -15,6 +15,8 @@ subcollection: controls
 # CP - Contingency Planning
 {: #cp-overview}
 
+The Contingency Planning family consists of the controls that follow.
+
 - [CP-1 - Contingency Planning Policy And Procedures](/docs/controls?topic=controls-cp-1)
 - [CP-2 - Contingency Plan](/docs/controls?topic=controls-cp-2)
 - [CP-2.1 - Coordinate With Related Plans](/docs/controls?topic=controls-cp-2.1)

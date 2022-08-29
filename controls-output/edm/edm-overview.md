@@ -15,6 +15,8 @@ subcollection: controls
 # EDM - Enterprise Data Management
 {: #edm-overview}
 
+The Enterprise Data Management family consists of the controls that follow.
+
 - [EDM-1 - Enterprise Data Management (Quality Assurance)](/docs/controls?topic=controls-edm-1)
 
 

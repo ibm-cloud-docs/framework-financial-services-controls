@@ -15,6 +15,8 @@ subcollection: controls
 # SC - System and Communications Protection
 {: #sc-overview}
 
+The System and Communications Protection family consists of the controls that follow.
+
 - [SC-1 - System And Communications Protection Policy And Procedures](/docs/controls?topic=controls-sc-1)
 - [SC-2 - Application Partitioning](/docs/controls?topic=controls-sc-2)
 - [SC-3 - Security Function Isolation](/docs/controls?topic=controls-sc-3)

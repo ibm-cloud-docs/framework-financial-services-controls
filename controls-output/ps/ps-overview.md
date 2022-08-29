@@ -15,6 +15,8 @@ subcollection: controls
 # PS - Personnel Security
 {: #ps-overview}
 
+The Personnel Security family consists of the controls that follow.
+
 - [PS-1 - Personnel Security Policy And Procedures](/docs/controls?topic=controls-ps-1)
 - [PS-2 - Position Risk Designation](/docs/controls?topic=controls-ps-2)
 - [PS-3 - Personnel Screening](/docs/controls?topic=controls-ps-3)

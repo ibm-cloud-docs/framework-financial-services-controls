@@ -15,6 +15,8 @@ subcollection: controls
 # IA - Identification and Authentication
 {: #ia-overview}
 
+The Identification and Authentication family consists of the controls that follow.
+
 - [IA-1 - Identification And Authentication Policy And Procedures](/docs/controls?topic=controls-ia-1)
 - [IA-2 - Identification And Authentication (Organizational Users)](/docs/controls?topic=controls-ia-2)
 - [IA-2.1 - Network Access To Privileged Accounts](/docs/controls?topic=controls-ia-2.1)

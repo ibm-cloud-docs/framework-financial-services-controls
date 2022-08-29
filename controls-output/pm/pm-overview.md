@@ -15,6 +15,8 @@ subcollection: controls
 # PM - Program Management
 {: #pm-overview}
 
+The Program Management family consists of the controls that follow.
+
 - [PM-1 - Information Security Program Plan](/docs/controls?topic=controls-pm-1)
 - [PM-2 - Senior Information Security Officer](/docs/controls?topic=controls-pm-2)
 - [PM-4 - Plan Of Action And Milestones Process](/docs/controls?topic=controls-pm-4)

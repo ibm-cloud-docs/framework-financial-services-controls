@@ -15,6 +15,8 @@ subcollection: controls
 # AT - Awareness and Training
 {: #at-overview}
 
+The Awareness and Training family consists of the controls that follow.
+
 - [AT-1 - Security Awareness And Training Policy And Procedures](/docs/controls?topic=controls-at-1)
 - [AT-2 - Security Awareness Training](/docs/controls?topic=controls-at-2)
 - [AT-3 - Role-Based Security Training](/docs/controls?topic=controls-at-3)

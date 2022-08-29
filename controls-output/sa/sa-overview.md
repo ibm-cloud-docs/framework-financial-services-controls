@@ -15,6 +15,8 @@ subcollection: controls
 # SA - System and Services Acquisition
 {: #sa-overview}
 
+The System and Services Acquisition family consists of the controls that follow.
+
 - [SA-1 - System And Services Acquisition Policy And Procedures](/docs/controls?topic=controls-sa-1)
 - [SA-2 - Allocation Of Resources](/docs/controls?topic=controls-sa-2)
 - [SA-3 - System Development Life Cycle](/docs/controls?topic=controls-sa-3)

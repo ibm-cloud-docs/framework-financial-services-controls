@@ -15,6 +15,8 @@ subcollection: controls
 # AC - Access Control
 {: #ac-overview}
 
+The Access Control family consists of the controls that follow.
+
 - [AC-1 - Access Control Policy And Procedures](/docs/controls?topic=controls-ac-1)
 - [AC-2 - Account Management](/docs/controls?topic=controls-ac-2)
 - [AC-2.1 - Automated System Account Management](/docs/controls?topic=controls-ac-2.1)

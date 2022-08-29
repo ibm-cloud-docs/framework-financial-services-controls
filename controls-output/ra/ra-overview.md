@@ -15,6 +15,8 @@ subcollection: controls
 # RA - Risk Assessment
 {: #ra-overview}
 
+The Risk Assessment family consists of the controls that follow.
+
 - [RA-1 - Risk Assessment Policy And Procedures](/docs/controls?topic=controls-ra-1)
 - [RA-2 - Security Categorization](/docs/controls?topic=controls-ra-2)
 - [RA-3 - Risk Assessment](/docs/controls?topic=controls-ra-3)

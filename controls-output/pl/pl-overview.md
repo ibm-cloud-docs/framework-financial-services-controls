@@ -15,6 +15,8 @@ subcollection: controls
 # PL - Planning
 {: #pl-overview}
 
+The Planning family consists of the controls that follow.
+
 - [PL-1 - Security Planning Policy And Procedures](/docs/controls?topic=controls-pl-1)
 - [PL-2 - System Security Plan](/docs/controls?topic=controls-pl-2)
 - [PL-4 - Rules Of Behavior](/docs/controls?topic=controls-pl-4)

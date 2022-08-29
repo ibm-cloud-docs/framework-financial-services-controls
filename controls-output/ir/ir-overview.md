@@ -15,6 +15,8 @@ subcollection: controls
 # IR - Incident Response
 {: #ir-overview}
 
+The Incident Response family consists of the controls that follow.
+
 - [IR-1 - Incident Response Policy And Procedures](/docs/controls?topic=controls-ir-1)
 - [IR-2 - Incident Response Training](/docs/controls?topic=controls-ir-2)
 - [IR-2.1 - Simulated Events](/docs/controls?topic=controls-ir-2.1)

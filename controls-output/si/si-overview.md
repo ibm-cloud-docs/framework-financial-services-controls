@@ -15,6 +15,8 @@ subcollection: controls
 # SI - System and Information Integrity
 {: #si-overview}
 
+The System and Information Integrity family consists of the controls that follow.
+
 - [SI-1 - System And Information Integrity Policy And Procedures](/docs/controls?topic=controls-si-1)
 - [SI-2 - Flaw Remediation](/docs/controls?topic=controls-si-2)
 - [SI-2.2 - Automated Flaw Remediation Status](/docs/controls?topic=controls-si-2.2)

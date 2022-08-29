@@ -15,6 +15,8 @@ subcollection: controls
 # CA - Security Assessment and Authorization
 {: #ca-overview}
 
+The Security Assessment and Authorization family consists of the controls that follow.
+
 - [CA-1 - Security Assessment And Authorization Policy And Procedures](/docs/controls?topic=controls-ca-1)
 - [CA-2 - Security Assessments](/docs/controls?topic=controls-ca-2)
 - [CA-2.1 - Independent Assessors](/docs/controls?topic=controls-ca-2.1)

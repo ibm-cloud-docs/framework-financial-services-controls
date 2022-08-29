@@ -15,6 +15,8 @@ subcollection: controls
 # CM - Configuration Management
 {: #cm-overview}
 
+The Configuration Management family consists of the controls that follow.
+
 - [CM-1 - Configuration Management Policy And Procedures](/docs/controls?topic=controls-cm-1)
 - [CM-2 - Baseline Configuration](/docs/controls?topic=controls-cm-2)
 - [CM-2.1 - Reviews And Updates](/docs/controls?topic=controls-cm-2.1)

@@ -15,6 +15,8 @@ subcollection: controls
 # PE - Physical and Environmental Protection
 {: #pe-overview}
 
+The Physical and Environmental Protection family consists of the controls that follow.
+
 - [PE-1 - Physical And Environmental Protection Policy And Procedures](/docs/controls?topic=controls-pe-1)
 - [PE-2 - Physical Access Authorizations](/docs/controls?topic=controls-pe-2)
 - [PE-3 - Physical Access Control](/docs/controls?topic=controls-pe-3)
