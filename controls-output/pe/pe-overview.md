@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PE overview
+# PE - Physical and Environmental Protection
 {: #pe-overview}
 
 - [PE-1 - Physical And Environmental Protection Policy And Procedures](/docs/controls?topic=controls-pe-1)

@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# ESA overview
+# ESA - Accessibility Guidelines
 {: #esa-overview}
 
 - [ESA-1 - Accessibility Guidelines](/docs/controls?topic=controls-esa-1)

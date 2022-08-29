@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PRIVACY overview
+# PRIVACY
 {: #privacy-overview}
 
 - [AR-2 - Privacy Impact And Risk Assessment](/docs/controls?topic=controls-ar-2)

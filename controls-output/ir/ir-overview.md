@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IR overview
+# IR - Incident Response
 {: #ir-overview}
 
 - [IR-1 - Incident Response Policy And Procedures](/docs/controls?topic=controls-ir-1)

@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PM overview
+# PM - Program Management
 {: #pm-overview}
 
 - [PM-1 - Information Security Program Plan](/docs/controls?topic=controls-pm-1)

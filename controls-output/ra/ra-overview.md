@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# RA overview
+# RA - Risk Assessment
 {: #ra-overview}
 
 - [RA-1 - Risk Assessment Policy And Procedures](/docs/controls?topic=controls-ra-1)

@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# EDM overview
+# EDM - Enterprise Data Management
 {: #edm-overview}
 
 - [EDM-1 - Enterprise Data Management (Quality Assurance)](/docs/controls?topic=controls-edm-1)

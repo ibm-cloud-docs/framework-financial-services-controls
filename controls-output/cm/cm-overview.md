@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# CM overview
+# CM - Configuration Management
 {: #cm-overview}
 
 - [CM-1 - Configuration Management Policy And Procedures](/docs/controls?topic=controls-cm-1)

@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PL overview
+# PL - Planning
 {: #pl-overview}
 
 - [PL-1 - Security Planning Policy And Procedures](/docs/controls?topic=controls-pl-1)

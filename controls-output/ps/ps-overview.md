@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PS overview
+# PS - Personnel Security
 {: #ps-overview}
 
 - [PS-1 - Personnel Security Policy And Procedures](/docs/controls?topic=controls-ps-1)

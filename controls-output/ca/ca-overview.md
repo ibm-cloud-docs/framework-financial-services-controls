@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# CA overview
+# CA - Security Assessment and Authorization
 {: #ca-overview}
 
 - [CA-1 - Security Assessment And Authorization Policy And Procedures](/docs/controls?topic=controls-ca-1)

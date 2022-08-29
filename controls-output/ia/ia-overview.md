@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IA overview
+# IA - Identification and Authentication
 {: #ia-overview}
 
 - [IA-1 - Identification And Authentication Policy And Procedures](/docs/controls?topic=controls-ia-1)

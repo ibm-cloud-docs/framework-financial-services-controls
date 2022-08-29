@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# MP overview
+# MP - Media Protection
 {: #mp-overview}
 
 - [MP-1 - Media Protection Policy And Procedures](/docs/controls?topic=controls-mp-1)

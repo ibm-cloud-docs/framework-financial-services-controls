@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# SC overview
+# SC - System and Communications Protection
 {: #sc-overview}
 
 - [SC-1 - System And Communications Protection Policy And Procedures](/docs/controls?topic=controls-sc-1)

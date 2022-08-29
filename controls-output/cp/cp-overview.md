@@ -12,7 +12,7 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# CP overview
+# CP - Contingency Planning
 {: #cp-overview}
 
 - [CP-1 - Contingency Planning Policy And Procedures](/docs/controls?topic=controls-cp-1)

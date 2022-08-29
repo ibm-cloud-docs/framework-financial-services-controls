@@ -18,7 +18,8 @@ toc:
       - topicgroup:
           label: AC - Access Control
           topics:
-          - controls-output/ac/ac-overview.md
+          - topic: controls-output/ac/ac-overview.md
+            navtitle: AC overview
           - controls-output/ac/ac-1.md
           - controls-output/ac/ac-2.md
           - controls-output/ac/ac-2.1.md
@@ -58,7 +59,8 @@ toc:
       - topicgroup:
           label: AT - Awareness and Training
           topics:
-          - controls-output/at/at-overview.md
+          - topic: controls-output/at/at-overview.md
+            navtitle: AT overview
           - controls-output/at/at-1.md
           - controls-output/at/at-2.md
           - controls-output/at/at-3.md
@@ -66,7 +68,8 @@ toc:
       - topicgroup:
           label: AU - Audit and Accountability
           topics:
-          - controls-output/au/au-overview.md
+          - topic: controls-output/au/au-overview.md
+            navtitle: AU overview
           - controls-output/au/au-1.md
           - controls-output/au/au-2.md
           - controls-output/au/au-2.3.md
@@ -88,7 +91,8 @@ toc:
       - topicgroup:
           label: CA - Security Assessment and Authorization
           topics:
-          - controls-output/ca/ca-overview.md
+          - topic: controls-output/ca/ca-overview.md
+            navtitle: CA overview
           - controls-output/ca/ca-1.md
           - controls-output/ca/ca-2.md
           - controls-output/ca/ca-2.1.md
@@ -102,7 +106,8 @@ toc:
       - topicgroup:
           label: CM - Configuration Management
           topics:
-          - controls-output/cm/cm-overview.md
+          - topic: controls-output/cm/cm-overview.md
+            navtitle: CM overview
           - controls-output/cm/cm-1.md
           - controls-output/cm/cm-2.md
           - controls-output/cm/cm-2.1.md
@@ -129,7 +134,8 @@ toc:
       - topicgroup:
           label: CP - Contingency Planning
           topics:
-          - controls-output/cp/cp-overview.md
+          - topic: controls-output/cp/cp-overview.md
+            navtitle: CP overview
           - controls-output/cp/cp-1.md
           - controls-output/cp/cp-2.md
           - controls-output/cp/cp-2.1.md
@@ -155,12 +161,14 @@ toc:
       - topicgroup:
           label: EDM - Enterprise Data Management
           topics:
-          - controls-output/edm/edm-overview.md
+          - topic: controls-output/edm/edm-overview.md
+            navtitle: EDM overview
           - controls-output/edm/edm-1.md
       - topicgroup:
           label: ESA - Accessibility Guidelines
           topics:
-          - controls-output/esa/esa-overview.md
+          - topic: controls-output/esa/esa-overview.md
+            navtitle: ESA overview
           - controls-output/esa/esa-1.md
           - controls-output/esa/esa-2.md
           - controls-output/esa/esa-3.md
@@ -170,7 +178,8 @@ toc:
       - topicgroup:
           label: IA - Identification and Authentication
           topics:
-          - controls-output/ia/ia-overview.md
+          - topic: controls-output/ia/ia-overview.md
+            navtitle: IA overview
           - controls-output/ia/ia-1.md
           - controls-output/ia/ia-2.md
           - controls-output/ia/ia-2.1.md
@@ -192,7 +201,8 @@ toc:
       - topicgroup:
           label: IR - Incident Response
           topics:
-          - controls-output/ir/ir-overview.md
+          - topic: controls-output/ir/ir-overview.md
+            navtitle: IR overview
           - controls-output/ir/ir-1.md
           - controls-output/ir/ir-2.md
           - controls-output/ir/ir-2.1.md
@@ -206,7 +216,8 @@ toc:
       - topicgroup:
           label: MA - Maintenance
           topics:
-          - controls-output/ma/ma-overview.md
+          - topic: controls-output/ma/ma-overview.md
+            navtitle: MA overview
           - controls-output/ma/ma-1.md
           - controls-output/ma/ma-2.md
           - controls-output/ma/ma-3.md
@@ -219,7 +230,8 @@ toc:
       - topicgroup:
           label: MP - Media Protection
           topics:
-          - controls-output/mp/mp-overview.md
+          - topic: controls-output/mp/mp-overview.md
+            navtitle: MP overview
           - controls-output/mp/mp-1.md
           - controls-output/mp/mp-2.md
           - controls-output/mp/mp-3.md
@@ -230,7 +242,8 @@ toc:
       - topicgroup:
           label: PE - Physical and Environmental Protection
           topics:
-          - controls-output/pe/pe-overview.md
+          - topic: controls-output/pe/pe-overview.md
+            navtitle: PE overview
           - controls-output/pe/pe-1.md
           - controls-output/pe/pe-2.md
           - controls-output/pe/pe-3.md
@@ -252,7 +265,8 @@ toc:
       - topicgroup:
           label: PL - Planning
           topics:
-          - controls-output/pl/pl-overview.md
+          - topic: controls-output/pl/pl-overview.md
+            navtitle: PL overview
           - controls-output/pl/pl-1.md
           - controls-output/pl/pl-2.md
           - controls-output/pl/pl-4.md
@@ -261,7 +275,8 @@ toc:
       - topicgroup:
           label: PM - Program Management
           topics:
-          - controls-output/pm/pm-overview.md
+          - topic: controls-output/pm/pm-overview.md
+            navtitle: PM overview
           - controls-output/pm/pm-1.md
           - controls-output/pm/pm-2.md
           - controls-output/pm/pm-4.md
@@ -276,13 +291,15 @@ toc:
       - topicgroup:
           label: PRIVACY
           topics:
-          - controls-output/privacy/privacy-overview.md
+          - topic: controls-output/privacy/privacy-overview.md
+            navtitle: PRIVACY overview
           - controls-output/privacy/ar-2.md
           - controls-output/privacy/ul-2.md
       - topicgroup:
           label: PS - Personnel Security
           topics:
-          - controls-output/ps/ps-overview.md
+          - topic: controls-output/ps/ps-overview.md
+            navtitle: PS overview
           - controls-output/ps/ps-1.md
           - controls-output/ps/ps-2.md
           - controls-output/ps/ps-3.md
@@ -294,7 +311,8 @@ toc:
       - topicgroup:
           label: RA - Risk Assessment
           topics:
-          - controls-output/ra/ra-overview.md
+          - topic: controls-output/ra/ra-overview.md
+            navtitle: RA overview
           - controls-output/ra/ra-1.md
           - controls-output/ra/ra-2.md
           - controls-output/ra/ra-3.md
@@ -307,7 +325,8 @@ toc:
       - topicgroup:
           label: SA - System and Services Acquisition
           topics:
-          - controls-output/sa/sa-overview.md
+          - topic: controls-output/sa/sa-overview.md
+            navtitle: SA overview
           - controls-output/sa/sa-1.md
           - controls-output/sa/sa-2.md
           - controls-output/sa/sa-3.md
@@ -327,7 +346,8 @@ toc:
       - topicgroup:
           label: SC - System and Communications Protection
           topics:
-          - controls-output/sc/sc-overview.md
+          - topic: controls-output/sc/sc-overview.md
+            navtitle: SC overview
           - controls-output/sc/sc-1.md
           - controls-output/sc/sc-2.md
           - controls-output/sc/sc-3.md
@@ -360,7 +380,8 @@ toc:
       - topicgroup:
           label: SI - System and Information Integrity
           topics:
-          - controls-output/si/si-overview.md
+          - topic: controls-output/si/si-overview.md
+            navtitle: SI overview
           - controls-output/si/si-1.md
           - controls-output/si/si-2.md
           - controls-output/si/si-2.2.md
