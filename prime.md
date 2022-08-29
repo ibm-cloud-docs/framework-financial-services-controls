@@ -27,7 +27,7 @@ See [{[controls-framework-document-full]}](https://cloud.ibm.com/media/docs/down
 See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Services]() for reference architectures and prescriptive implementation guidance to learn more about how best to meet the control requirements.
 {: note}
 
-# Control families
+## Control families
 {: #control-families}
 
 The framework consists of the 21 control families that follow.
