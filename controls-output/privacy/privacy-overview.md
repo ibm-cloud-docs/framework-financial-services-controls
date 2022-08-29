@@ -12,11 +12,11 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PRIVACY
+# PRIVACY overview
 {: #privacy-overview}
 
-- [AR-2 - Privacy Impact And Risk Assessment](/docs/controls/ar-2)
-- [UL-2 - Information Sharing With Third Parties](/docs/controls/ul-2)
+- [AR-2 - Privacy Impact And Risk Assessment](/docs/controls?topic=controls-ar-2)
+- [UL-2 - Information Sharing With Third Parties](/docs/controls?topic=controls-ul-2)
 
 
 

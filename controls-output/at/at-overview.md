@@ -12,13 +12,13 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# AT - Awareness and Training
+# AT overview
 {: #at-overview}
 
-- [AT-1 - Security Awareness And Training Policy And Procedures](/docs/controls/at-1)
-- [AT-2 - Security Awareness Training](/docs/controls/at-2)
-- [AT-3 - Role-Based Security Training](/docs/controls/at-3)
-- [AT-4 - Security Training Records](/docs/controls/at-4)
+- [AT-1 - Security Awareness And Training Policy And Procedures](/docs/controls?topic=controls-at-1)
+- [AT-2 - Security Awareness Training](/docs/controls?topic=controls-at-2)
+- [AT-3 - Role-Based Security Training](/docs/controls?topic=controls-at-3)
+- [AT-4 - Security Training Records](/docs/controls?topic=controls-at-4)
 
 
 
