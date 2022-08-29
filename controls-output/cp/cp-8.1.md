@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CP-8.1 - PRIORITY OF SERVICE PROVISIONS
+# CP-8.1 - Priority Of Service Provisions
+{: #cp-8.1}
 
 ## Requirements
 {: #requirements}

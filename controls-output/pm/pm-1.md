@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PM-1 - INFORMATION SECURITY PROGRAM PLAN
+# PM-1 - Information Security Program Plan
+{: #pm-1}
 
 ## Requirements
 {: #requirements}

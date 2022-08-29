@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 
@@ -15,29 +15,29 @@ subcollection: controls
 # CM - Configuration Management
 {: #cm-overview}
 
-- [CM-1 - CONFIGURATION MANAGEMENT POLICY AND PROCEDURES](/docs/controls/cm-1)
-- [CM-2 - BASELINE CONFIGURATION](/docs/controls/cm-2)
-- [CM-2.1 - REVIEWS AND UPDATES](/docs/controls/cm-2.1)
-- [CM-2.2 - AUTOMATION SUPPORT FOR ACCURACY / CURRENCY](/docs/controls/cm-2.2)
-- [CM-2.3 - RETENTION OF PREVIOUS CONFIGURATIONS](/docs/controls/cm-2.3)
-- [CM-3 - CONFIGURATION CHANGE CONTROL](/docs/controls/cm-3)
-- [CM-3.2 - TEST / VALIDATE / DOCUMENT CHANGES](/docs/controls/cm-3.2)
-- [CM-4 - SECURITY IMPACT ANALYSIS](/docs/controls/cm-4)
-- [CM-4.1 - SEPARATE TEST ENVIRONMENTS](/docs/controls/cm-4.1)
-- [CM-5 - ACCESS RESTRICTIONS FOR CHANGE](/docs/controls/cm-5)
-- [CM-6 - CONFIGURATION SETTINGS](/docs/controls/cm-6)
-- [CM-6.1 - AUTOMATED CENTRAL MANAGEMENT / APPLICATION / VERIFICATION](/docs/controls/cm-6.1)
-- [CM-7 - LEAST FUNCTIONALITY](/docs/controls/cm-7)
-- [CM-7.1 - PERIODIC REVIEW](/docs/controls/cm-7.1)
-- [CM-8 - INFORMATION SYSTEM COMPONENT INVENTORY](/docs/controls/cm-8)
-- [CM-8.1 - UPDATES DURING INSTALLATIONS / REMOVALS](/docs/controls/cm-8.1)
-- [CM-8.2 - AUTOMATED MAINTENANCE](/docs/controls/cm-8.2)
-- [CM-8.3 - AUTOMATED UNAUTHORIZED COMPONENT DETECTION](/docs/controls/cm-8.3)
-- [CM-8.4 - ACCOUNTABILITY INFORMATION](/docs/controls/cm-8.4)
-- [CM-9 - CONFIGURATION MANAGEMENT PLAN](/docs/controls/cm-9)
-- [CM-10 - SOFTWARE USAGE RESTRICTIONS](/docs/controls/cm-10)
-- [CM-10.1 - OPEN SOURCE SOFTWARE](/docs/controls/cm-10.1)
-- [CM-11 - USER-INSTALLED SOFTWARE](/docs/controls/cm-11)
+- [CM-1 - Configuration Management Policy And Procedures](/docs/controls/cm-1)
+- [CM-2 - Baseline Configuration](/docs/controls/cm-2)
+- [CM-2.1 - Reviews And Updates](/docs/controls/cm-2.1)
+- [CM-2.2 - Automation Support For Accuracy / Currency](/docs/controls/cm-2.2)
+- [CM-2.3 - Retention Of Previous Configurations](/docs/controls/cm-2.3)
+- [CM-3 - Configuration Change Control](/docs/controls/cm-3)
+- [CM-3.2 - Test / Validate / Document Changes](/docs/controls/cm-3.2)
+- [CM-4 - Security Impact Analysis](/docs/controls/cm-4)
+- [CM-4.1 - Separate Test Environments](/docs/controls/cm-4.1)
+- [CM-5 - Access Restrictions For Change](/docs/controls/cm-5)
+- [CM-6 - Configuration Settings](/docs/controls/cm-6)
+- [CM-6.1 - Automated Central Management / Application / Verification](/docs/controls/cm-6.1)
+- [CM-7 - Least Functionality](/docs/controls/cm-7)
+- [CM-7.1 - Periodic Review](/docs/controls/cm-7.1)
+- [CM-8 - Information System Component Inventory](/docs/controls/cm-8)
+- [CM-8.1 - Updates During Installations / Removals](/docs/controls/cm-8.1)
+- [CM-8.2 - Automated Maintenance](/docs/controls/cm-8.2)
+- [CM-8.3 - Automated Unauthorized Component Detection](/docs/controls/cm-8.3)
+- [CM-8.4 - Accountability Information](/docs/controls/cm-8.4)
+- [CM-9 - Configuration Management Plan](/docs/controls/cm-9)
+- [CM-10 - Software Usage Restrictions](/docs/controls/cm-10)
+- [CM-10.1 - Open Source Software](/docs/controls/cm-10.1)
+- [CM-11 - User-Installed Software](/docs/controls/cm-11)
 
 
 

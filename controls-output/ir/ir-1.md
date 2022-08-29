@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IR-1 - INCIDENT RESPONSE POLICY AND PROCEDURES
+# IR-1 - Incident Response Policy And Procedures
+{: #ir-1}
 
 ## Requirements
 {: #requirements}

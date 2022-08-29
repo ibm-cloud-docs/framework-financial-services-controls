@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AT-1 - SECURITY AWARENESS AND TRAINING POLICY AND PROCEDURES
+# AT-1 - Security Awareness And Training Policy And Procedures
+{: #at-1}
 
 ## Requirements
 {: #requirements}

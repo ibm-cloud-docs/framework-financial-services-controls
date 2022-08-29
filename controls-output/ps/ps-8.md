@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PS-8 - PERSONNEL SANCTIONS
+# PS-8 - Personnel Sanctions
+{: #ps-8}
 
 ## Requirements
 {: #requirements}

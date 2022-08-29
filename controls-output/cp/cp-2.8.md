@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CP-2.8 - IDENTIFY CRITICAL ASSETS
+# CP-2.8 - Identify Critical Assets
+{: #cp-2.8}
 
 ## Requirements
 {: #requirements}

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 
@@ -15,11 +15,11 @@ subcollection: controls
 # PL - Planning
 {: #pl-overview}
 
-- [PL-1 - SECURITY PLANNING POLICY AND PROCEDURES](/docs/controls/pl-1)
-- [PL-2 - SYSTEM SECURITY PLAN](/docs/controls/pl-2)
-- [PL-4 - RULES OF BEHAVIOR](/docs/controls/pl-4)
-- [PL-4.1 - SOCIAL MEDIA AND NETWORKING RESTRICTIONS](/docs/controls/pl-4.1)
-- [PL-8 - INFORMATION SECURITY ARCHITECTURE](/docs/controls/pl-8)
+- [PL-1 - Security Planning Policy And Procedures](/docs/controls/pl-1)
+- [PL-2 - System Security Plan](/docs/controls/pl-2)
+- [PL-4 - Rules Of Behavior](/docs/controls/pl-4)
+- [PL-4.1 - Social Media And Networking Restrictions](/docs/controls/pl-4.1)
+- [PL-8 - Information Security Architecture](/docs/controls/pl-8)
 
 
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# RA-5.6 - AUTOMATED TREND ANALYSES
+# RA-5.6 - Automated Trend Analyses
+{: #ra-5.6}
 
 ## Requirements
 {: #requirements}

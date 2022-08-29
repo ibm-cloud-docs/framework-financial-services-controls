@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PM-5 - INFORMATION SYSTEM INVENTORY
+# PM-5 - Information System Inventory
+{: #pm-5}
 
 ## Requirements
 {: #requirements}

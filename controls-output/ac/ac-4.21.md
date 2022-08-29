@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-4.21 - PHYSICAL / LOGICAL SEPARATION OF INFORMATION FLOWS
+# AC-4.21 - Physical / Logical Separation Of Information Flows
+{: #ac-4.21}
 
 ## Requirements
 {: #requirements}

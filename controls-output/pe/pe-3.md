@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PE-3 - PHYSICAL ACCESS CONTROL
+# PE-3 - Physical Access Control
+{: #pe-3}
 
 ## Requirements
 {: #requirements}

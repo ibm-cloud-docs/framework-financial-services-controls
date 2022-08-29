@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-2.2 - REMOVAL OF TEMPORARY / EMERGENCY ACCOUNTS
+# AC-2.2 - Removal Of Temporary / Emergency Accounts
+{: #ac-2.2}
 
 ## Requirements
 {: #requirements}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CM-2.3 - RETENTION OF PREVIOUS CONFIGURATIONS
+# CM-2.3 - Retention Of Previous Configurations
+{: #cm-2.3}
 
 ## Requirements
 {: #requirements}

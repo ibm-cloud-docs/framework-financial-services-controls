@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-2.3 - DISABLE INACTIVE ACCOUNTS
+# AC-2.3 - Disable Inactive Accounts
+{: #ac-2.3}
 
 ## Requirements
 {: #requirements}

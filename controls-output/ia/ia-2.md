@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IA-2 - IDENTIFICATION AND AUTHENTICATION (ORGANIZATIONAL USERS)
+# IA-2 - Identification And Authentication (Organizational Users)
+{: #ia-2}
 
 ## Requirements
 {: #requirements}

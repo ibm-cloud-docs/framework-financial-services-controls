@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-6.1 - AUTHORIZE ACCESS TO SECURITY FUNCTIONS
+# AC-6.1 - Authorize Access To Security Functions
+{: #ac-6.1}
 
 ## Requirements
 {: #requirements}

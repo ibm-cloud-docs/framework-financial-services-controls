@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SI-4.5 - SYSTEM-GENERATED ALERTS
+# SI-4.5 - System-Generated Alerts
+{: #si-4.5}
 
 ## Requirements
 {: #requirements}

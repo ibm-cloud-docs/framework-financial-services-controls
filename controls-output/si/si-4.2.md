@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SI-4.2 - AUTOMATED TOOLS FOR REAL-TIME ANALYSIS
+# SI-4.2 - Automated Tools For Real-Time Analysis
+{: #si-4.2}
 
 ## Requirements
 {: #requirements}

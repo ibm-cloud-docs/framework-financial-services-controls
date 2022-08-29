@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IR-4 - INCIDENT HANDLING
+# IR-4 - Incident Handling
+{: #ir-4}
 
 ## Requirements
 {: #requirements}

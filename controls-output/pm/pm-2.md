@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PM-2 - SENIOR INFORMATION SECURITY OFFICER
+# PM-2 - Senior Information Security Officer
+{: #pm-2}
 
 ## Requirements
 {: #requirements}

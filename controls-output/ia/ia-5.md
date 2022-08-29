@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IA-5 - AUTHENTICATOR MANAGEMENT
+# IA-5 - Authenticator Management
+{: #ia-5}
 
 ## Requirements
 {: #requirements}

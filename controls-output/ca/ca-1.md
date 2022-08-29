@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CA-1 - SECURITY ASSESSMENT AND AUTHORIZATION POLICY AND PROCEDURES
+# CA-1 - Security Assessment And Authorization Policy And Procedures
+{: #ca-1}
 
 ## Requirements
 {: #requirements}

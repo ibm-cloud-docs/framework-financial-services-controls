@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# RA-1 - RISK ASSESSMENT POLICY AND PROCEDURES
+# RA-1 - Risk Assessment Policy And Procedures
+{: #ra-1}
 
 ## Requirements
 {: #requirements}

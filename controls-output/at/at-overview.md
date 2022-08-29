@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 
@@ -15,10 +15,10 @@ subcollection: controls
 # AT - Awareness and Training
 {: #at-overview}
 
-- [AT-1 - SECURITY AWARENESS AND TRAINING POLICY AND PROCEDURES](/docs/controls/at-1)
-- [AT-2 - SECURITY AWARENESS TRAINING](/docs/controls/at-2)
-- [AT-3 - ROLE-BASED SECURITY TRAINING](/docs/controls/at-3)
-- [AT-4 - SECURITY TRAINING RECORDS](/docs/controls/at-4)
+- [AT-1 - Security Awareness And Training Policy And Procedures](/docs/controls/at-1)
+- [AT-2 - Security Awareness Training](/docs/controls/at-2)
+- [AT-3 - Role-Based Security Training](/docs/controls/at-3)
+- [AT-4 - Security Training Records](/docs/controls/at-4)
 
 
 

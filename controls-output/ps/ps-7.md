@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PS-7 - THIRD-PARTY PERSONNEL SECURITY
+# PS-7 - Third-Party Personnel Security
+{: #ps-7}
 
 ## Requirements
 {: #requirements}

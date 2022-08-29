@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SC-8 - TRANSMISSION CONFIDENTIALITY AND INTEGRITY
+# SC-8 - Transmission Confidentiality And Integrity
+{: #sc-8}
 
 ## Requirements
 {: #requirements}

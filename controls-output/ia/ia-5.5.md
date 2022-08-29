@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IA-5.5 - CHANGE AUTHENTICATORS PRIOR TO DELIVERY
+# IA-5.5 - Change Authenticators Prior To Delivery
+{: #ia-5.5}
 
 ## Requirements
 {: #requirements}

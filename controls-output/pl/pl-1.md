@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PL-1 - SECURITY PLANNING POLICY AND PROCEDURES
+# PL-1 - Security Planning Policy And Procedures
+{: #pl-1}
 
 ## Requirements
 {: #requirements}

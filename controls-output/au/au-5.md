@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AU-5 - RESPONSE TO AUDIT PROCESSING FAILURES
+# AU-5 - Response To Audit Processing Failures
+{: #au-5}
 
 ## Requirements
 {: #requirements}

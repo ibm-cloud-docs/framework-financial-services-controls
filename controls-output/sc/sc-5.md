@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SC-5 - DENIAL OF SERVICE PROTECTION
+# SC-5 - Denial Of Service Protection
+{: #sc-5}
 
 ## Requirements
 {: #requirements}

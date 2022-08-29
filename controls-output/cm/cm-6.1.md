@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CM-6.1 - AUTOMATED CENTRAL MANAGEMENT / APPLICATION / VERIFICATION
+# CM-6.1 - Automated Central Management / Application / Verification
+{: #cm-6.1}
 
 ## Requirements
 {: #requirements}

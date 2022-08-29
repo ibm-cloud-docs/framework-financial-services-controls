@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SC-7.5 - DENY BY DEFAULT / ALLOW BY EXCEPTION
+# SC-7.5 - Deny By Default / Allow By Exception
+{: #sc-7.5}
 
 ## Requirements
 {: #requirements}

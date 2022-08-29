@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 
@@ -15,12 +15,12 @@ subcollection: controls
 # ESA - Accessibility Guidelines
 {: #esa-overview}
 
-- [ESA-1 - ACCESSIBILITY GUIDELINES](/docs/controls/esa-1)
-- [ESA-2 - SUPPORT DESK TOOLING AND TECHNOLOGY](/docs/controls/esa-2)
-- [ESA-3 - NON-PERMITTED TECHNOLOGY (NPT) LIST](/docs/controls/esa-3)
-- [ESA-4 - TRACKING AND REMOVAL OF NPT](/docs/controls/esa-4)
-- [ESA-5 - SUBCONTRACTOR RISK MANAGEMENT](/docs/controls/esa-5)
-- [ESA-6 - SOURCE CODE MANAGEMENT](/docs/controls/esa-6)
+- [ESA-1 - Accessibility Guidelines](/docs/controls/esa-1)
+- [ESA-2 - Support Desk Tooling And Technology](/docs/controls/esa-2)
+- [ESA-3 - Non-Permitted Technology (Npt) List](/docs/controls/esa-3)
+- [ESA-4 - Tracking And Removal Of Npt](/docs/controls/esa-4)
+- [ESA-5 - Subcontractor Risk Management](/docs/controls/esa-5)
+- [ESA-6 - Source Code Management](/docs/controls/esa-6)
 
 
 

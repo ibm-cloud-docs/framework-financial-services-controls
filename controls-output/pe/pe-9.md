@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PE-9 - POWER EQUIPMENT AND CABLING
+# PE-9 - Power Equipment And Cabling
+{: #pe-9}
 
 ## Requirements
 {: #requirements}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-2.4 - AUTOMATED AUDIT ACTIONS
+# AC-2.4 - Automated Audit Actions
+{: #ac-2.4}
 
 ## Requirements
 {: #requirements}

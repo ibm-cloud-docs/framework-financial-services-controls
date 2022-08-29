@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SA-8 - SECURITY ENGINEERING PRINCIPLES
+# SA-8 - Security Engineering Principles
+{: #sa-8}
 
 ## Requirements
 {: #requirements}

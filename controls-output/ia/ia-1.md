@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IA-1 - IDENTIFICATION AND AUTHENTICATION POLICY AND PROCEDURES
+# IA-1 - Identification And Authentication Policy And Procedures
+{: #ia-1}
 
 ## Requirements
 {: #requirements}

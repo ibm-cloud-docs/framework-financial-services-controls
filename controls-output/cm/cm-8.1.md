@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CM-8.1 - UPDATES DURING INSTALLATIONS / REMOVALS
+# CM-8.1 - Updates During Installations / Removals
+{: #cm-8.1}
 
 ## Requirements
 {: #requirements}

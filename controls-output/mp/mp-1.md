@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# MP-1 - MEDIA PROTECTION POLICY AND PROCEDURES
+# MP-1 - Media Protection Policy And Procedures
+{: #mp-1}
 
 ## Requirements
 {: #requirements}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-6.9 - AUDITING USE OF PRIVILEGED FUNCTIONS
+# AC-6.9 - Auditing Use Of Privileged Functions
+{: #ac-6.9}
 
 ## Requirements
 {: #requirements}

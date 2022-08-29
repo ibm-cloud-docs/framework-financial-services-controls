@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CA-7.1 - INDEPENDENT ASSESSMENT
+# CA-7.1 - Independent Assessment
+{: #ca-7.1}
 
 ## Requirements
 {: #requirements}

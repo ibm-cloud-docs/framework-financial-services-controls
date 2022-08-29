@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SI-7 - SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY
+# SI-7 - Software, Firmware, And Information Integrity
+{: #si-7}
 
 ## Requirements
 {: #requirements}

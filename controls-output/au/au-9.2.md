@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AU-9.2 - AUDIT BACKUP ON SEPARATE PHYSICAL SYSTEMS / COMPONENTS
+# AU-9.2 - Audit Backup On Separate Physical Systems / Components
+{: #au-9.2}
 
 ## Requirements
 {: #requirements}

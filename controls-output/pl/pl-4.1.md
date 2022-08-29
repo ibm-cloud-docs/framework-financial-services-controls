@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PL-4.1 - SOCIAL MEDIA AND NETWORKING RESTRICTIONS
+# PL-4.1 - Social Media And Networking Restrictions
+{: #pl-4.1}
 
 ## Requirements
 {: #requirements}

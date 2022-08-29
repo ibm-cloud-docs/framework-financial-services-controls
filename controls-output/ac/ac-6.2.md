@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AC-6.2 - NON-PRIVILEGED ACCESS FOR NONSECURITY FUNCTIONS
+# AC-6.2 - Non-Privileged Access For Nonsecurity Functions
+{: #ac-6.2}
 
 ## Requirements
 {: #requirements}

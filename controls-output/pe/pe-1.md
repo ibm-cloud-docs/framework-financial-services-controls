@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PE-1 - PHYSICAL AND ENVIRONMENTAL PROTECTION POLICY AND PROCEDURES
+# PE-1 - Physical And Environmental Protection Policy And Procedures
+{: #pe-1}
 
 ## Requirements
 {: #requirements}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SC-8.1 - CRYPTOGRAPHIC OR ALTERNATE PHYSICAL PROTECTION
+# SC-8.1 - Cryptographic Or Alternate Physical Protection
+{: #sc-8.1}
 
 ## Requirements
 {: #requirements}

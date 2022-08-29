@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SC-3 - SECURITY FUNCTION ISOLATION
+# SC-3 - Security Function Isolation
+{: #sc-3}
 
 ## Requirements
 {: #requirements}

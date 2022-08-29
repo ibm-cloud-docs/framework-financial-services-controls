@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# RA-5.3 - BREADTH / DEPTH OF COVERAGE
+# RA-5.3 - Breadth / Depth Of Coverage
+{: #ra-5.3}
 
 ## Requirements
 {: #requirements}

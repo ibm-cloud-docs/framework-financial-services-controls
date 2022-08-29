@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PE-2 - PHYSICAL ACCESS AUTHORIZATIONS
+# PE-2 - Physical Access Authorizations
+{: #pe-2}
 
 ## Requirements
 {: #requirements}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AT-4 - SECURITY TRAINING RECORDS
+# AT-4 - Security Training Records
+{: #at-4}
 
 ## Requirements
 {: #requirements}

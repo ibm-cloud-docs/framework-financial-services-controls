@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PE-6.1 - INTRUSION ALARMS / SURVEILLANCE EQUIPMENT
+# PE-6.1 - Intrusion Alarms / Surveillance Equipment
+{: #pe-6.1}
 
 ## Requirements
 {: #requirements}

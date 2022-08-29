@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CM-4 - SECURITY IMPACT ANALYSIS
+# CM-4 - Security Impact Analysis
+{: #cm-4}
 
 ## Requirements
 {: #requirements}

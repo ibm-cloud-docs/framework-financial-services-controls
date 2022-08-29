@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IR-3.2 - COORDINATION WITH RELATED PLANS
+# IR-3.2 - Coordination With Related Plans
+{: #ir-3.2}
 
 ## Requirements
 {: #requirements}

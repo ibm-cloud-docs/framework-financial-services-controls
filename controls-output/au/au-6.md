@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AU-6 - AUDIT REVIEW, ANALYSIS, AND REPORTING
+# AU-6 - Audit Review, Analysis, And Reporting
+{: #au-6}
 
 ## Requirements
 {: #requirements}

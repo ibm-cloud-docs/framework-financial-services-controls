@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CA-2.1 - INDEPENDENT ASSESSORS
+# CA-2.1 - Independent Assessors
+{: #ca-2.1}
 
 ## Requirements
 {: #requirements}

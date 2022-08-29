@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -61,8 +61,8 @@ subcollection: controls
 {:vbnet: .ph data-hd-programlang="vb.net"}
 {:video: .video}
 
-
-# AC-1 - ACCESS CONTROL POLICY AND PROCEDURES
+# AC-1 - Access Control Policy And Procedures
+{: #ac-1}
 
 ## Requirements
 {: #requirements}

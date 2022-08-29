@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CA-8 - PENETRATION TESTING
+# CA-8 - Penetration Testing
+{: #ca-8}
 
 ## Requirements
 {: #requirements}

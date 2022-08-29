@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PM-7 - ENTERPRISE ARCHITECTURE
+# PM-7 - Enterprise Architecture
+{: #pm-7}
 
 ## Requirements
 {: #requirements}

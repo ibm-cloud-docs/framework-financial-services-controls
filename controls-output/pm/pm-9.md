@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PM-9 - RISK MANAGEMENT STRATEGY
+# PM-9 - Risk Management Strategy
+{: #pm-9}
 
 ## Requirements
 {: #requirements}

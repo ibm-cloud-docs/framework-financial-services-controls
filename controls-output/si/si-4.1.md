@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SI-4.1 - SYSTEM-WIDE INTRUSION DETECTION SYSTEM
+# SI-4.1 - System-Wide Intrusion Detection System
+{: #si-4.1}
 
 ## Requirements
 {: #requirements}

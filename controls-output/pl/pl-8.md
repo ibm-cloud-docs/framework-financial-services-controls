@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PL-8 - INFORMATION SECURITY ARCHITECTURE
+# PL-8 - Information Security Architecture
+{: #pl-8}
 
 ## Requirements
 {: #requirements}

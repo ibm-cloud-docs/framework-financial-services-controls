@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# AU-8.1 - SYNCHRONIZATION WITH AUTHORITATIVE TIME SOURCE
+# AU-8.1 - Synchronization With Authoritative Time Source
+{: #au-8.1}
 
 ## Requirements
 {: #requirements}

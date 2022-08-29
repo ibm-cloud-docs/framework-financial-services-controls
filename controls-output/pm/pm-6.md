@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# PM-6 - INFORMATION SECURITY MEASURES OF PERFORMANCE
+# PM-6 - Information Security Measures Of Performance
+{: #pm-6}
 
 ## Requirements
 {: #requirements}

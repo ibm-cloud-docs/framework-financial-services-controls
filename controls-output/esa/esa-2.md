@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# ESA-2 - SUPPORT DESK TOOLING AND TECHNOLOGY
+# ESA-2 - Support Desk Tooling And Technology
+{: #esa-2}
 
 ## Requirements
 {: #requirements}

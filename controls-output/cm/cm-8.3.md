@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CM-8.3 - AUTOMATED UNAUTHORIZED COMPONENT DETECTION
+# CM-8.3 - Automated Unauthorized Component Detection
+{: #cm-8.3}
 
 ## Requirements
 {: #requirements}

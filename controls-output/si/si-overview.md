@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 
@@ -15,24 +15,24 @@ subcollection: controls
 # SI - System and Information Integrity
 {: #si-overview}
 
-- [SI-1 - SYSTEM AND INFORMATION INTEGRITY POLICY AND PROCEDURES](/docs/controls/si-1)
-- [SI-2 - FLAW REMEDIATION](/docs/controls/si-2)
-- [SI-2.2 - AUTOMATED FLAW REMEDIATION STATUS](/docs/controls/si-2.2)
-- [SI-2.3 - TIME TO REMEDIATE FLAWS / BENCHMARKS FOR CORRECTIVE ACTIONS](/docs/controls/si-2.3)
-- [SI-3 - MALICIOUS CODE PROTECTION](/docs/controls/si-3)
-- [SI-3.2 - AUTOMATIC UPDATES](/docs/controls/si-3.2)
-- [SI-4 - INFORMATION SYSTEM MONITORING](/docs/controls/si-4)
-- [SI-4.1 - SYSTEM-WIDE INTRUSION DETECTION SYSTEM](/docs/controls/si-4.1)
-- [SI-4.2 - AUTOMATED TOOLS FOR REAL-TIME ANALYSIS](/docs/controls/si-4.2)
-- [SI-4.4 - INBOUND AND OUTBOUND COMMUNICATIONS TRAFFIC](/docs/controls/si-4.4)
-- [SI-4.5 - SYSTEM-GENERATED ALERTS](/docs/controls/si-4.5)
-- [SI-5 - SECURITY ALERTS, ADVISORIES, AND DIRECTIVES](/docs/controls/si-5)
-- [SI-6 - SECURITY FUNCTION VERIFICATION](/docs/controls/si-6)
-- [SI-7 - SOFTWARE, FIRMWARE, AND INFORMATION INTEGRITY](/docs/controls/si-7)
-- [SI-8 - SPAM PROTECTION](/docs/controls/si-8)
-- [SI-10 - INFORMATION INPUT VALIDATION](/docs/controls/si-10)
-- [SI-11 - ERROR HANDLING](/docs/controls/si-11)
-- [SI-12 - INFORMATION HANDLING AND RETENTION](/docs/controls/si-12)
+- [SI-1 - System And Information Integrity Policy And Procedures](/docs/controls/si-1)
+- [SI-2 - Flaw Remediation](/docs/controls/si-2)
+- [SI-2.2 - Automated Flaw Remediation Status](/docs/controls/si-2.2)
+- [SI-2.3 - Time To Remediate Flaws / Benchmarks For Corrective Actions](/docs/controls/si-2.3)
+- [SI-3 - Malicious Code Protection](/docs/controls/si-3)
+- [SI-3.2 - Automatic Updates](/docs/controls/si-3.2)
+- [SI-4 - Information System Monitoring](/docs/controls/si-4)
+- [SI-4.1 - System-Wide Intrusion Detection System](/docs/controls/si-4.1)
+- [SI-4.2 - Automated Tools For Real-Time Analysis](/docs/controls/si-4.2)
+- [SI-4.4 - Inbound And Outbound Communications Traffic](/docs/controls/si-4.4)
+- [SI-4.5 - System-Generated Alerts](/docs/controls/si-4.5)
+- [SI-5 - Security Alerts, Advisories, And Directives](/docs/controls/si-5)
+- [SI-6 - Security Function Verification](/docs/controls/si-6)
+- [SI-7 - Software, Firmware, And Information Integrity](/docs/controls/si-7)
+- [SI-8 - Spam Protection](/docs/controls/si-8)
+- [SI-10 - Information Input Validation](/docs/controls/si-10)
+- [SI-11 - Error Handling](/docs/controls/si-11)
+- [SI-12 - Information Handling And Retention](/docs/controls/si-12)
 
 
 

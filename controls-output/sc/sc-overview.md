@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 
@@ -15,35 +15,35 @@ subcollection: controls
 # SC - System and Communications Protection
 {: #sc-overview}
 
-- [SC-1 - SYSTEM AND COMMUNICATIONS PROTECTION POLICY AND PROCEDURES](/docs/controls/sc-1)
-- [SC-2 - APPLICATION PARTITIONING](/docs/controls/sc-2)
-- [SC-3 - SECURITY FUNCTION ISOLATION](/docs/controls/sc-3)
-- [SC-4 - INFORMATION IN SHARED RESOURCES](/docs/controls/sc-4)
-- [SC-5 - DENIAL OF SERVICE PROTECTION](/docs/controls/sc-5)
-- [SC-6 - RESOURCE AVAILABILITY](/docs/controls/sc-6)
-- [SC-7 - BOUNDARY PROTECTION](/docs/controls/sc-7)
-- [SC-7.10 - PREVENT UNAUTHORIZED EXFILTRATION](/docs/controls/sc-7.10)
-- [SC-7.4 - EXTERNAL TELECOMMUNICATIONS SERVICES](/docs/controls/sc-7.4)
-- [SC-7.5 - DENY BY DEFAULT / ALLOW BY EXCEPTION](/docs/controls/sc-7.5)
-- [SC-7.8 - ROUTE TRAFFIC TO AUTHENTICATED PROXY SERVERS](/docs/controls/sc-7.8)
-- [SC-8 - TRANSMISSION CONFIDENTIALITY AND INTEGRITY](/docs/controls/sc-8)
-- [SC-8.1 - CRYPTOGRAPHIC OR ALTERNATE PHYSICAL PROTECTION](/docs/controls/sc-8.1)
-- [SC-10 - NETWORK DISCONNECT](/docs/controls/sc-10)
-- [SC-11 - TRUSTED PATH](/docs/controls/sc-11)
-- [SC-12 - CRYPTOGRAPHIC KEY ESTABLISHMENT AND MANAGEMENT](/docs/controls/sc-12)
-- [SC-12.2 - SYMMETRIC KEYS](/docs/controls/sc-12.2)
-- [SC-12.3 - ASYMMETRIC KEYS](/docs/controls/sc-12.3)
-- [SC-13 - CRYPTOGRAPHIC PROTECTION](/docs/controls/sc-13)
-- [SC-16 - TRANSMISSION OF SECURITY ATTRIBUTES](/docs/controls/sc-16)
-- [SC-17 - PUBLIC KEY INFRASTRUCTURE CERTIFICATES](/docs/controls/sc-17)
-- [SC-18 - MOBILE CODE](/docs/controls/sc-18)
-- [SC-19 - VOICE OVER INTERNET PROTOCOL](/docs/controls/sc-19)
-- [SC-20 - SECURE NAME / ADDRESS RESOLUTION SERVICE (AUTHORITATIVE SOURCE)](/docs/controls/sc-20)
-- [SC-21 - SECURE NAME / ADDRESS RESOLUTION SERVICE (RECURSIVE OR CACHING RESOLVER)](/docs/controls/sc-21)
-- [SC-22 - ARCHITECTURE AND PROVISIONING FOR NAME / ADDRESS RESOLUTION SERVICE](/docs/controls/sc-22)
-- [SC-23 - SESSION AUTHENTICITY](/docs/controls/sc-23)
-- [SC-28 - PROTECTION OF INFORMATION AT REST](/docs/controls/sc-28)
-- [SC-28.1 - CRYPTOGRAPHIC PROTECTION](/docs/controls/sc-28.1)
+- [SC-1 - System And Communications Protection Policy And Procedures](/docs/controls/sc-1)
+- [SC-2 - Application Partitioning](/docs/controls/sc-2)
+- [SC-3 - Security Function Isolation](/docs/controls/sc-3)
+- [SC-4 - Information In Shared Resources](/docs/controls/sc-4)
+- [SC-5 - Denial Of Service Protection](/docs/controls/sc-5)
+- [SC-6 - Resource Availability](/docs/controls/sc-6)
+- [SC-7 - Boundary Protection](/docs/controls/sc-7)
+- [SC-7.10 - Prevent Unauthorized Exfiltration](/docs/controls/sc-7.10)
+- [SC-7.4 - External Telecommunications Services](/docs/controls/sc-7.4)
+- [SC-7.5 - Deny By Default / Allow By Exception](/docs/controls/sc-7.5)
+- [SC-7.8 - Route Traffic To Authenticated Proxy Servers](/docs/controls/sc-7.8)
+- [SC-8 - Transmission Confidentiality And Integrity](/docs/controls/sc-8)
+- [SC-8.1 - Cryptographic Or Alternate Physical Protection](/docs/controls/sc-8.1)
+- [SC-10 - Network Disconnect](/docs/controls/sc-10)
+- [SC-11 - Trusted Path](/docs/controls/sc-11)
+- [SC-12 - Cryptographic Key Establishment And Management](/docs/controls/sc-12)
+- [SC-12.2 - Symmetric Keys](/docs/controls/sc-12.2)
+- [SC-12.3 - Asymmetric Keys](/docs/controls/sc-12.3)
+- [SC-13 - Cryptographic Protection](/docs/controls/sc-13)
+- [SC-16 - Transmission Of Security Attributes](/docs/controls/sc-16)
+- [SC-17 - Public Key Infrastructure Certificates](/docs/controls/sc-17)
+- [SC-18 - Mobile Code](/docs/controls/sc-18)
+- [SC-19 - Voice Over Internet Protocol](/docs/controls/sc-19)
+- [SC-20 - Secure Name / Address Resolution Service (Authoritative Source)](/docs/controls/sc-20)
+- [SC-21 - Secure Name / Address Resolution Service (Recursive Or Caching Resolver)](/docs/controls/sc-21)
+- [SC-22 - Architecture And Provisioning For Name / Address Resolution Service](/docs/controls/sc-22)
+- [SC-23 - Session Authenticity](/docs/controls/sc-23)
+- [SC-28 - Protection Of Information At Rest](/docs/controls/sc-28)
+- [SC-28.1 - Cryptographic Protection](/docs/controls/sc-28.1)
 
 
 

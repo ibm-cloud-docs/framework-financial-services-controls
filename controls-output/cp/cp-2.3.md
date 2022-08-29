@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CP-2.3 - RESUME ESSENTIAL MISSIONS / BUSINESS FUNCTIONS
+# CP-2.3 - Resume Essential Missions / Business Functions
+{: #cp-2.3}
 
 ## Requirements
 {: #requirements}

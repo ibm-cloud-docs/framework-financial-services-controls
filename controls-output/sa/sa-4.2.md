@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# SA-4.2 - DESIGN / IMPLEMENTATION INFORMATION FOR SECURITY CONTROLS
+# SA-4.2 - Design / Implementation Information For Security Controls
+{: #sa-4.2}
 
 ## Requirements
 {: #requirements}

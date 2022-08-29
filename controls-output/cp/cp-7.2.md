@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CP-7.2 - ACCESSIBILITY
+# CP-7.2 - Accessibility
+{: #cp-7.2}
 
 ## Requirements
 {: #requirements}

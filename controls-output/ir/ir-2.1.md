@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IR-2.1 - SIMULATED EVENTS
+# IR-2.1 - Simulated Events
+{: #ir-2.1}
 
 ## Requirements
 {: #requirements}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IA-2.2 - NETWORK ACCESS TO NON-PRIVILEGED ACCOUNTS
+# IA-2.2 - Network Access To Non-Privileged Accounts
+{: #ia-2.2}
 
 ## Requirements
 {: #requirements}

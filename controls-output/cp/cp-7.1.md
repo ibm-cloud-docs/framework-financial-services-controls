@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CP-7.1 - SEPARATION FROM PRIMARY SITE
+# CP-7.1 - Separation From Primary Site
+{: #cp-7.1}
 
 ## Requirements
 {: #requirements}

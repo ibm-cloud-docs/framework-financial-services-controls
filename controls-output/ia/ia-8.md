@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# IA-8 - IDENTIFICATION AND AUTHENTICATION (NON-ORGANIZATIONAL USERS)
+# IA-8 - Identification And Authentication (Non-Organizational Users)
+{: #ia-8}
 
 ## Requirements
 {: #requirements}

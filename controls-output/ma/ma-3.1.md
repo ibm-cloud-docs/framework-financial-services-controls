@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# MA-3.1 - INSPECT TOOLS
+# MA-3.1 - Inspect Tools
+{: #ma-3.1}
 
 ## Requirements
 {: #requirements}

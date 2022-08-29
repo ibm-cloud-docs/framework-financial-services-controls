@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# CM-2.2 - AUTOMATION SUPPORT FOR ACCURACY / CURRENCY
+# CM-2.2 - Automation Support For Accuracy / Currency
+{: #cm-2.2}
 
 ## Requirements
 {: #requirements}

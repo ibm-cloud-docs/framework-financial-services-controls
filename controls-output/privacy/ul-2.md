@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-28"
+lastupdated: "2022-08-29"
 keywords: 
 subcollection: controls
 ---
@@ -62,7 +62,8 @@ subcollection: controls
 {:video: .video}
 
 
-# UL-2 - INFORMATION SHARING WITH THIRD PARTIES
+# UL-2 - Information Sharing With Third Parties
+{: #ul-2}
 
 ## Requirements
 {: #requirements}
