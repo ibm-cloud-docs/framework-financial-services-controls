@@ -50,7 +50,6 @@ The framework consists of the 21 control families that follow.
 - [SC - System and Communications Protection](/docs/controls?topic=controls-sc-overview)
 - [SI - System and Information Integrity](/docs/controls?topic=controls-si-overview)
 - [PM - Program Management](/docs/controls?topic=controls-pm-overview)
-- [AR - Privacy](/docs/controls?topic=controls-ar-overview)
 - [EDM - Enterprise Data Management](/docs/controls?topic=controls-edm-overview)
 - [ESA - Accessibility Guidelines](/docs/controls?topic=controls-esa-overview)
-- [UL - Privacy](/docs/controls?topic=controls-privacy-overview)
+- [Privacy](/docs/controls?topic=controls-privacy-overview)
