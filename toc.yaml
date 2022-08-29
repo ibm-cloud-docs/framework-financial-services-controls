@@ -14,7 +14,8 @@ toc:
   - navgroup:
       id: reference
       topics:
-      - prime.md
+      - topic: prime.md
+        navtitle: Overview
       - topicgroup:
           label: AC - Access Control
           topics:
@@ -289,7 +290,7 @@ toc:
           - controls-output/pm/pm-11.md
           - controls-output/pm/pm-12.md
       - topicgroup:
-          label: PRIVACY
+          label: PRIVACY - Privacy
           topics:
           - topic: controls-output/privacy/privacy-overview.md
             navtitle: PRIVACY overview
