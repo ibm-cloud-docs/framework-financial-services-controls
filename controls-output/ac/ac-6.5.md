@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-6(5) - Privileged Accounts
+# AC-6 (5) - Privileged Accounts
 {: #ac-6.5}
 
 ## Requirements

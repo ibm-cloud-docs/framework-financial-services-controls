@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SC-7(10) - Prevent Unauthorized Exfiltration
+# SC-7 (10) - Prevent Unauthorized Exfiltration
 {: #sc-7.10}
 
 ## Requirements

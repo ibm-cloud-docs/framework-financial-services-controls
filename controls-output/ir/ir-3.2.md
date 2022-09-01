@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IR-3(2) - Coordination With Related Plans
+# IR-3 (2) - Coordination With Related Plans
 {: #ir-3.2}
 
 ## Requirements

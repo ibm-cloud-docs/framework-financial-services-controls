@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CA-2(1) - Independent Assessors
+# CA-2 (1) - Independent Assessors
 {: #ca-2.1}
 
 ## Requirements

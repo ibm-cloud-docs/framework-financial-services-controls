@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-6(3) - Accessibility
+# CP-6 (3) - Accessibility
 {: #cp-6.3}
 
 ## Requirements

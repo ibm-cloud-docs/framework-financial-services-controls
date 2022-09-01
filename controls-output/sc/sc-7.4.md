@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SC-7(4) - External Telecommunications Services
+# SC-7 (4) - External Telecommunications Services
 {: #sc-7.4}
 
 ## Requirements

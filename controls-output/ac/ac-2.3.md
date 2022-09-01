@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-2(3) - Disable Inactive Accounts
+# AC-2 (3) - Disable Inactive Accounts
 {: #ac-2.3}
 
 ## Requirements

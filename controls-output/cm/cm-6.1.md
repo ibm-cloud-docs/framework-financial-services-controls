@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-6(1) - Automated Central Management / Application / Verification
+# CM-6 (1) - Automated Central Management / Application / Verification
 {: #cm-6.1}
 
 ## Requirements

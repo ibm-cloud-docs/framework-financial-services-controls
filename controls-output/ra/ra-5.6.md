@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# RA-5(6) - Automated Trend Analyses
+# RA-5 (6) - Automated Trend Analyses
 {: #ra-5.6}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# PE-6(1) - Intrusion Alarms / Surveillance Equipment
+# PE-6 (1) - Intrusion Alarms / Surveillance Equipment
 {: #pe-6.1}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-2(3) - Time To Remediate Flaws / Benchmarks For Corrective Actions
+# SI-2 (3) - Time To Remediate Flaws / Benchmarks For Corrective Actions
 {: #si-2.3}
 
 ## Requirements

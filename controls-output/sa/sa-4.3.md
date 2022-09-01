@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SA-4(3) - Development Methods / Techniques / Practices
+# SA-4 (3) - Development Methods / Techniques / Practices
 {: #sa-4.3}
 
 ## Requirements

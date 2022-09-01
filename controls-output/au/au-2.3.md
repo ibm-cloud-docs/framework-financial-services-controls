@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AU-2(3) - Reviews And Updates
+# AU-2 (3) - Reviews And Updates
 {: #au-2.3}
 
 ## Requirements

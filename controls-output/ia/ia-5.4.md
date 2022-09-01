@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(4) - Automated Support For Password Strength Determination
+# IA-5 (4) - Automated Support For Password Strength Determination
 {: #ia-5.4}
 
 ## Requirements

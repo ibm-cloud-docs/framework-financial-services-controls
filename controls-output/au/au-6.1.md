@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AU-6(1) - Process Integration
+# AU-6 (1) - Process Integration
 {: #au-6.1}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(5) - Change Authenticators Prior To Delivery
+# IA-5 (5) - Change Authenticators Prior To Delivery
 {: #ia-5.5}
 
 ## Requirements

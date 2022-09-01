@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-4(5) - System-Generated Alerts
+# SI-4 (5) - System-Generated Alerts
 {: #si-4.5}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-6(2) - Non-Privileged Access For Nonsecurity Functions
+# AC-6 (2) - Non-Privileged Access For Nonsecurity Functions
 {: #ac-6.2}
 
 ## Requirements

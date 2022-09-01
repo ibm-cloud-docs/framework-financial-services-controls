@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# RA-5(3) - Breadth / Depth Of Coverage
+# RA-5 (3) - Breadth / Depth Of Coverage
 {: #ra-5.3}
 
 ## Requirements

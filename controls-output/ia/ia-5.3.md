@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(3) - In-Person Or Trusted Third-Party Registration
+# IA-5 (3) - In-Person Or Trusted Third-Party Registration
 {: #ia-5.3}
 
 ## Requirements

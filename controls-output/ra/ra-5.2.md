@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# RA-5(2) - Update By Frequency / Prior To New Scan / When Identified
+# RA-5 (2) - Update By Frequency / Prior To New Scan / When Identified
 {: #ra-5.2}
 
 ## Requirements

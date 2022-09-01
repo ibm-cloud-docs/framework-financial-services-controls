@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-6(10) - Prohibit Non-Privileged Users From Executing Privileged Functions
+# AC-6 (10) - Prohibit Non-Privileged Users From Executing Privileged Functions
 {: #ac-6.10}
 
 ## Requirements

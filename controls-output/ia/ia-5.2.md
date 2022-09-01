@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(2) - Pki-Based Authentication
+# IA-5 (2) - Pki-Based Authentication
 {: #ia-5.2}
 
 ## Requirements

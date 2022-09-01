@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-4(6) - Metadata
+# AC-4 (6) - Metadata
 {: #ac-4.6}
 
 ## Requirements

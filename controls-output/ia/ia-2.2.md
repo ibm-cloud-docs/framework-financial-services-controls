@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-2(2) - Network Access To Non-Privileged Accounts
+# IA-2 (2) - Network Access To Non-Privileged Accounts
 {: #ia-2.2}
 
 ## Requirements

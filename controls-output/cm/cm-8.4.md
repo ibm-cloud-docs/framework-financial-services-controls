@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-8(4) - Accountability Information
+# CM-8 (4) - Accountability Information
 {: #cm-8.4}
 
 ## Requirements

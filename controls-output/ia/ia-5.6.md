@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(6) - Protection Of Authenticators
+# IA-5 (6) - Protection Of Authenticators
 {: #ia-5.6}
 
 ## Requirements

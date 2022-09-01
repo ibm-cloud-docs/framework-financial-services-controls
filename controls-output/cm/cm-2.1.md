@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-2(1) - Reviews And Updates
+# CM-2 (1) - Reviews And Updates
 {: #cm-2.1}
 
 ## Requirements

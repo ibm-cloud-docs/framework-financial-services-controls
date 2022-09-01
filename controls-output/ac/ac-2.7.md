@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-2(7) - Role-Based Schemes
+# AC-2 (7) - Role-Based Schemes
 {: #ac-2.7}
 
 ## Requirements

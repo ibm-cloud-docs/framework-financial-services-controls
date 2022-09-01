@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-4(14) - Security Policy Filter Constraints
+# AC-4 (14) - Security Policy Filter Constraints
 {: #ac-4.14}
 
 ## Requirements

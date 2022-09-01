@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# MA-4(2) - Document Nonlocal Maintenance
+# MA-4 (2) - Document Nonlocal Maintenance
 {: #ma-4.2}
 
 ## Requirements

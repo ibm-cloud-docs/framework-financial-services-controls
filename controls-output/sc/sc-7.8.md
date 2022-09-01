@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SC-7(8) - Route Traffic To Authenticated Proxy Servers
+# SC-7 (8) - Route Traffic To Authenticated Proxy Servers
 {: #sc-7.8}
 
 ## Requirements

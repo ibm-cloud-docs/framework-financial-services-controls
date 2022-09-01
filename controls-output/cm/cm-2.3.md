@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-2(3) - Retention Of Previous Configurations
+# CM-2 (3) - Retention Of Previous Configurations
 {: #cm-2.3}
 
 ## Requirements

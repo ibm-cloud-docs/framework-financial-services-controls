@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-2(2) - Automated Flaw Remediation Status
+# SI-2 (2) - Automated Flaw Remediation Status
 {: #si-2.2}
 
 ## Requirements

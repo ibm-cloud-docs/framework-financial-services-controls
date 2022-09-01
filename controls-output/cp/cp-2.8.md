@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-2(8) - Identify Critical Assets
+# CP-2 (8) - Identify Critical Assets
 {: #cp-2.8}
 
 ## Requirements

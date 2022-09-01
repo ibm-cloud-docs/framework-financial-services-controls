@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-8(1) - Priority Of Service Provisions
+# CP-8 (1) - Priority Of Service Provisions
 {: #cp-8.1}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-4(4) - Inbound And Outbound Communications Traffic
+# SI-4 (4) - Inbound And Outbound Communications Traffic
 {: #si-4.4}
 
 ## Requirements

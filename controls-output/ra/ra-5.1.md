@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# RA-5(1) - Update Tool Capability
+# RA-5 (1) - Update Tool Capability
 {: #ra-5.1}
 
 ## Requirements

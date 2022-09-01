@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(7) - No Embedded Unencrypted Static Authenticators
+# IA-5 (7) - No Embedded Unencrypted Static Authenticators
 {: #ia-5.7}
 
 ## Requirements

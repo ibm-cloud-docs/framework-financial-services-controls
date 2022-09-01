@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-4(2) - Automated Tools For Real-Time Analysis
+# SI-4 (2) - Automated Tools For Real-Time Analysis
 {: #si-4.2}
 
 ## Requirements

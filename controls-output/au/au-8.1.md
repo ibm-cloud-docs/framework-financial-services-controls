@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AU-8(1) - Synchronization With Authoritative Time Source
+# AU-8 (1) - Synchronization With Authoritative Time Source
 {: #au-8.1}
 
 ## Requirements

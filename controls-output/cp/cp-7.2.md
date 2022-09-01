@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-7(2) - Accessibility
+# CP-7 (2) - Accessibility
 {: #cp-7.2}
 
 ## Requirements

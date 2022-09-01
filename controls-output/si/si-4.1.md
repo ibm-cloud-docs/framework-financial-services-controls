@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-4(1) - System-Wide Intrusion Detection System
+# SI-4 (1) - System-Wide Intrusion Detection System
 {: #si-4.1}
 
 ## Requirements

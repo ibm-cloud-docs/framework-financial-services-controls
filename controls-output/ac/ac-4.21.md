@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-4(21) - Physical / Logical Separation Of Information Flows
+# AC-4 (21) - Physical / Logical Separation Of Information Flows
 {: #ac-4.21}
 
 ## Requirements

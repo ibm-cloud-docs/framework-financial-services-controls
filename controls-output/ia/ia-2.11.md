@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-2(11) - Remote Access - Separate Device
+# IA-2 (11) - Remote Access - Separate Device
 {: #ia-2.11}
 
 ## Requirements

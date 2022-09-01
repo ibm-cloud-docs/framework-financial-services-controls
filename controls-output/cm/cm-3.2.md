@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-3(2) - Test / Validate / Document Changes
+# CM-3 (2) - Test / Validate / Document Changes
 {: #cm-3.2}
 
 ## Requirements

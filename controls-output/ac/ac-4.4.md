@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-4(4) - Content Check Encrypted Information
+# AC-4 (4) - Content Check Encrypted Information
 {: #ac-4.4}
 
 ## Requirements

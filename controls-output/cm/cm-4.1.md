@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-4(1) - Separate Test Environments
+# CM-4 (1) - Separate Test Environments
 {: #cm-4.1}
 
 ## Requirements

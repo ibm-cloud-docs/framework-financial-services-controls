@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AU-9(2) - Audit Backup On Separate Physical Systems / Components
+# AU-9 (2) - Audit Backup On Separate Physical Systems / Components
 {: #au-9.2}
 
 ## Requirements

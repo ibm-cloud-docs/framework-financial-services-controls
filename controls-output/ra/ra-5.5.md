@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# RA-5(5) - Privileged Access
+# RA-5 (5) - Privileged Access
 {: #ra-5.5}
 
 ## Requirements

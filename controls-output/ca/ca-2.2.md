@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CA-2(2) - Specialized Assessments
+# CA-2 (2) - Specialized Assessments
 {: #ca-2.2}
 
 ## Requirements

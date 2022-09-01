@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SC-7(5) - Deny By Default / Allow By Exception
+# SC-7 (5) - Deny By Default / Allow By Exception
 {: #sc-7.5}
 
 ## Requirements

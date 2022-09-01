@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-2(3) - Resume Essential Missions / Business Functions
+# CP-2 (3) - Resume Essential Missions / Business Functions
 {: #cp-2.3}
 
 ## Requirements

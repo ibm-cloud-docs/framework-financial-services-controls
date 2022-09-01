@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-8(1) - Updates During Installations / Removals
+# CM-8 (1) - Updates During Installations / Removals
 {: #cm-8.1}
 
 ## Requirements

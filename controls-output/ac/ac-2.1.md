@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-2(1) - Automated System Account Management
+# AC-2 (1) - Automated System Account Management
 {: #ac-2.1}
 
 ## Requirements

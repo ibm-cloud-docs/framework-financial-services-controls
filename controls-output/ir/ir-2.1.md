@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IR-2(1) - Simulated Events
+# IR-2 (1) - Simulated Events
 {: #ir-2.1}
 
 ## Requirements

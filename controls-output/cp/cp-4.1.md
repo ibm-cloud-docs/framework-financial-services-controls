@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-4(1) - Coordinate With Related Plans
+# CP-4 (1) - Coordinate With Related Plans
 {: #cp-4.1}
 
 ## Requirements

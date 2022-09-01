@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-5(1) - Password-Based Authentication
+# IA-5 (1) - Password-Based Authentication
 {: #ia-5.1}
 
 ## Requirements

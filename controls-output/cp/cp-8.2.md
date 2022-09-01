@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-8(2) - Single Points Of Failure
+# CP-8 (2) - Single Points Of Failure
 {: #cp-8.2}
 
 ## Requirements

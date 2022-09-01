@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-9(1) - Testing For Reliability / Integrity
+# CP-9 (1) - Testing For Reliability / Integrity
 {: #cp-9.1}
 
 ## Requirements

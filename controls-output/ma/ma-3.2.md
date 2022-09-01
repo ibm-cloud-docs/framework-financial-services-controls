@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# MA-3(2) - Inspect Media
+# MA-3 (2) - Inspect Media
 {: #ma-3.2}
 
 ## Requirements

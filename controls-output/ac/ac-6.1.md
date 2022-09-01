@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-6(1) - Authorize Access To Security Functions
+# AC-6 (1) - Authorize Access To Security Functions
 {: #ac-6.1}
 
 ## Requirements

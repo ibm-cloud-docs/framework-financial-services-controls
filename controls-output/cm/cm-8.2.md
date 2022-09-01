@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-8(2) - Automated Maintenance
+# CM-8 (2) - Automated Maintenance
 {: #cm-8.2}
 
 ## Requirements

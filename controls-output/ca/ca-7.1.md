@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CA-7(1) - Independent Assessment
+# CA-7 (1) - Independent Assessment
 {: #ca-7.1}
 
 ## Requirements

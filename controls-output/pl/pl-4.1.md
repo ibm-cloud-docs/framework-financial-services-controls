@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# PL-4(1) - Social Media And Networking Restrictions
+# PL-4 (1) - Social Media And Networking Restrictions
 {: #pl-4.1}
 
 ## Requirements

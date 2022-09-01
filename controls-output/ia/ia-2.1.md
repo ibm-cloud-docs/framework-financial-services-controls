@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# IA-2(1) - Network Access To Privileged Accounts
+# IA-2 (1) - Network Access To Privileged Accounts
 {: #ia-2.1}
 
 ## Requirements

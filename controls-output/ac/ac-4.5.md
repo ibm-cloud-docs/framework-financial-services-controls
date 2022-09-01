@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-4(5) - Embedded Data Types
+# AC-4 (5) - Embedded Data Types
 {: #ac-4.5}
 
 ## Requirements

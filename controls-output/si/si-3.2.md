@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SI-3(2) - Automatic Updates
+# SI-3 (2) - Automatic Updates
 {: #si-3.2}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SA-4(2) - Design / Implementation Information For Security Controls
+# SA-4 (2) - Design / Implementation Information For Security Controls
 {: #sa-4.2}
 
 ## Requirements

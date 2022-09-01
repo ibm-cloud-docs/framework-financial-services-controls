@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-7(1) - Separation From Primary Site
+# CP-7 (1) - Separation From Primary Site
 {: #cp-7.1}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-8(3) - Automated Unauthorized Component Detection
+# CM-8 (3) - Automated Unauthorized Component Detection
 {: #cm-8.3}
 
 ## Requirements

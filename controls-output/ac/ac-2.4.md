@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-2(4) - Automated Audit Actions
+# AC-2 (4) - Automated Audit Actions
 {: #ac-2.4}
 
 ## Requirements

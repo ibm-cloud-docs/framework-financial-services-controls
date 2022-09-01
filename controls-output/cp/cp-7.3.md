@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CP-7(3) - Priority Of Service
+# CP-7 (3) - Priority Of Service
 {: #cp-7.3}
 
 ## Requirements

@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-2(2) - Automation Support For Accuracy / Currency
+# CM-2 (2) - Automation Support For Accuracy / Currency
 {: #cm-2.2}
 
 ## Requirements

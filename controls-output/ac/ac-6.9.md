@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-6(9) - Auditing Use Of Privileged Functions
+# AC-6 (9) - Auditing Use Of Privileged Functions
 {: #ac-6.9}
 
 ## Requirements

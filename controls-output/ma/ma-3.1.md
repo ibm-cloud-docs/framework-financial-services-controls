@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# MA-3(1) - Inspect Tools
+# MA-3 (1) - Inspect Tools
 {: #ma-3.1}
 
 ## Requirements

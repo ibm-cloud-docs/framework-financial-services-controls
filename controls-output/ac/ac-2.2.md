@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-2(2) - Removal Of Temporary / Emergency Accounts
+# AC-2 (2) - Removal Of Temporary / Emergency Accounts
 {: #ac-2.2}
 
 ## Requirements

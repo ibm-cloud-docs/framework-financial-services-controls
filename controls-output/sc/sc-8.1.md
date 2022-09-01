@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# SC-8(1) - Cryptographic Or Alternate Physical Protection
+# SC-8 (1) - Cryptographic Or Alternate Physical Protection
 {: #sc-8.1}
 
 ## Requirements

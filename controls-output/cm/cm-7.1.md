@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# CM-7(1) - Periodic Review
+# CM-7 (1) - Periodic Review
 {: #cm-7.1}
 
 ## Requirements

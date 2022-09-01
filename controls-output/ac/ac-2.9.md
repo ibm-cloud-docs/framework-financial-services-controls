@@ -10,7 +10,7 @@ subcollection: controls
 {{site.data.keyword.attribute-definition-list}}
 
 
-# AC-2(9) - Restrictions On Use Of Shared / Group Accounts
+# AC-2 (9) - Restrictions On Use Of Shared / Group Accounts
 {: #ac-2.9}
 
 ## Requirements
