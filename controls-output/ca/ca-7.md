@@ -1,65 +1,13 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-01"
 keywords: 
 subcollection: controls
 ---
 
 
-{:android: data-hd-operatingsystem="android"}
-{:api: .ph data-hd-interface="api"}
-{:audio: .audio}
-{:authenticated-content: .authenticated-content}
-{:beta: .beta}
-{:c#: .ph data-hd-programlang="c#"}
-{:cli: .ph data-hd-interface="cli"}
-{:codeblock: .codeblock}
-{:curl: .ph data-hd-programlang="curl"}
-{:deprecated: .deprecated}
-{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
-{:experimental: .experimental}
-{:external: .external target="_blank"}
-{:faq: data-hd-content-type="faq"}
-{:generic: data-hd-programlang="generic"}
-{:go: .ph data-hd-programlang="go"}
-{:help: data-hd-content-type="help"}
-{:here: .ph data-hd-vposition="here"}
-{:hide-dashboard: .hide-dashboard}
-{:hide-in-docs: .hide-in-docs}
-{:important: .important}
-{:ios: data-hd-operatingsystem="ios"}
-{:java: .ph data-hd-programlang="java"}
-{:javascript: .ph data-hd-programlang="javascript"}
-{:middle: .ph data-hd-position="middle"}
-{:node: .ph data-hd-programlang="node"}
-{:note: .note}
-{:objectc: .ph data-hd-programlang="Objective C"}
-{:php: .ph data-hd-programlang="PHP"}
-{:pre: .pre}
-{:preview: .preview}
-{:python: .ph data-hd-programlang="python"}
-{:release-note: data-hd-content-type="release-note"}
-{:right: .ph data-hd-position="right"}
-{:row-headers: .row-headers}
-{:ruby: .ph data-hd-programlang="ruby"}
-{:screen: .screen}
-{:shortdesc: .shortdesc}
-{:step: data-tutorial-type="step"}
-{:support: data-reuse="support"}
-{:swift: .ph data-hd-programlang="swift"}
-{:term: .term}
-{:terraform: .ph data-hd-interface="terraform"}
-{:tip: .tip}
-{:troubleshoot: data-hd-content-type="troubleshoot"}
-{:tsCauses: .tsCauses}
-{:tsResolve: .tsResolve}
-{:tsSymptoms: .tsSymptoms}
-{:tutorial: data-hd-content-type="tutorial"}
-{:ui: .ph data-hd-interface="ui"}
-{:unity: .ph data-hd-programlang="unity"}
-{:vbnet: .ph data-hd-programlang="vb.net"}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 
 # CA-7 - Continuous Monitoring
@@ -90,7 +38,7 @@ The organization develops a continuous monitoring strategy and implements a cont
 The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer&#39;s policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
 
 ## Control Supplemental Guidance
-{: #supplemental_guidance}
+{: #supplemental-guidance}
 
 Continuous monitoring programs facilitate ongoing awareness of threats, vulnerabilities, and information security to support organizational risk management decisions. The terms continuous and ongoing imply that organizations assess/analyze security controls and information security-related risks at a frequency sufficient to support organizational risk-based decisions. The results of continuous monitoring programs generate appropriate risk response actions by organizations. Continuous monitoring programs also allow organizations to maintain the security authorizations of information systems and common controls over time in highly dynamic environments of operation with changing mission/business needs, threats, vulnerabilities, and technologies. Having access to security-related information on a continuing basis through reports/dashboards gives organizational officials the capability to make more effective and timely risk management decisions, including ongoing security authorization decisions. Automation supports more frequent updates to security authorization packages, hardware/software/firmware inventories, and other system information. Effectiveness is further enhanced when continuous monitoring outputs are formatted to provide information that is specific, measurable, actionable, relevant, and timely. Continuous monitoring activities are scaled in accordance with the security categories of information systems.
 

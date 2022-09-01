@@ -1,65 +1,13 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-01"
 keywords: 
 subcollection: controls
 ---
 
 
-{:android: data-hd-operatingsystem="android"}
-{:api: .ph data-hd-interface="api"}
-{:audio: .audio}
-{:authenticated-content: .authenticated-content}
-{:beta: .beta}
-{:c#: .ph data-hd-programlang="c#"}
-{:cli: .ph data-hd-interface="cli"}
-{:codeblock: .codeblock}
-{:curl: .ph data-hd-programlang="curl"}
-{:deprecated: .deprecated}
-{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
-{:experimental: .experimental}
-{:external: .external target="_blank"}
-{:faq: data-hd-content-type="faq"}
-{:generic: data-hd-programlang="generic"}
-{:go: .ph data-hd-programlang="go"}
-{:help: data-hd-content-type="help"}
-{:here: .ph data-hd-vposition="here"}
-{:hide-dashboard: .hide-dashboard}
-{:hide-in-docs: .hide-in-docs}
-{:important: .important}
-{:ios: data-hd-operatingsystem="ios"}
-{:java: .ph data-hd-programlang="java"}
-{:javascript: .ph data-hd-programlang="javascript"}
-{:middle: .ph data-hd-position="middle"}
-{:node: .ph data-hd-programlang="node"}
-{:note: .note}
-{:objectc: .ph data-hd-programlang="Objective C"}
-{:php: .ph data-hd-programlang="PHP"}
-{:pre: .pre}
-{:preview: .preview}
-{:python: .ph data-hd-programlang="python"}
-{:release-note: data-hd-content-type="release-note"}
-{:right: .ph data-hd-position="right"}
-{:row-headers: .row-headers}
-{:ruby: .ph data-hd-programlang="ruby"}
-{:screen: .screen}
-{:shortdesc: .shortdesc}
-{:step: data-tutorial-type="step"}
-{:support: data-reuse="support"}
-{:swift: .ph data-hd-programlang="swift"}
-{:term: .term}
-{:terraform: .ph data-hd-interface="terraform"}
-{:tip: .tip}
-{:troubleshoot: data-hd-content-type="troubleshoot"}
-{:tsCauses: .tsCauses}
-{:tsResolve: .tsResolve}
-{:tsSymptoms: .tsSymptoms}
-{:tutorial: data-hd-content-type="tutorial"}
-{:ui: .ph data-hd-interface="ui"}
-{:unity: .ph data-hd-programlang="unity"}
-{:vbnet: .ph data-hd-programlang="vb.net"}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 
 # PL-2 - System Security Plan
@@ -98,7 +46,7 @@ The organization shall maintain a catalog of all customer metadata processed and
 The organization must document all information flows that involve the transfer of customer data.  An information flow control policy must be developed and maintained that indicates the source and destination of each flow, the system of record and whether the information is altered during transmission.
 
 ## Control Supplemental Guidance
-{: #supplemental_guidance}
+{: #supplemental-guidance}
 
 Security plans relate security requirements to a set of security controls and control enhancements. Security plans also describe, at a high level, how the security controls and control enhancements meet those security requirements, but do not provide detailed, technical descriptions of the specific design or implementation of the controls/enhancements. Security plans contain sufficient information (including the specification of parameter values for assignment and selection statements either explicitly or by reference) to enable a design and implementation that is unambiguously compliant with the intent of the plans and subsequent determinations of risk to organizational operations and assets, individuals, other organizations, and the Nation if the plan is implemented as intended. Organizations can also apply tailoring guidance to the security control baselines in Appendix D and CNSS Instruction 1253 to develop overlays for community-wide use or to address specialized requirements, technologies, or missions/environments of operation (e.g., DoD-tactical, Federal Public Key Infrastructure, or Federal Identity, Credential, and Access Management, space operations). Appendix I provides guidance on developing overlays. Security plans need not be single documents; the plans can be a collection of various documents including documents that already exist. Effective security plans make extensive use of references to policies, procedures, and additional documents (e.g., design and implementation specifications) where more detailed information can be obtained. This reduces the documentation requirements associated with security programs and maintains security-related information in other established management/operational areas related to enterprise architecture, system development life cycle, systems engineering, and acquisition. For example, security plans do not contain detailed contingency plan or incident response plan information but instead provide explicitly or by reference, sufficient information to define what needs to be accomplished by those plans.
 

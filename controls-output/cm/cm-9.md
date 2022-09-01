@@ -1,65 +1,13 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-01"
 keywords: 
 subcollection: controls
 ---
 
 
-{:android: data-hd-operatingsystem="android"}
-{:api: .ph data-hd-interface="api"}
-{:audio: .audio}
-{:authenticated-content: .authenticated-content}
-{:beta: .beta}
-{:c#: .ph data-hd-programlang="c#"}
-{:cli: .ph data-hd-interface="cli"}
-{:codeblock: .codeblock}
-{:curl: .ph data-hd-programlang="curl"}
-{:deprecated: .deprecated}
-{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
-{:experimental: .experimental}
-{:external: .external target="_blank"}
-{:faq: data-hd-content-type="faq"}
-{:generic: data-hd-programlang="generic"}
-{:go: .ph data-hd-programlang="go"}
-{:help: data-hd-content-type="help"}
-{:here: .ph data-hd-vposition="here"}
-{:hide-dashboard: .hide-dashboard}
-{:hide-in-docs: .hide-in-docs}
-{:important: .important}
-{:ios: data-hd-operatingsystem="ios"}
-{:java: .ph data-hd-programlang="java"}
-{:javascript: .ph data-hd-programlang="javascript"}
-{:middle: .ph data-hd-position="middle"}
-{:node: .ph data-hd-programlang="node"}
-{:note: .note}
-{:objectc: .ph data-hd-programlang="Objective C"}
-{:php: .ph data-hd-programlang="PHP"}
-{:pre: .pre}
-{:preview: .preview}
-{:python: .ph data-hd-programlang="python"}
-{:release-note: data-hd-content-type="release-note"}
-{:right: .ph data-hd-position="right"}
-{:row-headers: .row-headers}
-{:ruby: .ph data-hd-programlang="ruby"}
-{:screen: .screen}
-{:shortdesc: .shortdesc}
-{:step: data-tutorial-type="step"}
-{:support: data-reuse="support"}
-{:swift: .ph data-hd-programlang="swift"}
-{:term: .term}
-{:terraform: .ph data-hd-interface="terraform"}
-{:tip: .tip}
-{:troubleshoot: data-hd-content-type="troubleshoot"}
-{:tsCauses: .tsCauses}
-{:tsResolve: .tsResolve}
-{:tsSymptoms: .tsSymptoms}
-{:tutorial: data-hd-content-type="tutorial"}
-{:ui: .ph data-hd-interface="ui"}
-{:unity: .ph data-hd-programlang="unity"}
-{:vbnet: .ph data-hd-programlang="vb.net"}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 
 # CM-9 - Configuration Management Plan
@@ -84,6 +32,6 @@ The organization develops, documents, and implements a configuration management 
 ISV shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
 
 ## Control Supplemental Guidance
-{: #supplemental_guidance}
+{: #supplemental-guidance}
 
 Configuration management plans satisfy the requirements in configuration management policies while being tailored to individual information systems. Such plans define detailed processes and procedures for how configuration management is used to support system development life cycle activities at the information system level. Configuration management plans are typically developed during the development/acquisition phase of the system development life cycle. The plans describe how to move changes through change management processes, how to update configuration settings and baselines, how to maintain information system component inventories, how to control development, test, and operational environments, and how to develop, release, and update key documents. Organizations can employ templates to help ensure consistent and timely development and implementation of configuration management plans. Such templates can represent a master configuration management plan for the organization at large with subsets of the plan implemented on a system by system basis. Configuration management approval processes include designation of key management stakeholders responsible for reviewing and approving proposed changes to information systems, and personnel that conduct security impact analyses prior to the implementation of changes to the systems. Configuration items are the information system items (hardware, software, firmware, and documentation) to be configuration-managed. As information systems continue through the system development life cycle, new configuration items may be identified and some existing configuration items may no longer need to be under configuration control.

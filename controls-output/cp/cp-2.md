@@ -1,65 +1,13 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-01"
 keywords: 
 subcollection: controls
 ---
 
 
-{:android: data-hd-operatingsystem="android"}
-{:api: .ph data-hd-interface="api"}
-{:audio: .audio}
-{:authenticated-content: .authenticated-content}
-{:beta: .beta}
-{:c#: .ph data-hd-programlang="c#"}
-{:cli: .ph data-hd-interface="cli"}
-{:codeblock: .codeblock}
-{:curl: .ph data-hd-programlang="curl"}
-{:deprecated: .deprecated}
-{:dotnet-standard: .ph data-hd-programlang="dotnet-standard"}
-{:experimental: .experimental}
-{:external: .external target="_blank"}
-{:faq: data-hd-content-type="faq"}
-{:generic: data-hd-programlang="generic"}
-{:go: .ph data-hd-programlang="go"}
-{:help: data-hd-content-type="help"}
-{:here: .ph data-hd-vposition="here"}
-{:hide-dashboard: .hide-dashboard}
-{:hide-in-docs: .hide-in-docs}
-{:important: .important}
-{:ios: data-hd-operatingsystem="ios"}
-{:java: .ph data-hd-programlang="java"}
-{:javascript: .ph data-hd-programlang="javascript"}
-{:middle: .ph data-hd-position="middle"}
-{:node: .ph data-hd-programlang="node"}
-{:note: .note}
-{:objectc: .ph data-hd-programlang="Objective C"}
-{:php: .ph data-hd-programlang="PHP"}
-{:pre: .pre}
-{:preview: .preview}
-{:python: .ph data-hd-programlang="python"}
-{:release-note: data-hd-content-type="release-note"}
-{:right: .ph data-hd-position="right"}
-{:row-headers: .row-headers}
-{:ruby: .ph data-hd-programlang="ruby"}
-{:screen: .screen}
-{:shortdesc: .shortdesc}
-{:step: data-tutorial-type="step"}
-{:support: data-reuse="support"}
-{:swift: .ph data-hd-programlang="swift"}
-{:term: .term}
-{:terraform: .ph data-hd-interface="terraform"}
-{:tip: .tip}
-{:troubleshoot: data-hd-content-type="troubleshoot"}
-{:tsCauses: .tsCauses}
-{:tsResolve: .tsResolve}
-{:tsSymptoms: .tsSymptoms}
-{:tutorial: data-hd-content-type="tutorial"}
-{:ui: .ph data-hd-interface="ui"}
-{:unity: .ph data-hd-programlang="unity"}
-{:vbnet: .ph data-hd-programlang="vb.net"}
-{:video: .video}
+{{site.data.keyword.attribute-definition-list}}
 
 
 # CP-2 - Contingency Plan
@@ -99,7 +47,7 @@ Documentation includes plan and playbook(s).
 The organization must provide required pre-test documentation prior to test initiation. The customer must provide the organization with what is included in pre-test documentation.
 
 ## Control Supplemental Guidance
-{: #supplemental_guidance}
+{: #supplemental-guidance}
 
 Contingency planning for information systems is part of an overall organizational program for achieving continuity of operations for mission/business functions. Contingency planning addresses both information system restoration and implementation of alternative mission/business processes when systems are compromised. The effectiveness of contingency planning is maximized by considering such planning throughout the phases of the system development life cycle. Performing contingency planning on hardware, software, and firmware development can be an effective means of achieving information system resiliency. Contingency plans reflect the degree of restoration required for organizational information systems since not all systems may need to fully recover to achieve the level of continuity of operations desired. Information system recovery objectives reflect applicable laws, Executive Orders, directives, policies, standards, regulations, and guidelines. In addition to information system availability, contingency plans also address other security-related events resulting in a reduction in mission and/or business effectiveness, such as malicious attacks compromising the confidentiality or integrity of information systems. Actions addressed in contingency plans include, for example, orderly/graceful degradation, information system shutdown, fallback to a manual mode, alternate information flows, and operating in modes reserved for when systems are under attack. By closely coordinating contingency planning with incident handling activities, organizations can ensure that the necessary contingency planning activities are in place and activated in the event of a security incident.
 
