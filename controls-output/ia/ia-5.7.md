@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -22,3 +22,5 @@ The organization ensures that unencrypted static authenticators are not embedded
 {: #supplemental-guidance}
 
 Organizations exercise caution in determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators. This is irrespective of whether that representation is perhaps an encrypted version of something else (e.g., a password).
+
+

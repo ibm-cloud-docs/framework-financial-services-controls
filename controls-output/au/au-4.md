@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ Organizations consider the types of auditing to be performed and the audit proce
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | au-4_prm_1 |  | organization-defined audit record storage requirements |
+

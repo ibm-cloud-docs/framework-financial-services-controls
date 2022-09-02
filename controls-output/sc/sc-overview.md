@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# SC - System and Communications Protection
+# System and Communications Protection (SC)
 {: #sc-overview}
 
-The System and Communications Protection family consists of the controls that follow.
+The System and Communications Protection (SC) family consists of the controls that follow.
 
 - [SC-1 - System And Communications Protection Policy And Procedures](/docs/controls?topic=controls-sc-1)
 - [SC-2 - Application Partitioning](/docs/controls?topic=controls-sc-2)

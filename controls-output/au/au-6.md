@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Audit review, analysis, and reporting covers information security-related auditi
 | au-6_prm_1 | at least weekly | organization-defined frequency |
 | au-6_prm_2 |  | organization-defined inappropriate or unusual activity |
 | au-6_prm_3 |  | organization-defined personnel or roles |
+

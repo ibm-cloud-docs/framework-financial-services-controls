@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -22,3 +22,5 @@ The organization employs automated mechanisms to support the management of infor
 {: #supplemental-guidance}
 
 The use of automated mechanisms can include, for example: using email or text messaging to automatically notify account managers when users are terminated or transferred; using the information system to monitor account usage; and using telephonic notification to report atypical system account usage.
+
+

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PM - Program Management
+# Program Management (PM)
 {: #pm-overview}
 
-The Program Management family consists of the controls that follow.
+The Program Management (PM) family consists of the controls that follow.
 
 - [PM-1 - Information Security Program Plan](/docs/controls?topic=controls-pm-1)
 - [PM-2 - Senior Information Security Officer](/docs/controls?topic=controls-pm-2)

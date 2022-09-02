@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -34,3 +34,4 @@ This control applies to organizational employees and visitors. Individuals (e.g.
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | pe-2_prm_1 | at least annually | organization-defined frequency |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -33,3 +33,4 @@ Incident response training provided by organizations is linked to the assigned r
 |---|---|---|
 | ir-2_prm_1 | within 90 calendar days | organization-defined time period |
 | ir-2_prm_2 | at least annually | organization-defined frequency |
+

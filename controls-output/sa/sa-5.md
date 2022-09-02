@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -45,3 +45,4 @@ This control helps organizational personnel understand the implementation and op
 |---|---|---|
 | sa-5_prm_1 |  | organization-defined actions |
 | sa-5_prm_2 |  | organization-defined personnel or roles |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -36,3 +36,4 @@ The intent of this control is to address both specific incident reporting requir
 |---|---|---|
 | ir-6_prm_1 | no longer than 24 hours for systems related to FS-ready public cloud customers | organization-defined time period |
 | ir-6_prm_2 | Information Security Incident Response Team of the FS-ready public cloud customers | organization-defined authorities |
+

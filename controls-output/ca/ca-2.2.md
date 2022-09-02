@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -29,3 +29,4 @@ Organizations can employ information system monitoring, insider threat assessmen
 | ca-2.2_prm_2 |  | Choose : announced; unannounced |
 | ca-2.2_prm_3 |  | Choose one or more: in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; organization-defined other forms of security assessment |
 | ca-2.2_prm_4 |  | organization-defined other forms of security assessment |
+

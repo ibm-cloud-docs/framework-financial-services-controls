@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# AU - Audit and Accountability
+# Audit and Accountability (AU)
 {: #au-overview}
 
-The Audit and Accountability family consists of the controls that follow.
+The Audit and Accountability (AU) family consists of the controls that follow.
 
 - [AU-1 - Audit And Accountability Policy And Procedures](/docs/controls?topic=controls-au-1)
 - [AU-2 - Audit Events](/docs/controls?topic=controls-au-2)

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -60,3 +60,4 @@ An event is any observable occurrence in an organizational information system. O
 |---|---|---|
 | au-2_prm_1 | for required audit events, refer to Additional FS-ready public cloud Guidance | organization-defined auditable events |
 | au-2_prm_2 | auditable events defined in AU-2 a. to be audited continually for each identified event | organization-defined audited events (the subset of the auditable events defined in AU-2 a.) along with the frequency of (or situation requiring) auditing for each identified event |
+

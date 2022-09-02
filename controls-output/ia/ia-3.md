@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Organizational devices requiring unique device-to-device identification and auth
 |---|---|---|
 | ia-3_prm_1 | all devices | organization-defined specific and/or types of devices |
 | ia-3_prm_2 | network | Choose one or more: local; remote; network |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,4 @@ Enforcing the separation of information flows by type can enhance protection by 
 |---|---|---|
 | ac-4.21_prm_1 |  | organization-defined mechanisms and/or techniques |
 | ac-4.21_prm_2 |  | organization-defined required separations by types of information |
+

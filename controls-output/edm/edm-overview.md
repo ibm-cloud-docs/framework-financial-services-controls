@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# EDM - Enterprise Data Management
+# Enterprise Data Management (EDM)
 {: #edm-overview}
 
-The Enterprise Data Management family consists of the controls that follow.
+The Enterprise Data Management (EDM) family consists of the controls that follow.
 
 - [EDM-1 - Enterprise Data Management (Quality Assurance)](/docs/controls?topic=controls-edm-1)
 

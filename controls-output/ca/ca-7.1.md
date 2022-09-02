@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ Organizations can maximize the value of assessments of security controls during 
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ca-7.1_prm_1 |  | organization-defined level of independence |
+

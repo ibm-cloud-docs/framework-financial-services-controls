@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Organizations determine the appropriate content of security training based on th
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | at-3_prm_1 | at least annually | organization-defined frequency |
+

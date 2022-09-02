@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Privileged roles are organization-defined roles assigned to individuals that all
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-2.7_prm_1 |  | organization-defined actions |
+

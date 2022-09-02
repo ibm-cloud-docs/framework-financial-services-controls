@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ An organization-wide risk management strategy includes, for example, an unambigu
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | pm-9_prm_1 | at least annually | organization-defined frequency |
+

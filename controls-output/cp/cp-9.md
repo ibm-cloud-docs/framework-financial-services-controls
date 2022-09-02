@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -36,3 +36,4 @@ System-level information includes, for example, system-state information, operat
 | cp-9_prm_1 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
 | cp-9_prm_2 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
 | cp-9_prm_3 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
+

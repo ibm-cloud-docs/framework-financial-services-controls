@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -49,3 +49,4 @@ Security categorization of information systems guides the frequency and comprehe
 | ra-5_prm_1 | weekly operating system/infrastructure and databases; weekly container images; quarterly web applications; annual source code/static analysis | organization-defined frequency and/or randomly in accordance with organization-defined process |
 | ra-5_prm_2 | Priority 1 (very high), such as publicly known vulnerabilities with very high likelihood and impact, must be mitigated within four (4) days from date of discovery; Priority 2 (high), such as vulnerabilities with high likelihood and high impact, must be remediated within 45 days; Priority 3 (moderate), such as vulnerabilities with moderate likelihood and impact, must be remediated within 100 days; Priority 4 (low) and 5 (very low) have no specific remediation period unless otherwise directed.  Refer to table I-2 in NIST SP 800-30 for additional guidance on assessing risk | organization-defined response times |
 | ra-5_prm_3 |  | organization-defined personnel or roles |
+

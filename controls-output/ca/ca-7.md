@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -49,3 +49,4 @@ Continuous monitoring programs facilitate ongoing awareness of threats, vulnerab
 | ca-7_prm_3 |  | organization-defined frequencies |
 | ca-7_prm_4 | to meet customer requirements | organization-defined personnel or roles |
 | ca-7_prm_5 | quarterly | organization-defined frequency |
+

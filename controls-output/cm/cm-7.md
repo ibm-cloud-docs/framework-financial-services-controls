@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -30,3 +30,4 @@ Information systems can provide a wide variety of functions and services. Some o
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | cm-7_prm_1 | limiting, disabling, and/or controlling services, features, applications, functions, ports, and protocols not explicitly required to support business functionality | organization-defined prohibited or restricted functions, ports, protocols, and/or services |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ Over time, the events that organizations believe should be audited may change. R
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | au-2.3_prm_1 | annually or whenever there is a change in the threat environment | organization-defined frequency |
+

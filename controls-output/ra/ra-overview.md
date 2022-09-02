@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# RA - Risk Assessment
+# Risk Assessment (RA)
 {: #ra-overview}
 
-The Risk Assessment family consists of the controls that follow.
+The Risk Assessment (RA) family consists of the controls that follow.
 
 - [RA-1 - Risk Assessment Policy And Procedures](/docs/controls?topic=controls-ra-1)
 - [RA-2 - Security Categorization](/docs/controls?topic=controls-ra-2)

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -28,3 +28,4 @@ Priority protection helps prevent lower-priority processes from delaying or inte
 | sc-6_prm_1 |  | organization-defined resources |
 | sc-6_prm_2 |  | Choose one or more: priority; quota; organization-defined security safeguards |
 | sc-6_prm_3 |  | organization-defined security safeguards |
+

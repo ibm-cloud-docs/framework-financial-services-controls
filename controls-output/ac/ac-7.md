@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -34,3 +34,4 @@ This control applies regardless of whether the logon occurs via a local or netwo
 | ac-7_prm_3 | locks the account/node for a thirty (30) minutes | Choose : locks the account/node for an organization-defined time period; locks the account/node until released by an administrator; delays next logon prompt according to organization-defined delay algorithm |
 | ac-7_prm_4 |  | organization-defined time period |
 | ac-7_prm_5 |  | organization-defined delay algorithm |
+

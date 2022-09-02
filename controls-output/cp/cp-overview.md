@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# CP - Contingency Planning
+# Contingency Planning (CP)
 {: #cp-overview}
 
-The Contingency Planning family consists of the controls that follow.
+The Contingency Planning (CP) family consists of the controls that follow.
 
 - [CP-1 - Contingency Planning Policy And Procedures](/docs/controls?topic=controls-cp-1)
 - [CP-2 - Contingency Plan](/docs/controls?topic=controls-cp-2)

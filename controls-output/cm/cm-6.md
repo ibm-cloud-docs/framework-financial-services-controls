@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -46,3 +46,4 @@ Configuration settings are the set of parameters that can be changed in hardware
 | cm-6_prm_1 | see CM-6 (a) Additional Requirements and Guidance | organization-defined security configuration checklists |
 | cm-6_prm_2 |  | organization-defined information system components |
 | cm-6_prm_3 |  | organization-defined operational requirements |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -55,3 +55,4 @@ Access agreements include, for example, nondisclosure agreements, acceptable use
 |---|---|---|
 | ps-6_prm_1 | at least annually | organization-defined frequency |
 | ps-6_prm_2 | at least annually | organization-defined frequency |
+

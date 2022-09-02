@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,4 @@ Information system media includes both digital and non-digital media. Digital me
 |---|---|---|
 | mp-2_prm_1 |  | organization-defined types of digital and/or non-digital media |
 | mp-2_prm_2 |  | organization-defined personnel or roles |
+

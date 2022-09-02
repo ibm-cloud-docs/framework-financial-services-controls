@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -51,3 +51,4 @@ Information system monitoring includes external and internal monitoring. Externa
 | si-4_prm_4 |  | organization-defined personnel or roles |
 | si-4_prm_5 |  | Choose one or more: as needed; organization-defined frequency |
 | si-4_prm_6 |  | organization-defined frequency |
+

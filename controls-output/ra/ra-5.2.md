@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -22,3 +22,4 @@ The organization updates the information system vulnerabilities scanned [prior t
 |---|---|---|
 | ra-5.2_prm_1 | prior to a new scan | Choose one or more: organization-defined frequency; prior to a new scan; when new vulnerabilities are identified and reported |
 | ra-5.2_prm_2 |  | organization-defined frequency |
+

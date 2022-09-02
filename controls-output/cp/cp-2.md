@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -57,3 +57,4 @@ Contingency planning for information systems is part of an overall organizationa
 | cp-2_prm_2 |  | organization-defined key contingency personnel (identified by name and/or by role) and organizational elements |
 | cp-2_prm_3 | annually or within 90 calendar days of significant changes | organization-defined frequency |
 | cp-2_prm_4 |  | organization-defined key contingency personnel (identified by name and/or by role) and organizational elements |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ Privileged accounts, including super user accounts, are typically described as s
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-6.5_prm_1 |  | organization-defined personnel or roles |
+

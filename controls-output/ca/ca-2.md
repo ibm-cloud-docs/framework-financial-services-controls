@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -44,3 +44,4 @@ Organizations assess security controls in organizational information systems and
 |---|---|---|
 | ca-2_prm_1 | at least annually | organization-defined frequency |
 | ca-2_prm_2 | individuals or roles to include the customer management | organization-defined individuals or roles |
+

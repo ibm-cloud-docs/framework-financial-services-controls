@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -17,3 +17,5 @@ subcollection: controls
 {: #requirements}
 
 The information system implements multifactor authentication for network access to privileged accounts.
+
+

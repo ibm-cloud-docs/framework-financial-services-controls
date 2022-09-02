@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ This control enhancement focuses on the creation of strong passwords and the cha
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ia-5.4_prm_1 |  | organization-defined requirements |
+

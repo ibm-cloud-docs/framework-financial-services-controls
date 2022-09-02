@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -17,3 +17,5 @@ subcollection: controls
 {: #requirements}
 
 Services and/or applications that are prohibited by the customer shall not be deployed in the FSS Cloud. Prohibited items will be negotiated directly with the customer.
+
+

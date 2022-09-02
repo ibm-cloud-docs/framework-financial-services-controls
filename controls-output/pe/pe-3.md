@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -51,3 +51,4 @@ This control applies to organizational employees and visitors. Individuals (e.g.
 | pe-3_prm_7 |  | organization-defined physical access devices |
 | pe-3_prm_8 | at least annually | organization-defined frequency |
 | pe-3_prm_9 | at least annually | organization-defined frequency |
+

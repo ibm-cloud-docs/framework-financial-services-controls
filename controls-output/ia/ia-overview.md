@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IA - Identification and Authentication
+# Identification and Authentication (IA)
 {: #ia-overview}
 
-The Identification and Authentication family consists of the controls that follow.
+The Identification and Authentication (IA) family consists of the controls that follow.
 
 - [IA-1 - Identification And Authentication Policy And Procedures](/docs/controls?topic=controls-ia-1)
 - [IA-2 - Identification And Authentication (Organizational Users)](/docs/controls?topic=controls-ia-2)

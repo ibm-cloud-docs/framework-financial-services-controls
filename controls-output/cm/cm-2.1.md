@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -28,3 +28,4 @@ The organization reviews and updates the baseline configuration of the informati
 |---|---|---|
 | cm-2.1_prm_1 | at least annually | organization-defined frequency |
 | cm-2.1_prm_2 | to include when directed by IBM and/or customer | Assignment organization-defined circumstances |
+

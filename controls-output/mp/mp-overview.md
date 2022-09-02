@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# MP - Media Protection
+# Media Protection (MP)
 {: #mp-overview}
 
-The Media Protection family consists of the controls that follow.
+The Media Protection (MP) family consists of the controls that follow.
 
 - [MP-1 - Media Protection Policy And Procedures](/docs/controls?topic=controls-mp-1)
 - [MP-2 - Media Access](/docs/controls?topic=controls-mp-2)

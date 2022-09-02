@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -37,3 +37,4 @@ This control applies to dedicated connections between information systems (i.e.,
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ca-3_prm_1 | at least annually and on input from the customer | organization-defined frequency |
+

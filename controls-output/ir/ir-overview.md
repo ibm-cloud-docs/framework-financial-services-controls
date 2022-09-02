@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IR - Incident Response
+# Incident Response (IR)
 {: #ir-overview}
 
-The Incident Response family consists of the controls that follow.
+The Incident Response (IR) family consists of the controls that follow.
 
 - [IR-1 - Incident Response Policy And Procedures](/docs/controls?topic=controls-ir-1)
 - [IR-2 - Incident Response Training](/docs/controls?topic=controls-ir-2)

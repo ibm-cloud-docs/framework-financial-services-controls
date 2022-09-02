@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -25,3 +25,5 @@ The organization must have oversight and controls on activities they outsource t
 - \[c\] Review of subcontractor testing results and validation that any findings generated are remediated and monitored to closure, with critical findings being addressed within 45 days of issue identification
 
 - \[d\] Review of subcontractor response framework to ensure adequate capabilities are in place for rapid assembly and response in the event of a disruption
+
+

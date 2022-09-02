@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# MA - Maintenance
+# Maintenance (MA)
 {: #ma-overview}
 
-The Maintenance family consists of the controls that follow.
+The Maintenance (MA) family consists of the controls that follow.
 
 - [MA-1 - System Maintenance Policy And Procedures](/docs/controls?topic=controls-ma-1)
 - [MA-2 - Controlled Maintenance](/docs/controls?topic=controls-ma-2)

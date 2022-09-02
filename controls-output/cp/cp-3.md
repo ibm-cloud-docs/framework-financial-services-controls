@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -33,3 +33,4 @@ Contingency training provided by organizations is linked to the assigned roles a
 |---|---|---|
 | cp-3_prm_1 | 90 days | organization-defined time period |
 | cp-3_prm_2 | at least annually | organization-defined frequency |
+

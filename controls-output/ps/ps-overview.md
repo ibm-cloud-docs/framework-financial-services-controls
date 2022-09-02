@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PS - Personnel Security
+# Personnel Security (PS)
 {: #ps-overview}
 
-The Personnel Security family consists of the controls that follow.
+The Personnel Security (PS) family consists of the controls that follow.
 
 - [PS-1 - Personnel Security Policy And Procedures](/docs/controls?topic=controls-ps-1)
 - [PS-2 - Position Risk Designation](/docs/controls?topic=controls-ps-2)

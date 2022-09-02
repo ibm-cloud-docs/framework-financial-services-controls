@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# SA - System and Services Acquisition
+# System and Services Acquisition (SA)
 {: #sa-overview}
 
-The System and Services Acquisition family consists of the controls that follow.
+The System and Services Acquisition (SA) family consists of the controls that follow.
 
 - [SA-1 - System And Services Acquisition Policy And Procedures](/docs/controls?topic=controls-sa-1)
 - [SA-2 - Allocation Of Resources](/docs/controls?topic=controls-sa-2)

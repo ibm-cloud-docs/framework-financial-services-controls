@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# PE - Physical and Environmental Protection
+# Physical and Environmental Protection (PE)
 {: #pe-overview}
 
-The Physical and Environmental Protection family consists of the controls that follow.
+The Physical and Environmental Protection (PE) family consists of the controls that follow.
 
 - [PE-1 - Physical And Environmental Protection Policy And Procedures](/docs/controls?topic=controls-pe-1)
 - [PE-2 - Physical Access Authorizations](/docs/controls?topic=controls-pe-2)

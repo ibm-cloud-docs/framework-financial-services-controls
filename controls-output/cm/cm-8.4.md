@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ Identifying individuals who are both responsible and accountable for administeri
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | cm-8.4_prm_1 | asset owner/custodian | Choose one or more: name; position; role |
+

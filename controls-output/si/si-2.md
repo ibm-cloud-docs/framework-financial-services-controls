@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -41,3 +41,4 @@ Organizations identify information systems affected by announced software flaws 
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | si-2_prm_1 | RA-5 (d) timeframes | organization-defined time period |
+

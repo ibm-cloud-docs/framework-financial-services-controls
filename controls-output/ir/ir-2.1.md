@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -17,3 +17,5 @@ subcollection: controls
 {: #requirements}
 
 The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
+
+

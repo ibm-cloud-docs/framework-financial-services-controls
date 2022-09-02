@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,4 @@ Organizations specify the information system components that result in increased
 |---|---|---|
 | ma-6_prm_1 |  | organization-defined information system components |
 | ma-6_prm_2 |  | organization-defined time period |
+

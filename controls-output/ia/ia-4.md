@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -45,3 +45,4 @@ Common device identifiers include, for example, media access control (MAC), Inte
 | ia-4_prm_1 |  | organization-defined personnel or roles |
 | ia-4_prm_2 | at least two (2) years | organization-defined time period |
 | ia-4_prm_3 | ninety (90) calendar days for user identifiers | organization-defined time period of inactivity |
+

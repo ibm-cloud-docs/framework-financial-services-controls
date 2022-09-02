@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# ESA - Accessibility Guidelines
+# Accessibility Guidelines (ESA)
 {: #esa-overview}
 
-The Accessibility Guidelines family consists of the controls that follow.
+The Accessibility Guidelines (ESA) family consists of the controls that follow.
 
 - [ESA-1 - Accessibility Guidelines](/docs/controls?topic=controls-esa-1)
 - [ESA-2 - Support Desk Tooling And Technology](/docs/controls?topic=controls-esa-2)

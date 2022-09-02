@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -29,3 +29,4 @@ Information system media includes both digital and non-digital media. Digital me
 | mp-7_prm_2 | Assignment: organization-defined types of information system media | organization-defined types of information system media |
 | mp-7_prm_3 | Assignment: organization-defined information systems or system components | organization-defined information systems or system components |
 | mp-7_prm_4 | Assignment: organization-defined security safeguards | organization-defined security safeguards |
+

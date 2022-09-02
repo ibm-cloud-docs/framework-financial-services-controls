@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,4 @@ In certain situations, the nature of the vulnerability scanning may be more intr
 |---|---|---|
 | ra-5.5_prm_1 | operating systems, databases, container images, and web applications | organization-identified information system components |
 | ra-5.5_prm_2 | vulnerability scans | organization-defined vulnerability scanning activities |
+

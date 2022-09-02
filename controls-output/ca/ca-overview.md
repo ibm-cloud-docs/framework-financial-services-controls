@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# CA - Security Assessment and Authorization
+# Security Assessment and Authorization (CA)
 {: #ca-overview}
 
-The Security Assessment and Authorization family consists of the controls that follow.
+The Security Assessment and Authorization (CA) family consists of the controls that follow.
 
 - [CA-1 - Security Assessment And Authorization Policy And Procedures](/docs/controls?topic=controls-ca-1)
 - [CA-2 - Security Assessments](/docs/controls?topic=controls-ca-2)

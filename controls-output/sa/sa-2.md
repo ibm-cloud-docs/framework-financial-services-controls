@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -28,3 +28,5 @@ The organization:
 {: #supplemental-guidance}
 
 Resource allocation for information security includes funding for the initial information system or information system service acquisition and funding for the sustainment of the system/service.
+
+

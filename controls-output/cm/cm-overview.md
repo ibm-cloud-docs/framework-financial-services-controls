@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# CM - Configuration Management
+# Configuration Management (CM)
 {: #cm-overview}
 
-The Configuration Management family consists of the controls that follow.
+The Configuration Management (CM) family consists of the controls that follow.
 
 - [CM-1 - Configuration Management Policy And Procedures](/docs/controls?topic=controls-cm-1)
 - [CM-2 - Baseline Configuration](/docs/controls?topic=controls-cm-2)

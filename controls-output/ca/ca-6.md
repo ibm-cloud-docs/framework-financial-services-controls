@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Security authorizations are official management decisions, conveyed through auth
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ca-6_prm_1 | at least every three (3) years or when a significant change occurs | organization-defined frequency |
+

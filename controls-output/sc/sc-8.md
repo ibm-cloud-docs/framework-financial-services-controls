@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ This control applies to both internal and external networks and all types of inf
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | sc-8_prm_1 | confidentiality, integrity, AND availability | Choose one or more: confidentiality; integrity |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,4 @@ Physical security safeguards applied to information system distribution and tran
 |---|---|---|
 | pe-4_prm_1 |  | organization-defined information system distribution and transmission lines |
 | pe-4_prm_2 |  | organization-defined security safeguards |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Encrypting information for transmission protects information from unauthorized d
 |---|---|---|
 | sc-8.1_prm_1 | prevent unauthorized disclosure of information, highest financial institution standard (FIPS140-2 L3) for Highly Restricted Confidential Information (HRCI) | Choose one or more: prevent unauthorized disclosure of information; detect changes to information |
 | sc-8.1_prm_2 | none | organization-defined alternative physical safeguards |
+

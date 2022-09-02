@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -74,7 +74,7 @@ Information system account types include, for example, individual, shared, group
 | ac-2_prm_4 | quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access | organization-defined frequency |
 
 ## Control What is the solution and how is it implemented?
-{: #guidance}
+{: #control-parameters}
 
 ### Part a.
 
@@ -305,3 +305,5 @@ List of all shared/group accounts including the following:
 - users with access to shared/group account
 - last credential change date
 - Evidence of process for reissuing of shared account credentials
+
+

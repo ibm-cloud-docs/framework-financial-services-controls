@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -46,3 +46,4 @@ Individual authenticators include, for example, passwords, tokens, biometrics, P
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ia-5_prm_1 | 90 days for user passwords and 365 days for system-to-system authenticators | organization-defined time period by authenticator type |
+

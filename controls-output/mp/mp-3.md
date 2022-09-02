@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -31,3 +31,4 @@ The term security marking refers to the application/use of human-readable securi
 |---|---|---|
 | mp-3_prm_1 | no removable media types | organization-defined types of information system media |
 | mp-3_prm_2 | Guidance: Second parameter not-applicable | organization-defined controlled areas |
+

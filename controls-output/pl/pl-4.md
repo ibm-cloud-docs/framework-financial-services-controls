@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -63,3 +63,4 @@ This control enhancement applies to organizational users. Organizations consider
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | pl-4_prm_1 | at least every annually | organization-defined frequency |
+

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -37,3 +37,4 @@ Separation of duties addresses the potential for abuse of authorized privileges 
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-5_prm_1 |  | organization-defined duties of individuals |
+

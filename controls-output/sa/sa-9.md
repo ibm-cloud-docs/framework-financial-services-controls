@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -42,3 +42,4 @@ External information system services are services that are implemented outside o
 |---|---|---|
 | sa-9_prm_1 | business continuity service level agreements | organization-defined security controls |
 | sa-9_prm_2 | Continuous monitoring requirements must be met for external systems where customer information is processed or stored | organization-defined processes, methods, and techniques |
+

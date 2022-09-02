@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -32,3 +32,4 @@ Organizations test incident response capabilities to determine the overall effec
 |---|---|---|
 | ir-3_prm_1 | at least annually | organization-defined frequency |
 | ir-3_prm_2 |  | organization-defined tests |
+

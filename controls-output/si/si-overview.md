@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 
@@ -12,10 +12,10 @@ subcollection: controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-# SI - System and Information Integrity
+# System and Information Integrity (SI)
 {: #si-overview}
 
-The System and Information Integrity family consists of the controls that follow.
+The System and Information Integrity (SI) family consists of the controls that follow.
 
 - [SI-1 - System And Information Integrity Policy And Procedures](/docs/controls?topic=controls-si-1)
 - [SI-2 - Flaw Remediation](/docs/controls?topic=controls-si-2)

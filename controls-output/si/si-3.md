@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -40,3 +40,4 @@ Information system entry and exit points include, for example, firewalls, electr
 | si-3_prm_2 | to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs) | Choose one or more: endpoint; network entry/exit points |
 | si-3_prm_3 | to include alerting administrator or defined security personnel | Choose one or more: block malicious code; quarantine malicious code; send alert to administrator; organization-defined action |
 | si-3_prm_4 |  | organization-defined action |
+

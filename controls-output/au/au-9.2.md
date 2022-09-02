@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -26,3 +26,4 @@ This control enhancement helps to ensure that a compromise of the information sy
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | au-9.2_prm_1 | at least weekly | organization-defined frequency |
+

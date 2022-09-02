@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -38,3 +38,4 @@ This control addresses the establishment of policy and procedures for the effect
 | cp-1_prm_1 |  | organization-defined personnel or roles |
 | cp-1_prm_2 | at least annually | organization-defined frequency |
 | cp-1_prm_3 | at least annually | organization-defined frequency |
+

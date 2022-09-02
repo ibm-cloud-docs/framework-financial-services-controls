@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -35,3 +35,4 @@ Information flow control regulates where information is allowed to travel within
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-4_prm_1 |  | organization-defined information flow control policies |
+

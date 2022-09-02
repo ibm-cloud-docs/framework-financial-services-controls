@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,4 @@ Penetration testing is a specialized type of assessment conducted on information
 |---|---|---|
 | ca-8_prm_1 | prior to production use, at least annually, and after significant changes | organization-defined frequency |
 | ca-8_prm_2 | applications that are utilized by FS-ready public cloud customers or process customer’s data | organization-defined information systems or system components |
+

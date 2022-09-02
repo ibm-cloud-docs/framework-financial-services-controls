@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -102,3 +102,4 @@ Configuration change controls for organizational information systems involve the
 | cm-3_prm_3 |  | Choose one or more: organization-defined frequency; organization-defined configuration change conditions |
 | cm-3_prm_4 |  | organization-defined frequency |
 | cm-3_prm_5 |  | organization-defined configuration change conditions |
+

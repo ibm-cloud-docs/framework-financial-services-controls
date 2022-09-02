@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -38,3 +38,4 @@ Alternate processing sites are sites that are geographically distinct from prima
 |---|---|---|
 | cp-7_prm_1 | customer applications must failover production workload to an alternate site for a period of five (5) consecutive days | organization-defined information system operations |
 | cp-7_prm_2 | customer defined RTO/RPO for application | organization-defined time period consistent with recovery time and recovery point objectives |
+

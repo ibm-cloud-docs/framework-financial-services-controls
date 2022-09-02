@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-01"
+lastupdated: "2022-09-02"
 keywords: 
 subcollection: controls
 ---
@@ -33,3 +33,4 @@ Organizations may choose to carry out the contingency planning activities in thi
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | cp-2.3_prm_1 |  | organization-defined time period |
+
