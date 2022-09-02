@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-08-29"
+lastupdated: "2022-09-02"
 
 keywords: 
 
@@ -24,7 +24,7 @@ The technology-agnostic control requirements defined in the framework were built
 
 See [{[controls-framework-document-full]}](https://cloud.ibm.com/media/docs/downloads/framework-financial-services/IBM_Cloud_Framework_for_Financial_Services_-_Control_Requirements_v1.1.0.xlsx){: external} for a spreadsheet of the control requirements.
 
-See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Services]() for reference architectures and prescriptive implementation guidance to learn more about how best to meet the control requirements.
+See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Services](/docs/framework-financial-services) for reference architectures and prescriptive implementation guidance to learn more about how best to meet the control requirements.
 {: note}
 
 ## Control families

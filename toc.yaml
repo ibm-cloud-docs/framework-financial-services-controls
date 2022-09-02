@@ -8,13 +8,9 @@ toc:
     label: IBM Cloud Framework for Financial Services - Control Requirements (DEMO)
   entries:
   - navgroup:
-      id: learn
-      topics:
-      - getting-started.md
-  - navgroup:
       id: reference
       topics:
-      - topic: prime.md
+      - topic: overview.md
         navtitle: Overview
       - topicgroup:
           label: AC - Access Control
