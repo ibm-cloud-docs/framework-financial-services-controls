@@ -54,28 +54,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control What is the solution and how is it implemented?](/docs/controls?topic=controls-ac-2#control-parameters)
 
-    * [Part a.](/docs/controls?topic=controls-ac-2#part-a)
-
-    * [Part b.](/docs/controls?topic=controls-ac-2#part-b)
-
-    * [Part c.](/docs/controls?topic=controls-ac-2#part-c)
-
-    * [Part d.](/docs/controls?topic=controls-ac-2#part-d)
-
-    * [Part e.](/docs/controls?topic=controls-ac-2#part-e)
-
-    * [Part f.](/docs/controls?topic=controls-ac-2#part-f)
-
-    * [Part g.](/docs/controls?topic=controls-ac-2#part-g)
-
-    * [Part h.](/docs/controls?topic=controls-ac-2#part-h)
-
-    * [Part i.](/docs/controls?topic=controls-ac-2#part-i)
-
-    * [Part j.](/docs/controls?topic=controls-ac-2#part-j)
-
-    * [Part k.](/docs/controls?topic=controls-ac-2#part-k)
-
 [AC-2 (1) - Automated System Account Management](/docs/controls?topic=controls-ac-2.1#ac-2.1)
 
 * [Requirements](/docs/controls?topic=controls-ac-2.1#requirements)
@@ -1686,10 +1664,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control Supplemental Guidance](/docs/controls?topic=controls-sc-28#supplemental-guidance)
 
 * [Control What is the solution and how is it implemented?](/docs/controls?topic=controls-sc-28#control-parameters)
-
-    * [Implementation Guidance](/docs/controls?topic=controls-sc-28#implementation-guidance)
-
-    * [Evidence Guidance](/docs/controls?topic=controls-sc-28#evidence-guidance)
 
 [SC-28 (1) - Cryptographic Protection](/docs/controls?topic=controls-sc-28.1#sc-28.1)
 

@@ -8,7 +8,7 @@ toc:
     label: IBM Cloud Framework for Financial Services - Control Requirements (DEMO)
   entries:
   - navgroup:
-      id: help
+      id: reference
       topics:
       - topic: overview.md
         navtitle: Overview
