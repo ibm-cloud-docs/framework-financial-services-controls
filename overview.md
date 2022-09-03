@@ -2,55 +2,55 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
-
+lastupdated: "2022-09-03"
 keywords: 
-
-subcollection: controls
+subcollection: ibmcloud-ciso
 
 ---
+
+
 
 {{site.data.keyword.attribute-definition-list}}
 
 
-#  {{site.data.keyword.framework-fs_notm}} - Control Requirements (DEMO)
+
+# IBM Cloud Framework for Financial Services - Control Requirements (DEMO)
 {: #overview}
 
-[{{site.data.keyword.cloud_notm}} for Financial Services™](https://www.ibm.com/cloud/financial-services){: external} is designed to build trust and enable a transparent public cloud ecosystem with the features for security, compliance, and resiliency that financial institutions require. Financial institutions can confidently host their mission-critical applications in the cloud and transact quickly and efficiently. With a large partner ecosystem of independent software vendors (ISVs), Software as a Service (SaaS), and fintech partners, {{site.data.keyword.cloud_notm}} for Financial Services offers a new generation of cloud for the enterprise. Financial institutions can now deploy on public cloud to enable innovation and deliver new outstanding customer experiences, while managing stringent industry regulations for sensitive data and complex workloads.
+**WARNING: FAKE/INCORRECT CONTENT IN THIS REPO**
 
-The {{site.data.keyword.framework-fs_full}} provides a comprehensive set of control requirements designed to help address the security requirements and regulatory compliance obligations of financial institutions and cloud best practices. The cloud best practices include a shared responsibility model across financial institutions, application providers, and {{site.data.keyword.cloud_notm}}.
+The pages here are a demonstration of how the prime guidance could be presented via IBM Cloud docs and automatically updated whenever a change is made to the source material.
+{: shortdesc}
 
-The technology-agnostic control requirements defined in the framework were built by the industry for the industry. The framework contains 565 control requirements that span 7 focus areas and 21 control families. The control requirements were initially based on [NIST 800-53 Rev 4](https://csrc.nist.gov/Projects/risk-management/sp800-53-controls/release-search#!/800-53?version=4.0){: external} and have been enhanced based on feedback from leading industry partners.
+The content here is demonstration/test only, DO NOT use it as a source of reference as it is outdated/incorrect/fake. 
 
-
-See [{{site.data.keyword.framework-fs_notm}} - Control Requirements](https://cloud.ibm.com/media/docs/downloads/framework-financial-services/IBM_Cloud_Framework_for_Financial_Services_-_Control_Requirements_v1.1.0.xlsx){: external} for a spreadsheet of the control requirements.
-
-See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Services](/docs/framework-financial-services) for reference architectures and prescriptive implementation guidance to learn more about how best to meet the control requirements.
-{: note}
 
 ## Control families
 {: #control-families}
 
 The framework consists of the 21 control families that follow.
 
-- [Access Control (AC)](/docs/controls?topic=controls-ac-overview)
-- [Awareness and Training (AT)](/docs/controls?topic=controls-at-overview)
-- [Audit and Accountability (AU)](/docs/controls?topic=controls-au-overview)
-- [Security Assessment and Authorization (CA)](/docs/controls?topic=controls-ca-overview)
-- [Configuration Management (CM)](/docs/controls?topic=controls-cm-overview)
-- [Contingency Planning (CP)](/docs/controls?topic=controls-cp-overview)
-- [Identification and Authentication (IA)](/docs/controls?topic=controls-ia-overview)
-- [Incident Response (IR)](/docs/controls?topic=controls-ir-overview)
-- [Maintenance (MA)](/docs/controls?topic=controls-ma-overview)
-- [Media Protection (MP)](/docs/controls?topic=controls-mp-overview)
-- [Physical and Environmental Protection (PE)](/docs/controls?topic=controls-pe-overview)
-- [Planning (PL)](/docs/controls?topic=controls-pl-overview)
-- [Personnel Security (PS)](/docs/controls?topic=controls-ps-overview)
-- [Risk Assessment (RA)](/docs/controls?topic=controls-ra-overview)
-- [System and Services Acquisition (SA)](/docs/controls?topic=controls-sa-overview)
-- [System and Communications Protection (SC)](/docs/controls?topic=controls-sc-overview)
-- [System and Information Integrity (SI)](/docs/controls?topic=controls-si-overview)
-- [Program Management (PM)](/docs/controls?topic=controls-pm-overview)
-- [Enterprise Data Management (EDM)](/docs/controls?topic=controls-edm-overview)
-- [Accessibility Guidelines (ESA)](/docs/controls?topic=controls-esa-overview)
-- [Privacy](/docs/controls?topic=controls-privacy-overview)
+- [Access Control (AC)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ac-overview)
+- [Awareness and Training (AT)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-at-overview)
+- [Audit and Accountability (AU)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-au-overview)
+- [Security Assessment and Authorization (CA)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ca-overview)
+- [Configuration Management (CM)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-cm-overview)
+- [Contingency Planning (CP)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-cp-overview)
+- [Identification and Authentication (IA)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ia-overview)
+- [Incident Response (IR)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ir-overview)
+- [Maintenance (MA)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ma-overview)
+- [Media Protection (MP)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-mp-overview)
+- [Physical and Environmental Protection (PE)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-pe-overview)
+- [Planning (PL)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-pl-overview)
+- [Personnel Security (PS)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ps-overview)
+- [Risk Assessment (RA)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-ra-overview)
+- [System and Services Acquisition (SA)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-sa-overview)
+- [System and Communications Protection (SC)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-sc-overview)
+- [System and Information Integrity (SI)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-si-overview)
+- [Program Management (PM)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-pm-overview)
+- [Enterprise Data Management (EDM)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-edm-overview)
+- [Accessibility Guidelines (ESA)](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-esa-overview)
+- [Privacy](/docs/ibmcloud-ciso?topic=ibmcloud-ciso-privacy-overview)
+
+
+
