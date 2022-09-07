@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -17,5 +17,6 @@ subcollection: controls
 {: #requirements}
 
 The organization connects and configures individual intrusion detection tools into an information system-wide intrusion detection system.
+
 
 

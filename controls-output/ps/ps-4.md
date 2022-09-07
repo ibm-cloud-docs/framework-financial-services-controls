@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -41,4 +41,5 @@ Information system-related property includes, for example, hardware authenticati
 | ps-4_prm_2 |  | organization-defined information security topics |
 | ps-4_prm_3 |  | organization-defined personnel or roles |
 | ps-4_prm_4 | same day | organization-defined time period |
+
 

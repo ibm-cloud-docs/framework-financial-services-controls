@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -36,4 +36,5 @@ This control addresses actions taken by organizations in the design and developm
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | pl-8_prm_1 | at least annually or when a significant change occurs | organization-defined frequency |
+
 

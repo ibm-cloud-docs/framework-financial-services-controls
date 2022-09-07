@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -22,5 +22,6 @@ The organization employs automated mechanisms to integrate audit review, analysi
 {: #supplemental-guidance}
 
 Organizational processes benefiting from integrated audit review, analysis, and reporting include, for example, incident response, continuous monitoring, contingency planning, and Inspector General audits.
+
 
 

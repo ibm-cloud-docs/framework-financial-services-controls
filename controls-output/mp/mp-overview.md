@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -26,6 +26,5 @@ The Media Protection (MP) family consists of the controls that follow.
 - [MP-5 - Media Transport](/docs/controls?topic=controls-mp-5)
 - [MP-6 - Media Sanitization](/docs/controls?topic=controls-mp-6)
 - [MP-7 - Media Use](/docs/controls?topic=controls-mp-7)
-
 
 

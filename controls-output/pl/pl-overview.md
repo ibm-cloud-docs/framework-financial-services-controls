@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -24,6 +24,5 @@ The Planning (PL) family consists of the controls that follow.
 - [PL-4 - Rules Of Behavior](/docs/controls?topic=controls-pl-4)
 - [PL-4 (1) - Social Media And Networking Restrictions](/docs/controls?topic=controls-pl-4.1)
 - [PL-8 - Information Security Architecture](/docs/controls?topic=controls-pl-8)
-
 
 

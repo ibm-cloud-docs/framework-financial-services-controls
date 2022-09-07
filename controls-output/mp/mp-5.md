@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -35,4 +35,5 @@ Information system media includes both digital and non-digital media. Digital me
 |---|---|---|
 | mp-5_prm_1 | all media with sensitive information | organization-defined types of information system media |
 | mp-5_prm_2 | for digital media, encryption using a FIPS 140-2 validated encryption module; for non-digital media, secured in locked container | organization-defined security safeguards |
+
 

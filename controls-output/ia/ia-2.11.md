@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -26,4 +26,5 @@ For remote access to privileged/non-privileged accounts, the purpose of requirin
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ia-2.11_prm_1 | FIPS 140-2 level 2 capable or above or equivalent | organization-defined strength of mechanism requirements |
+
 

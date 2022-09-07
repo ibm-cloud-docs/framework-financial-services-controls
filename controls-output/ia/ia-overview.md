@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -37,6 +37,5 @@ The Identification and Authentication (IA) family consists of the controls that 
 - [IA-6 - Authenticator Feedback](/docs/controls?topic=controls-ia-6)
 - [IA-7 - Cryptographic Module Authentication](/docs/controls?topic=controls-ia-7)
 - [IA-8 - Identification And Authentication (Non-Organizational Users)](/docs/controls?topic=controls-ia-8)
-
 
 

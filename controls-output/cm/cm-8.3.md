@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -32,4 +32,5 @@ This control enhancement is applied in addition to the monitoring for unauthoriz
 | cm-8.3_prm_1 | Continuously, using automated mechanisms with a maximum five-minute delay in detection | organization-defined frequency |
 | cm-8.3_prm_2 |  | Choose one or more: disables network access by such components; isolates the components; notifies organization-defined personnel or roles |
 | cm-8.3_prm_3 |  | organization-defined personnel or roles |
+
 

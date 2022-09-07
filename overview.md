@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -56,6 +56,5 @@ The framework consists of the 21 control families that follow.
 - [Enterprise Data Management (EDM)](/docs/controls?topic=controls-edm-overview)
 - [Accessibility Guidelines (ESA)](/docs/controls?topic=controls-esa-overview)
 - [Privacy](/docs/controls?topic=controls-privacy-overview)
-
 
 

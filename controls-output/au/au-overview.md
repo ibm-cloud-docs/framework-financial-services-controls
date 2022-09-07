@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -37,6 +37,5 @@ The Audit and Accountability (AU) family consists of the controls that follow.
 - [AU-12 - Audit Generation](/docs/controls?topic=controls-au-12)
 - [AU-13 - Monitoring For Information Disclosure](/docs/controls?topic=controls-au-13)
 - [AU-14 - Session Audit](/docs/controls?topic=controls-au-14)
-
 
 

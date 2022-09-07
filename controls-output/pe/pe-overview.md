@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -37,6 +37,5 @@ The Physical and Environmental Protection (PE) family consists of the controls t
 - [PE-14 - Temperature And Humidity Controls](/docs/controls?topic=controls-pe-14)
 - [PE-15 - Water Damage Protection](/docs/controls?topic=controls-pe-15)
 - [PE-17 - Alternate Work Site](/docs/controls?topic=controls-pe-17)
-
 
 

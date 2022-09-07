@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -55,6 +55,5 @@ The Access Control (AC) family consists of the controls that follow.
 - [AC-20 - Use Of External Information Systems](/docs/controls?topic=controls-ac-20)
 - [AC-20 (1) - Limits On Authorized Use](/docs/controls?topic=controls-ac-20.1)
 - [AC-21 - Information Sharing](/docs/controls?topic=controls-ac-21)
-
 
 

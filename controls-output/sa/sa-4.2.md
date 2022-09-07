@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -28,4 +28,5 @@ Organizations may require different levels of detail in design and implementatio
 | sa-4.2_prm_1 |  | Choose one or more: security-relevant external system interfaces; high-level design; low-level design; source code or hardware schematics; organization-defined design/implementation information |
 | sa-4.2_prm_2 |  | organization-defined design/implementation information |
 | sa-4.2_prm_3 |  | organization-defined level of detail |
+
 

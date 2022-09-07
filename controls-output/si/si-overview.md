@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -37,6 +37,5 @@ The System and Information Integrity (SI) family consists of the controls that f
 - [SI-10 - Information Input Validation](/docs/controls?topic=controls-si-10)
 - [SI-11 - Error Handling](/docs/controls?topic=controls-si-11)
 - [SI-12 - Information Handling And Retention](/docs/controls?topic=controls-si-12)
-
 
 

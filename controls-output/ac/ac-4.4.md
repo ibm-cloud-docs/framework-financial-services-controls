@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -27,4 +27,5 @@ This control is required for ISVs; This control is NOT required for IBM Cloud Pl
 |---|---|---|
 | ac-4.4_prm_1 |  | Choose one or more: decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; organization-defined procedure or method |
 | ac-4.4_prm_2 |  | organization-defined procedure or method |
+
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -27,4 +27,5 @@ External networks are networks outside of organizational control. A proxy server
 |---|---|---|
 | sc-7.8_prm_1 |  | organization-defined internal communications traffic |
 | sc-7.8_prm_2 |  | organization-defined external networks |
+
 

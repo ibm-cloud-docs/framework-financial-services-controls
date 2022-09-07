@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -30,4 +30,5 @@ This control enhancement requires organizations to determine the current time it
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | si-2.3_prm_1 |  | organization-defined benchmarks |
+
 

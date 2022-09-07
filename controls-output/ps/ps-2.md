@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -32,4 +32,5 @@ Position risk designations reflect Office of Personnel Management policy and gui
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ps-2_prm_1 | at least every three years | organization-defined frequency |
+
 

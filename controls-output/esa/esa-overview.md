@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -25,6 +25,5 @@ The Accessibility Guidelines (ESA) family consists of the controls that follow.
 - [ESA-4 - Tracking And Removal Of Npt](/docs/controls?topic=controls-esa-4)
 - [ESA-5 - Subcontractor Risk Management](/docs/controls?topic=controls-esa-5)
 - [ESA-6 - Source Code Management](/docs/controls?topic=controls-esa-6)
-
 
 

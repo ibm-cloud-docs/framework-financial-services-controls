@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -21,4 +21,5 @@ The organization employs a penetration testing process that includes [annually],
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | pe-3.6_prm_1 | annually | organization-defined frequency |
+
 

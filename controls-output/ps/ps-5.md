@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -37,4 +37,5 @@ This control applies when reassignments or transfers of individuals are permanen
 | ps-5_prm_2 | two (2) days following the formal transfer action | organization-defined time period following the formal transfer action |
 | ps-5_prm_3 |  | organization-defined personnel or roles |
 | ps-5_prm_4 | two (2) days of the formal transfer action | organization-defined time period |
+
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -26,4 +26,5 @@ This control enhancement limits exposure when operating from within privileged a
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-6.2_prm_1 | all security functions | organization-defined security functions or security-relevant information |
+
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -42,4 +42,5 @@ System use notifications can be implemented using messages or warning banners di
 |---|---|---|
 | ac-8_prm_1 |  | organization-defined system use notification message or banner |
 | ac-8_prm_2 |  | organization-defined conditions |
+
 

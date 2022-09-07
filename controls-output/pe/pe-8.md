@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -31,4 +31,5 @@ Visitor access records include, for example, names and organizations of persons 
 |---|---|---|
 | pe-8_prm_1 | for a minimum of one (1) year | organization-defined time period |
 | pe-8_prm_2 | at least monthly | organization-defined frequency |
+
 

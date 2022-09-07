@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -27,3 +27,19 @@ This control applies to both internal and external networks and all types of inf
 |---|---|---|
 | sc-8_prm_1 | confidentiality, integrity, AND availability | Choose one or more: confidentiality; integrity |
 
+
+## IBM Cloud for Financial Services Profile
+{: #scc-fs-cloud-profile}
+
+The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+- [3000103: Check whether Cloud Object Storage is accessible only through HTTPS](https://cloud.ibm.com/security-compliance/goals/3000103?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000407: Check whether Virtual Private Cloud (VPC) is configured with at least TLS v1.2 for all inbound traffic through a load balancer](https://cloud.ibm.com/security-compliance/goals/3000407?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000432: Check whether Application Load Balancer for VPC pool uses the HTTPS protocol for HTTPS listeners](https://cloud.ibm.com/security-compliance/goals/3000432?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000433: Check whether Application Load Balancer for VPC is configured to convert HTTP client requests to HTTPS](https://cloud.ibm.com/security-compliance/goals/3000433?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000434: Check whether Application Load Balancer for VPC uses HTTPS (SSL & TLS) instead of HTTP](https://cloud.ibm.com/security-compliance/goals/3000434?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000470: Check whether Cloud Internet Services (CIS) has TLS mode set to End-to-End CA signed](https://cloud.ibm.com/security-compliance/goals/3000470?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000701: Check whether App ID webhooks are using HTTPS only](https://cloud.ibm.com/security-compliance/goals/3000701?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000702: Check whether App ID email dispatchers are using HTTPS only](https://cloud.ibm.com/security-compliance/goals/3000702?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000703: Check whether App ID redirect URIs are using HTTPS only](https://cloud.ibm.com/security-compliance/goals/3000703?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000906: Check whether OpenShift Ingress is configured with at least TLS v1.2 for all inbound traffic](https://cloud.ibm.com/security-compliance/goals/3000906?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

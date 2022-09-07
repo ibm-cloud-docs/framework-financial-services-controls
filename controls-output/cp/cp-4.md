@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -50,4 +50,5 @@ Methods for testing contingency plans to determine the effectiveness of the plan
 |---|---|---|
 | cp-4_prm_1 | at least annually | organization-defined frequency |
 | cp-4_prm_2 | functional exercises | organization-defined tests |
+
 

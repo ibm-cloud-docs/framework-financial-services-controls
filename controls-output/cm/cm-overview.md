@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -42,6 +42,5 @@ The Configuration Management (CM) family consists of the controls that follow.
 - [CM-10 - Software Usage Restrictions](/docs/controls?topic=controls-cm-10)
 - [CM-10 (1) - Open Source Software](/docs/controls?topic=controls-cm-10.1)
 - [CM-11 - User-Installed Software](/docs/controls?topic=controls-cm-11)
-
 
 

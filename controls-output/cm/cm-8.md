@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -36,4 +36,5 @@ Organizations may choose to implement centralized information system component i
 |---|---|---|
 | cm-8_prm_1 |  | organization-defined information deemed necessary to achieve effective information system component accountability |
 | cm-8_prm_2 | at least monthly | organization-defined frequency |
+
 

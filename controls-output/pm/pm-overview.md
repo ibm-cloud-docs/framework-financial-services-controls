@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -30,6 +30,5 @@ The Program Management (PM) family consists of the controls that follow.
 - [PM-10 - Security Authorization Process](/docs/controls?topic=controls-pm-10)
 - [PM-11 - Mission/Business Process Definition](/docs/controls?topic=controls-pm-11)
 - [PM-12 - Insider Threat Program](/docs/controls?topic=controls-pm-12)
-
 
 

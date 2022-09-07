@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -28,6 +28,5 @@ The Maintenance (MA) family consists of the controls that follow.
 - [MA-4 (2) - Document Nonlocal Maintenance](/docs/controls?topic=controls-ma-4.2)
 - [MA-5 - Maintenance Personnel](/docs/controls?topic=controls-ma-5)
 - [MA-6 - Timely Maintenance](/docs/controls?topic=controls-ma-6)
-
 
 

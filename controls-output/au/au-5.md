@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -36,4 +36,5 @@ Audit processing failures include, for example, software/hardware errors, failur
 |---|---|---|
 | au-5_prm_1 |  | organization-defined personnel or roles |
 | au-5_prm_2 | organization-defined actions to be taken (overwrite oldest record) | organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records) |
+
 

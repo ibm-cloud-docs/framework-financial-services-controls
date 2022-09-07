@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -31,4 +31,5 @@ The organization can either make a determination of the relative security of the
 |---|---|---|
 | cm-7.1_prm_1 | at least monthly | organization-defined frequency |
 | cm-7.1_prm_2 |  | organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure |
+
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -40,3 +40,20 @@ A well-defined system development life cycle provides the foundation for the suc
 |---|---|---|
 | sa-3_prm_1 |  | organization-defined system development life cycle |
 
+
+## IBM Cloud for Financial Services Profile
+{: #scc-fs-cloud-profile}
+
+The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+### Part a
+{: #scc-fs-cloud-profile-a}
+
+- [3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection](https://cloud.ibm.com/security-compliance/goals/3000611?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints](https://cloud.ibm.com/security-compliance/goals/3000625?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+
+### Part d
+{: #scc-fs-cloud-profile-d}
+
+- [3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection](https://cloud.ibm.com/security-compliance/goals/3000611?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints](https://cloud.ibm.com/security-compliance/goals/3000625?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

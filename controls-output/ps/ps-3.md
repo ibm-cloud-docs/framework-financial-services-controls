@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -30,4 +30,5 @@ Personnel screening and rescreening activities reflect applicable federal laws, 
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ps-3_prm_1 |  | organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening |
+
 

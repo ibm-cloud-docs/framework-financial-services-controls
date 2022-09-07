@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -27,6 +27,5 @@ The Personnel Security (PS) family consists of the controls that follow.
 - [PS-6 - Access Agreements](/docs/controls?topic=controls-ps-6)
 - [PS-7 - Third-Party Personnel Security](/docs/controls?topic=controls-ps-7)
 - [PS-8 - Personnel Sanctions](/docs/controls?topic=controls-ps-8)
-
 
 

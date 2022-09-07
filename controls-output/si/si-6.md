@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -40,4 +40,5 @@ Transitional states for information systems include, for example, system startup
 | si-6_prm_5 | to include system administrators and security personnel | organization-defined personnel or roles |
 | si-6_prm_6 |  | Choose one or more: shuts the information system down; restarts the information system; to include notification of system administrators and security personnel |
 | si-6_prm_7 | to include notification of system administrators and security personnel | organization-defined alternative action(s) |
+
 

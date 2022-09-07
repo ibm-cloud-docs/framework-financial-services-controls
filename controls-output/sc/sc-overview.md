@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -48,6 +48,5 @@ The System and Communications Protection (SC) family consists of the controls th
 - [SC-23 - Session Authenticity](/docs/controls?topic=controls-sc-23)
 - [SC-28 - Protection Of Information At Rest](/docs/controls?topic=controls-sc-28)
 - [SC-28 (1) - Cryptographic Protection](/docs/controls?topic=controls-sc-28.1)
-
 
 

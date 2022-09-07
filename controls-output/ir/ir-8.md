@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -55,4 +55,5 @@ It is important that organizations develop and implement a coordinated approach 
 | ir-8_prm_2 |  | organization-defined incident response personnel (identified by name and/or by role) and organizational elements |
 | ir-8_prm_3 | at least annually | organization-defined frequency |
 | ir-8_prm_4 |  | organization-defined incident response personnel (identified by name and/or by role) and organizational elements |
+
 

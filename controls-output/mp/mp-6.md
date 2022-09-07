@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -31,4 +31,5 @@ This control applies to all information system media, both digital and non-digit
 |---|---|---|
 | mp-6_prm_1 | assets holding customer data | organization-defined information system media |
 | mp-6_prm_2 | customer approved sanitization process corresponding to the customer&#39;s retention schedule | organization-defined sanitization techniques and procedures |
+
 

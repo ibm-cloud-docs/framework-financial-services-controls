@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -41,4 +41,5 @@ This control enhancement applies to single-factor authentication of individuals 
 | ia-5.1_prm_2 | at least one (1) | organization-defined number |
 | ia-5.1_prm_3 | require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours | organization-defined numbers for lifetime minimum, lifetime maximum |
 | ia-5.1_prm_4 | twenty-four (24) | organization-defined number |
+
 

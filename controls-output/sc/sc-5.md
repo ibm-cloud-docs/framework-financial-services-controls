@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -27,4 +27,5 @@ A variety of technologies exist to limit, or in some cases, eliminate the effect
 |---|---|---|
 | sc-5_prm_1 | application and volumetric based attacks (OSI layers 3, 4, 6, and 7) | organization-defined types of denial of service attacks or references to sources for such information |
 | sc-5_prm_2 | annual testing of the documented DoS and DDoS mitigation technologies | organization-defined security safeguards |
+
 

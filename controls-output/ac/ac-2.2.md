@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -27,4 +27,5 @@ This control enhancement requires the removal of both temporary and emergency ac
 |---|---|---|
 | ac-2.2_prm_1 |  | Choose : removes; disables |
 | ac-2.2_prm_2 | no more than 30 days for temporary and emergency account types | organization-defined time period for each type of account |
+
 

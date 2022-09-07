@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -37,4 +37,5 @@ Third-party providers include, for example, service bureaus, contractors, and ot
 |---|---|---|
 | ps-7_prm_1 |  | organization-defined personnel or roles |
 | ps-7_prm_2 | same day | organization-defined time period |
+
 

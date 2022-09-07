@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -39,4 +39,5 @@ Information security program plans can be represented in single documents or com
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | pm-1_prm_1 | at least annually | organization-defined frequency |
+
 

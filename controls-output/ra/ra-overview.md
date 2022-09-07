@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -28,6 +28,5 @@ The Risk Assessment (RA) family consists of the controls that follow.
 - [RA-5 (3) - Breadth / Depth Of Coverage](/docs/controls?topic=controls-ra-5.3)
 - [RA-5 (5) - Privileged Access](/docs/controls?topic=controls-ra-5.5)
 - [RA-5 (6) - Automated Trend Analyses](/docs/controls?topic=controls-ra-5.6)
-
 
 

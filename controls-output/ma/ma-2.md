@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -39,4 +39,5 @@ This control addresses the information security aspects of the information syste
 |---|---|---|
 | ma-2_prm_1 |  | organization-defined personnel or roles |
 | ma-2_prm_2 |  | organization-defined maintenance-related information |
+
 

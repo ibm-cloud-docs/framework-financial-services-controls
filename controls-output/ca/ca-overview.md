@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -29,6 +29,5 @@ The Security Assessment and Authorization (CA) family consists of the controls t
 - [CA-7 - Continuous Monitoring](/docs/controls?topic=controls-ca-7)
 - [CA-7 (1) - Independent Assessment](/docs/controls?topic=controls-ca-7.1)
 - [CA-8 - Penetration Testing](/docs/controls?topic=controls-ca-8)
-
 
 

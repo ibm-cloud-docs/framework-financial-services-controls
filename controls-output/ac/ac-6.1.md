@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -26,4 +26,5 @@ Security functions include, for example, establishing system accounts, configuri
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-6.1_prm_1 |  | organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information |
+
 

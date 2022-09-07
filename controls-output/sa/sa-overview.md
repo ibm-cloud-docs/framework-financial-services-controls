@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -35,6 +35,5 @@ The System and Services Acquisition (SA) family consists of the controls that fo
 - [SA-14 - Criticality Analysis](/docs/controls?topic=controls-sa-14)
 - [SA-15 - Development Process, Standards, And Tools](/docs/controls?topic=controls-sa-15)
 - [SA-15 (9) - Use Of Live Data](/docs/controls?topic=controls-sa-15.9)
-
 
 

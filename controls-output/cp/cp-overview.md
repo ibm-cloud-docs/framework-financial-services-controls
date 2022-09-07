@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -41,6 +41,5 @@ The Contingency Planning (CP) family consists of the controls that follow.
 - [CP-9 (1) - Testing For Reliability / Integrity](/docs/controls?topic=controls-cp-9.1)
 - [CP-10 - Information System Recovery And Reconstitution](/docs/controls?topic=controls-cp-10)
 - [CP-10 (2) - Transaction Recovery](/docs/controls?topic=controls-cp-10.2)
-
 
 

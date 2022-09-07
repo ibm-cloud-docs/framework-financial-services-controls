@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -26,4 +26,5 @@ Independent assessors or assessment teams are individuals or groups who conduct 
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ca-2.1_prm_1 |  | organization-defined level of independence |
+
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -31,4 +31,5 @@ Organizational sanctions processes reflect applicable federal laws, Executive Or
 |---|---|---|
 | ps-8_prm_1 |  | organization-defined personnel or roles |
 | ps-8_prm_2 |  | organization-defined time period |
+
 

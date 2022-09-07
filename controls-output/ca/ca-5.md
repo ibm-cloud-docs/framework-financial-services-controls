@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -30,4 +30,5 @@ Plans of action and milestones are key documents in security authorization packa
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ca-5_prm_1 | at least monthly | organization-defined frequency |
+
 

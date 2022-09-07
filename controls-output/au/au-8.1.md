@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -32,4 +32,5 @@ This control enhancement provides uniformity of time stamps for information syst
 | au-8.1_prm_1 | authoritative time source: servertime.service.softlayer.com | organization-defined frequency |
 | au-8.1_prm_2 | at least hourly | organization-defined authoritative time source |
 | au-8.1_prm_3 |  | organization-defined time period |
+
 

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -45,4 +45,5 @@ Clearly defined authorization boundaries are a prerequisite for effective risk a
 | ra-3_prm_3 | at least annually, when a significant change occurs, or when threats evolve | organization-defined frequency |
 | ra-3_prm_4 |  | organization-defined personnel or roles |
 | ra-3_prm_5 | at least annually | organization-defined frequency |
+
 

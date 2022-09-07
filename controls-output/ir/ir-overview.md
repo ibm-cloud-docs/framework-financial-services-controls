@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-03"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 
@@ -29,6 +29,5 @@ The Incident Response (IR) family consists of the controls that follow.
 - [IR-6 - Incident Reporting](/docs/controls?topic=controls-ir-6)
 - [IR-7 - Incident Response Assistance](/docs/controls?topic=controls-ir-7)
 - [IR-8 - Incident Response Plan](/docs/controls?topic=controls-ir-8)
-
 
 

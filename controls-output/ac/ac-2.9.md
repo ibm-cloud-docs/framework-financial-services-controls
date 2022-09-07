@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -21,4 +21,5 @@ The organization only permits the use of shared/group accounts that meet [organi
 | Parameter ID | Values | Label or Choices |
 |---|---|---|
 | ac-2.9_prm_1 |  | organization-defined conditions for establishing shared/group accounts |
+
 

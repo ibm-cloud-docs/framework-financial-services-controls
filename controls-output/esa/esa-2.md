@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -17,5 +17,6 @@ subcollection: controls
 {: #requirements}
 
 Help desk capabilities shall be able to meet the demands of fluctuating customer workloads with commensurate technologies.
+
 
 

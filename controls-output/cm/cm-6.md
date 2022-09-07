@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -47,3 +47,14 @@ Configuration settings are the set of parameters that can be changed in hardware
 | cm-6_prm_2 |  | organization-defined information system components |
 | cm-6_prm_3 |  | organization-defined operational requirements |
 
+
+## IBM Cloud for Financial Services Profile
+{: #scc-fs-cloud-profile}
+
+The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+### Part a
+{: #scc-fs-cloud-profile-a}
+
+- [3000721: Check whether App ID email verification is enabled for Cloud Directory users](https://cloud.ibm.com/security-compliance/goals/3000721?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000722: Check whether App ID customer-provided email service is used](https://cloud.ibm.com/security-compliance/goals/3000722?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

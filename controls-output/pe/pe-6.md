@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-02"
+lastupdated: "2022-09-07"
 keywords: 
 subcollection: controls
 ---
@@ -33,4 +33,5 @@ Organizational incident response capabilities include investigations of and resp
 |---|---|---|
 | pe-6_prm_1 | at least monthly | organization-defined frequency |
 | pe-6_prm_2 |  | organization-defined events or potential indications of events |
+
 
