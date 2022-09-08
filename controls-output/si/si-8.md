@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-8 - Spam Protection
 {: #si-8}
@@ -18,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
+- a. Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
 
-- \[b.\] Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+- b. Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -35,6 +33,5 @@ The organization must send email to or on behalf of the customer, in accordance 
 {: #supplemental-guidance}
 
 Information system entry and exit points include, for example, firewalls, electronic mail servers, web servers, proxy servers, remote-access servers, workstations, mobile devices, and notebook/laptop computers. Spam can be transported by different means including, for example, electronic mail, electronic mail attachments, and web accesses. Spam protection mechanisms include, for example, signature definitions.
-
 
 

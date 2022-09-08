@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CM-3 - Configuration Change Control
 {: #cm-3}
@@ -18,19 +16,19 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Determines the types of changes to the information system that are configuration-controlled;
+- a. Determines the types of changes to the information system that are configuration-controlled;
 
-- \[b.\] Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;
+- b. Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;
 
-- \[c.\] Documents configuration change decisions associated with the information system;
+- c. Documents configuration change decisions associated with the information system;
 
-- \[d.\] Implements approved configuration-controlled changes to the information system;
+- d. Implements approved configuration-controlled changes to the information system;
 
-- \[e.\] Retains records of configuration-controlled changes to the information system for [in accordance with record retention policies and procedures];
+- e. Retains records of configuration-controlled changes to the information system for [in accordance with record retention policies and procedures];
 
-- \[f.\] Audits and reviews activities associated with configuration-controlled changes to the information system; and
+- f. Audits and reviews activities associated with configuration-controlled changes to the information system; and
 
-- \[g.\] Coordinates and provides oversight for configuration change control activities through [organization-defined configuration change control element (e.g., committee, board)] that convenes [organization-defined frequency; organization-defined configuration change conditions].
+- g. Coordinates and provides oversight for configuration change control activities through [organization-defined configuration change control element (e.g., committee, board)] that convenes [organization-defined frequency; organization-defined configuration change conditions].
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

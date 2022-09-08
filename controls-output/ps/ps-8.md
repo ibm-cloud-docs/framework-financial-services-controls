@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # PS-8 - Personnel Sanctions
 {: #ps-8}
@@ -18,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and
+- a. Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and
 
-- \[b.\] Notifies [organization-defined personnel or roles] within [organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
+- b. Notifies [organization-defined personnel or roles] within [organization-defined time period] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

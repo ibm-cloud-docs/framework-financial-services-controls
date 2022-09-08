@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # IA-1 - Identification And Authentication Policy And Procedures
 {: #ia-1}
@@ -18,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] An identification and authentication policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the identification and authentication policy and associated identification and authentication controls; and
+  - 1. An identification and authentication policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - 2. Procedures to facilitate the implementation of the identification and authentication policy and associated identification and authentication controls; and
 
-- \[b.\] Reviews and updates the current:
+- b. Reviews and updates the current:
 
-  - \[1.\] Identification and authentication policy [at least annually]; and
-  - \[2.\] Identification and authentication procedures [at least annually].
+  - 1. Identification and authentication policy [at least annually]; and
+  - 2. Identification and authentication procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

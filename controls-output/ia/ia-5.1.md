@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # IA-5 (1) - Password-Based Authentication
 {: #ia-5.1}
@@ -18,17 +16,17 @@ subcollection: controls
 
 The information system, for password-based authentication:
 
-- \[(a)\] Enforces minimum password complexity of [minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters];
+- (a) Enforces minimum password complexity of [minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters];
 
-- \[(b)\] Enforces at least the following number of changed characters when new passwords are created: [at least one (1)];
+- (b) Enforces at least the following number of changed characters when new passwords are created: [at least one (1)];
 
-- \[(c)\] Stores and transmits only cryptographically-protected passwords;
+- (c) Stores and transmits only cryptographically-protected passwords;
 
-- \[(d)\] Enforces password minimum and maximum lifetime restrictions of [require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours];
+- (d) Enforces password minimum and maximum lifetime restrictions of [require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours];
 
-- \[(e)\] Prohibits password reuse for [twenty-four (24)] generations; and
+- (e) Prohibits password reuse for [twenty-four (24)] generations; and
 
-- \[(f)\] Allows the use of a temporary password for system logons with an immediate change to a permanent password.
+- (f) Allows the use of a temporary password for system logons with an immediate change to a permanent password.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}
@@ -42,4 +40,11 @@ This control enhancement applies to single-factor authentication of individuals 
 | ia-5.1_prm_3 | require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours | organization-defined numbers for lifetime minimum, lifetime maximum |
 | ia-5.1_prm_4 | twenty-four (24) | organization-defined number |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
 

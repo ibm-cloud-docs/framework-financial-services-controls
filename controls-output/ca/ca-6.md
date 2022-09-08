@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CA-6 - Security Authorization
 {: #ca-6}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Assigns a senior-level executive or manager as the authorizing official for the information system;
+- a. Assigns a senior-level executive or manager as the authorizing official for the information system;
 
-- \[b.\] Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
+- b. Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
 
-- \[c.\] Updates the security authorization [at least every three (3) years or when a significant change occurs].
+- c. Updates the security authorization [at least every three (3) years or when a significant change occurs].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

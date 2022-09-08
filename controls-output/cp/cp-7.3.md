@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CP-7 (3) - Priority Of Service
 {: #cp-7.3}
@@ -22,6 +20,5 @@ The organization develops alternate processing site agreements that contain prio
 {: #supplemental-guidance}
 
 Priority-of-service agreements refer to negotiated agreements with service providers that ensure that organizations receive priority treatment consistent with their availability requirements and the availability of information resources at the alternate processing site.
-
 
 

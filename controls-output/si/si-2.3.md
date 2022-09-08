@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-2 (3) - Time To Remediate Flaws / Benchmarks For Corrective Actions
 {: #si-2.3}
@@ -18,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- \[(a)\] Measures the time between flaw identification and flaw remediation; and
+- (a) Measures the time between flaw identification and flaw remediation; and
 
-- \[(b)\] Establishes [organization-defined benchmarks] for taking corrective actions.
+- (b) Establishes [organization-defined benchmarks] for taking corrective actions.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-6 - Security Function Verification
 {: #si-6}
@@ -18,13 +16,13 @@ subcollection: controls
 
 The information system:
 
-- \[a.\] Verifies the correct operation of [organization-defined security functions];
+- a. Verifies the correct operation of [organization-defined security functions];
 
-- \[b.\] Performs this verification [to include upon system startup and/or restart and at least monthly];
+- b. Performs this verification [to include upon system startup and/or restart and at least monthly];
 
-- \[c.\] Notifies [to include system administrators and security personnel] of failed security verification tests; and
+- c. Notifies [to include system administrators and security personnel] of failed security verification tests; and
 
-- \[d.\] [shuts the information system down; restarts the information system; to include notification of system administrators and security personnel] when anomalies are discovered.
+- d. [shuts the information system down; restarts the information system; to include notification of system administrators and security personnel] when anomalies are discovered.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}
@@ -41,4 +39,11 @@ Transitional states for information systems include, for example, system startup
 | si-6_prm_6 |  | Choose one or more: shuts the information system down; restarts the information system; to include notification of system administrators and security personnel |
 | si-6_prm_7 | to include notification of system administrators and security personnel | organization-defined alternative action(s) |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 

@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # RA-1 - Risk Assessment Policy And Procedures
 {: #ra-1}
@@ -18,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] A risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the risk assessment policy and associated risk assessment controls; and
+  - 1. A risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - 2. Procedures to facilitate the implementation of the risk assessment policy and associated risk assessment controls; and
 
-- \[b.\] Reviews and updates the current:
+- b. Reviews and updates the current:
 
-  - \[1.\] Risk assessment policy [at least annually]; and
-  - \[2.\] Risk assessment procedures [at least annually].
+  - 1. Risk assessment policy [at least annually]; and
+  - 2. Risk assessment procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

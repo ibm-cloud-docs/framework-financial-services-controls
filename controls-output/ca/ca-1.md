@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CA-1 - Security Assessment And Authorization Policy And Procedures
 {: #ca-1}
@@ -18,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] A security assessment and authorization policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the security assessment and authorization policy and associated security assessment and authorization controls; and
+  - 1. A security assessment and authorization policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - 2. Procedures to facilitate the implementation of the security assessment and authorization policy and associated security assessment and authorization controls; and
 
-- \[b.\] Reviews and updates the current:
+- b. Reviews and updates the current:
 
-  - \[1.\] Security assessment and authorization policy [at least annually]; and
-  - \[2.\] Security assessment and authorization procedures [at least annually].
+  - 1. Security assessment and authorization policy [at least annually]; and
+  - 2. Security assessment and authorization procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

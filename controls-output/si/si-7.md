@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-7 - Software, Firmware, And Information Integrity
 {: #si-7}
@@ -27,4 +25,11 @@ Unauthorized changes to software, firmware, and information can occur due to err
 |---|---|---|
 | si-7_prm_1 |  | organization-defined software, firmware, and information |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
 

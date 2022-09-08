@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SA-9 - External Information System Services
 {: #sa-9}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Requires that providers of external information system services comply with organizational information security requirements and employ [business continuity service level agreements] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+- a. Requires that providers of external information system services comply with organizational information security requirements and employ [business continuity service level agreements] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
-- \[b.\] Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
+- b. Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
 
-- \[c.\] Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
+- c. Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -44,13 +42,10 @@ External information system services are services that are implemented outside o
 | sa-9_prm_2 | Continuous monitoring requirements must be met for external systems where customer information is processed or stored | organization-defined processes, methods, and techniques |
 
 
-## IBM Cloud for Financial Services Profile
-{: #scc-fs-cloud-profile}
+## Related Resources
+{: #related_resources}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+See the resources that follow to learn more about how to implement this control.
 
-### Part a
-{: #scc-fs-cloud-profile-a}
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
-- [3000045: Check whether the Financial Services Validated setting is enabled in account settings](https://cloud.ibm.com/security-compliance/goals/3000045?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000047: Check whether provisioned services are IAM enabled](https://cloud.ibm.com/security-compliance/goals/3000047?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

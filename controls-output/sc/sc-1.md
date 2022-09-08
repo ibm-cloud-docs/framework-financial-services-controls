@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SC-1 - System And Communications Protection Policy And Procedures
 {: #sc-1}
@@ -18,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] A system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the system and communications protection policy and associated system and communications protection controls; and
+  - 1. A system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - 2. Procedures to facilitate the implementation of the system and communications protection policy and associated system and communications protection controls; and
 
-- \[b.\] Reviews and updates the current:
+- b. Reviews and updates the current:
 
-  - \[1.\] System and communications protection policy [at least annually]; and
-  - \[2.\] System and communications protection procedures [at least annually].
+  - 1. System and communications protection policy [at least annually]; and
+  - 2. System and communications protection procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

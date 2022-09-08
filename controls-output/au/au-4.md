@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # AU-4 - Audit Storage Capacity
 {: #au-4}
@@ -27,6 +25,15 @@ Organizations consider the types of auditing to be performed and the audit proce
 |---|---|---|
 | au-4_prm_1 |  | organization-defined audit record storage requirements |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
+- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
 ## IBM Cloud for Financial Services Profile
 {: #scc-fs-cloud-profile}

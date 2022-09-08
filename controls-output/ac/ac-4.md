@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # AC-4 - Information Flow Enforcement
 {: #ac-4}
@@ -36,6 +34,13 @@ Information flow control regulates where information is allowed to travel within
 |---|---|---|
 | ac-4_prm_1 |  | organization-defined information flow control policies |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
 ## IBM Cloud for Financial Services Profile
 {: #scc-fs-cloud-profile}

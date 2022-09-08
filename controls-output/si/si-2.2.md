@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-2 (2) - Automated Flaw Remediation Status
 {: #si-2.2}
@@ -22,6 +20,13 @@ The organization employs automated mechanisms [at least monthly] to determine th
 |---|---|---|
 | si-2.2_prm_1 | at least monthly | organization-defined frequency |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 ## IBM Cloud for Financial Services Profile
 {: #scc-fs-cloud-profile}

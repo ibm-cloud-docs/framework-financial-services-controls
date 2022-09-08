@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CM-7 (1) - Periodic Review
 {: #cm-7.1}
@@ -18,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- \[(a)\] Reviews the information system [at least monthly] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and
+- (a) Reviews the information system [at least monthly] to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and
 
-- \[(b)\] Disables [organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure].
+- (b) Disables [organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

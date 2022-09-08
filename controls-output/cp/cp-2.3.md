@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CP-2 (3) - Resume Essential Missions / Business Functions
 {: #cp-2.3}
@@ -34,4 +32,12 @@ Organizations may choose to carry out the contingency planning activities in thi
 |---|---|---|
 | cp-2.3_prm_1 |  | organization-defined time period |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Operational logging](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-operational)
+- [Operational monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-operational)
 

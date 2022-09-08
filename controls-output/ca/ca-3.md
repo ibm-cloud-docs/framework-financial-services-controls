@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CA-3 - System Interconnections
 {: #ca-3}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;
+- a. Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;
 
-- \[b.\] Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
+- b. Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
 
-- \[c.\] Reviews and updates Interconnection Security Agreements [at least annually and on input from the customer].
+- c. Reviews and updates Interconnection Security Agreements [at least annually and on input from the customer].
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -39,14 +37,16 @@ This control applies to dedicated connections between information systems (i.e.,
 | ca-3_prm_1 | at least annually and on input from the customer | organization-defined frequency |
 
 
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+
 ## IBM Cloud for Financial Services Profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 - [3000045: Check whether the Financial Services Validated setting is enabled in account settings](https://cloud.ibm.com/security-compliance/goals/3000045?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-
-### Part a
-{: #scc-fs-cloud-profile-a}
-
-- [3000047: Check whether provisioned services are IAM enabled](https://cloud.ibm.com/security-compliance/goals/3000047?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

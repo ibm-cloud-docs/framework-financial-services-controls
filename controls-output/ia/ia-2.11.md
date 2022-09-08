@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # IA-2 (11) - Remote Access - Separate Device
 {: #ia-2.11}
@@ -27,4 +25,11 @@ For remote access to privileged/non-privileged accounts, the purpose of requirin
 |---|---|---|
 | ia-2.11_prm_1 | FIPS 140-2 level 2 capable or above or equivalent | organization-defined strength of mechanism requirements |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 

@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # MA-2 - Controlled Maintenance
 {: #ma-2}
@@ -18,17 +16,17 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;
+- a. Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;
 
-- \[b.\] Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
+- b. Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
 
-- \[c.\] Requires that [organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
+- c. Requires that [organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
 
-- \[d.\] Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
+- d. Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
 
-- \[e.\] Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
+- e. Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
 
-- \[f.\] Includes [organization-defined maintenance-related information] in organizational maintenance records.
+- f. Includes [organization-defined maintenance-related information] in organizational maintenance records.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}
@@ -40,4 +38,11 @@ This control addresses the information security aspects of the information syste
 | ma-2_prm_1 |  | organization-defined personnel or roles |
 | ma-2_prm_2 |  | organization-defined maintenance-related information |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 

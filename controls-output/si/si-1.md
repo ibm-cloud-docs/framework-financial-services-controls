@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-1 - System And Information Integrity Policy And Procedures
 {: #si-1}
@@ -18,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] A system and information integrity policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the system and information integrity policy and associated system and information integrity controls; and
+  - 1. A system and information integrity policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - 2. Procedures to facilitate the implementation of the system and information integrity policy and associated system and information integrity controls; and
 
-- \[b.\] Reviews and updates the current:
+- b. Reviews and updates the current:
 
-  - \[1.\] System and information integrity policy [at least annually]; and
-  - \[2.\] System and information integrity procedures [at least annually].
+  - 1. System and information integrity policy [at least annually]; and
+  - 2. System and information integrity procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

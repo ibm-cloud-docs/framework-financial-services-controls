@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # MA-3 (2) - Inspect Media
 {: #ma-3.2}
@@ -22,6 +20,5 @@ The organization checks media containing diagnostic and test programs for malici
 {: #supplemental-guidance}
 
 If, upon inspection of media containing maintenance diagnostic and test programs, organizations determine that the media contain malicious code, the incident is handled consistent with organizational incident handling policies and procedures.
-
 
 

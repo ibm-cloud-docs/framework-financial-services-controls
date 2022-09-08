@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # AU-5 - Response To Audit Processing Failures
 {: #au-5}
@@ -18,9 +16,9 @@ subcollection: controls
 
 The information system:
 
-- \[a.\] Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
+- a. Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
 
-- \[b.\] Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
+- b. Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -37,4 +35,13 @@ Audit processing failures include, for example, software/hardware errors, failur
 | au-5_prm_1 |  | organization-defined personnel or roles |
 | au-5_prm_2 | organization-defined actions to be taken (overwrite oldest record) | organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records) |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
+- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 

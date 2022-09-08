@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CM-6 - Configuration Settings
 {: #cm-6}
@@ -18,13 +16,13 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Establishes and documents configuration settings for information technology products employed within the information system using [see CM-6 (a) Additional Requirements and Guidance] that reflect the most restrictive mode consistent with operational requirements;
+- a. Establishes and documents configuration settings for information technology products employed within the information system using [see CM-6 (a) Additional Requirements and Guidance] that reflect the most restrictive mode consistent with operational requirements;
 
-- \[b.\] Implements the configuration settings;
+- b. Implements the configuration settings;
 
-- \[c.\] Identifies, documents, and approves any deviations from established configuration settings for [organization-defined information system components] based on [organization-defined operational requirements]; and
+- c. Identifies, documents, and approves any deviations from established configuration settings for [organization-defined information system components] based on [organization-defined operational requirements]; and
 
-- \[d.\] Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.
+- d. Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -48,13 +46,10 @@ Configuration settings are the set of parameters that can be changed in hardware
 | cm-6_prm_3 |  | organization-defined operational requirements |
 
 
-## IBM Cloud for Financial Services Profile
-{: #scc-fs-cloud-profile}
+## Related Resources
+{: #related_resources}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+See the resources that follow to learn more about how to implement this control.
 
-### Part a
-{: #scc-fs-cloud-profile-a}
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
-- [3000721: Check whether App ID email verification is enabled for Cloud Directory users](https://cloud.ibm.com/security-compliance/goals/3000721?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000722: Check whether App ID customer-provided email service is used](https://cloud.ibm.com/security-compliance/goals/3000722?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

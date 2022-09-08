@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # AC-7 - Unsuccessful Logon Attempts
 {: #ac-7}
@@ -18,9 +16,9 @@ subcollection: controls
 
 The information system:
 
-- \[a.\] Enforces a limit of [not more than five (5)] consecutive invalid logon attempts by a user during a [fifteen (15) minutes]; and
+- a. Enforces a limit of [not more than five (5)] consecutive invalid logon attempts by a user during a [fifteen (15) minutes]; and
 
-- \[b.\] Automatically [locks the account/node for a thirty (30) minutes] when the maximum number of unsuccessful attempts is exceeded.
+- b. Automatically [locks the account/node for a thirty (30) minutes] when the maximum number of unsuccessful attempts is exceeded.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}
@@ -36,19 +34,3 @@ This control applies regardless of whether the logon occurs via a local or netwo
 | ac-7_prm_5 |  | organization-defined delay algorithm |
 
 
-## IBM Cloud for Financial Services Profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-### Part a
-{: #scc-fs-cloud-profile-a}
-
-- [3000053: IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts](https://cloud.ibm.com/security-compliance/goals/3000053?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000716: Check whether App ID lockout policy after failed # of sign-in attempts is enabled](https://cloud.ibm.com/security-compliance/goals/3000716?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-
-### Part b
-{: #scc-fs-cloud-profile-b}
-
-- [3000054: IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts](https://cloud.ibm.com/security-compliance/goals/3000054?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000717: Check whether App ID lockout policy after a maximum specified time is set to # minute(s)](https://cloud.ibm.com/security-compliance/goals/3000717?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

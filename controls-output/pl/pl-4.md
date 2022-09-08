@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # PL-4 - Rules Of Behavior
 {: #pl-4}
@@ -18,13 +16,13 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Establishes and makes readily available to individuals requiring access to the information system, the rules that describe their responsibilities and expected behavior with regard to information and information system usage;
+- a. Establishes and makes readily available to individuals requiring access to the information system, the rules that describe their responsibilities and expected behavior with regard to information and information system usage;
 
-- \[b.\] Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;
+- b. Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;
 
-- \[c.\] Reviews and updates the rules of behavior [at least every annually]; and
+- c. Reviews and updates the rules of behavior [at least every annually]; and
 
-- \[d.\] Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.
+- d. Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

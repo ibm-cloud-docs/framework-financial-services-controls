@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # PE-6 - Monitoring Physical Access
 {: #pe-6}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Monitors physical access to the facility where the information system resides to detect and respond to physical security incidents;
+- a. Monitors physical access to the facility where the information system resides to detect and respond to physical security incidents;
 
-- \[b.\] Reviews physical access logs [at least monthly] and upon occurrence of [organization-defined events or potential indications of events]; and
+- b. Reviews physical access logs [at least monthly] and upon occurrence of [organization-defined events or potential indications of events]; and
 
-- \[c.\] Coordinates results of reviews and investigations with the organizational incident response capability.
+- c. Coordinates results of reviews and investigations with the organizational incident response capability.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

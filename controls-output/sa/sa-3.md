@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SA-3 - System Development Life Cycle
 {: #sa-3}
@@ -18,13 +16,13 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Manages the information system using [organization-defined system development life cycle] that incorporates information security considerations;
+- a. Manages the information system using [organization-defined system development life cycle] that incorporates information security considerations;
 
-- \[b.\] Defines and documents information security roles and responsibilities throughout the system development life cycle;
+- b. Defines and documents information security roles and responsibilities throughout the system development life cycle;
 
-- \[c.\] Identifies individuals having information security roles and responsibilities; and
+- c. Identifies individuals having information security roles and responsibilities; and
 
-- \[d.\] Integrates the organizational information security risk management process into system development life cycle activities.
+- d. Integrates the organizational information security risk management process into system development life cycle activities.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -41,19 +39,10 @@ A well-defined system development life cycle provides the foundation for the suc
 | sa-3_prm_1 |  | organization-defined system development life cycle |
 
 
-## IBM Cloud for Financial Services Profile
-{: #scc-fs-cloud-profile}
+## Related Resources
+{: #related_resources}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+See the resources that follow to learn more about how to implement this control.
 
-### Part a
-{: #scc-fs-cloud-profile-a}
+- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
 
-- [3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection](https://cloud.ibm.com/security-compliance/goals/3000611?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints](https://cloud.ibm.com/security-compliance/goals/3000625?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-
-### Part d
-{: #scc-fs-cloud-profile-d}
-
-- [3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection](https://cloud.ibm.com/security-compliance/goals/3000611?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints](https://cloud.ibm.com/security-compliance/goals/3000625?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

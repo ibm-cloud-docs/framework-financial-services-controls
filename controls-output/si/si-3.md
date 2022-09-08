@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SI-3 - Malicious Code Protection
 {: #si-3}
@@ -18,16 +16,16 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
+- a. Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
 
-- \[b.\] Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
+- b. Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
 
-- \[c.\] Configures malicious code protection mechanisms to:
+- c. Configures malicious code protection mechanisms to:
 
-  - \[1.\] Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
-  - \[2.\] [to include alerting administrator or defined security personnel] in response to malicious code detection; and
+  - 1. Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+  - 2. [to include alerting administrator or defined security personnel] in response to malicious code detection; and
 
-- \[d.\] Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
+- d. Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}
@@ -42,13 +40,3 @@ Information system entry and exit points include, for example, firewalls, electr
 | si-3_prm_4 |  | organization-defined action |
 
 
-## IBM Cloud for Financial Services Profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-### Part a
-{: #scc-fs-cloud-profile-a}
-
-- [3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s)](https://cloud.ibm.com/security-compliance/goals/3000601?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection](https://cloud.ibm.com/security-compliance/goals/3000611?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

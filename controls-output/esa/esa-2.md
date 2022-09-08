@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # ESA-2 - Support Desk Tooling And Technology
 {: #esa-2}
@@ -17,6 +15,5 @@ subcollection: controls
 {: #requirements}
 
 Help desk capabilities shall be able to meet the demands of fluctuating customer workloads with commensurate technologies.
-
 
 

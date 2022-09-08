@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # PS-2 - Position Risk Designation
 {: #ps-2}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Assigns a risk designation to all organizational positions;
+- a. Assigns a risk designation to all organizational positions;
 
-- \[b.\] Establishes screening criteria for individuals filling those positions; and
+- b. Establishes screening criteria for individuals filling those positions; and
 
-- \[c.\] Reviews and updates position risk designations [at least every three years].
+- c. Reviews and updates position risk designations [at least every three years].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

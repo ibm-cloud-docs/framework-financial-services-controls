@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CP-4 - Contingency Plan Testing
 {: #cp-4}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Tests the contingency plan for the information system [at least annually] using [functional exercises] to determine the effectiveness of the plan and the organizational readiness to execute the plan;
+- a. Tests the contingency plan for the information system [at least annually] using [functional exercises] to determine the effectiveness of the plan and the organizational readiness to execute the plan;
 
-- \[b.\] Reviews the contingency plan test results; and
+- b. Reviews the contingency plan test results; and
 
-- \[c.\] Initiates corrective actions, if needed.
+- c. Initiates corrective actions, if needed.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

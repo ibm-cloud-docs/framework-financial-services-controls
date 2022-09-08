@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SC-6 - Resource Availability
 {: #sc-6}
@@ -29,6 +27,13 @@ Priority protection helps prevent lower-priority processes from delaying or inte
 | sc-6_prm_2 |  | Choose one or more: priority; quota; organization-defined security safeguards |
 | sc-6_prm_3 |  | organization-defined security safeguards |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [High availability overview](/docs/framework-financial-services?topic=framework-financial-services-shared-high-availability)
 
 ## IBM Cloud for Financial Services Profile
 {: #scc-fs-cloud-profile}

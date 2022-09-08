@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 
@@ -35,26 +35,26 @@ See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Service
 
 The framework consists of the 21 control families that follow.
 
-- [Access Control (AC)](/docs/controls?topic=controls-ac-overview)
-- [Awareness and Training (AT)](/docs/controls?topic=controls-at-overview)
-- [Audit and Accountability (AU)](/docs/controls?topic=controls-au-overview)
-- [Security Assessment and Authorization (CA)](/docs/controls?topic=controls-ca-overview)
-- [Configuration Management (CM)](/docs/controls?topic=controls-cm-overview)
-- [Contingency Planning (CP)](/docs/controls?topic=controls-cp-overview)
-- [Identification and Authentication (IA)](/docs/controls?topic=controls-ia-overview)
-- [Incident Response (IR)](/docs/controls?topic=controls-ir-overview)
-- [Maintenance (MA)](/docs/controls?topic=controls-ma-overview)
-- [Media Protection (MP)](/docs/controls?topic=controls-mp-overview)
-- [Physical and Environmental Protection (PE)](/docs/controls?topic=controls-pe-overview)
-- [Planning (PL)](/docs/controls?topic=controls-pl-overview)
-- [Personnel Security (PS)](/docs/controls?topic=controls-ps-overview)
-- [Risk Assessment (RA)](/docs/controls?topic=controls-ra-overview)
-- [System and Services Acquisition (SA)](/docs/controls?topic=controls-sa-overview)
-- [System and Communications Protection (SC)](/docs/controls?topic=controls-sc-overview)
-- [System and Information Integrity (SI)](/docs/controls?topic=controls-si-overview)
-- [Program Management (PM)](/docs/controls?topic=controls-pm-overview)
-- [Enterprise Data Management (EDM)](/docs/controls?topic=controls-edm-overview)
-- [Accessibility Guidelines (ESA)](/docs/controls?topic=controls-esa-overview)
-- [Privacy](/docs/controls?topic=controls-privacy-overview)
+- [Access Control (AC)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Awareness and Training (AT)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Audit and Accountability (AU)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Security Assessment and Authorization (CA)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Configuration Management (CM)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Contingency Planning (CP)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Identification and Authentication (IA)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Incident Response (IR)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Maintenance (MA)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Media Protection (MP)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Physical and Environmental Protection (PE)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Planning (PL)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Personnel Security (PS)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Risk Assessment (RA)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [System and Services Acquisition (SA)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [System and Communications Protection (SC)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [System and Information Integrity (SI)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Program Management (PM)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Enterprise Data Management (EDM)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Accessibility Guidelines (ESA)](/docs/controls?topic=controls-{family.lower()}-overview)
+- [Privacy](/docs/controls?topic=controls-{family.lower()}-overview)
 
 

@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # AT-2 - Security Awareness Training
 {: #at-2}
@@ -18,11 +16,11 @@ subcollection: controls
 
 The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):
 
-- \[a.\] As part of initial training for new users;
+- a. As part of initial training for new users;
 
-- \[b.\] When required by information system changes; and
+- b. When required by information system changes; and
 
-- \[c.\] [at least annually] thereafter.
+- c. [at least annually] thereafter.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

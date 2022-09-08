@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # CM-8 (4) - Accountability Information
 {: #cm-8.4}
@@ -27,4 +25,11 @@ Identifying individuals who are both responsible and accountable for administeri
 |---|---|---|
 | cm-8.4_prm_1 | asset owner/custodian | Choose one or more: name; position; role |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 

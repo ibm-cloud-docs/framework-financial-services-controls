@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # AU-1 - Audit And Accountability Policy And Procedures
 {: #au-1}
@@ -18,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] An audit and accountability policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the audit and accountability policy and associated audit and accountability controls; and
+  - 1. An audit and accountability policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - 2. Procedures to facilitate the implementation of the audit and accountability policy and associated audit and accountability controls; and
 
-- \[b.\] Reviews and updates the current:
+- b. Reviews and updates the current:
 
-  - \[1.\] Audit and accountability policy [at least annually]; and
-  - \[2.\] Audit and accountability procedures [at least annually].
+  - 1. Audit and accountability policy [at least annually]; and
+  - 2. Audit and accountability procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

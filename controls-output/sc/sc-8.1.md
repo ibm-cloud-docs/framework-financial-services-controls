@@ -1,14 +1,12 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-08"
 keywords: 
 subcollection: controls
 ---
 
-
 {{site.data.keyword.attribute-definition-list}}
-
 
 # SC-8 (1) - Cryptographic Or Alternate Physical Protection
 {: #sc-8.1}
@@ -33,6 +31,13 @@ Encrypting information for transmission protects information from unauthorized d
 | sc-8.1_prm_1 | prevent unauthorized disclosure of information, highest financial institution standard (FIPS140-2 L3) for Highly Restricted Confidential Information (HRCI) | Choose one or more: prevent unauthorized disclosure of information; detect changes to information |
 | sc-8.1_prm_2 | none | organization-defined alternative physical safeguards |
 
+
+## Related Resources
+{: #related_resources}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Data encryption in transit](/docs/framework-financial-services?topic=framework-financial-services-shared-encryption-in-transit)
 
 ## IBM Cloud for Financial Services Profile
 {: #scc-fs-cloud-profile}
