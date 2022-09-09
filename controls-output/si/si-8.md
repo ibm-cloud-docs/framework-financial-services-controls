@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
+- \[a.\] Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
 
-- b. Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+- \[b.\] Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

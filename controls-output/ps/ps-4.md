@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,17 +16,17 @@ subcollection: controls
 
 The organization, upon termination of individual employment:
 
-- a. Disables information system access within [same day];
+- \[a.\] Disables information system access within [same day];
 
-- b. Terminates/revokes any authenticators/credentials associated with the individual;
+- \[b.\] Terminates/revokes any authenticators/credentials associated with the individual;
 
-- c. Conducts exit interviews that include a discussion of [organization-defined information security topics];
+- \[c.\] Conducts exit interviews that include a discussion of [organization-defined information security topics];
 
-- d. Retrieves all security-related organizational information system-related property;
+- \[d.\] Retrieves all security-related organizational information system-related property;
 
-- e. Retains access to organizational information and information systems formerly controlled by terminated individual; and
+- \[e.\] Retains access to organizational information and information systems formerly controlled by terminated individual; and
 
-- f. Notifies [organization-defined personnel or roles] within [same day].
+- \[f.\] Notifies [organization-defined personnel or roles] within [same day].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

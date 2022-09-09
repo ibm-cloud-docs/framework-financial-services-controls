@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,11 +16,11 @@ subcollection: controls
 
 The organization:
 
-- a. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;
+- \[a.\] Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;
 
-- b. Coordinates incident handling activities with contingency planning activities; and
+- \[b.\] Coordinates incident handling activities with contingency planning activities; and
 
-- c. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
+- \[c.\] Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

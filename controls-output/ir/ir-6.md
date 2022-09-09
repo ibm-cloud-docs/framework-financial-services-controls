@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Requires personnel to report suspected security incidents to the organizational incident response capability within [no longer than 24 hours for systems related to FS-ready public cloud customers]; and
+- \[a.\] Requires personnel to report suspected security incidents to the organizational incident response capability within [no longer than 24 hours for systems related to FS-ready public cloud customers]; and
 
-- b. Reports security incident information to [Information Security Incident Response Team of the FS-ready public cloud customers].
+- \[b.\] Reports security incident information to [Information Security Incident Response Team of the FS-ready public cloud customers].
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The information system:
 
-- a. Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
+- \[a.\] Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
 
-- b. Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
+- \[b.\] Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

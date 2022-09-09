@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Maintains visitor access records to the facility where the information system resides for [for a minimum of one (1) year]; and
+- \[a.\] Maintains visitor access records to the facility where the information system resides for [for a minimum of one (1) year]; and
 
-- b. Reviews visitor access records [at least monthly].
+- \[b.\] Reviews visitor access records [at least monthly].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

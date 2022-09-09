@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The information system:
 
-- (a) Compares the internal information system clocks [authoritative time source: servertime.service.softlayer.com] with [at least hourly]; and
+- \[(a)\] Compares the internal information system clocks [authoritative time source: servertime.service.softlayer.com] with [at least hourly]; and
 
-- (b) Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [organization-defined time period].
+- \[(b)\] Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [organization-defined time period].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

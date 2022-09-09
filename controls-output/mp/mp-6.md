@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Sanitizes [assets holding customer data] prior to disposal, release out of organizational control, or release for reuse using [customer approved sanitization process corresponding to the customer&#39;s retention schedule] in accordance with applicable federal and organizational standards and policies; and
+- \[a.\] Sanitizes [assets holding customer data] prior to disposal, release out of organizational control, or release for reuse using [customer approved sanitization process corresponding to the customer&#39;s retention schedule] in accordance with applicable federal and organizational standards and policies; and
 
-- b. Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.
+- \[b.\] Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,14 +16,14 @@ subcollection: controls
 
 The organization:
 
-- a. Develops and documents access agreements for organizational information systems;
+- \[a.\] Develops and documents access agreements for organizational information systems;
 
-- b. Reviews and updates the access agreements [at least annually]; and
+- \[b.\] Reviews and updates the access agreements [at least annually]; and
 
-- c. Ensures that individuals requiring access to organizational information and information systems:
+- \[c.\] Ensures that individuals requiring access to organizational information and information systems:
 
-  - 1. Sign appropriate access agreements prior to being granted access; and
-  - 2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [at least annually].
+  - \[1.\] Sign appropriate access agreements prior to being granted access; and
+  - \[2.\] Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [at least annually].
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}

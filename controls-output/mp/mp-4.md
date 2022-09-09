@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Physically controls and securely stores [all types of digital and non-digital media with sensitive information] within [organization-defined controlled areas]; and
+- \[a.\] Physically controls and securely stores [all types of digital and non-digital media with sensitive information] within [organization-defined controlled areas]; and
 
-- b. Protects information system media until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
+- \[b.\] Protects information system media until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

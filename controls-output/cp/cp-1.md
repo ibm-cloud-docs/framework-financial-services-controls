@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,15 +16,15 @@ subcollection: controls
 
 The organization:
 
-- a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
+- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - 1. A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - 2. Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and
+  - \[1.\] A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+  - \[2.\] Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and
 
-- b. Reviews and updates the current:
+- \[b.\] Reviews and updates the current:
 
-  - 1. Contingency planning policy [at least annually]; and
-  - 2. Contingency planning procedures [at least annually].
+  - \[1.\] Contingency planning policy [at least annually]; and
+  - \[2.\] Contingency planning procedures [at least annually].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

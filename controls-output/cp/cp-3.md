@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,11 +16,11 @@ subcollection: controls
 
 The organization provides contingency training to information system users consistent with assigned roles and responsibilities:
 
-- a. Within [90 days] of assuming a contingency role or responsibility;
+- \[a.\] Within [90 days] of assuming a contingency role or responsibility;
 
-- b. When required by information system changes; and
+- \[b.\] When required by information system changes; and
 
-- c. [at least annually] thereafter.
+- \[c.\] [at least annually] thereafter.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

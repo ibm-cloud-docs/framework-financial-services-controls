@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
+- \[a.\] Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
 
-- b. Exempts [no removable media types] from marking as long as the media remain within [Guidance: Second parameter not-applicable].
+- \[b.\] Exempts [no removable media types] from marking as long as the media remain within [Guidance: Second parameter not-applicable].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

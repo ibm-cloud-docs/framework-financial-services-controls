@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- (a) Measures the time between flaw identification and flaw remediation; and
+- \[(a)\] Measures the time between flaw identification and flaw remediation; and
 
-- (b) Establishes [organization-defined benchmarks] for taking corrective actions.
+- \[(b)\] Establishes [organization-defined benchmarks] for taking corrective actions.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,14 +16,14 @@ subcollection: controls
 
 The organization:
 
-- a. Develops and documents an inventory of information system components that:
+- \[a.\] Develops and documents an inventory of information system components that:
 
-  - 1. Accurately reflects the current information system;
-  - 2. Includes all components within the authorization boundary of the information system;
-  - 3. Is at the level of granularity deemed necessary for tracking and reporting; and
-  - 4. Includes [organization-defined information deemed necessary to achieve effective information system component accountability]; and
+  - \[1.\] Accurately reflects the current information system;
+  - \[2.\] Includes all components within the authorization boundary of the information system;
+  - \[3.\] Is at the level of granularity deemed necessary for tracking and reporting; and
+  - \[4.\] Includes [organization-defined information deemed necessary to achieve effective information system component accountability]; and
 
-- b. Reviews and updates the information system component inventory [at least monthly].
+- \[b.\] Reviews and updates the information system component inventory [at least monthly].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

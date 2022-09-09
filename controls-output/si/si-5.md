@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,13 +16,13 @@ subcollection: controls
 
 The organization:
 
-- a. Receives information system security alerts, advisories, and directives from [to include IaaS/PaaS providers and additional organization-defined external organizations] on an ongoing basis;
+- \[a.\] Receives information system security alerts, advisories, and directives from [to include IaaS/PaaS providers and additional organization-defined external organizations] on an ongoing basis;
 
-- b. Generates internal security alerts, advisories, and directives as deemed necessary;
+- \[b.\] Generates internal security alerts, advisories, and directives as deemed necessary;
 
-- c. Disseminates security alerts, advisories, and directives to: [to include system security personnel and administrators with configuration/patch-management responsibilities]; and
+- \[c.\] Disseminates security alerts, advisories, and directives to: [to include system security personnel and administrators with configuration/patch-management responsibilities]; and
 
-- d. Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
+- \[d.\] Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

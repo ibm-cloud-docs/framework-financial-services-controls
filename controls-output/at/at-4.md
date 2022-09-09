@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and
+- \[a.\] Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and
 
-- b. Retains individual training records for [at least one year].
+- \[b.\] Retains individual training records for [at least one year].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

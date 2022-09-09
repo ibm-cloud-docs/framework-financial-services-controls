@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,13 +16,13 @@ subcollection: controls
 
 The organization:
 
-- a. Identifies, reports, and corrects information system flaws;
+- \[a.\] Identifies, reports, and corrects information system flaws;
 
-- b. Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
+- \[b.\] Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
 
-- c. Installs security-relevant software and firmware updates within [RA-5 (d) timeframes] of the release of the updates; and
+- \[c.\] Installs security-relevant software and firmware updates within [RA-5 (d) timeframes] of the release of the updates; and
 
-- d. Incorporates flaw remediation into the organizational configuration management process.
+- \[d.\] Incorporates flaw remediation into the organizational configuration management process.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -48,3 +48,12 @@ See the resources that follow to learn more about how to implement this control.
 
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
+## IBM Cloud for Financial Services Profile
+{: #scc-fs-cloud-profile}
+
+The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+### Part a
+{: #scc-fs-cloud-profile-a}
+
+- [3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s)](https://cloud.ibm.com/security-compliance/goals/3000601?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

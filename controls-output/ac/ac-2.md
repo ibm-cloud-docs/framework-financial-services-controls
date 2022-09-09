@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,35 +16,35 @@ subcollection: controls
 
 The organization:
 
-- a. Identifies and selects the following types of information system accounts to support organizational missions/business functions: [organization-defined information system account types];
+- \[a.\] Identifies and selects the following types of information system accounts to support organizational missions/business functions: [organization-defined information system account types];
 
-- b. Assigns account managers for information system accounts;
+- \[b.\] Assigns account managers for information system accounts;
 
-- c. Establishes conditions for group and role membership;
+- \[c.\] Establishes conditions for group and role membership;
 
-- d. Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;
+- \[d.\] Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;
 
-- e. Requires approvals by [organization-defined personnel or roles] for requests to create information system accounts;
+- \[e.\] Requires approvals by [organization-defined personnel or roles] for requests to create information system accounts;
 
-- f. Creates, enables, modifies, disables, and removes information system accounts in accordance with [organization-defined procedures or conditions];
+- \[f.\] Creates, enables, modifies, disables, and removes information system accounts in accordance with [organization-defined procedures or conditions];
 
-- g. Monitors the use of information system accounts;
+- \[g.\] Monitors the use of information system accounts;
 
-- h. Notifies account managers:
+- \[h.\] Notifies account managers:
 
-  - 1. When accounts are no longer required;
-  - 2. When users are terminated or transferred; and
-  - 3. When individual information system usage or need-to-know changes;
+  - \[1.\] When accounts are no longer required;
+  - \[2.\] When users are terminated or transferred; and
+  - \[3.\] When individual information system usage or need-to-know changes;
 
-- i. Authorizes access to the information system based on:
+- \[i.\] Authorizes access to the information system based on:
 
-  - 1. A valid access authorization;
-  - 2. Intended system usage; and
-  - 3. Other attributes as required by the organization or associated missions/business functions;
+  - \[1.\] A valid access authorization;
+  - \[2.\] Intended system usage; and
+  - \[3.\] Other attributes as required by the organization or associated missions/business functions;
 
-- j. Reviews accounts for compliance with account management requirements [quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]; and
+- \[j.\] Reviews accounts for compliance with account management requirements [quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]; and
 
-- k. Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
+- \[k.\] Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
 
 ## Control Additional FS Cloud Specifications
 {: #additional-fs-cloud-specifications}
@@ -306,3 +306,26 @@ See the resources that follow to learn more about how to implement this control.
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 - [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
 
+## IBM Cloud for Financial Services Profile
+{: #scc-fs-cloud-profile}
+
+The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+### Part a
+{: #scc-fs-cloud-profile-a}
+
+- [3000059: IBM Cloud accounts are one of the account types used to support your applications](https://cloud.ibm.com/security-compliance/goals/3000059?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+
+### Part d
+{: #scc-fs-cloud-profile-d}
+
+- [3000009: Check whether IAM roles are used to create IAM policies for IBM resources](https://cloud.ibm.com/security-compliance/goals/3000009?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000015: Check whether IAM users are attached to at least one access group](https://cloud.ibm.com/security-compliance/goals/3000015?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000016: Check whether IAM policies for users are attached only to groups or roles](https://cloud.ibm.com/security-compliance/goals/3000016?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000023: Check whether the account owner does not have an IBM Cloud API key created in IAM](https://cloud.ibm.com/security-compliance/goals/3000023?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- [3000027: Check whether permissions for API key creation are limited and configured in IAM settings for the account owner](https://cloud.ibm.com/security-compliance/goals/3000027?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+
+### Part g
+{: #scc-fs-cloud-profile-g}
+
+- [3000118: Check that there is an Activity Tracker event route defined to collect global events generated by IBM Cloud services](https://cloud.ibm.com/security-compliance/goals/3000118?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}

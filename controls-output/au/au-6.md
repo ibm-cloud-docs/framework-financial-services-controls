@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Reviews and analyzes information system audit records [at least weekly] for indications of [organization-defined inappropriate or unusual activity]; and
+- \[a.\] Reviews and analyzes information system audit records [at least weekly] for indications of [organization-defined inappropriate or unusual activity]; and
 
-- b. Reports findings to [organization-defined personnel or roles].
+- \[b.\] Reports findings to [organization-defined personnel or roles].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}

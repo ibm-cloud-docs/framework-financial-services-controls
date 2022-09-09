@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-09"
 keywords: 
 subcollection: controls
 ---
@@ -16,9 +16,9 @@ subcollection: controls
 
 The organization:
 
-- a. Screens individuals prior to authorizing access to the information system; and
+- \[a.\] Screens individuals prior to authorizing access to the information system; and
 
-- b. Rescreens individuals according to [organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].
+- \[b.\] Rescreens individuals according to [organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening].
 
 ## Control Supplemental Guidance
 {: #supplemental-guidance}
