@@ -39,15 +39,15 @@ Part G
 
 Part H
     : Notifies account managers:
-    1. When accounts are no longer required.
-    2. When users are terminated or transferred.
-    3. When individual information system usage or need-to-know changes.
+      1. When accounts are no longer required.
+      2. When users are terminated or transferred.
+      3. When individual information system usage or need-to-know changes.
 
 Part I
     : Authorizes access to the information system based on:
-    1. A valid access authorization.
-    2. Intended system usage.
-    3. Other attributes as required by the organization or associated missions/business functions.
+      1. A valid access authorization.
+      2. Intended system usage.
+      3. Other attributes as required by the organization or associated missions/business functions.
 
 Part J
     : Reviews accounts for compliance with account management requirements [quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]; and
@@ -112,8 +112,8 @@ Consumer users
 Service Accounts and credentials (e.g., Service IDs, system to system application credentials, certificates, tokens, etc.)
     :  provider shall maintain service accounts and ensure rotation of such accounts minimally on an annual basis.  Such credentials are usually maintained in a vault.
     
-    Guidance on Service IDs is available.
-    {: note}
+      Guidance on Service IDs is available.
+      {: note}
 
 Application Programming Interfaces (API)
     : provider is to create identifiers/API Keys to be used by provider APIs, when applicable, that interact with components within the consumer application and audit their use.  Provider APIs may also be called by consumers, and their use should be logged.
