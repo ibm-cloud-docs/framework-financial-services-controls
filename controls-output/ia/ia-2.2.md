@@ -17,7 +17,7 @@ subcollection: controls
 The information system implements multifactor authentication for network access to non-privileged accounts.
 
 
-## IBM Cloud for Financial Services Profile
+## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).

@@ -22,7 +22,7 @@ The information system audits the execution of privileged functions.
 Misuse of privileged functions, either intentionally or unintentionally by authorized users, or by unauthorized external entities that have compromised information system accounts, is a serious and ongoing concern and can have significant adverse impacts on organizations. Auditing the use of privileged functions is one way to detect such misuse, and in doing so, help mitigate the risk from insider threats and the advanced persistent threat (APT).
 
 
-## IBM Cloud for Financial Services Profile
+## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).

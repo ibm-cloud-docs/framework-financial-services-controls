@@ -22,7 +22,7 @@ The organization employs automated tools to determine if password authenticators
 This control enhancement focuses on the creation of strong passwords and the characteristics of such passwords (e.g., complexity) prior to use, the enforcement of which is carried out by organizational information systems in IA-5 (1).
 
 
-## IBM Cloud for Financial Services Profile
+## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).

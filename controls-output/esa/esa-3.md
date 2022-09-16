@@ -17,7 +17,7 @@ subcollection: controls
 Services and/or applications that are prohibited by the customer shall not be deployed in the FSS Cloud. Prohibited items will be negotiated directly with the customer.
 
 
-## IBM Cloud for Financial Services Profile
+## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).

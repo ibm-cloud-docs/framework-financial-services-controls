@@ -40,6 +40,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 [AC-2 - Account Management](/docs/controls?topic=controls-ac-2#ac-2)
 
+[TEST AC-2 - Account Management](/docs/controls?topic=controls-test-ac-2#test-ac-2)
+
 [AC-2 (1) - Automated System Account Management](/docs/controls?topic=controls-ac-2.1#ac-2.1)
 
 [AC-2 (2) - Removal Of Temporary / Emergency Accounts](/docs/controls?topic=controls-ac-2.2#ac-2.2)

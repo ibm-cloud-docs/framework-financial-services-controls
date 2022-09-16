@@ -22,7 +22,7 @@ The information system backs up audit records [at least weekly] onto a physicall
 This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records.
 
 
-## IBM Cloud for Financial Services Profile
+## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
