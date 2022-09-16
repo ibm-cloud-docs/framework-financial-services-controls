@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,14 +16,14 @@ subcollection: controls
 
 The organization employs automated mechanisms to support the management of information system accounts.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 The use of automated mechanisms can include, for example: using email or text messaging to automatically notify account managers when users are terminated or transferred; using the information system to monitor account usage; and using telephonic notification to report atypical system account usage.
 
 
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 

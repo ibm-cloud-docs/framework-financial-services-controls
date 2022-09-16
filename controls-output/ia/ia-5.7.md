@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,7 +16,7 @@ subcollection: controls
 
 The organization ensures that unencrypted static authenticators are not embedded in applications or access scripts or stored on function keys.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizations exercise caution in determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators. This is irrespective of whether that representation is perhaps an encrypted version of something else (e.g., a password).

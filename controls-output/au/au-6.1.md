@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,14 +16,14 @@ subcollection: controls
 
 The organization employs automated mechanisms to integrate audit review, analysis, and reporting processes to support organizational processes for investigation and response to suspicious activities.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizational processes benefiting from integrated audit review, analysis, and reporting include, for example, incident response, continuous monitoring, contingency planning, and Inspector General audits.
 
 
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 

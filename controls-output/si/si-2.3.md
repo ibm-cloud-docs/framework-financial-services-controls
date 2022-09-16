@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -20,13 +20,9 @@ The organization:
 
 - \[(b)\] Establishes [organization-defined benchmarks] for taking corrective actions.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 This control enhancement requires organizations to determine the current time it takes on the average to correct information system flaws after such flaws have been identified, and subsequently establish organizational benchmarks (i.e., time frames) for taking corrective actions. Benchmarks can be established by type of flaw and/or severity of the potential vulnerability if the flaw can be exploited.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| si-2.3_prm_1 |  | organization-defined benchmarks |
 
 

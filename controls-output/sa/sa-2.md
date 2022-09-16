@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -22,7 +22,7 @@ The organization:
 
 - \[c.\] Establishes a discrete line item for information security in organizational programming and budgeting documentation.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Resource allocation for information security includes funding for the initial information system or information system service acquisition and funding for the sustainment of the system/service.

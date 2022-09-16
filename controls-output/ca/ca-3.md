@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -22,23 +22,19 @@ The organization:
 
 - \[c.\] Reviews and updates Interconnection Security Agreements [at least annually and on input from the customer].
 
-## Control Additional FS Cloud Specifications
+## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 The organization &#34;service delivery&#34; and &#34;corporate&#34; environments must be maintained as separate environments. That is, clear physical and/or logical boundaries separating the two environments must exist.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 This control applies to dedicated connections between information systems (i.e., system interconnections) and does not apply to transitory, user-controlled connections such as email and website browsing. Organizations carefully consider the risks that may be introduced when information systems are connected to other systems with different security requirements and security controls, both within organizations and external to organizations. Authorizing officials determine the risk associated with information system connections and the appropriate controls employed. If interconnecting systems have the same authorizing official, organizations do not need to develop Interconnection Security Agreements. Instead, organizations can describe the interface characteristics between those interconnecting systems in their respective security plans. If interconnecting systems have different authorizing officials within the same organization, organizations can either develop Interconnection Security Agreements or describe the interface characteristics between systems in the security plans for the respective systems. Organizations may also incorporate Interconnection Security Agreement information into formal contracts, especially for interconnections established between federal agencies and nonfederal (i.e., private sector) organizations. Risk considerations also include information systems sharing the same networks. For certain technologies (e.g., space, unmanned aerial vehicles, and medical devices), there may be specialized connections in place during preoperational testing. Such connections may require Interconnection Security Agreements and be subject to additional security controls.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ca-3_prm_1 | at least annually and on input from the customer | organization-defined frequency |
 
-
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 
@@ -49,9 +45,9 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- [3000045: Check whether the Financial Services Validated setting is enabled in account settings](https://cloud.ibm.com/security-compliance/goals/3000045?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- 3000045: Check whether the Financial Services Validated setting is enabled in account settings
 
-### Part a
-{: #scc-fs-cloud-profile-a}
+### Part a.
+{: #part-a-scc-fs-cloud-profile}
 
-- [3000047: Check whether provisioned services are IAM enabled](https://cloud.ibm.com/security-compliance/goals/3000047?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- 3000047: Check whether provisioned services are IAM enabled

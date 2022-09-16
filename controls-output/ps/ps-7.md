@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -26,14 +26,9 @@ The organization:
 
 - \[e.\] Monitors provider compliance.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Third-party providers include, for example, service bureaus, contractors, and other organizations providing information system development, information technology services, outsourced applications, and network and security management. Organizations explicitly include personnel security requirements in acquisition-related documents. Third-party providers may have personnel working at organizational facilities with credentials, badges, or information system privileges issued by organizations. Notifications of third-party personnel changes ensure appropriate termination of privileges and credentials. Organizations define the transfers and terminations deemed reportable by security-related characteristics that include, for example, functions, roles, and nature of credentials/privileges associated with individuals transferred or terminated.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ps-7_prm_1 |  | organization-defined personnel or roles |
-| ps-7_prm_2 | same day | organization-defined time period |
 
 

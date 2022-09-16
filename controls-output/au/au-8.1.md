@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -20,15 +20,9 @@ The information system:
 
 - \[(b)\] Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than [organization-defined time period].
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| au-8.1_prm_1 | authoritative time source: servertime.service.softlayer.com | organization-defined frequency |
-| au-8.1_prm_2 | at least hourly | organization-defined authoritative time source |
-| au-8.1_prm_3 |  | organization-defined time period |
 
 

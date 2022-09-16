@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -20,7 +20,7 @@ The organization:
 
 - \[b.\] Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
-## Control Additional FS Cloud Specifications
+## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 The organization must send email to or on behalf of the customer, in accordance with customer requirements including the following:
@@ -29,7 +29,7 @@ The organization must send email to or on behalf of the customer, in accordance 
 - Organizations must provide customers with the needed information (including any changes) for customers to publish Domain Keys Identified Mail (DKIM) and Sender Policy Framework (SPF) records for the assigned subdomain.
 - DKIM key must be 1024 bits in length.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Information system entry and exit points include, for example, firewalls, electronic mail servers, web servers, proxy servers, remote-access servers, workstations, mobile devices, and notebook/laptop computers. Spam can be transported by different means including, for example, electronic mail, electronic mail attachments, and web accesses. Spam protection mechanisms include, for example, signature definitions.

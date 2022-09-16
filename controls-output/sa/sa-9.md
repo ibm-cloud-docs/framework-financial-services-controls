@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -22,7 +22,7 @@ The organization:
 
 - \[c.\] Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
 
-## Control Additional FS Cloud Specifications
+## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 Requirements for contingency planning and business continuity must be negotiated with third party service providers.
@@ -31,19 +31,14 @@ Degradation of performance by the same external vendor to the organization acros
 
 Authorized individuals include Federal Regulators in the event of insolvency.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 External information system services are services that are implemented outside of the authorization boundaries of organizational information systems. This includes services that are used by, but not a part of, organizational information systems. FISMA and OMB policy require that organizations using external service providers that are processing, storing, or transmitting federal information or operating information systems on behalf of the federal government ensure that such providers meet the same security requirements that federal agencies are required to meet. Organizations establish relationships with external service providers in a variety of ways including, for example, through joint ventures, business partnerships, contracts, interagency agreements, lines of business arrangements, licensing agreements, and supply chain exchanges. The responsibility for managing risks from the use of external information system services remains with authorizing officials. For services external to organizations, a chain of trust requires that organizations establish and retain a level of confidence that each participating provider in the potentially complex consumer-provider relationship provides adequate protection for the services rendered. The extent and nature of this chain of trust varies based on the relationships between organizations and the external providers. Organizations document the basis for trust relationships so the relationships can be monitored over time. External information system services documentation includes government, service providers, end user security roles and responsibilities, and service-level agreements. Service-level agreements define expectations of performance for security controls, describe measurable outcomes, and identify remedies and response requirements for identified instances of noncompliance.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| sa-9_prm_1 | business continuity service level agreements | organization-defined security controls |
-| sa-9_prm_2 | Continuous monitoring requirements must be met for external systems where customer information is processed or stored | organization-defined processes, methods, and techniques |
 
-
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 
@@ -54,8 +49,8 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-### Part a
-{: #scc-fs-cloud-profile-a}
+### Part a.
+{: #part-a-scc-fs-cloud-profile}
 
-- [3000045: Check whether the Financial Services Validated setting is enabled in account settings](https://cloud.ibm.com/security-compliance/goals/3000045?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000047: Check whether provisioned services are IAM enabled](https://cloud.ibm.com/security-compliance/goals/3000047?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- 3000045: Check whether the Financial Services Validated setting is enabled in account settings
+- 3000047: Check whether provisioned services are IAM enabled

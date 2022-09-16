@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -25,8 +25,8 @@ The organization must have oversight and controls on activities they outsource t
 - \[d\] Review of subcontractor response framework to ensure adequate capabilities are in place for rapid assembly and response in the event of a disruption
 
 
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 
@@ -37,5 +37,5 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- [3000045: Check whether the Financial Services Validated setting is enabled in account settings](https://cloud.ibm.com/security-compliance/goals/3000045?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
-- [3000047: Check whether provisioned services are IAM enabled](https://cloud.ibm.com/security-compliance/goals/3000047?page=profile&profile_id=2799&profile_type=1&profile_name=IBM%20Cloud%20for%20Financial%20Services%20v0.5.0){: external}
+- 3000045: Check whether the Financial Services Validated setting is enabled in account settings
+- 3000047: Check whether provisioned services are IAM enabled

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -20,13 +20,9 @@ The organization:
 
 - \[b.\] Retains individual training records for [at least one year].
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Documentation for specialized training may be maintained by individual supervisors at the option of the organization.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| at-4_prm_1 | at least one year | organization-defined time period |
 
 

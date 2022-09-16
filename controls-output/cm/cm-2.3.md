@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,13 +16,9 @@ subcollection: controls
 
 The organization retains [organization-defined previous versions of baseline configurations of the information system] to support rollback.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Retaining previous versions of baseline configurations to support rollback may include, for example, hardware, software, firmware, configuration files, and configuration records.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cm-2.3_prm_1 |  | organization-defined previous versions of baseline configurations of the information system |
 
 

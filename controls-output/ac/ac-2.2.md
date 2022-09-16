@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,14 +16,9 @@ subcollection: controls
 
 The information system automatically [removes; disables] temporary and emergency accounts after [no more than 30 days for temporary and emergency account types].
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 This control enhancement requires the removal of both temporary and emergency accounts automatically after a predefined period of time has elapsed, rather than at the convenience of the systems administrator.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ac-2.2_prm_1 |  | Choose : removes; disables |
-| ac-2.2_prm_2 | no more than 30 days for temporary and emergency account types | organization-defined time period for each type of account |
 
 

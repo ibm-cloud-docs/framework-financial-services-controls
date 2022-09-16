@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-14"
+lastupdated: "2022-09-16"
 
 keywords: 
 
@@ -39,8 +39,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [AC-1 - Access Control Policy And Procedures](/docs/controls?topic=controls-ac-1#ac-1)
 
 [AC-2 - Account Management](/docs/controls?topic=controls-ac-2#ac-2)
-
-[TEST AC-2 - Account Management](/docs/controls?topic=controls-test-ac-2#test-ac-2)
 
 [AC-2 (1) - Automated System Account Management](/docs/controls?topic=controls-ac-2.1#ac-2.1)
 

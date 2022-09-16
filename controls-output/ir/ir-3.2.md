@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,14 +16,14 @@ subcollection: controls
 
 The organization coordinates incident response testing with organizational elements responsible for related plans.
 
-## Control Additional FS Cloud Specifications
+## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 Testing must also include the time it takes for resources to assemble in response to an incident, event, or crisis.
 
 The 3rd/4th Party Response Teams must be included as part of the exercises.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizational plans related to incident response testing include, for example, Business Continuity Plans, Contingency Plans, Disaster Recovery Plans, Continuity of Operations Plans, Crisis Communications Plans, Critical Infrastructure Plans, and Occupant Emergency Plans.

@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -22,14 +22,9 @@ The organization:
 
 - \[c.\] Coordinates results of reviews and investigations with the organizational incident response capability.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizational incident response capabilities include investigations of and responses to detected physical security incidents. Security incidents include, for example, apparent security violations or suspicious physical access activities. Suspicious physical access activities include, for example: (i) accesses outside of normal work hours; (ii) repeated accesses to areas not normally accessed; (iii) accesses for unusual lengths of time; and (iv) out-of-sequence accesses.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| pe-6_prm_1 | at least monthly | organization-defined frequency |
-| pe-6_prm_2 |  | organization-defined events or potential indications of events |
 
 

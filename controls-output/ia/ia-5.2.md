@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -24,12 +24,12 @@ The information system, for PKI-based authentication:
 
 - \[(d)\] Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.
 
-## Control Additional FS Cloud Specifications
+## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 TLS certificate revocation status checking and revocation status caching is only applicable to connections between a browser and server
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Status information for certification paths includes, for example, certificate revocation lists or certificate status protocol responses. For PIV cards, validation of certifications involves the construction and verification of a certification path to the Common Policy Root trust anchor including certificate policy processing.

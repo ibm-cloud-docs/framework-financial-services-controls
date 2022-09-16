@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,25 +16,21 @@ subcollection: controls
 
 The organization plans for the resumption of essential missions and business functions within [organization-defined time period] of contingency plan activation.
 
-## Control Additional FS Cloud Specifications
+## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 Contingency plans should also include planning for the resumption of all missions and business functions within an organization-defined time period of contingency plan activation.
 
 Recovery strategies must meet the RTOs (Recovery Time Objectives) and RPOs (Recovery Point Objectives) for a minimum of six (6) weeks.
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizations may choose to carry out the contingency planning activities in this control enhancement as part of organizational business continuity planning including, for example, as part of business impact analyses. The time period for resumption of essential missions/business functions may be dependent on the severity/extent of disruptions to the information system and its supporting infrastructure.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-2.3_prm_1 |  | organization-defined time period |
 
-
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 

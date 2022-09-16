@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -16,13 +16,9 @@ subcollection: controls
 
 The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [organization-defined information system components].
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cm-6.1_prm_1 |  | organization-defined information system components |
 
-
-## Related Resources
-{: #related_resources}
+## Implementation guidance
+{: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 

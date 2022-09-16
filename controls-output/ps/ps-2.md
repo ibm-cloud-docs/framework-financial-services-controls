@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-09"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -22,13 +22,9 @@ The organization:
 
 - \[c.\] Reviews and updates position risk designations [at least every three years].
 
-## Control Supplemental Guidance
+## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Position risk designations reflect Office of Personnel Management policy and guidance. Risk designations can guide and inform the types of authorizations individuals receive when accessing organizational information and information systems. Position screening criteria include explicit information security role appointment requirements (e.g., training, security clearances).
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ps-2_prm_1 | at least every three years | organization-defined frequency |
 
 

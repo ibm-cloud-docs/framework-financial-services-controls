@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+lastupdated: "2022-09-16"
 keywords: 
 subcollection: controls
 ---
@@ -15,9 +15,5 @@ subcollection: controls
 {: #requirements}
 
 The organization tests backup information [at least annually] to verify media reliability and information integrity.
-
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-9.1_prm_1 | at least annually | organization-defined frequency |
 
 
