@@ -25,4 +25,4 @@ All PR's for new content should be made against the `source` branch. When conten
 
 ## Checking build status
 
-Build status can be found in the [`#docs-controls`](https://ibm-cloudplatform.slack.com/archives/C03QD57U20M) Slack channel.
+Build status can be found in the [`#docs-framework-financial-services-controls`](https://ibm-cloudplatform.slack.com/archives/C03PQPM27NV) Slack channel.
