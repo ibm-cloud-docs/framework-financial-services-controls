@@ -1,4 +1,4 @@
-\# controls
+# framework-financial-services-controls
 
 Contains controls and above-the-line implementation and evidence guidance for clients/partners using the IBM Cloud for Financial Services.
 
@@ -8,8 +8,10 @@ Content in this repo is populated from [cloud-governance-framework/guidance](htt
 
 ## Cloud Docs locations
 
-* [Staging](https://test.cloud.ibm.com/docs/controls)
-* [Production](https://cloud.ibm.com/docs/controls) - NOT YET AVAILABLE
+* [Staging](https://test.cloud.ibm.com/docs/framework-financial-services-controls
+)
+* [Production](https://cloud.ibm.com/docs/framework-financial-services-controls
+) - NOT YET AVAILABLE
 
 ## Content Design and Development in IBM Cloud
 
