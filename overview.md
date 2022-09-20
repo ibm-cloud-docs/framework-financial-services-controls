@@ -30,31 +30,6 @@ See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Service
 {: note}
 
 
-## Control families
-{: #control-families}
 
-The framework consists of the 21 control families that follow.
-
-- [Access Control (AC)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-overview)
-- [Awareness and Training (AT)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-at-overview)
-- [Audit and Accountability (AU)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-overview)
-- [Security Assessment and Authorization (CA)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ca-overview)
-- [Configuration Management (CM)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cm-overview)
-- [Contingency Planning (CP)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-overview)
-- [Identification and Authentication (IA)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-overview)
-- [Incident Response (IR)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ir-overview)
-- [Maintenance (MA)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ma-overview)
-- [Media Protection (MP)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-mp-overview)
-- [Physical and Environmental Protection (PE)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-overview)
-- [Planning (PL)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pl-overview)
-- [Personnel Security (PS)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ps-overview)
-- [Risk Assessment (RA)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ra-overview)
-- [System and Services Acquisition (SA)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-overview)
-- [System and Communications Protection (SC)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-overview)
-- [System and Information Integrity (SI)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-si-overview)
-- [Program Management (PM)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pm-overview)
-- [Enterprise Data Management (EDM)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-overview)
-- [Accessibility Guidelines (ESA)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-esa-overview)
-- [Privacy](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-privacy-overview)
 
 
