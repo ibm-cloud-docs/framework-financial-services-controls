@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,12 +18,6 @@ subcollection: controls
 {: #requirements}
 
 The organization prevents the unauthorized exfiltration of information across managed interfaces.
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Safeguards implemented by organizations to prevent unauthorized exfiltration of information from information systems include, for example: (i) strict adherence to protocol formats; (ii) monitoring for beaconing from information systems; (iii) monitoring for steganography; (iv) disconnecting external network interfaces except when explicitly needed; (v) disassembling and reassembling packet headers; and (vi) employing traffic profile analysis to detect deviations from the volume/types of traffic expected within organizations or call backs to command and control centers. Devices enforcing strict adherence to protocol formats include, for example, deep packet inspection firewalls and XML gateways. These devices verify adherence to protocol formats and specification at the application layer and serve to identify vulnerabilities that cannot be detected by devices operating at the network or transport layers. This control enhancement is closely associated with cross-domain solutions and system guards enforcing information flow requirements.
-
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
@@ -40,3 +37,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000467: Check whether Virtual Private Cloud (VPC) has no subnet with public gateway attached
 - 3000468: Check whether Virtual Private Cloud (VPC) is configured with public gateways that are provisionable only within permitted zones
 - 3000476: Check whether Virtual Private Cloud (VPC) security groups have outbound ports that are open only to permitted IPs
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Safeguards implemented by organizations to prevent unauthorized exfiltration of information from information systems include, for example: (i) strict adherence to protocol formats; (ii) monitoring for beaconing from information systems; (iii) monitoring for steganography; (iv) disconnecting external network interfaces except when explicitly needed; (v) disassembling and reassembling packet headers; and (vi) employing traffic profile analysis to detect deviations from the volume/types of traffic expected within organizations or call backs to command and control centers. Devices enforcing strict adherence to protocol formats include, for example, deep packet inspection firewalls and XML gateways. These devices verify adherence to protocol formats and specification at the application layer and serve to identify vulnerabilities that cannot be detected by devices operating at the network or transport layers. This control enhancement is closely associated with cross-domain solutions and system guards enforcing information flow requirements.
+

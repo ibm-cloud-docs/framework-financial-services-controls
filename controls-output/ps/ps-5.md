@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -28,5 +31,4 @@ The organization:
 {: #supplemental-guidance}
 
 This control applies when reassignments or transfers of individuals are permanent or of such extended durations as to make the actions warranted. Organizations define actions appropriate for the types of reassignments or transfers, whether permanent or extended. Actions that may be required for personnel transfers or reassignments to other positions within organizations include, for example: (i) returning old and issuing new keys, identification cards, and building passes; (ii) closing information system accounts and establishing new accounts; (iii) changing information system access authorizations (i.e., privileges); and (iv) providing for access to official records to which individuals had access at previous work locations and in previous information system accounts.
-
 

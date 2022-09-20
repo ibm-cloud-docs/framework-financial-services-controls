@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -20,5 +23,4 @@ The organization explicitly authorizes access to [organization-defined security 
 {: #supplemental-guidance}
 
 Security functions include, for example, establishing system accounts, configuring access authorizations (i.e., permissions, privileges), setting events to be audited, and setting intrusion detection parameters. Security-relevant information includes, for example, filtering rules for routers/firewalls, cryptographic key management information, configuration parameters for security services, and access control lists. Explicitly authorized personnel include, for example, security administrators, system and network administrators, system security officers, system maintenance personnel, system programmers, and other privileged users.
-
 

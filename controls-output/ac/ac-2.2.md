@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -20,5 +23,4 @@ The information system automatically [removes; disables] temporary and emergency
 {: #supplemental-guidance}
 
 This control enhancement requires the removal of both temporary and emergency accounts automatically after a predefined period of time has elapsed, rather than at the convenience of the systems administrator.
-
 

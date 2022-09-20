@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -16,12 +19,6 @@ subcollection: controls
 
 The organization employs automated tools to determine if password authenticators are sufficiently strong to satisfy [organization-defined requirements].
 
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-This control enhancement focuses on the creation of strong passwords and the characteristics of such passwords (e.g., complexity) prior to use, the enforcement of which is carried out by organizational information systems in IA-5 (1).
-
-
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
@@ -35,3 +32,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000425: Check whether VPN for VPC authentication is configured with a strong pre-shared key with at least # characters
 - 3000713: Check whether App ID password strength regex is configured
 - 3000714: Check whether App ID advanced password policies are enabled
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+This control enhancement focuses on the creation of strong passwords and the characteristics of such passwords (e.g., complexity) prior to use, the enforcement of which is carried out by organizational information systems in IA-5 (1).
+

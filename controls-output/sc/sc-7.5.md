@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,12 +18,6 @@ subcollection: controls
 {: #requirements}
 
 The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception).
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-This control enhancement applies to both inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those connections which are essential and approved are allowed.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -66,3 +63,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000704: Check whether App ID redirect URIs are not using localhost or 127.0.0.1
 - 3000705: Check whether App ID redirect URIs are not using wildcards (*)
 - 3000902: Check whether OpenShift clusters are accessible only by using private endpoints 
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+This control enhancement applies to both inbound and outbound network communications traffic. A deny-all, permit-by-exception network communications traffic policy ensures that only those connections which are essential and approved are allowed.
+

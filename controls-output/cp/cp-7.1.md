@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -16,12 +19,6 @@ subcollection: controls
 
 The organization identifies an alternate processing site that is separated from the primary processing site to reduce susceptibility to the same threats.
 
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Threats that affect alternate processing sites are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber attacks, and errors of omission/commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate processing sites based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites is less relevant.
-
-
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
@@ -33,3 +30,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones
 - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones
 - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Threats that affect alternate processing sites are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber attacks, and errors of omission/commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate processing sites based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites is less relevant.
+

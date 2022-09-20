@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,5 +18,4 @@ subcollection: controls
 {: #requirements}
 
 Applications with web content must be accessible to people with disabilities. Standards such as Web Content Accessibility Guidelines (WCAG) v 2.1 should be used.
-
 

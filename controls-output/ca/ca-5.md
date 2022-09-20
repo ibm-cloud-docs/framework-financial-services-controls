@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -24,5 +27,4 @@ The organization:
 {: #supplemental-guidance}
 
 Plans of action and milestones are key documents in security authorization packages and are subject to federal reporting requirements established by OMB.
-
 

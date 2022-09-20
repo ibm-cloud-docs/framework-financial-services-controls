@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -20,12 +23,6 @@ The information system implements cryptographic mechanisms to [prevent unauthori
 {: #additional-fs-cloud-specifications}
 
 The organization must encrypt customer data in transit regardless of the transport mechanism and/or digital media type used. For web-based applications, the organization will ensure that transmitted data is protected in accordance with the recommendations of the Open Web Application Security Project (OWASP).
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Encrypting information for transmission protects information from unauthorized disclosure and modification. Cryptographic mechanisms implemented to protect information integrity include, for example, cryptographic hash functions which have common application in digital signatures, checksums, and message authentication codes. Alternative physical security safeguards include, for example, protected distribution systems.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -49,3 +46,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000702: Check whether App ID email dispatchers are using HTTPS only
 - 3000703: Check whether App ID redirect URIs are using HTTPS only
 - 3000906: Check whether OpenShift Ingress is configured with at least TLS v1.2 for all inbound traffic
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Encrypting information for transmission protects information from unauthorized disclosure and modification. Cryptographic mechanisms implemented to protect information integrity include, for example, cryptographic hash functions which have common application in digital signatures, checksums, and message authentication codes. Alternative physical security safeguards include, for example, protected distribution systems.
+

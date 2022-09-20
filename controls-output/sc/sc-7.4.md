@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -25,5 +28,4 @@ The organization:
 - \[(d)\] Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and
 
 - \[(e)\] Reviews exceptions to the traffic flow policy [at least annually] and removes exceptions that are no longer supported by an explicit mission/business need.
-
 

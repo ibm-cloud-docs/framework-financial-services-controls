@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,7 +18,6 @@ subcollection: controls
 {: #requirements}
 
 The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [organization-defined information system components].
-
 
 ## Implementation guidance
 {: #implementation-guidance}

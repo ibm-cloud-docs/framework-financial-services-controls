@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -24,5 +27,4 @@ The organization:
 {: #supplemental-guidance}
 
 Documentation for specialized training may be maintained by individual supervisors at the option of the organization.
-
 

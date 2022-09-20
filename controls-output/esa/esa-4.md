@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-08"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,5 +18,4 @@ subcollection: controls
 {: #requirements}
 
 Software that has flaws that cannot be remediated per vendor dependency must be tracked and possibly removed if it poses high risk and is no longer supported.
-
 

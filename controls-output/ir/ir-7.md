@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -20,5 +23,4 @@ The organization provides an incident response support resource, integral to the
 {: #supplemental-guidance}
 
 Incident response support resources provided by organizations include, for example, help desks, assistance groups, and access to forensics services, when required.
-
 

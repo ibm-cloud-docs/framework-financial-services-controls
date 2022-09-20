@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -21,5 +24,4 @@ The organization reviews and updates the baseline configuration of the informati
 - \[(b)\] When required due to [to include when directed by IBM and/or customer]; and
 
 - \[(c)\] As an integral part of information system component installations and upgrades.
-
 

@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,5 +18,4 @@ subcollection: controls
 {: #requirements}
 
 The organization only permits the use of shared/group accounts that meet [organization-defined conditions for establishing shared/group accounts].
-
 

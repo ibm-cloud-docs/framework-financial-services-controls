@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -24,5 +27,4 @@ The information system:
 {: #supplemental-guidance}
 
 This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.
-
 

@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -26,12 +29,6 @@ The organization:
 {: #additional-fs-cloud-specifications}
 
 Ensure segregation exists such that no one individual has the authority/ability to develop, compile and/or move object code from non-production environments into production environments.
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. Separation of duties includes, for example: (i) dividing mission functions and information system support functions among different individuals and/or roles; (ii) conducting information system support functions with different individuals (e.g., system management, programming, configuration management, quality assurance and testing, and network security); and (iii) ensuring security personnel administering access control functions do not also administer audit functions.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -60,3 +57,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000707: Check whether App ID user profile updates from client apps is disabled
 - 3000708: Check whether App ID Cloud Directory users aren't able to update their own accounts
 - 3000709: Check whether App ID Cloud Directory users aren't able to self-sign up to applications
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. Separation of duties includes, for example: (i) dividing mission functions and information system support functions among different individuals and/or roles; (ii) conducting information system support functions with different individuals (e.g., system management, programming, configuration management, quality assurance and testing, and network security); and (iii) ensuring security personnel administering access control functions do not also administer audit functions.
+

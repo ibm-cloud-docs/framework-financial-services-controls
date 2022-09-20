@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,12 +18,6 @@ subcollection: controls
 {: #requirements}
 
 The information system protects the availability of resources by allocating [organization-defined resources] by [priority; quota; organization-defined security safeguards].
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Priority protection helps prevent lower-priority processes from delaying or interfering with the information system servicing any higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources. This control does not apply to information system components for which there are only single users/roles.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -45,3 +42,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones
 - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones
 - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Priority protection helps prevent lower-priority processes from delaying or interfering with the information system servicing any higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources. This control does not apply to information system components for which there are only single users/roles.
+

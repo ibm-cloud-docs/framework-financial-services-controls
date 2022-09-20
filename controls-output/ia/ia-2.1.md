@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,7 +18,6 @@ subcollection: controls
 {: #requirements}
 
 The information system implements multifactor authentication for network access to privileged accounts.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -32,3 +34,4 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 - 3000017: Check whether multifactor authentication (MFA) is enabled at the account level
 - 3000723: Check whether App ID multifactor authentication (MFA) is enabled for Cloud Directory users
+

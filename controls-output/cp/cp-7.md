@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -26,12 +29,6 @@ The organization:
 {: #additional-fs-cloud-specifications}
 
 Where failover is used, applications must failover and maintain production workload to an alternate site for a period of five (5) consecutive days.
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Alternate processing sites are sites that are geographically distinct from primary processing sites. An alternate processing site provides processing capability in the event that the primary processing site is not available. Items covered by alternate processing site agreements include, for example, environmental conditions at alternate sites, access rules, physical and environmental protection requirements, and coordination for the transfer/assignment of personnel. Requirements are specifically allocated to alternate processing sites that reflect the requirements in contingency plans to maintain essential missions/business functions despite disruption, compromise, or failure in organizational information systems.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -77,3 +74,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones
 - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones
 - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Alternate processing sites are sites that are geographically distinct from primary processing sites. An alternate processing site provides processing capability in the event that the primary processing site is not available. Items covered by alternate processing site agreements include, for example, environmental conditions at alternate sites, access rules, physical and environmental protection requirements, and coordination for the transfer/assignment of personnel. Requirements are specifically allocated to alternate processing sites that reflect the requirements in contingency plans to maintain essential missions/business functions despite disruption, compromise, or failure in organizational information systems.
+

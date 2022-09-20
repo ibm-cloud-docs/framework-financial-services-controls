@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -23,12 +26,6 @@ The organization:
 - \[c.\] Conducts backups of information system documentation including security-related documentation [daily incremental; weekly full]; and
 
 - \[d.\] Protects the confidentiality, integrity, and availability of backup information at storage locations.
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-System-level information includes, for example, system-state information, operating system and application software, and licenses. User-level information includes any information other than system-level information. Mechanisms employed by organizations to protect the integrity of information system backups include, for example, digital signatures and cryptographic hashes. Protection of system backup information while in transit is beyond the scope of this control. Information system backups reflect the requirements in contingency plans as well as other organizational requirements for backing up information.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -53,3 +50,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated
 - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+System-level information includes, for example, system-state information, operating system and application software, and licenses. User-level information includes any information other than system-level information. Mechanisms employed by organizations to protect the integrity of information system backups include, for example, digital signatures and cryptographic hashes. Protection of system backup information while in transit is beyond the scope of this control. Information system backups reflect the requirements in contingency plans as well as other organizational requirements for backing up information.
+

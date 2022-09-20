@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -20,12 +23,6 @@ The organization employs the principle of least privilege, allowing only authori
 {: #additional-fs-cloud-specifications}
 
 Individual users are not permitted to interact with system-to-system service accounts.
-
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Organizations employ least privilege for specific duties and information systems. The principle of least privilege is also applied to information system processes, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required organizational missions/business functions. Organizations consider the creation of additional processes, roles, and information system accounts as necessary, to achieve least privilege. Organizations also apply least privilege to the development, implementation, and operation of organizational information systems.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -52,3 +49,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000035: Check whether account service access is managed only by IAM access groups
 - 3000106: Check whether Cloud Object Storage bucket access is restricted by using IAM and S3 access control
 - 3000708: Check whether App ID Cloud Directory users aren't able to update their own accounts
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Organizations employ least privilege for specific duties and information systems. The principle of least privilege is also applied to information system processes, ensuring that the processes operate at privilege levels no higher than necessary to accomplish required organizational missions/business functions. Organizations consider the creation of additional processes, roles, and information system accounts as necessary, to achieve least privilege. Organizations also apply least privilege to the development, implementation, and operation of organizational information systems.
+

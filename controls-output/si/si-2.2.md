@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -15,7 +18,6 @@ subcollection: controls
 {: #requirements}
 
 The organization employs automated mechanisms [at least monthly] to determine the state of information system components with regard to flaw remediation.
-
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -33,3 +35,4 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection
 - 3000901: Check whether OpenShift worker nodes are updated to the latest image to ensure patching of vulnerabilities
 - 3000907: Check whether OpenShift version is up-to-date
+

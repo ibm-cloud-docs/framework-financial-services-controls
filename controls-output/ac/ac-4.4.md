@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -20,5 +23,4 @@ The information system prevents encrypted information from bypassing content-che
 {: #additional-fs-cloud-specifications}
 
 This control is required for ISVs; This control is NOT required for IBM Cloud Platform at this time (bank risk accepted for IBM)
-
 

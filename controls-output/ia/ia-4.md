@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -33,12 +36,6 @@ The organization must follow customer requirements when establishing customer id
 - aligning with customer email address or unique number corresponding to a user
 - prohibiting the use of Social Security Numbers (SSN) or customer-specific identifiers in the organization&#39;s internal environment
 
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Common device identifiers include, for example, media access control (MAC), Internet protocol (IP) addresses, or device-unique token identifiers. Management of individual identifiers is not applicable to shared information system accounts (e.g., guest and anonymous accounts). Typically, individual identifiers are the user names of the information system accounts assigned to those individuals. In such instances, the account management activities of AC-2 use account names provided by IA-4. This control also addresses individual identifiers not necessarily associated with information system accounts (e.g., identifiers used in physical security control databases accessed by badge reader systems for access to information systems). Preventing reuse of identifiers implies preventing the assignment of previously used individual, group, role, or device identifiers to different individuals, groups, roles, or devices.
-
-
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
@@ -66,3 +63,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 {: #part-d-scc-fs-cloud-profile}
 
 - 3000064: IBM Cloud prevents reuse of identifiers
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Common device identifiers include, for example, media access control (MAC), Internet protocol (IP) addresses, or device-unique token identifiers. Management of individual identifiers is not applicable to shared information system accounts (e.g., guest and anonymous accounts). Typically, individual identifiers are the user names of the information system accounts assigned to those individuals. In such instances, the account management activities of AC-2 use account names provided by IA-4. This control also addresses individual identifiers not necessarily associated with information system accounts (e.g., identifiers used in physical security control databases accessed by badge reader systems for access to information systems). Preventing reuse of identifiers implies preventing the assignment of previously used individual, group, role, or device identifiers to different individuals, groups, roles, or devices.
+

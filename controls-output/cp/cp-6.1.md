@@ -1,7 +1,10 @@
 ---
+
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+
+lastupdated: "2022-09-20"
+
 keywords: 
 subcollection: controls
 ---
@@ -16,12 +19,6 @@ subcollection: controls
 
 The organization identifies an alternate storage site that is separated from the primary storage site to reduce susceptibility to the same threats.
 
-## NIST supplemental guidance
-{: #supplemental-guidance}
-
-Threats that affect alternate storage sites are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber attacks, and errors of omission/commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate storage sites based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites is less relevant.
-
-
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
@@ -29,3 +26,9 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated
 - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
+
+## NIST supplemental guidance
+{: #supplemental-guidance}
+
+Threats that affect alternate storage sites are typically defined in organizational assessments of risk and include, for example, natural disasters, structural failures, hostile cyber attacks, and errors of omission/commission. Organizations determine what is considered a sufficient degree of separation between primary and alternate storage sites based on the types of threats that are of concern. For one particular type of threat (i.e., hostile cyber attack), the degree of separation between sites is less relevant.
+
