@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-20"
 keywords: 
 subcollection: controls
 
@@ -22,8 +22,8 @@ The Identification and Authentication (IA) family consists of the controls that 
 - [IA-1 - Identification And Authentication Policy And Procedures](/docs/controls?topic=controls-ia-1)
 - [IA-2 - Identification And Authentication (Organizational Users)](/docs/controls?topic=controls-ia-2)
 - [IA-2 (1) - Network Access To Privileged Accounts](/docs/controls?topic=controls-ia-2.1)
-- [IA-2 (11) - Remote Access - Separate Device](/docs/controls?topic=controls-ia-2.11)
 - [IA-2 (2) - Network Access To Non-Privileged Accounts](/docs/controls?topic=controls-ia-2.2)
+- [IA-2 (11) - Remote Access - Separate Device](/docs/controls?topic=controls-ia-2.11)
 - [IA-3 - Device Identification And Authentication](/docs/controls?topic=controls-ia-3)
 - [IA-4 - Identifier Management](/docs/controls?topic=controls-ia-4)
 - [IA-5 - Authenticator Management](/docs/controls?topic=controls-ia-5)

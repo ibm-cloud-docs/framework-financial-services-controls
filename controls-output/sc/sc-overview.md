@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-20"
 keywords: 
 subcollection: controls
 
@@ -26,10 +26,10 @@ The System and Communications Protection (SC) family consists of the controls th
 - [SC-5 - Denial Of Service Protection](/docs/controls?topic=controls-sc-5)
 - [SC-6 - Resource Availability](/docs/controls?topic=controls-sc-6)
 - [SC-7 - Boundary Protection](/docs/controls?topic=controls-sc-7)
-- [SC-7 (10) - Prevent Unauthorized Exfiltration](/docs/controls?topic=controls-sc-7.10)
 - [SC-7 (4) - External Telecommunications Services](/docs/controls?topic=controls-sc-7.4)
 - [SC-7 (5) - Deny By Default / Allow By Exception](/docs/controls?topic=controls-sc-7.5)
 - [SC-7 (8) - Route Traffic To Authenticated Proxy Servers](/docs/controls?topic=controls-sc-7.8)
+- [SC-7 (10) - Prevent Unauthorized Exfiltration](/docs/controls?topic=controls-sc-7.10)
 - [SC-8 - Transmission Confidentiality And Integrity](/docs/controls?topic=controls-sc-8)
 - [SC-8 (1) - Cryptographic Or Alternate Physical Protection](/docs/controls?topic=controls-sc-8.1)
 - [SC-10 - Network Disconnect](/docs/controls?topic=controls-sc-10)

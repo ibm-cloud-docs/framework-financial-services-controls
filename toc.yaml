@@ -28,18 +28,18 @@ toc:
           - controls-output/ac/ac-2.9.md
           - controls-output/ac/ac-3.md
           - controls-output/ac/ac-4.md
-          - controls-output/ac/ac-4.14.md
-          - controls-output/ac/ac-4.21.md
           - controls-output/ac/ac-4.4.md
           - controls-output/ac/ac-4.5.md
           - controls-output/ac/ac-4.6.md
+          - controls-output/ac/ac-4.14.md
+          - controls-output/ac/ac-4.21.md
           - controls-output/ac/ac-5.md
           - controls-output/ac/ac-6.md
-          - controls-output/ac/ac-6.10.md
           - controls-output/ac/ac-6.1.md
           - controls-output/ac/ac-6.2.md
           - controls-output/ac/ac-6.5.md
           - controls-output/ac/ac-6.9.md
+          - controls-output/ac/ac-6.10.md
           - controls-output/ac/ac-7.md
           - controls-output/ac/ac-8.md
           - controls-output/ac/ac-11.md
@@ -164,8 +164,8 @@ toc:
           - controls-output/ia/ia-1.md
           - controls-output/ia/ia-2.md
           - controls-output/ia/ia-2.1.md
-          - controls-output/ia/ia-2.11.md
           - controls-output/ia/ia-2.2.md
+          - controls-output/ia/ia-2.11.md
           - controls-output/ia/ia-3.md
           - controls-output/ia/ia-4.md
           - controls-output/ia/ia-5.md
@@ -313,10 +313,10 @@ toc:
           - controls-output/sc/sc-5.md
           - controls-output/sc/sc-6.md
           - controls-output/sc/sc-7.md
-          - controls-output/sc/sc-7.10.md
           - controls-output/sc/sc-7.4.md
           - controls-output/sc/sc-7.5.md
           - controls-output/sc/sc-7.8.md
+          - controls-output/sc/sc-7.10.md
           - controls-output/sc/sc-8.md
           - controls-output/sc/sc-8.1.md
           - controls-output/sc/sc-10.md

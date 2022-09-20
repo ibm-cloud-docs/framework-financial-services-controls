@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-07"
+lastupdated: "2022-09-20"
 keywords: 
 subcollection: controls
 
@@ -29,18 +29,18 @@ The Access Control (AC) family consists of the controls that follow.
 - [AC-2 (9) - Restrictions On Use Of Shared / Group Accounts](/docs/controls?topic=controls-ac-2.9)
 - [AC-3 - Access Enforcement](/docs/controls?topic=controls-ac-3)
 - [AC-4 - Information Flow Enforcement](/docs/controls?topic=controls-ac-4)
-- [AC-4 (14) - Security Policy Filter Constraints](/docs/controls?topic=controls-ac-4.14)
-- [AC-4 (21) - Physical / Logical Separation Of Information Flows](/docs/controls?topic=controls-ac-4.21)
 - [AC-4 (4) - Content Check Encrypted Information](/docs/controls?topic=controls-ac-4.4)
 - [AC-4 (5) - Embedded Data Types](/docs/controls?topic=controls-ac-4.5)
 - [AC-4 (6) - Metadata](/docs/controls?topic=controls-ac-4.6)
+- [AC-4 (14) - Security Policy Filter Constraints](/docs/controls?topic=controls-ac-4.14)
+- [AC-4 (21) - Physical / Logical Separation Of Information Flows](/docs/controls?topic=controls-ac-4.21)
 - [AC-5 - Separation Of Duties](/docs/controls?topic=controls-ac-5)
 - [AC-6 - Least Privilege](/docs/controls?topic=controls-ac-6)
-- [AC-6 (10) - Prohibit Non-Privileged Users From Executing Privileged Functions](/docs/controls?topic=controls-ac-6.10)
 - [AC-6 (1) - Authorize Access To Security Functions](/docs/controls?topic=controls-ac-6.1)
 - [AC-6 (2) - Non-Privileged Access For Nonsecurity Functions](/docs/controls?topic=controls-ac-6.2)
 - [AC-6 (5) - Privileged Accounts](/docs/controls?topic=controls-ac-6.5)
 - [AC-6 (9) - Auditing Use Of Privileged Functions](/docs/controls?topic=controls-ac-6.9)
+- [AC-6 (10) - Prohibit Non-Privileged Users From Executing Privileged Functions](/docs/controls?topic=controls-ac-6.10)
 - [AC-7 - Unsuccessful Logon Attempts](/docs/controls?topic=controls-ac-7)
 - [AC-8 - System Use Notification](/docs/controls?topic=controls-ac-8)
 - [AC-11 - Session Lock](/docs/controls?topic=controls-ac-11)

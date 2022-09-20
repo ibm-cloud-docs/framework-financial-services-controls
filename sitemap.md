@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-16"
+lastupdated: "2022-09-20"
 
 keywords: 
 
@@ -58,21 +58,19 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 [AC-4 - Information Flow Enforcement](/docs/controls?topic=controls-ac-4#ac-4)
 
-[AC-4 (14) - Security Policy Filter Constraints](/docs/controls?topic=controls-ac-4.14#ac-4.14)
-
-[AC-4 (21) - Physical / Logical Separation Of Information Flows](/docs/controls?topic=controls-ac-4.21#ac-4.21)
-
 [AC-4 (4) - Content Check Encrypted Information](/docs/controls?topic=controls-ac-4.4#ac-4.4)
 
 [AC-4 (5) - Embedded Data Types](/docs/controls?topic=controls-ac-4.5#ac-4.5)
 
 [AC-4 (6) - Metadata](/docs/controls?topic=controls-ac-4.6#ac-4.6)
 
+[AC-4 (14) - Security Policy Filter Constraints](/docs/controls?topic=controls-ac-4.14#ac-4.14)
+
+[AC-4 (21) - Physical / Logical Separation Of Information Flows](/docs/controls?topic=controls-ac-4.21#ac-4.21)
+
 [AC-5 - Separation Of Duties](/docs/controls?topic=controls-ac-5#ac-5)
 
 [AC-6 - Least Privilege](/docs/controls?topic=controls-ac-6#ac-6)
-
-[AC-6 (10) - Prohibit Non-Privileged Users From Executing Privileged Functions](/docs/controls?topic=controls-ac-6.10#ac-6.10)
 
 [AC-6 (1) - Authorize Access To Security Functions](/docs/controls?topic=controls-ac-6.1#ac-6.1)
 
@@ -81,6 +79,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [AC-6 (5) - Privileged Accounts](/docs/controls?topic=controls-ac-6.5#ac-6.5)
 
 [AC-6 (9) - Auditing Use Of Privileged Functions](/docs/controls?topic=controls-ac-6.9#ac-6.9)
+
+[AC-6 (10) - Prohibit Non-Privileged Users From Executing Privileged Functions](/docs/controls?topic=controls-ac-6.10#ac-6.10)
 
 [AC-7 - Unsuccessful Logon Attempts](/docs/controls?topic=controls-ac-7#ac-7)
 
@@ -312,9 +312,9 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 [IA-2 (1) - Network Access To Privileged Accounts](/docs/controls?topic=controls-ia-2.1#ia-2.1)
 
-[IA-2 (11) - Remote Access - Separate Device](/docs/controls?topic=controls-ia-2.11#ia-2.11)
-
 [IA-2 (2) - Network Access To Non-Privileged Accounts](/docs/controls?topic=controls-ia-2.2#ia-2.2)
+
+[IA-2 (11) - Remote Access - Separate Device](/docs/controls?topic=controls-ia-2.11#ia-2.11)
 
 [IA-3 - Device Identification And Authentication](/docs/controls?topic=controls-ia-3#ia-3)
 
@@ -583,13 +583,13 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 [SC-7 - Boundary Protection](/docs/controls?topic=controls-sc-7#sc-7)
 
-[SC-7 (10) - Prevent Unauthorized Exfiltration](/docs/controls?topic=controls-sc-7.10#sc-7.10)
-
 [SC-7 (4) - External Telecommunications Services](/docs/controls?topic=controls-sc-7.4#sc-7.4)
 
 [SC-7 (5) - Deny By Default / Allow By Exception](/docs/controls?topic=controls-sc-7.5#sc-7.5)
 
 [SC-7 (8) - Route Traffic To Authenticated Proxy Servers](/docs/controls?topic=controls-sc-7.8#sc-7.8)
+
+[SC-7 (10) - Prevent Unauthorized Exfiltration](/docs/controls?topic=controls-sc-7.10#sc-7.10)
 
 [SC-8 - Transmission Confidentiality And Integrity](/docs/controls?topic=controls-sc-8#sc-8)
 
