@@ -6,7 +6,7 @@ copyright:
 lastupdated: "2022-09-20"
 
 keywords: 
-subcollection: controls
+subcollection: framework-financial-services-controls
 ---
 
 {{site.data.keyword.attribute-definition-list}}
