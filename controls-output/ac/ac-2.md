@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,35 +19,35 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Identifies and selects the following types of information system accounts to support organizational missions/business functions: [organization-defined information system account types];
+a. Identifies and selects the following types of information system accounts to support organizational missions/business functions: [organization-defined information system account types];
 
-- \[b.\] Assigns account managers for information system accounts;
+b. Assigns account managers for information system accounts;
 
-- \[c.\] Establishes conditions for group and role membership;
+c. Establishes conditions for group and role membership;
 
-- \[d.\] Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;
+d. Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;
 
-- \[e.\] Requires approvals by [organization-defined personnel or roles] for requests to create information system accounts;
+e. Requires approvals by [organization-defined personnel or roles] for requests to create information system accounts;
 
-- \[f.\] Creates, enables, modifies, disables, and removes information system accounts in accordance with [organization-defined procedures or conditions];
+f. Creates, enables, modifies, disables, and removes information system accounts in accordance with [organization-defined procedures or conditions];
 
-- \[g.\] Monitors the use of information system accounts;
+g. Monitors the use of information system accounts;
 
-- \[h.\] Notifies account managers:
+h. Notifies account managers:
 
-  - \[1.\] When accounts are no longer required;
-  - \[2.\] When users are terminated or transferred; and
-  - \[3.\] When individual information system usage or need-to-know changes;
+- 1. When accounts are no longer required;
+- 2. When users are terminated or transferred; and
+- 3. When individual information system usage or need-to-know changes;
 
-- \[i.\] Authorizes access to the information system based on:
+i. Authorizes access to the information system based on:
 
-  - \[1.\] A valid access authorization;
-  - \[2.\] Intended system usage; and
-  - \[3.\] Other attributes as required by the organization or associated missions/business functions;
+- 1. A valid access authorization;
+- 2. Intended system usage; and
+- 3. Other attributes as required by the organization or associated missions/business functions;
 
-- \[j.\] Reviews accounts for compliance with account management requirements [quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]; and
+j. Reviews accounts for compliance with account management requirements [quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]; and
 
-- \[k.\] Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
+k. Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

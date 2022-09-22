@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+a. Categorizes information and the information system in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
-- \[b.\] Documents the security categorization results (including supporting rationale) in the security plan for the information system; and
+b. Documents the security categorization results (including supporting rationale) in the security plan for the information system; and
 
-- \[c.\] Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
+c. Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

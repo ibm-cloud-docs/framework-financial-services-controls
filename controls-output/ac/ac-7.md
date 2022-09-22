@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-- \[a.\] Enforces a limit of [not more than five (5)] consecutive invalid logon attempts by a user during a [fifteen (15) minutes]; and
+a. Enforces a limit of [not more than five (5)] consecutive invalid logon attempts by a user during a [fifteen (15) minutes]; and
 
-- \[b.\] Automatically [locks the account/node for a thirty (30) minutes] when the maximum number of unsuccessful attempts is exceeded.
+b. Automatically [locks the account/node for a thirty (30) minutes] when the maximum number of unsuccessful attempts is exceeded.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

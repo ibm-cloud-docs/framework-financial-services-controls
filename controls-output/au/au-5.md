@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-- \[a.\] Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
+a. Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
 
-- \[b.\] Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
+b. Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

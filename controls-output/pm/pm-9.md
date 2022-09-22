@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Develops a comprehensive strategy to manage risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of information systems;
+a. Develops a comprehensive strategy to manage risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of information systems;
 
-- \[b.\] Implements the risk management strategy consistently across the organization; and
+b. Implements the risk management strategy consistently across the organization; and
 
-- \[c.\] Reviews and updates the risk management strategy [at least annually] or as required, to address organizational changes.
+c. Reviews and updates the risk management strategy [at least annually] or as required, to address organizational changes.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

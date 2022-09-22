@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;
+a. Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;
 
-- \[b.\] Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
+b. Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
 
-- \[c.\] Reviews and updates Interconnection Security Agreements [at least annually and on input from the customer].
+c. Reviews and updates Interconnection Security Agreements [at least annually and on input from the customer].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

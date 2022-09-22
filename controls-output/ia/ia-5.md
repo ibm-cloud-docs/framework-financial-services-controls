@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,25 +19,25 @@ subcollection: framework-financial-services-controls
 
 The organization manages information system authenticators by:
 
-- \[a.\] Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator;
+a. Verifying, as part of the initial authenticator distribution, the identity of the individual, group, role, or device receiving the authenticator;
 
-- \[b.\] Establishing initial authenticator content for authenticators defined by the organization;
+b. Establishing initial authenticator content for authenticators defined by the organization;
 
-- \[c.\] Ensuring that authenticators have sufficient strength of mechanism for their intended use;
+c. Ensuring that authenticators have sufficient strength of mechanism for their intended use;
 
-- \[d.\] Establishing and implementing administrative procedures for initial authenticator distribution, for lost/compromised or damaged authenticators, and for revoking authenticators;
+d. Establishing and implementing administrative procedures for initial authenticator distribution, for lost/compromised or damaged authenticators, and for revoking authenticators;
 
-- \[e.\] Changing default content of authenticators prior to information system installation;
+e. Changing default content of authenticators prior to information system installation;
 
-- \[f.\] Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators;
+f. Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators;
 
-- \[g.\] Changing/refreshing authenticators [90 days for user passwords and 365 days for system-to-system authenticators];
+g. Changing/refreshing authenticators [90 days for user passwords and 365 days for system-to-system authenticators];
 
-- \[h.\] Protecting authenticator content from unauthorized disclosure and modification;
+h. Protecting authenticator content from unauthorized disclosure and modification;
 
-- \[i.\] Requiring individuals to take, and having devices implement, specific security safeguards to protect authenticators; and
+i. Requiring individuals to take, and having devices implement, specific security safeguards to protect authenticators; and
 
-- \[j.\] Changing authenticators for group/role accounts when membership to those accounts changes.
+j. Changing authenticators for group/role accounts when membership to those accounts changes.
 
 ## Implementation guidance
 {: #implementation-guidance}

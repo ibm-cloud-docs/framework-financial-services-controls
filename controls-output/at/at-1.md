@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,15 +19,15 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Develops, documents, and disseminates to [organization-defined personnel or roles]:
+a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-  - \[1.\] A security awareness and training policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-  - \[2.\] Procedures to facilitate the implementation of the security awareness and training policy and associated security awareness and training controls; and
+- 1. A security awareness and training policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+- 2. Procedures to facilitate the implementation of the security awareness and training policy and associated security awareness and training controls; and
 
-- \[b.\] Reviews and updates the current:
+b. Reviews and updates the current:
 
-  - \[1.\] Security awareness and training policy [at least annually]; and
-  - \[2.\] Security awareness and training procedures [at least annually].
+- 1. Security awareness and training policy [at least annually]; and
+- 2. Security awareness and training procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

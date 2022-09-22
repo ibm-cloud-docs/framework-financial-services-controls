@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Determines that the information system is capable of auditing the following events: [for required audit events, refer to Additional FS-ready public cloud Guidance];
+a. Determines that the information system is capable of auditing the following events: [for required audit events, refer to Additional FS-ready public cloud Guidance];
 
-- \[b.\] Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;
+b. Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;
 
-- \[c.\] Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; and
+c. Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; and
 
-- \[d.\] Determines that the following events are to be audited within the information system: [auditable events defined in AU-2 a. to be audited continually for each identified event].
+d. Determines that the following events are to be audited within the information system: [auditable events defined in AU-2 a. to be audited continually for each identified event].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

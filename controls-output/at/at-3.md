@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization provides role-based security training to personnel with assigned security roles and responsibilities:
 
-- \[a.\] Before authorizing access to the information system or performing assigned duties;
+a. Before authorizing access to the information system or performing assigned duties;
 
-- \[b.\] When required by information system changes; and
+b. When required by information system changes; and
 
-- \[c.\] [at least annually] thereafter.
+c. [at least annually] thereafter.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

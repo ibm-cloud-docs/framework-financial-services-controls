@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;
+a. Implements an incident handling capability for security incidents that includes preparation, detection and analysis, containment, eradication, and recovery;
 
-- \[b.\] Coordinates incident handling activities with contingency planning activities; and
+b. Coordinates incident handling activities with contingency planning activities; and
 
-- \[c.\] Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
+c. Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,19 +19,19 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Scans for vulnerabilities in the information system and hosted applications [weekly operating system/infrastructure and databases; weekly container images; quarterly web applications; annual source code/static analysis] and when new vulnerabilities potentially affecting the system/applications are identified and reported;
+a. Scans for vulnerabilities in the information system and hosted applications [weekly operating system/infrastructure and databases; weekly container images; quarterly web applications; annual source code/static analysis] and when new vulnerabilities potentially affecting the system/applications are identified and reported;
 
-- \[b.\] Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
+b. Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
 
-  - \[1.\] Enumerating platforms, software flaws, and improper configurations;
-  - \[2.\] Formatting checklists and test procedures; and
-  - \[3.\] Measuring vulnerability impact;
+- 1. Enumerating platforms, software flaws, and improper configurations;
+- 2. Formatting checklists and test procedures; and
+- 3. Measuring vulnerability impact;
 
-- \[c.\] Analyzes vulnerability scan reports and results from security control assessments;
+c. Analyzes vulnerability scan reports and results from security control assessments;
 
-- \[d.\] Remediates legitimate vulnerabilities [Priority 1 (very high), such as publicly known vulnerabilities with very high likelihood and impact, must be mitigated within four (4) days from date of discovery; Priority 2 (high), such as vulnerabilities with high likelihood and high impact, must be remediated within 45 days; Priority 3 (moderate), such as vulnerabilities with moderate likelihood and impact, must be remediated within 100 days; Priority 4 (low) and 5 (very low) have no specific remediation period unless otherwise directed.  Refer to table I-2 in NIST SP 800-30 for additional guidance on assessing risk] in accordance with an organizational assessment of risk; and
+d. Remediates legitimate vulnerabilities [Priority 1 (very high), such as publicly known vulnerabilities with very high likelihood and impact, must be mitigated within four (4) days from date of discovery; Priority 2 (high), such as vulnerabilities with high likelihood and high impact, must be remediated within 45 days; Priority 3 (moderate), such as vulnerabilities with moderate likelihood and impact, must be remediated within 100 days; Priority 4 (low) and 5 (very low) have no specific remediation period unless otherwise directed.  Refer to table I-2 in NIST SP 800-30 for additional guidance on assessing risk] in accordance with an organizational assessment of risk; and
 
-- \[e.\] Shares information obtained from the vulnerability scanning process and security control assessments with [organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).
+e. Shares information obtained from the vulnerability scanning process and security control assessments with [organization-defined personnel or roles] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

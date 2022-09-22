@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Reviews and analyzes information system audit records [at least weekly] for indications of [organization-defined inappropriate or unusual activity]; and
+a. Reviews and analyzes information system audit records [at least weekly] for indications of [organization-defined inappropriate or unusual activity]; and
 
-- \[b.\] Reports findings to [organization-defined personnel or roles].
+b. Reports findings to [organization-defined personnel or roles].
 
 ## Implementation guidance
 {: #implementation-guidance}

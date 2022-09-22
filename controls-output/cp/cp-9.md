@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Conducts backups of user-level information contained in the information system [daily incremental; weekly full];
+a. Conducts backups of user-level information contained in the information system [daily incremental; weekly full];
 
-- \[b.\] Conducts backups of system-level information contained in the information system [daily incremental; weekly full];
+b. Conducts backups of system-level information contained in the information system [daily incremental; weekly full];
 
-- \[c.\] Conducts backups of information system documentation including security-related documentation [daily incremental; weekly full]; and
+c. Conducts backups of information system documentation including security-related documentation [daily incremental; weekly full]; and
 
-- \[d.\] Protects the confidentiality, integrity, and availability of backup information at storage locations.
+d. Protects the confidentiality, integrity, and availability of backup information at storage locations.
 
 ## Implementation guidance
 {: #implementation-guidance}

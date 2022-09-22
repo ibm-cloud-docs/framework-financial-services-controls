@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- \[a.\] Protects and controls [all media with sensitive information] during transport outside of controlled areas using [for digital media, encryption using a FIPS 140-2 validated encryption module; for non-digital media, secured in locked container];
+a. Protects and controls [all media with sensitive information] during transport outside of controlled areas using [for digital media, encryption using a FIPS 140-2 validated encryption module; for non-digital media, secured in locked container];
 
-- \[b.\] Maintains accountability for information system media during transport outside of controlled areas;
+b. Maintains accountability for information system media during transport outside of controlled areas;
 
-- \[c.\] Documents activities associated with the transport of information system media; and
+c. Documents activities associated with the transport of information system media; and
 
-- \[d.\] Restricts the activities associated with the transport of information system media to authorized personnel.
+d. Restricts the activities associated with the transport of information system media to authorized personnel.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
