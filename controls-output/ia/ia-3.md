@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -29,7 +29,7 @@ All devices must be authorized by organization security prior to allowing such n
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000020: Check whether authorized IP ranges are configured for the account
+- 3000020: Check whether authorized IP ranges are configured for the account 
 - 3000076: IBM Cloud VPC uniquely identifies all physical devices before accepting a network connection
 
 ## NIST supplemental guidance

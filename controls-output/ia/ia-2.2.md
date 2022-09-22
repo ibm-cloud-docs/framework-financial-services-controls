@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,6 +24,6 @@ The information system implements multifactor authentication for network access 
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000017: Check whether multifactor authentication (MFA) is enabled at the account level
+- 3000017: Check whether multifactor authentication (MFA) is enabled at the account level 
 - 3000723: Check whether App ID multifactor authentication (MFA) is enabled for Cloud Directory users
 

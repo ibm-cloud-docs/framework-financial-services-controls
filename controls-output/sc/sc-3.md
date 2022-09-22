@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,7 +24,7 @@ The information system isolates security functions from nonsecurity functions.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000471: Check that at least # Virtual Private Cloud(VPC)s have been created
+- 3000471: Check that at least # Virtual Private Cloud(VPC)s have been created 
 - 3000472: Check that at least # instances of Transit Gateway have been created
 
 ## NIST supplemental guidance

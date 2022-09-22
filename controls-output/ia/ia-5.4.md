@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,13 +24,13 @@ The organization employs automated tools to determine if password authenticators
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000001: Check whether IBMid password policy requires at least one uppercase letter
-- 3000006: Check whether IBMid password may contain only printable ASCII characters (in the range 33 - 126)
-- 3000007: Check whether IBMid password policy contains spaces or any of the following characters: \;:("?)<>
-- 3000008: Check whether IBMid uses a password meter that coaches users to create strong passwords that exceed the minimum requirements
-- 3000073: IBMid employs automated tools to determine if password authenticators satisfy IBMid password requirements
-- 3000425: Check whether VPN for VPC authentication is configured with a strong pre-shared key with at least # characters
-- 3000713: Check whether App ID password strength regex is configured
+- 3000001: Check whether IBMid password policy requires at least one uppercase letter 
+- 3000006: Check whether IBMid password may contain only printable ASCII characters (in the range 33 - 126) 
+- 3000007: Check whether IBMid password policy contains spaces or any of the following characters: \;:("?)<> 
+- 3000008: Check whether IBMid uses a password meter that coaches users to create strong passwords that exceed the minimum requirements 
+- 3000073: IBMid employs automated tools to determine if password authenticators satisfy IBMid password requirements 
+- 3000425: Check whether VPN for VPC authentication is configured with a strong pre-shared key with at least # characters 
+- 3000713: Check whether App ID password strength regex is configured 
 - 3000714: Check whether App ID advanced password policies are enabled
 
 ## NIST supplemental guidance

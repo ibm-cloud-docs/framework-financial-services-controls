@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,11 +24,11 @@ The organization identifies an alternate processing site that is separated from 
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated
-- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
-- 3000233: Check whether Hyper Protect Crypto Services instance has at least # crypto units
-- 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones
-- 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones
+- 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated 
+- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region 
+- 3000233: Check whether Hyper Protect Crypto Services instance has at least # crypto units 
+- 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones 
+- 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones 
 - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones
 
 ## NIST supplemental guidance

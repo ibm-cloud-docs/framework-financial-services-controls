@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -32,15 +32,15 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000103: Check whether Cloud Object Storage is accessible only through HTTPS
-- 3000407: Check whether Virtual Private Cloud (VPC) is configured with at least TLS v1.2 for all inbound traffic through a load balancer
-- 3000432: Check whether Application Load Balancer for VPC pool uses the HTTPS protocol for HTTPS listeners
-- 3000433: Check whether Application Load Balancer for VPC is configured to convert HTTP client requests to HTTPS
-- 3000434: Check whether Application Load Balancer for VPC uses HTTPS (SSL & TLS) instead of HTTP
-- 3000470: Check whether Cloud Internet Services (CIS) has TLS mode set to End-to-End CA signed
-- 3000701: Check whether App ID webhooks are using HTTPS only
-- 3000702: Check whether App ID email dispatchers are using HTTPS only
-- 3000703: Check whether App ID redirect URIs are using HTTPS only
+- 3000103: Check whether Cloud Object Storage is accessible only through HTTPS 
+- 3000407: Check whether Virtual Private Cloud (VPC) is configured with at least TLS v1.2 for all inbound traffic through a load balancer 
+- 3000432: Check whether Application Load Balancer for VPC pool uses the HTTPS protocol for HTTPS listeners 
+- 3000433: Check whether Application Load Balancer for VPC is configured to convert HTTP client requests to HTTPS 
+- 3000434: Check whether Application Load Balancer for VPC uses HTTPS (SSL & TLS) instead of HTTP 
+- 3000470: Check whether Cloud Internet Services (CIS) has TLS mode set to End-to-End CA signed 
+- 3000701: Check whether App ID webhooks are using HTTPS only 
+- 3000702: Check whether App ID email dispatchers are using HTTPS only 
+- 3000703: Check whether App ID redirect URIs are using HTTPS only 
 - 3000906: Check whether OpenShift Ingress is configured with at least TLS v1.2 for all inbound traffic
 
 ## NIST supplemental guidance

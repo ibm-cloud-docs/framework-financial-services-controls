@@ -44,10 +44,10 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 - 3000045: Check whether the Financial Services Validated setting is enabled in account settings
 
-### Part a.
-{: #part-a-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
+| Requirement | Goals |
+|-------------|-------|
+| Part a | - 3000047: Check whether provisioned services are IAM enabled | 
+{: caption="Goals for CA-3" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -31,8 +31,8 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s)
-- 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection
-- 3000901: Check whether OpenShift worker nodes are updated to the latest image to ensure patching of vulnerabilities
+- 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) 
+- 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection 
+- 3000901: Check whether OpenShift worker nodes are updated to the latest image to ensure patching of vulnerabilities 
 - 3000907: Check whether OpenShift version is up-to-date
 

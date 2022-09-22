@@ -21,13 +21,13 @@ The organization:
 
 a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-- 1. A risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-- 2. Procedures to facilitate the implementation of the risk assessment policy and associated risk assessment controls; and
+1. A risk assessment policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+2. Procedures to facilitate the implementation of the risk assessment policy and associated risk assessment controls; and
 
 b. Reviews and updates the current:
 
-- 1. Risk assessment policy [at least annually]; and
-- 2. Risk assessment procedures [at least annually].
+1. Risk assessment policy [at least annually]; and
+2. Risk assessment procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

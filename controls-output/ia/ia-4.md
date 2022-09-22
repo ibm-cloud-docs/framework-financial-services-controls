@@ -41,28 +41,12 @@ The organization must follow customer requirements when establishing customer id
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-### Part b.
-{: #part-b-scc-fs-cloud-profile}
-
-- 3000062: IBMid selects and assigns identifiers that identify individuals
-- 3000063: IBM Cloud assigns identifiers that identify individuals, groups, roles, and devices
-- 3000463: Check whether Virtual Servers for VPC instances are identifable by the workload they are running based on the Auto Scale for VPC instance group definition
-- 3000464: Check whether Application Load Balancer for VPC has application port of the workload that is identifiable by the Auto Scale for VPC instance group definition
-- 3000465: Check whether Application Load Balancer for VPC has subnet identifiers of the workload that are identifiable by the Auto Scale for VPC instance group definition
-
-### Part c.
-{: #part-c-scc-fs-cloud-profile}
-
-- 3000062: IBMid selects and assigns identifiers that identify individuals
-- 3000063: IBM Cloud assigns identifiers that identify individuals, groups, roles, and devices
-- 3000463: Check whether Virtual Servers for VPC instances are identifable by the workload they are running based on the Auto Scale for VPC instance group definition
-- 3000464: Check whether Application Load Balancer for VPC has application port of the workload that is identifiable by the Auto Scale for VPC instance group definition
-- 3000465: Check whether Application Load Balancer for VPC has subnet identifiers of the workload that are identifiable by the Auto Scale for VPC instance group definition
-
-### Part d.
-{: #part-d-scc-fs-cloud-profile}
-
-- 3000064: IBM Cloud prevents reuse of identifiers
+| Requirement | Goals |
+|-------------|-------|
+| Part b | - 3000062: IBMid selects and assigns identifiers that identify individuals \n - 3000063: IBM Cloud assigns identifiers that identify individuals, groups, roles, and devices \n - 3000463: Check whether Virtual Servers for VPC instances are identifable by the workload they are running based on the Auto Scale for VPC instance group definition \n - 3000464: Check whether Application Load Balancer for VPC has application port of the workload that is identifiable by the Auto Scale for VPC instance group definition \n - 3000465: Check whether Application Load Balancer for VPC has subnet identifiers of the workload that are identifiable by the Auto Scale for VPC instance group definition | 
+| Part c | - 3000062: IBMid selects and assigns identifiers that identify individuals \n - 3000063: IBM Cloud assigns identifiers that identify individuals, groups, roles, and devices \n - 3000463: Check whether Virtual Servers for VPC instances are identifable by the workload they are running based on the Auto Scale for VPC instance group definition \n - 3000464: Check whether Application Load Balancer for VPC has application port of the workload that is identifiable by the Auto Scale for VPC instance group definition \n - 3000465: Check whether Application Load Balancer for VPC has subnet identifiers of the workload that are identifiable by the Auto Scale for VPC instance group definition | 
+| Part d | - 3000064: IBM Cloud prevents reuse of identifiers | 
+{: caption="Goals for IA-4" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

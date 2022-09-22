@@ -21,13 +21,13 @@ The organization:
 
 a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-- 1. An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-- 2. Procedures to facilitate the implementation of the incident response policy and associated incident response controls; and
+1. An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+2. Procedures to facilitate the implementation of the incident response policy and associated incident response controls; and
 
 b. Reviews and updates the current:
 
-- 1. Incident response policy [at least annually]; and
-- 2. Incident response procedures [at least annually].
+1. Incident response policy [at least annually]; and
+2. Incident response procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

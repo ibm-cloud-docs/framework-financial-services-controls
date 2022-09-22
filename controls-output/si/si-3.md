@@ -25,8 +25,8 @@ b. Updates malicious code protection mechanisms whenever new releases are availa
 
 c. Configures malicious code protection mechanisms to:
 
-- 1. Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
-- 2. [to include alerting administrator or defined security personnel] in response to malicious code detection; and
+1. Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+2. [to include alerting administrator or defined security personnel] in response to malicious code detection; and
 
 d. Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 
@@ -35,11 +35,10 @@ d. Addresses the receipt of false positives during malicious code detection and 
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-### Part a.
-{: #part-a-scc-fs-cloud-profile}
-
-- 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s)
-- 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection
+| Requirement | Goals |
+|-------------|-------|
+| Part a | - 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) \n - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection | 
+{: caption="Goals for SI-3" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

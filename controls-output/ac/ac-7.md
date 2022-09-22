@@ -28,17 +28,11 @@ b. Automatically [locks the account/node for a thirty (30) minutes] when the max
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-### Part a.
-{: #part-a-scc-fs-cloud-profile}
-
-- 3000053: IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts
-- 3000716: Check whether App ID lockout policy after failed # of sign-in attempts is enabled
-
-### Part b.
-{: #part-b-scc-fs-cloud-profile}
-
-- 3000054: IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts
-- 3000717: Check whether App ID lockout policy after a maximum specified time is set to # minute(s)
+| Requirement | Goals |
+|-------------|-------|
+| Part a | - 3000053: IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts \n - 3000716: Check whether App ID lockout policy after failed # of sign-in attempts is enabled | 
+| Part b | - 3000054: IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts \n - 3000717: Check whether App ID lockout policy after a maximum specified time is set to # minute(s) | 
+{: caption="Goals for AC-7" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -39,6 +39,6 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000045: Check whether the Financial Services Validated setting is enabled in account settings
+- 3000045: Check whether the Financial Services Validated setting is enabled in account settings 
 - 3000047: Check whether provisioned services are IAM enabled
 

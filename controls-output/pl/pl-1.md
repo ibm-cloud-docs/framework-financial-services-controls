@@ -21,13 +21,13 @@ The organization:
 
 a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-- 1. A security planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-- 2. Procedures to facilitate the implementation of the security planning policy and associated security planning controls; and
+1. A security planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+2. Procedures to facilitate the implementation of the security planning policy and associated security planning controls; and
 
 b. Reviews and updates the current:
 
-- 1. Security planning policy [at least annually]; and
-- 2. Security planning procedures [at least annually].
+1. Security planning policy [at least annually]; and
+2. Security planning procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

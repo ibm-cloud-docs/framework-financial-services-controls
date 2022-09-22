@@ -39,17 +39,11 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-### Part b.
-{: #part-b-scc-fs-cloud-profile}
-
-- 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated
-- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
-
-### Part d.
-{: #part-d-scc-fs-cloud-profile}
-
-- 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated
-- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
+| Requirement | Goals |
+|-------------|-------|
+| Part b | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
+| Part d | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
+{: caption="Goals for CP-9" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

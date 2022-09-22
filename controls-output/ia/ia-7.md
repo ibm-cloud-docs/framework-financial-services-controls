@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-22"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,11 +24,11 @@ The information system implements mechanisms for authentication to a cryptograph
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000009: Check whether IAM roles are used to create IAM policies for IBM resources
-- 3000015: Check whether IAM users are attached to at least one access group
-- 3000016: Check whether IAM policies for users are attached only to groups or roles
-- 3000017: Check whether multifactor authentication (MFA) is enabled at the account level
-- 3000234: Check whether Hyper Protect Crypto Services instance is enabled with a dual authorization deletion policy
+- 3000009: Check whether IAM roles are used to create IAM policies for IBM resources 
+- 3000015: Check whether IAM users are attached to at least one access group 
+- 3000016: Check whether IAM policies for users are attached only to groups or roles 
+- 3000017: Check whether multifactor authentication (MFA) is enabled at the account level 
+- 3000234: Check whether Hyper Protect Crypto Services instance is enabled with a dual authorization deletion policy 
 - 3000510: Check whether Hyper Protect Crypto Services is accessible only through private endpoints
 
 ## NIST supplemental guidance

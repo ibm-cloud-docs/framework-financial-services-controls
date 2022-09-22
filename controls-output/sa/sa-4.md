@@ -50,41 +50,16 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-### Part a.
-{: #part-a-scc-fs-cloud-profile}
-
-- 3000045: Check whether the Financial Services Validated setting is enabled in account settings
-- 3000047: Check whether provisioned services are IAM enabled
-
-### Part b.
-{: #part-b-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
-
-### Part c.
-{: #part-c-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
-
-### Part d.
-{: #part-d-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
-
-### Part e.
-{: #part-e-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
-
-### Part f.
-{: #part-f-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
-
-### Part g.
-{: #part-g-scc-fs-cloud-profile}
-
-- 3000047: Check whether provisioned services are IAM enabled
+| Requirement | Goals |
+|-------------|-------|
+| Part a | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
+| Part b | - 3000047: Check whether provisioned services are IAM enabled | 
+| Part c | - 3000047: Check whether provisioned services are IAM enabled | 
+| Part d | - 3000047: Check whether provisioned services are IAM enabled | 
+| Part e | - 3000047: Check whether provisioned services are IAM enabled | 
+| Part f | - 3000047: Check whether provisioned services are IAM enabled | 
+| Part g | - 3000047: Check whether provisioned services are IAM enabled | 
+{: caption="Goals for SA-4" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
