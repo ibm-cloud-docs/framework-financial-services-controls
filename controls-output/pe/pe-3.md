@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,8 +21,8 @@ The organization:
 
 a. Enforces physical access authorizations at [organization-defined entry/exit points to the facility where the information system resides] by;
 
-1. Verifying individual access authorizations before granting access to the facility; and
-2. Controlling ingress/egress to the facility using [locks, guards, badge systems, and video cameras];
+    1. Verifying individual access authorizations before granting access to the facility; and
+    2. Controlling ingress/egress to the facility using [locks, guards, badge systems, and video cameras];
 
 b. Maintains physical access audit logs for [organization-defined entry/exit points];
 

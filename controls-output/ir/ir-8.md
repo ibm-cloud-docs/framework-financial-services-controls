@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,14 +21,14 @@ The organization:
 
 a. Develops an incident response plan that:
 
-1. Provides the organization with a roadmap for implementing its incident response capability;
-2. Describes the structure and organization of the incident response capability;
-3. Provides a high-level approach for how the incident response capability fits into the overall organization;
-4. Meets the unique requirements of the organization, which relate to mission, size, structure, and functions;
-5. Defines reportable incidents;
-6. Provides metrics for measuring the incident response capability within the organization;
-7. Defines the resources and management support needed to effectively maintain and mature an incident response capability; and
-8. Is reviewed and approved by [organization-defined personnel or roles];
+    1. Provides the organization with a roadmap for implementing its incident response capability;
+    2. Describes the structure and organization of the incident response capability;
+    3. Provides a high-level approach for how the incident response capability fits into the overall organization;
+    4. Meets the unique requirements of the organization, which relate to mission, size, structure, and functions;
+    5. Defines reportable incidents;
+    6. Provides metrics for measuring the incident response capability within the organization;
+    7. Defines the resources and management support needed to effectively maintain and mature an incident response capability; and
+    8. Is reviewed and approved by [organization-defined personnel or roles];
 
 b. Distributes copies of the incident response plan to [organization-defined incident response personnel (identified by name and/or by role) and organizational elements];
 

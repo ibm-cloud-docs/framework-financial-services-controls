@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,10 +21,10 @@ The organization:
 
 a. Develops and disseminates an organization-wide information security program plan that:
 
-1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;
-2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;
-3. Reflects coordination among organizational entities responsible for the different aspects of information security (i.e., technical, physical, personnel, cyber-physical); and
-4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
+    1. Provides an overview of the requirements for the security program and a description of the security program management controls and common controls in place or planned for meeting those requirements;
+    2. Includes the identification and assignment of roles, responsibilities, management commitment, coordination among organizational entities, and compliance;
+    3. Reflects coordination among organizational entities responsible for the different aspects of information security (i.e., technical, physical, personnel, cyber-physical); and
+    4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
 
 b. Reviews the organization-wide information security program plan [at least annually];
 

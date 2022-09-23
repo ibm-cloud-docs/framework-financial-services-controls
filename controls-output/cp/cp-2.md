@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,12 +21,12 @@ The organization:
 
 a. Develops a contingency plan for the information system that:
 
-1. Identifies essential missions and business functions and associated contingency requirements;
-2. Provides recovery objectives, restoration priorities, and metrics;
-3. Addresses contingency roles, responsibilities, assigned individuals with contact information;
-4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure;
-5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and
-6. Is reviewed and approved by [designated senior management personnel who is not an author or contributor to the plan];
+    1. Identifies essential missions and business functions and associated contingency requirements;
+    2. Provides recovery objectives, restoration priorities, and metrics;
+    3. Addresses contingency roles, responsibilities, assigned individuals with contact information;
+    4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure;
+    5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and
+    6. Is reviewed and approved by [designated senior management personnel who is not an author or contributor to the plan];
 
 b. Distributes copies of the contingency plan to [organization-defined key contingency personnel (identified by name and/or by role) and organizational elements];
 

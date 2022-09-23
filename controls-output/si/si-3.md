@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,8 +25,8 @@ b. Updates malicious code protection mechanisms whenever new releases are availa
 
 c. Configures malicious code protection mechanisms to:
 
-1. Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
-2. [to include alerting administrator or defined security personnel] in response to malicious code detection; and
+    1. Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+    2. [to include alerting administrator or defined security personnel] in response to malicious code detection; and
 
 d. Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 

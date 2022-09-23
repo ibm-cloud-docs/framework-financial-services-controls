@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,9 +21,9 @@ The organization:
 
 a. Develops an information security architecture for the information system that:
 
-1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;
-2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and
-3. Describes any information security assumptions about, and dependencies on, external services;
+    1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;
+    2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and
+    3. Describes any information security assumptions about, and dependencies on, external services;
 
 b. Reviews and updates the information security architecture [at least annually or when a significant change occurs] to reflect updates in the enterprise architecture; and
 

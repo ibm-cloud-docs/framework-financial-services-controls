@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -35,15 +35,15 @@ g. Monitors the use of information system accounts;
 
 h. Notifies account managers:
 
-1. When accounts are no longer required;
-2. When users are terminated or transferred; and
-3. When individual information system usage or need-to-know changes;
+    1. When accounts are no longer required;
+    2. When users are terminated or transferred; and
+    3. When individual information system usage or need-to-know changes;
 
 i. Authorizes access to the information system based on:
 
-1. A valid access authorization;
-2. Intended system usage; and
-3. Other attributes as required by the organization or associated missions/business functions;
+    1. A valid access authorization;
+    2. Intended system usage; and
+    3. Other attributes as required by the organization or associated missions/business functions;
 
 j. Reviews accounts for compliance with account management requirements [quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]; and
 
