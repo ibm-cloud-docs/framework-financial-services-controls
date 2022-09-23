@@ -19,15 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
+(a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-    1. An audit and accountability policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    2. Procedures to facilitate the implementation of the audit and accountability policy and associated audit and accountability controls; and
+&nbsp&nbsp&nbsp&nbsp(1) An audit and accountability policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-b. Reviews and updates the current:
+&nbsp&nbsp&nbsp&nbsp(2) Procedures to facilitate the implementation of the audit and accountability policy and associated audit and accountability controls; and
 
-    1. Audit and accountability policy [at least annually]; and
-    2. Audit and accountability procedures [at least annually].
+(b) Reviews and updates the current:
+
+&nbsp&nbsp&nbsp&nbsp(1) Audit and accountability policy [at least annually]; and
+
+&nbsp&nbsp&nbsp&nbsp(2) Audit and accountability procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

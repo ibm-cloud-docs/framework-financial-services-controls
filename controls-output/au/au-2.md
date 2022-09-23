@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,38 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Determines that the information system is capable of auditing the following events: [for required audit events, refer to Additional FS-ready public cloud Guidance];
+(a) Determines that the information system is capable of auditing the following events: [for required audit events, refer to Additional FS-ready public cloud Guidance];
 
-b. Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;
+(b) Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;
 
-c. Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; and
+(c) Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; and
 
-d. Determines that the following events are to be audited within the information system: [auditable events defined in AU-2 a. to be audited continually for each identified event].
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-The following events are to be audited within the system:
-- Access, downloading, revisions to Confidential information
-- Access to or update to any financial transaction data
-- Any changes to customer accounts
-- Login/logoff event, success/failure
-- Changes to a system that impact business logic or work flow, examples include but are not limited to, changing call routing, interest rates offered for a class of customer, a web site flow a customer uses
-- Any changes to customer systems including but not limited to: software install/removal, configuration changes, directory/file moves/adds/deletes, configuration changes, port turn ups, MAC’s, routing changes, etc.
-- Each command action taken, both successful and unsuccessful, by a privileged account including but not limited to:
-     o All changes, additions, or deletions to any account such as lock, unlock, password reset, permission changes,
-     o Modification to system time / time-synchronization configuration,
-     o Log files: access to logs files; initialization, stopping or pausing of logging, log modification, changes to access permission on log files,
-     o Files and system level objects creation and deletion,
-     o Attempts to perform unauthorized functions or access data the user is not authorized to access,
-     o Modification of security rules,
-     o Application and related systems start-ups and shut-downs
-- For privileged accounts:
-     o Attempts to execute privilege elevation
-     o System errors relevant to security events, including but not limited to SQL errors that indicate a SQL injection, fuzzing, multiple failed logins, failed configuration change, failed/disabled anti-virus software, service failures
-     o Web access events in extended log format
-
-The above security audit logging events are required for all environments, e.g., production, development, user acceptance testing.
+(d) Determines that the following events are to be audited within the information system: [auditable events defined in AU-2 a. to be audited continually for each identified event].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

@@ -19,15 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
+(a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-    1. A system and information integrity policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    2. Procedures to facilitate the implementation of the system and information integrity policy and associated system and information integrity controls; and
+&nbsp&nbsp&nbsp&nbsp(1) A system and information integrity policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-b. Reviews and updates the current:
+&nbsp&nbsp&nbsp&nbsp(2) Procedures to facilitate the implementation of the system and information integrity policy and associated system and information integrity controls; and
 
-    1. System and information integrity policy [at least annually]; and
-    2. System and information integrity procedures [at least annually].
+(b) Reviews and updates the current:
+
+&nbsp&nbsp&nbsp&nbsp(1) System and information integrity policy [at least annually]; and
+
+&nbsp&nbsp&nbsp&nbsp(2) System and information integrity procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

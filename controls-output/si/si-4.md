@@ -19,25 +19,27 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Monitors the information system to detect:
+(a) Monitors the information system to detect:
 
-    1. Attacks and indicators of potential attacks in accordance with [organization-defined monitoring objectives]; and
-    2. Unauthorized local, network, and remote connections;
+&nbsp&nbsp&nbsp&nbsp(1) Attacks and indicators of potential attacks in accordance with [organization-defined monitoring objectives]; and
 
-b. Identifies unauthorized use of the information system through [organization-defined techniques and methods];
+&nbsp&nbsp&nbsp&nbsp(2) Unauthorized local, network, and remote connections;
 
-c. Deploys monitoring devices:
+(b) Identifies unauthorized use of the information system through [organization-defined techniques and methods];
 
-    1. Strategically within the information system to collect organization-determined essential information; and
-    2. At ad hoc locations within the system to track specific types of transactions of interest to the organization;
+(c) Deploys monitoring devices:
 
-d. Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;
+&nbsp&nbsp&nbsp&nbsp(1) Strategically within the information system to collect organization-determined essential information; and
 
-e. Heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;
+&nbsp&nbsp&nbsp&nbsp(2) At ad hoc locations within the system to track specific types of transactions of interest to the organization;
 
-f. Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; and
+(d) Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;
 
-g. Provides [organization-defined information system monitoring information] to [organization-defined personnel or roles] [as needed; organization-defined frequency].
+(e) Heightens the level of information system monitoring activity whenever there is an indication of increased risk to organizational operations and assets, individuals, other organizations, or the Nation based on law enforcement information, intelligence information, or other credible sources of information;
+
+(f) Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; and
+
+(g) Provides [organization-defined information system monitoring information] to [organization-defined personnel or roles] [as needed; organization-defined frequency].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

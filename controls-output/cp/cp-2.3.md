@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,13 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization plans for the resumption of essential missions and business functions within [organization-defined time period] of contingency plan activation.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-Contingency plans should also include planning for the resumption of all missions and business functions within an organization-defined time period of contingency plan activation.
-
-Recovery strategies must meet the RTOs (Recovery Time Objectives) and RPOs (Recovery Point Objectives) for a minimum of six (6) weeks.
 
 ## Implementation guidance
 {: #implementation-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,11 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system implements cryptographic mechanisms to [prevent unauthorized disclosure of information, highest financial institution standard (FIPS140-2 L3) for Highly Restricted Confidential Information (HRCI)] during transmission unless otherwise protected by [none].
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-The organization must encrypt customer data in transit regardless of the transport mechanism and/or digital media type used. For web-based applications, the organization will ensure that transmitted data is protected in accordance with the recommendations of the Open Web Application Security Project (OWASP).
 
 ## Implementation guidance
 {: #implementation-guidance}

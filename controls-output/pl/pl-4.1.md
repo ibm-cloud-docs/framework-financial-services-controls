@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,13 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-Restrictions on the use of social media/networking sites must include that customer data must not be processed, stored, or transmitted to open/global social spaces or collaboration sites.  Any customer data discovered must be deleted and/or restricted to authorized personnel.
-
-Customer data must not be processed, stored, or transmitted to social media/networking sites without explicit customer approval.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

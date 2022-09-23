@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,13 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization analyzes changes to the information system in a separate test environment before implementation in an operational environment, looking for security impacts due to flaws, weaknesses, incompatibility, or intentional malice.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-The test environment must mirror the production environment.  
-
-Customer data must not be placed into non-production environments.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

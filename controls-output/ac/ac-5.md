@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,16 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Separates [organization-defined duties of individuals];
+(a) Separates [organization-defined duties of individuals];
 
-b. Documents separation of duties of individuals; and
+(b) Documents separation of duties of individuals; and
 
-c. Defines information system access authorizations to support separation of duties.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-Ensure segregation exists such that no one individual has the authority/ability to develop, compile and/or move object code from non-production environments into production environments.
+(c) Defines information system access authorizations to support separation of duties.
 
 ## Implementation guidance
 {: #implementation-guidance}

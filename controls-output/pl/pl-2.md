@@ -19,32 +19,33 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Develops a security plan for the information system that:
+(a) Develops a security plan for the information system that:
 
-    1. Is consistent with the organization’s enterprise architecture;
-    2. Explicitly defines the authorization boundary for the system;
-    3. Describes the operational context of the information system in terms of missions and business processes;
-    4. Provides the security categorization of the information system including supporting rationale;
-    5. Describes the operational environment for the information system and relationships with or connections to other information systems;
-    6. Provides an overview of the security requirements for the system;
-    7. Identifies any relevant overlays, if applicable;
-    8. Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
-    9. Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
+&nbsp&nbsp&nbsp&nbsp(1) Is consistent with the organization’s enterprise architecture;
 
-b. Distributes copies of the security plan and communicates subsequent changes to the plan to [organization-defined personnel or roles];
+&nbsp&nbsp&nbsp&nbsp(2) Explicitly defines the authorization boundary for the system;
 
-c. Reviews the security plan for the information system [at least annually];
+&nbsp&nbsp&nbsp&nbsp(3) Describes the operational context of the information system in terms of missions and business processes;
 
-d. Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and
+&nbsp&nbsp&nbsp&nbsp(4) Provides the security categorization of the information system including supporting rationale;
 
-e. Protects the security plan from unauthorized disclosure and modification.
+&nbsp&nbsp&nbsp&nbsp(5) Describes the operational environment for the information system and relationships with or connections to other information systems;
 
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+&nbsp&nbsp&nbsp&nbsp(6) Provides an overview of the security requirements for the system;
 
-The organization shall maintain a catalog of all customer metadata processed and/or transmitted by the organization on behalf of the customer.  Metadata should be defined by each customer.
+&nbsp&nbsp&nbsp&nbsp(7) Identifies any relevant overlays, if applicable;
 
-The organization must document all information flows that involve the transfer of customer data.  An information flow control policy must be developed and maintained that indicates the source and destination of each flow, the system of record and whether the information is altered during transmission.
+&nbsp&nbsp&nbsp&nbsp(8) Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
+
+&nbsp&nbsp&nbsp&nbsp(9) Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
+
+(b) Distributes copies of the security plan and communicates subsequent changes to the plan to [organization-defined personnel or roles];
+
+(c) Reviews the security plan for the information system [at least annually];
+
+(d) Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and
+
+(e) Protects the security plan from unauthorized disclosure and modification.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

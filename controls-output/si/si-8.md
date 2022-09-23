@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,18 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
+(a) Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
 
-b. Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-The organization must send email to or on behalf of the customer, in accordance with customer requirements including the following:
-- Email must be sent in accordance  with Domain-based Message Authentication, Reporting &amp; Conformance (DMARC) to protect their domain from unauthorized use (i.e., email spoofing).
-- Organization senders using customer domains, must use a subdomain in the message From header, as opposed to a top level domain.
-- Organizations must provide customers with the needed information (including any changes) for customers to publish Domain Keys Identified Mail (DKIM) and Sender Policy Framework (SPF) records for the assigned subdomain.
-- DKIM key must be 1024 bits in length.
+(b) Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

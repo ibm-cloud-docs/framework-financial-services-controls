@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,21 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-Solutions must minimize the reliance on underlying network and operating system infrastructure to ensure system independence.
-
-Develop applications to leverage cloud scalability capabilities, with service level obligations based on their availability requirements.
-
-NIST Publication 800-144 - Guidelines on Security and Privacy in Public Cloud Computing emphasize logical separation of resources.  The organization must ensure applications are designed to separate each layer of the stack.  Access to each layer must ensure separation of duties.
-
-API architecture must utilize HTTP (W3C) standards and use RESTful APIs. 
-
-APIs shall be subject to the same security controls as any other resource within the system.
-
-APIs shall be platform and operating system independent.
 
 ## Implementation guidance
 {: #implementation-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,11 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system uniquely identifies and authenticates [all devices] before establishing a [network] connection.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-All devices must be authorized by organization security prior to allowing such network connections.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

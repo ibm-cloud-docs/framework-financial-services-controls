@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,14 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Requires personnel to report suspected security incidents to the organizational incident response capability within [no longer than 24 hours for systems related to FS-ready public cloud customers]; and
+(a) Requires personnel to report suspected security incidents to the organizational incident response capability within [no longer than 24 hours for systems related to FS-ready public cloud customers]; and
 
-b. Reports security incident information to [Information Security Incident Response Team of the FS-ready public cloud customers].
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-The organization shall ensure that data management issues are treated as incidents and are reported to the customer as they arise.
+(b) Reports security incident information to [Information Security Incident Response Team of the FS-ready public cloud customers].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

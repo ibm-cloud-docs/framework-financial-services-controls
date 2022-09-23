@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
+(a) Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
 
-b. Issues authorization credentials for facility access;
+(b) Issues authorization credentials for facility access;
 
-c. Reviews the access list detailing authorized facility access by individuals [at least annually]; and
+(c) Reviews the access list detailing authorized facility access by individuals [at least annually]; and
 
-d. Removes individuals from the facility access list when access is no longer required.
+(d) Removes individuals from the facility access list when access is no longer required.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

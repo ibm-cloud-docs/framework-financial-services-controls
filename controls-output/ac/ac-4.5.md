@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,11 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system enforces [organization-defined limitations] on embedding data types within other data types.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-This control is required for ISVs; This control is NOT required for IBM Cloud Platform at this time (bank risk accepted for IBM)
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

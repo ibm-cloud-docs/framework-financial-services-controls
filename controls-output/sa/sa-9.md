@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,20 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Requires that providers of external information system services comply with organizational information security requirements and employ [business continuity service level agreements] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+(a) Requires that providers of external information system services comply with organizational information security requirements and employ [business continuity service level agreements] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
-b. Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
+(b) Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
 
-c. Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-Requirements for contingency planning and business continuity must be negotiated with third party service providers.
-
-Degradation of performance by the same external vendor to the organization across different regions should be documented.
-
-Authorized individuals include Federal Regulators in the event of insolvency.
+(c) Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
 
 ## Implementation guidance
 {: #implementation-guidance}

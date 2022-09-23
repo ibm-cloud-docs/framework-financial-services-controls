@@ -19,22 +19,19 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Develops a security assessment plan that describes the scope of the assessment including:
+(a) Develops a security assessment plan that describes the scope of the assessment including:
 
-    1. Security controls and control enhancements under assessment;
-    2. Assessment procedures to be used to determine security control effectiveness; and
-    3. Assessment environment, assessment team, and assessment roles and responsibilities;
+&nbsp&nbsp&nbsp&nbsp(1) Security controls and control enhancements under assessment;
 
-b. Assesses the security controls in the information system and its environment of operation [at least annually] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;
+&nbsp&nbsp&nbsp&nbsp(2) Assessment procedures to be used to determine security control effectiveness; and
 
-c. Produces a security assessment report that documents the results of the assessment; and
+&nbsp&nbsp&nbsp&nbsp(3) Assessment environment, assessment team, and assessment roles and responsibilities;
 
-d. Provides the results of the security control assessment to [individuals or roles to include the customer management].
+(b) Assesses the security controls in the information system and its environment of operation [at least annually] to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;
 
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+(c) Produces a security assessment report that documents the results of the assessment; and
 
-The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer&#39;s policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
+(d) Provides the results of the security control assessment to [individuals or roles to include the customer management].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

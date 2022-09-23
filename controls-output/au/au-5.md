@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,14 +19,9 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-a. Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
+(a) Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
 
-b. Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-The status of all security audit log sources must be monitored for integrity and functionality as designed, at least hourly, and following policy changes, patch updates, and changes.
+(b) Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
 
 ## Implementation guidance
 {: #implementation-guidance}

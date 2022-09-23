@@ -19,15 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Develops, documents, and disseminates to [organization-defined personnel or roles]:
+(a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-    1. A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    2. Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; and
+&nbsp&nbsp&nbsp&nbsp(1) A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-b. Reviews and updates the current:
+&nbsp&nbsp&nbsp&nbsp(2) Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; and
 
-    1. Personnel security policy [at least annually]; and
-    2. Personnel security procedures [at least annually].
+(b) Reviews and updates the current:
+
+&nbsp&nbsp&nbsp&nbsp(1) Personnel security policy [at least annually]; and
+
+&nbsp&nbsp&nbsp&nbsp(2) Personnel security procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

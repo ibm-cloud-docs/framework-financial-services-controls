@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,11 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization defines, documents, approves, and enforces physical and logical access restrictions associated with changes to the information system.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-Access to test environments must be restricted to only authorized personnel and roles.  Only authorized individuals should be permitted access to information systems and data for purposes of testing changes.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

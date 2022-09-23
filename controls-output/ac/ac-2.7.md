@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
+((a)\] Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
 
-(b) Monitors privileged role assignments; and
+((b)\] Monitors privileged role assignments; and
 
-(c) Takes [organization-defined actions] when privileged role assignments are no longer appropriate.
+((c)\] Takes [organization-defined actions] when privileged role assignments are no longer appropriate.
 
 ## Implementation guidance
 {: #implementation-guidance}

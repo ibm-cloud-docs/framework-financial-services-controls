@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-a. Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and
+(a) Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and
 
-b. Retains individual training records for [at least one year].
+(b) Retains individual training records for [at least one year].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

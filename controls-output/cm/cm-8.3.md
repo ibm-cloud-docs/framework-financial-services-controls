@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Employs automated mechanisms [Continuously, using automated mechanisms with a maximum five-minute delay in detection] to detect the presence of unauthorized hardware, software, and firmware components within the information system; and
+((a)\] Employs automated mechanisms [Continuously, using automated mechanisms with a maximum five-minute delay in detection] to detect the presence of unauthorized hardware, software, and firmware components within the information system; and
 
-(b) Takes the following actions when unauthorized components are detected: [disables network access by such components; isolates the components; notifies organization-defined personnel or roles].
+((b)\] Takes the following actions when unauthorized components are detected: [disables network access by such components; isolates the components; notifies organization-defined personnel or roles].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

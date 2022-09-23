@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-23"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,11 +18,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization coordinates contingency plan testing with organizational elements responsible for related plans.
-
-## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
-
-To ensure response times can be met, testing must be performed by all appropriate parties, including response teams, executives, management, and 3rd/4th party resources as needed.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
