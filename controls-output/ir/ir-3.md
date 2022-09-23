@@ -22,7 +22,7 @@ The organization tests the incident response capability for the information syst
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-If lessons learned result in any necessary improvements to existing processes, ensure they are incorporated into the contingency plan no later than 30 days following all contingency events and exercises.
+- If lessons learned result in any necessary improvements to existing processes, ensure they are incorporated into the contingency plan no later than 30 days following all contingency events and exercises.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

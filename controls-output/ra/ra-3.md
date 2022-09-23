@@ -32,7 +32,7 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-The organization shall conduct a risk assessment identifying all applicable threats to the organization portion of the FS-ready public cloud.  Risk assessment methodology shall adhere to the guidance contained in NIST Special Publication 800-30, Revision 1, Guide for Conducting Risk Assessments.
+- The organization shall conduct a risk assessment identifying all applicable threats to the organization portion of the FS-ready public cloud.  Risk assessment methodology shall adhere to the guidance contained in NIST Special Publication 800-30, Revision 1, Guide for Conducting Risk Assessments.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

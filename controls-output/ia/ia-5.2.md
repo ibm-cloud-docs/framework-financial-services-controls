@@ -30,7 +30,7 @@ The information system, for PKI-based authentication:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-TLS certificate revocation status checking and revocation status caching is only applicable to connections between a browser and server
+- TLS certificate revocation status checking and revocation status caching is only applicable to connections between a browser and server
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -22,7 +22,7 @@ The organization employs the principle of least privilege, allowing only authori
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Individual users are not permitted to interact with system-to-system service accounts.
+- Individual users are not permitted to interact with system-to-system service accounts.
 
 ## Implementation guidance
 {: #implementation-guidance}

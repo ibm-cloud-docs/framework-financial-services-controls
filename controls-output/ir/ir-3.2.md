@@ -22,9 +22,8 @@ The organization coordinates incident response testing with organizational eleme
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Testing must also include the time it takes for resources to assemble in response to an incident, event, or crisis.
-
-The 3rd/4th Party Response Teams must be included as part of the exercises.
+- Testing must also include the time it takes for resources to assemble in response to an incident, event, or crisis.
+- The 3rd/4th Party Response Teams must be included as part of the exercises.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

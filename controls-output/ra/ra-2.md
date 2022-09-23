@@ -28,7 +28,7 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Customer PII must be categorized and stored in appropriate data structures to meet customer, including regulatory and/or financial institution, requirements.
+- Customer PII must be categorized and stored in appropriate data structures to meet customer, including regulatory and/or financial institution, requirements.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

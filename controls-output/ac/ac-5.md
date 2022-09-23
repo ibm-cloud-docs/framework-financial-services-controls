@@ -28,7 +28,7 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Ensure segregation exists such that no one individual has the authority/ability to develop, compile and/or move object code from non-production environments into production environments.
+- Ensure segregation exists such that no one individual has the authority/ability to develop, compile and/or move object code from non-production environments into production environments.
 
 ## Implementation guidance
 {: #implementation-guidance}

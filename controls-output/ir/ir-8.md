@@ -50,7 +50,7 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Documentation includes plan and playbook(s).
+- Documentation includes plan and playbook(s).
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

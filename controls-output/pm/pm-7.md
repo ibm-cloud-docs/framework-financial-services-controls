@@ -22,7 +22,7 @@ The organization develops an enterprise architecture with consideration for info
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Contingency planning activities must consider all dependencies within the supply chain.
+- Contingency planning activities must consider all dependencies within the supply chain.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

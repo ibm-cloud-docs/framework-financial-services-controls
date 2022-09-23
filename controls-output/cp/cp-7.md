@@ -28,7 +28,7 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Where failover is used, applications must failover and maintain production workload to an alternate site for a period of five (5) consecutive days.
+- Where failover is used, applications must failover and maintain production workload to an alternate site for a period of five (5) consecutive days.
 
 ## Implementation guidance
 {: #implementation-guidance}

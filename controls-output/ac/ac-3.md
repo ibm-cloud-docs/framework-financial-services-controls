@@ -22,9 +22,8 @@ The information system enforces approved authorizations for logical access to in
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Customer consent must be obtained prior to releasing any data outside its intended use.  Note: See AC-21 for guidance/implementation details.
-
-Authorized individuals include Federal Regulators in the event of insolvency.
+- Customer consent must be obtained prior to releasing any data outside its intended use.  Note: See AC-21 for guidance/implementation details.
+- Authorized individuals include Federal Regulators in the event of insolvency.
 
 ## Implementation guidance
 {: #implementation-guidance}

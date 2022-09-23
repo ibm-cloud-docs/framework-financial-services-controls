@@ -22,9 +22,8 @@ The organization includes in the rules of behavior, explicit restrictions on the
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Restrictions on the use of social media/networking sites must include that customer data must not be processed, stored, or transmitted to open/global social spaces or collaboration sites.  Any customer data discovered must be deleted and/or restricted to authorized personnel.
-
-Customer data must not be processed, stored, or transmitted to social media/networking sites without explicit customer approval.
+- Restrictions on the use of social media/networking sites must include that customer data must not be processed, stored, or transmitted to open/global social spaces or collaboration sites.  Any customer data discovered must be deleted and/or restricted to authorized personnel.
+- Customer data must not be processed, stored, or transmitted to social media/networking sites without explicit customer approval.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

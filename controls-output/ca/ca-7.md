@@ -36,7 +36,7 @@ The organization develops a continuous monitoring strategy and implements a cont
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer&#39;s policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
+- The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer&#39;s policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
 
 ## Implementation guidance
 {: #implementation-guidance}

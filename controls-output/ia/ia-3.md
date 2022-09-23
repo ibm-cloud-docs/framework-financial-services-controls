@@ -22,7 +22,7 @@ The information system uniquely identifies and authenticates [all devices] befor
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-All devices must be authorized by organization security prior to allowing such network connections.
+- All devices must be authorized by organization security prior to allowing such network connections.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

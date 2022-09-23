@@ -36,7 +36,7 @@ The organization includes the following requirements, descriptions, and criteria
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
+- Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
 
 ## Implementation guidance
 {: #implementation-guidance}

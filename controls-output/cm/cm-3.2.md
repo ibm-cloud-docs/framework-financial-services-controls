@@ -22,7 +22,7 @@ The organization tests, validates, and documents changes to the information syst
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Test programs, scripts, or code must not be placed into customer environments.
+- Test programs, scripts, or code must not be placed into customer environments.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

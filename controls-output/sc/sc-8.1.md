@@ -22,7 +22,7 @@ The information system implements cryptographic mechanisms to [prevent unauthori
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-The organization must encrypt customer data in transit regardless of the transport mechanism and/or digital media type used. For web-based applications, the organization will ensure that transmitted data is protected in accordance with the recommendations of the Open Web Application Security Project (OWASP).
+- The organization must encrypt customer data in transit regardless of the transport mechanism and/or digital media type used. For web-based applications, the organization will ensure that transmitted data is protected in accordance with the recommendations of the Open Web Application Security Project (OWASP).
 
 ## Implementation guidance
 {: #implementation-guidance}

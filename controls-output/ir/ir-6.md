@@ -26,7 +26,7 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-The organization shall ensure that data management issues are treated as incidents and are reported to the customer as they arise.
+- The organization shall ensure that data management issues are treated as incidents and are reported to the customer as they arise.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

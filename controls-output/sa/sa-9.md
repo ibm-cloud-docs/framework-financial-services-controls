@@ -28,11 +28,9 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Requirements for contingency planning and business continuity must be negotiated with third party service providers.
-
-Degradation of performance by the same external vendor to the organization across different regions should be documented.
-
-Authorized individuals include Federal Regulators in the event of insolvency.
+- Requirements for contingency planning and business continuity must be negotiated with third party service providers.
+- Degradation of performance by the same external vendor to the organization across different regions should be documented.
+- Authorized individuals include Federal Regulators in the event of insolvency.
 
 ## Implementation guidance
 {: #implementation-guidance}

@@ -22,7 +22,7 @@ The organization defines, documents, approves, and enforces physical and logical
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-Access to test environments must be restricted to only authorized personnel and roles.  Only authorized individuals should be permitted access to information systems and data for purposes of testing changes.
+- Access to test environments must be restricted to only authorized personnel and roles.  Only authorized individuals should be permitted access to information systems and data for purposes of testing changes.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

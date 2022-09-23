@@ -30,9 +30,8 @@ The organization:
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
-
-All software/technology is upgraded to a supported version and kept up to date.
+- The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
+- All software/technology is upgraded to a supported version and kept up to date.
 
 ## Implementation guidance
 {: #implementation-guidance}
