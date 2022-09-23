@@ -25,9 +25,9 @@ The organization:
 
 (c) Ensures that individuals requiring access to organizational information and information systems:
 
-&nbsp&nbsp&nbsp&nbsp(1) Sign appropriate access agreements prior to being granted access; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Sign appropriate access agreements prior to being granted access; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [at least annually].
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or [at least annually].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

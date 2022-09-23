@@ -21,9 +21,9 @@ The organization:
 
 (a) Enforces physical access authorizations at [organization-defined entry/exit points to the facility where the information system resides] by;
 
-&nbsp&nbsp&nbsp&nbsp(1) Verifying individual access authorizations before granting access to the facility; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Verifying individual access authorizations before granting access to the facility; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Controlling ingress/egress to the facility using [locks, guards, badge systems, and video cameras];
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Controlling ingress/egress to the facility using [locks, guards, badge systems, and video cameras];
 
 (b) Maintains physical access audit logs for [organization-defined entry/exit points];
 

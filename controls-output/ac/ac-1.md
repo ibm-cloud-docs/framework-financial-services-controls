@@ -21,15 +21,15 @@ The organization:
 
 (a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-&nbsp&nbsp&nbsp&nbsp(1) An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) An access control policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Procedures to facilitate the implementation of the access control policy and associated access controls; and
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Procedures to facilitate the implementation of the access control policy and associated access controls; and
 
 (b) Reviews and updates the current:
 
-&nbsp&nbsp&nbsp&nbsp(1) Access control policy [at least annually]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Access control policy [at least annually]; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Access control procedures [at least annually].
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Access control procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -21,15 +21,15 @@ The organization:
 
 (a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-&nbsp&nbsp&nbsp&nbsp(1) A system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) A system and communications protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Procedures to facilitate the implementation of the system and communications protection policy and associated system and communications protection controls; and
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Procedures to facilitate the implementation of the system and communications protection policy and associated system and communications protection controls; and
 
 (b) Reviews and updates the current:
 
-&nbsp&nbsp&nbsp&nbsp(1) System and communications protection policy [at least annually]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) System and communications protection policy [at least annually]; and
 
-&nbsp&nbsp&nbsp&nbsp(2) System and communications protection procedures [at least annually].
+&nbsp;&nbsp;&nbsp;&nbsp;(2) System and communications protection procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -21,15 +21,15 @@ The organization:
 
 (a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-&nbsp&nbsp&nbsp&nbsp(1) A system and services acquisition policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) A system and services acquisition policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Procedures to facilitate the implementation of the system and services acquisition policy and associated system and services acquisition controls; and
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Procedures to facilitate the implementation of the system and services acquisition policy and associated system and services acquisition controls; and
 
 (b) Reviews and updates the current:
 
-&nbsp&nbsp&nbsp&nbsp(1) System and services acquisition policy [at least annually]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) System and services acquisition policy [at least annually]; and
 
-&nbsp&nbsp&nbsp&nbsp(2) System and services acquisition procedures [at least annually].
+&nbsp;&nbsp;&nbsp;&nbsp;(2) System and services acquisition procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

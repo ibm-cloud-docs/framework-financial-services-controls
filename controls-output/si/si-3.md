@@ -25,9 +25,9 @@ The organization:
 
 (c) Configures malicious code protection mechanisms to:
 
-&nbsp&nbsp&nbsp&nbsp(1) Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
 
-&nbsp&nbsp&nbsp&nbsp(2) [to include alerting administrator or defined security personnel] in response to malicious code detection; and
+&nbsp;&nbsp;&nbsp;&nbsp;(2) [to include alerting administrator or defined security personnel] in response to malicious code detection; and
 
 (d) Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 

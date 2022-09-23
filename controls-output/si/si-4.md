@@ -21,17 +21,17 @@ The organization:
 
 (a) Monitors the information system to detect:
 
-&nbsp&nbsp&nbsp&nbsp(1) Attacks and indicators of potential attacks in accordance with [organization-defined monitoring objectives]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Attacks and indicators of potential attacks in accordance with [organization-defined monitoring objectives]; and
 
-&nbsp&nbsp&nbsp&nbsp(2) Unauthorized local, network, and remote connections;
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Unauthorized local, network, and remote connections;
 
 (b) Identifies unauthorized use of the information system through [organization-defined techniques and methods];
 
 (c) Deploys monitoring devices:
 
-&nbsp&nbsp&nbsp&nbsp(1) Strategically within the information system to collect organization-determined essential information; and
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Strategically within the information system to collect organization-determined essential information; and
 
-&nbsp&nbsp&nbsp&nbsp(2) At ad hoc locations within the system to track specific types of transactions of interest to the organization;
+&nbsp;&nbsp;&nbsp;&nbsp;(2) At ad hoc locations within the system to track specific types of transactions of interest to the organization;
 
 (d) Protects information obtained from intrusion-monitoring tools from unauthorized access, modification, and deletion;
 

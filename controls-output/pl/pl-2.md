@@ -21,23 +21,23 @@ The organization:
 
 (a) Develops a security plan for the information system that:
 
-&nbsp&nbsp&nbsp&nbsp(1) Is consistent with the organization’s enterprise architecture;
+&nbsp;&nbsp;&nbsp;&nbsp;(1) Is consistent with the organization’s enterprise architecture;
 
-&nbsp&nbsp&nbsp&nbsp(2) Explicitly defines the authorization boundary for the system;
+&nbsp;&nbsp;&nbsp;&nbsp;(2) Explicitly defines the authorization boundary for the system;
 
-&nbsp&nbsp&nbsp&nbsp(3) Describes the operational context of the information system in terms of missions and business processes;
+&nbsp;&nbsp;&nbsp;&nbsp;(3) Describes the operational context of the information system in terms of missions and business processes;
 
-&nbsp&nbsp&nbsp&nbsp(4) Provides the security categorization of the information system including supporting rationale;
+&nbsp;&nbsp;&nbsp;&nbsp;(4) Provides the security categorization of the information system including supporting rationale;
 
-&nbsp&nbsp&nbsp&nbsp(5) Describes the operational environment for the information system and relationships with or connections to other information systems;
+&nbsp;&nbsp;&nbsp;&nbsp;(5) Describes the operational environment for the information system and relationships with or connections to other information systems;
 
-&nbsp&nbsp&nbsp&nbsp(6) Provides an overview of the security requirements for the system;
+&nbsp;&nbsp;&nbsp;&nbsp;(6) Provides an overview of the security requirements for the system;
 
-&nbsp&nbsp&nbsp&nbsp(7) Identifies any relevant overlays, if applicable;
+&nbsp;&nbsp;&nbsp;&nbsp;(7) Identifies any relevant overlays, if applicable;
 
-&nbsp&nbsp&nbsp&nbsp(8) Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
+&nbsp;&nbsp;&nbsp;&nbsp;(8) Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
 
-&nbsp&nbsp&nbsp&nbsp(9) Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
+&nbsp;&nbsp;&nbsp;&nbsp;(9) Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
 
 (b) Distributes copies of the security plan and communicates subsequent changes to the plan to [organization-defined personnel or roles];
 
