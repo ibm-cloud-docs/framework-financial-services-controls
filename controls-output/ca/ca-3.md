@@ -25,6 +25,11 @@ The organization:
 
 (c) Reviews and updates Interconnection Security Agreements [at least annually and on input from the customer].
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization &#34;service delivery&#34; and &#34;corporate&#34; environments must be maintained as separate environments. That is, clear physical and/or logical boundaries separating the two environments must exist.
+
 ## Implementation guidance
 {: #implementation-guidance}
 

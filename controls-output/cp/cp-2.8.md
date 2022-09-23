@@ -19,6 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization identifies critical information system assets supporting essential missions and business functions.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The Business Impact Analysis must undergo annual review and approval.  Changes to the Business Impact Analysis should be communicated to the customer, reviewed, and approved within 90 days of significant changes to the system.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

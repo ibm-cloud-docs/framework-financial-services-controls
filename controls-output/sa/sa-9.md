@@ -25,6 +25,15 @@ The organization:
 
 (c) Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Requirements for contingency planning and business continuity must be negotiated with third party service providers.
+
+Degradation of performance by the same external vendor to the organization across different regions should be documented.
+
+Authorized individuals include Federal Regulators in the event of insolvency.
+
 ## Implementation guidance
 {: #implementation-guidance}
 

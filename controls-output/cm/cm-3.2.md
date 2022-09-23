@@ -19,6 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization tests, validates, and documents changes to the information system before implementing the changes on the operational system.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Test programs, scripts, or code must not be placed into customer environments.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

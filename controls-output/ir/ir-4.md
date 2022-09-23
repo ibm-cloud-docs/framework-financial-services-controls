@@ -25,6 +25,11 @@ The organization:
 
 (c) Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization must develop, document, and implement a forensics evidence process for the gathering, protection, preservation, and retention (including controlled access and evidence chain) of forensic evidence and investigation activities in accordance with customer requirements.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

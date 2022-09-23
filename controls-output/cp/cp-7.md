@@ -25,6 +25,11 @@ The organization:
 
 (c) Ensures that the alternate processing site provides information security safeguards equivalent to those of the primary site.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Where failover is used, applications must failover and maintain production workload to an alternate site for a period of five (5) consecutive days.
+
 ## Implementation guidance
 {: #implementation-guidance}
 

@@ -19,6 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization tests the incident response capability for the information system [at least annually] using [organization-defined tests] to determine the incident response effectiveness and documents the results.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+If lessons learned result in any necessary improvements to existing processes, ensure they are incorporated into the contingency plan no later than 30 days following all contingency events and exercises.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

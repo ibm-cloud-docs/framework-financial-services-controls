@@ -23,6 +23,11 @@ The organization:
 
 (b) Reports security incident information to [Information Security Incident Response Team of the FS-ready public cloud customers].
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization shall ensure that data management issues are treated as incidents and are reported to the customer as they arise.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

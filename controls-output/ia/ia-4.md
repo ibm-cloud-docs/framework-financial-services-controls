@@ -29,6 +29,13 @@ The organization manages information system identifiers by:
 
 (e) Disabling the identifier after [ninety (90) calendar days for user identifiers].
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization must follow customer requirements when establishing customer identifiers including:
+- aligning with customer email address or unique number corresponding to a user
+- prohibiting the use of Social Security Numbers (SSN) or customer-specific identifiers in the organization&#39;s internal environment
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

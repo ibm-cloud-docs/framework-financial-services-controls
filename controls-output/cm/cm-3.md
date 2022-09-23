@@ -33,6 +33,94 @@ The organization:
 
 (g) Coordinates and provides oversight for configuration change control activities through [organization-defined configuration change control element (e.g., committee, board)] that convenes [organization-defined frequency; organization-defined configuration change conditions].
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization must notify impacted customers prior to implementing any changes.  The organization must validate changes after they have been implemented.
+
+All changes to the systems / applications / processes used by the customer must be under a formal change management/control process and must be communicated to the customer prior to implementation. 
+
+All changes to the customer environment (including supporting process) must be configuration-controlled.
+
+The organization&#39;s change management process must address emergency changes.
+
+The organization shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
+
+Each change request must be properly documented to  ITIL v3 - Request for Change (RFC) Standards:  Each RFC must have the following fields: 
+Unique ID :
+
+Date of submission :
+
+Change Owner :
+
+Initiator of the RFC :
+(if not identical with Change Owner)
+
+Proposed Change priority :
+ Low
+ Normal
+ High
+ Very High (Emergency Change)
+(may be overruled by Change Management during Change assessment)
+
+Reference to Change Proposal
+(if the Change is related to a Change Proposal submitted at an earlier stage)
+
+Description of the Change being applied for :
+
+Summary description :
+
+Business case :
+
+Reason for the Change to be implemented :
+
+Consequences if the Change is not implemented :
+
+References (e.g. to a Problem Record triggering this RFC) :
+
+Business areas on the client-side affected by the Change :
+
+Services affected by the Change :
+
+IT infrastructure components (CIs) affected by the Change :
+
+Technology aspects (is a new technology being introduced?) :
+
+Risks : (Risks during the implementation of the Change)
+
+Identified risks :
+
+Counter-measures :
+(e.g. reversion procedure)
+
+Back-out strategy for the case of a failed Change implementation :
+
+Time schedule :
+(Predicted/suggested time schedule for the implementation)
+
+Estimate of resources for the implementation :
+
+Required personnel resources :
+(from which areas?)
+
+Additional supporting documents :
+(If applicable, index of additional supporting documents, e.g. the Service Design Package for major additions or modifications to services)
+
+Approval or rejection :
+
+Date :
+
+Person/ body in charge of the approval :
+(Change Manager/ CAB/ ECAB)
+
+Change reviewers :
+
+Priority assigned by Change Management :
+
+Restrictions :
+
+If applicable, reasons for rejecting the RFC :.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

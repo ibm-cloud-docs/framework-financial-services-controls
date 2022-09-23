@@ -25,6 +25,11 @@ The organization:
 
 (c) Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Customer PII must be categorized and stored in appropriate data structures to meet customer, including regulatory and/or financial institution, requirements.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

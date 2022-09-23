@@ -27,6 +27,11 @@ The organization develops, documents, and implements a configuration management 
 
 (d) Protects the configuration management plan from unauthorized disclosure and modification.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+ISV shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

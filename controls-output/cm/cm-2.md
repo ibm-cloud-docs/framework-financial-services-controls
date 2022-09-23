@@ -19,6 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Baseline configuration must include any APIs enabled in the production environment.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

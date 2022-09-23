@@ -45,6 +45,13 @@ The organization:
 
 (g) Protects the contingency plan from unauthorized disclosure and modification.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Documentation includes plan and playbook(s).
+
+The organization must provide required pre-test documentation prior to test initiation. The customer must provide the organization with what is included in pre-test documentation.
+
 ## Implementation guidance
 {: #implementation-guidance}
 

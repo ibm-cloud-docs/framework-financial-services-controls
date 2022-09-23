@@ -19,6 +19,11 @@ subcollection: framework-financial-services-controls
 
 The information system, when transferring information between different security domains, implements [organization-defined security policy filters] requiring fully enumerated formats that restrict data structure and content.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+This control is required for ISVs; This control is NOT required for IBM Cloud Platform at this time (bank risk accepted for IBM)
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

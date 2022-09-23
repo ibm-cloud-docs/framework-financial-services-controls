@@ -53,6 +53,19 @@ The organization:
 
 (k) Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Prior to production access, users must be onboarded and registered in the customer&#39;s access management system.  
+
+The organization must be able to export all current customer end users and permissions within the organization’s application/system.
+
+Access activity/logs should be reported to the customer daily, as required.
+
+Access activity/logs should contain the following content: user ID, associated roles and permissions, business/job function, last logon date.
+
+Account managers must include the individual&#39;s or system&#39;s manager and account owner.
+
 ## Implementation guidance
 {: #implementation-guidance}
 

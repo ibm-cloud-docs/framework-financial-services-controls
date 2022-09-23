@@ -47,6 +47,11 @@ The organization:
 
 (f) Protects the incident response plan from unauthorized disclosure and modification.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+Documentation includes plan and playbook(s).
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 

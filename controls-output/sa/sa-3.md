@@ -27,6 +27,11 @@ The organization:
 
 (d) Integrates the organizational information security risk management process into system development life cycle activities.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization should ensure that all applications have a specific start and end date.  Milestones for keeping applications under development, production lifetime, and retirement (decommissioning) will be defined by the customer.  Deviations from the established milestones must be documented, approved and shared with customer.
+
 ## Implementation guidance
 {: #implementation-guidance}
 

@@ -29,6 +29,11 @@ The organization:
 
 (e) Updates the risk assessment [at least annually] or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
 
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+The organization shall conduct a risk assessment identifying all applicable threats to the organization portion of the FS-ready public cloud.  Risk assessment methodology shall adhere to the guidance contained in NIST Special Publication 800-30, Revision 1, Guide for Conducting Risk Assessments.
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 
