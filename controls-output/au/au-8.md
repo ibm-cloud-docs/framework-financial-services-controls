@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-(a) Uses internal system clocks to generate time stamps for audit records; and
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Uses internal system clocks to generate time stamps for audit records; and
 
-(b) Records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and meets [one second granularity of time measurement].
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and meets [one second granularity of time measurement].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

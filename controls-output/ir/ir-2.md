@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization provides incident response training to information system users consistent with assigned roles and responsibilities:
 
-(a) Within [within 90 calendar days] of assuming an incident response role or responsibility;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Within [within 90 calendar days] of assuming an incident response role or responsibility;
 
-(b) When required by information system changes; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) When required by information system changes; and
 
-(c) [at least annually] thereafter.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) [at least annually] thereafter.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

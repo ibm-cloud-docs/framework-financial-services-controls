@@ -19,17 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Develops, documents, and disseminates to [organization-defined personnel or roles]:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Procedures to facilitate the implementation of the incident response policy and associated incident response controls; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Procedures to facilitate the implementation of the incident response policy and associated incident response controls; and
 
-(b) Reviews and updates the current:
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Reviews and updates the current:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Incident response policy [at least annually]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Incident response policy [at least annually]; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Incident response procedures [at least annually].
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Incident response procedures [at least annually].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

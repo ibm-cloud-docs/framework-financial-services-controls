@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
 
-(b) Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

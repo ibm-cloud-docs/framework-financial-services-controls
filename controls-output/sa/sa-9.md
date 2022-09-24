@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Requires that providers of external information system services comply with organizational information security requirements and employ [business continuity service level agreements] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Requires that providers of external information system services comply with organizational information security requirements and employ [business continuity service level agreements] in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
-(b) Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
 
-(c) Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Employs [Continuous monitoring requirements must be met for external systems where customer information is processed or stored] to monitor security control compliance by external service providers on an ongoing basis.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-((a)\] Measures the time between flaw identification and flaw remediation; and
+&nbsp;&nbsp;&nbsp;&nbsp;((a)\] Measures the time between flaw identification and flaw remediation; and
 
-((b)\] Establishes [organization-defined benchmarks] for taking corrective actions.
+&nbsp;&nbsp;&nbsp;&nbsp;((b)\] Establishes [organization-defined benchmarks] for taking corrective actions.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

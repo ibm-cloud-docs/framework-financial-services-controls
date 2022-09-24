@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Develops a comprehensive strategy to manage risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of information systems;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Develops a comprehensive strategy to manage risk to organizational operations and assets, individuals, other organizations, and the Nation associated with the operation and use of information systems;
 
-(b) Implements the risk management strategy consistently across the organization; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Implements the risk management strategy consistently across the organization; and
 
-(c) Reviews and updates the risk management strategy [at least annually] or as required, to address organizational changes.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Reviews and updates the risk management strategy [at least annually] or as required, to address organizational changes.
 

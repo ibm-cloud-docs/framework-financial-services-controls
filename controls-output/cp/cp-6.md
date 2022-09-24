@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and
 
-(b) Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
 
 ## Implementation guidance
 {: #implementation-guidance}

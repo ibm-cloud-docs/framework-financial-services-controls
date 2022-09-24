@@ -19,17 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
 
-(b) Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
 
-(c) Configures malicious code protection mechanisms to:
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Configures malicious code protection mechanisms to:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Perform periodic scans of the information system [at least weekly] and real-time scans of files from external sources at [to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)] as the files are downloaded, opened, or executed in accordance with organizational security policy; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) [to include alerting administrator or defined security personnel] in response to malicious code detection; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) [to include alerting administrator or defined security personnel] in response to malicious code detection; and
 
-(d) Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

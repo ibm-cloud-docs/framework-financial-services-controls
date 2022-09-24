@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Establishes an alternate processing site including necessary agreements to permit the transfer and resumption of [customer applications must failover production workload to an alternate site for a period of five (5) consecutive days] for essential missions/business functions within [customer defined RTO/RPO for application] when the primary processing capabilities are unavailable;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Establishes an alternate processing site including necessary agreements to permit the transfer and resumption of [customer applications must failover production workload to an alternate site for a period of five (5) consecutive days] for essential missions/business functions within [customer defined RTO/RPO for application] when the primary processing capabilities are unavailable;
 
-(b) Ensures that equipment and supplies required to transfer and resume operations are available at the alternate processing site or contracts are in place to support delivery to the site within the organization-defined time period for transfer/resumption; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Ensures that equipment and supplies required to transfer and resume operations are available at the alternate processing site or contracts are in place to support delivery to the site within the organization-defined time period for transfer/resumption; and
 
-(c) Ensures that the alternate processing site provides information security safeguards equivalent to those of the primary site.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Ensures that the alternate processing site provides information security safeguards equivalent to those of the primary site.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

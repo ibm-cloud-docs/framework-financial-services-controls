@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,19 +19,19 @@ subcollection: framework-financial-services-controls
 
 The organization includes the following requirements, descriptions, and criteria, explicitly or by reference, in the acquisition contract for the information system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs:
 
-(a) Security functional requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Security functional requirements;
 
-(b) Security strength requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Security strength requirements;
 
-(c) Security assurance requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Security assurance requirements;
 
-(d) Security-related documentation requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Security-related documentation requirements;
 
-(e) Requirements for protecting security-related documentation;
+&nbsp;&nbsp;&nbsp;&nbsp;(e) Requirements for protecting security-related documentation;
 
-(f) Description of the information system development environment and environment in which the system is intended to operate; and
+&nbsp;&nbsp;&nbsp;&nbsp;(f) Description of the information system development environment and environment in which the system is intended to operate; and
 
-(g) Acceptance criteria.
+&nbsp;&nbsp;&nbsp;&nbsp;(g) Acceptance criteria.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

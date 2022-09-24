@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Receives information system security alerts, advisories, and directives from [to include IaaS/PaaS providers and additional organization-defined external organizations] on an ongoing basis;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Receives information system security alerts, advisories, and directives from [to include IaaS/PaaS providers and additional organization-defined external organizations] on an ongoing basis;
 
-(b) Generates internal security alerts, advisories, and directives as deemed necessary;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Generates internal security alerts, advisories, and directives as deemed necessary;
 
-(c) Disseminates security alerts, advisories, and directives to: [to include system security personnel and administrators with configuration/patch-management responsibilities]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Disseminates security alerts, advisories, and directives to: [to include system security personnel and administrators with configuration/patch-management responsibilities]; and
 
-(d) Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
 
 ## Implementation guidance
 {: #implementation-guidance}

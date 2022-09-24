@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,17 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization, upon termination of individual employment:
 
-(a) Disables information system access within [same day];
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Disables information system access within [same day];
 
-(b) Terminates/revokes any authenticators/credentials associated with the individual;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Terminates/revokes any authenticators/credentials associated with the individual;
 
-(c) Conducts exit interviews that include a discussion of [organization-defined information security topics];
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Conducts exit interviews that include a discussion of [organization-defined information security topics];
 
-(d) Retrieves all security-related organizational information system-related property;
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Retrieves all security-related organizational information system-related property;
 
-(e) Retains access to organizational information and information systems formerly controlled by terminated individual; and
+&nbsp;&nbsp;&nbsp;&nbsp;(e) Retains access to organizational information and information systems formerly controlled by terminated individual; and
 
-(f) Notifies [organization-defined personnel or roles] within [same day].
+&nbsp;&nbsp;&nbsp;&nbsp;(f) Notifies [organization-defined personnel or roles] within [same day].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

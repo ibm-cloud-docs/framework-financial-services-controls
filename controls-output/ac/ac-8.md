@@ -19,25 +19,25 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-(a) Displays to users [organization-defined system use notification message or banner] before granting access to the system that provides privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance and states that:
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Displays to users [organization-defined system use notification message or banner] before granting access to the system that provides privacy and security notices consistent with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance and states that:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Users are accessing a U.S. Government information system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Users are accessing a U.S. Government information system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Information system usage may be monitored, recorded, and subject to audit;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Information system usage may be monitored, recorded, and subject to audit;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Unauthorized use of the information system is prohibited and subject to criminal and civil penalties; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Use of the information system indicates consent to monitoring and recording;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Use of the information system indicates consent to monitoring and recording;
 
-(b) Retains the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the information system; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Retains the notification message or banner on the screen until users acknowledge the usage conditions and take explicit actions to log on to or further access the information system; and
 
-(c) For publicly accessible systems:
+&nbsp;&nbsp;&nbsp;&nbsp;(c) For publicly accessible systems:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Displays system use information [organization-defined conditions], before granting further access;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Displays system use information [organization-defined conditions], before granting further access;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Displays references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Displays references, if any, to monitoring, recording, or auditing that are consistent with privacy accommodations for such systems that generally prohibit those activities; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Includes a description of the authorized uses of the system.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Includes a description of the authorized uses of the system.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

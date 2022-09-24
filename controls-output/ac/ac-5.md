@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Separates [organization-defined duties of individuals];
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Separates [organization-defined duties of individuals];
 
-(b) Documents separation of duties of individuals; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Documents separation of duties of individuals; and
 
-(c) Defines information system access authorizations to support separation of duties.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Defines information system access authorizations to support separation of duties.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

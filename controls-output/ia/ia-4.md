@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,15 +19,15 @@ subcollection: framework-financial-services-controls
 
 The organization manages information system identifiers by:
 
-(a) Receiving authorization from [organization-defined personnel or roles] to assign an individual, group, role, or device identifier;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Receiving authorization from [organization-defined personnel or roles] to assign an individual, group, role, or device identifier;
 
-(b) Selecting an identifier that identifies an individual, group, role, or device;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Selecting an identifier that identifies an individual, group, role, or device;
 
-(c) Assigning the identifier to the intended individual, group, role, or device;
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Assigning the identifier to the intended individual, group, role, or device;
 
-(d) Preventing reuse of identifiers for [at least two (2) years]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Preventing reuse of identifiers for [at least two (2) years]; and
 
-(e) Disabling the identifier after [ninety (90) calendar days for user identifiers].
+&nbsp;&nbsp;&nbsp;&nbsp;(e) Disabling the identifier after [ninety (90) calendar days for user identifiers].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

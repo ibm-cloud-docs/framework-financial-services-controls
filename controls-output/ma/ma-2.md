@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,17 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;
 
-(b) Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
 
-(c) Requires that [organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Requires that [organization-defined personnel or roles] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
 
-(d) Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
 
-(e) Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
+&nbsp;&nbsp;&nbsp;&nbsp;(e) Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
 
-(f) Includes [organization-defined maintenance-related information] in organizational maintenance records.
+&nbsp;&nbsp;&nbsp;&nbsp;(f) Includes [organization-defined maintenance-related information] in organizational maintenance records.
 
 ## Implementation guidance
 {: #implementation-guidance}

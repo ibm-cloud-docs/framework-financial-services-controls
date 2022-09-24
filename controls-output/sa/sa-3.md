@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Manages the information system using [organization-defined system development life cycle] that incorporates information security considerations;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Manages the information system using [organization-defined system development life cycle] that incorporates information security considerations;
 
-(b) Defines and documents information security roles and responsibilities throughout the system development life cycle;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Defines and documents information security roles and responsibilities throughout the system development life cycle;
 
-(c) Identifies individuals having information security roles and responsibilities; and
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Identifies individuals having information security roles and responsibilities; and
 
-(d) Integrates the organizational information security risk management process into system development life cycle activities.
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Integrates the organizational information security risk management process into system development life cycle activities.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

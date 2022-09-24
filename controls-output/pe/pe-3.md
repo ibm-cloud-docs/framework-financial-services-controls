@@ -19,23 +19,23 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Enforces physical access authorizations at [organization-defined entry/exit points to the facility where the information system resides] by;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Enforces physical access authorizations at [organization-defined entry/exit points to the facility where the information system resides] by;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Verifying individual access authorizations before granting access to the facility; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Verifying individual access authorizations before granting access to the facility; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Controlling ingress/egress to the facility using [locks, guards, badge systems, and video cameras];
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Controlling ingress/egress to the facility using [locks, guards, badge systems, and video cameras];
 
-(b) Maintains physical access audit logs for [organization-defined entry/exit points];
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Maintains physical access audit logs for [organization-defined entry/exit points];
 
-(c) Provides [organization-defined security safeguards] to control access to areas within the facility officially designated as publicly accessible;
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Provides [organization-defined security safeguards] to control access to areas within the facility officially designated as publicly accessible;
 
-(d) Escorts visitors and monitors visitor activity [in all circumstances within restricted access area where the information system resides];
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Escorts visitors and monitors visitor activity [in all circumstances within restricted access area where the information system resides];
 
-(e) Secures keys, combinations, and other physical access devices;
+&nbsp;&nbsp;&nbsp;&nbsp;(e) Secures keys, combinations, and other physical access devices;
 
-(f) Inventories [organization-defined physical access devices] every [at least annually]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(f) Inventories [organization-defined physical access devices] every [at least annually]; and
 
-(g) Changes combinations and keys [at least annually] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.
+&nbsp;&nbsp;&nbsp;&nbsp;(g) Changes combinations and keys [at least annually] and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

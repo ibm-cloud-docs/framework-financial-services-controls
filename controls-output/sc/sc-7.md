@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,11 +19,11 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-(a) Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;
 
-(b) Implements subnetworks for publicly accessible system components that are [physically; logically] separated from internal organizational networks; and
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Implements subnetworks for publicly accessible system components that are [physically; logically] separated from internal organizational networks; and
 
-(c) Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security architecture.
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security architecture.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

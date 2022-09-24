@@ -19,17 +19,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Develops and documents an inventory of information system components that:
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Develops and documents an inventory of information system components that:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Accurately reflects the current information system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Accurately reflects the current information system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Includes all components within the authorization boundary of the information system;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Includes all components within the authorization boundary of the information system;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Is at the level of granularity deemed necessary for tracking and reporting; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Is at the level of granularity deemed necessary for tracking and reporting; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Includes [organization-defined information deemed necessary to achieve effective information system component accountability]; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Includes [organization-defined information deemed necessary to achieve effective information system component accountability]; and
 
-(b) Reviews and updates the information system component inventory [at least monthly].
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Reviews and updates the information system component inventory [at least monthly].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

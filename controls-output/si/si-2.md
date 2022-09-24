@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,13 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Identifies, reports, and corrects information system flaws;
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Identifies, reports, and corrects information system flaws;
 
-(b) Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
 
-(c) Installs security-relevant software and firmware updates within [RA-5 (d) timeframes] of the release of the updates; and
+&nbsp;&nbsp;&nbsp;&nbsp;(c) Installs security-relevant software and firmware updates within [RA-5 (d) timeframes] of the release of the updates; and
 
-(d) Incorporates flaw remediation into the organizational configuration management process.
+&nbsp;&nbsp;&nbsp;&nbsp;(d) Incorporates flaw remediation into the organizational configuration management process.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,9 +19,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-(a) Maintains visitor access records to the facility where the information system resides for [for a minimum of one (1) year]; and
+&nbsp;&nbsp;&nbsp;&nbsp;(a) Maintains visitor access records to the facility where the information system resides for [for a minimum of one (1) year]; and
 
-(b) Reviews visitor access records [at least monthly].
+&nbsp;&nbsp;&nbsp;&nbsp;(b) Reviews visitor access records [at least monthly].
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
