@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # SI-4 (2) - Automated Tools For Real-Time Analysis
 {: #si-4.2}
 

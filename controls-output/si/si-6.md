@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # SI-6 - Security Function Verification
 {: #si-6}
 
@@ -19,13 +20,10 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Verifies the correct operation of [organization-defined security functions];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Performs this verification [to include upon system startup and/or restart and at least monthly];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) Notifies [to include system administrators and security personnel] of failed security verification tests; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(d) [shuts the information system down; restarts the information system; to include notification of system administrators and security personnel] when anomalies are discovered.
+- (a) Verifies the correct operation of _[organization-defined security functions]_;
+- (b) Performs this verification _[to include upon system startup and/or restart and at least monthly]_;
+- (c) Notifies _[to include system administrators and security personnel]_ of failed security verification tests; and
+- (d) _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -38,4 +36,14 @@ See the resources that follow to learn more about how to implement this control.
 {: #supplemental-guidance}
 
 Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| si-6_prm_1 |  | organization-defined security functions |
+| si-6_prm_2 | to include upon system startup and/or restart and at least monthly | Choose one or more: organization-defined system transitional states; upon command by user with appropriate privilege; organization-defined frequency |
+| si-6_prm_3 |  | organization-defined system transitional states |
+| si-6_prm_4 |  | organization-defined frequency |
+| si-6_prm_5 | to include system administrators and security personnel | organization-defined personnel or roles |
+| si-6_prm_6 |  | Choose one or more: shuts the information system down; restarts the information system; to include notification of system administrators and security personnel |
+| si-6_prm_7 | to include notification of system administrators and security personnel | organization-defined alternative action(s) |
 

@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # AT-2 - Security Awareness Training
 {: #at-2}
 
@@ -19,14 +20,16 @@ subcollection: framework-financial-services-controls
 
 The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) As part of initial training for new users;
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) When required by information system changes; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) [at least annually] thereafter.
+- (a) As part of initial training for new users;
+- (b) When required by information system changes; and
+- (c) _[at least annually]_ thereafter.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizations determine the appropriate content of security awareness training and security awareness techniques based on the specific organizational requirements and the information systems to which personnel have authorized access. The content includes a basic understanding of the need for information security and user actions to maintain security and to respond to suspected security incidents. The content also addresses awareness of the need for operations security. Security awareness techniques can include, for example, displaying posters, offering supplies inscribed with security reminders, generating email advisories/notices from senior organizational officials, displaying logon screen messages, and conducting information security awareness events.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| at-2_prm_1 | at least annually | organization-defined frequency |
 

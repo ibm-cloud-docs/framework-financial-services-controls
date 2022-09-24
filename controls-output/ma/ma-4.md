@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # MA-4 - Nonlocal Maintenance
 {: #ma-4}
 
@@ -19,15 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Approves and monitors nonlocal maintenance and diagnostic activities;
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Allows the use of nonlocal maintenance and diagnostic tools only as consistent with organizational policy and documented in the security plan for the information system;
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) Employs strong authenticators in the establishment of nonlocal maintenance and diagnostic sessions;
-
-&nbsp;&nbsp;&nbsp;&nbsp;(d) Maintains records for nonlocal maintenance and diagnostic activities; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(e) Terminates session and network connections when nonlocal maintenance is completed.
+- (a) Approves and monitors nonlocal maintenance and diagnostic activities;
+- (b) Allows the use of nonlocal maintenance and diagnostic tools only as consistent with organizational policy and documented in the security plan for the information system;
+- (c) Employs strong authenticators in the establishment of nonlocal maintenance and diagnostic sessions;
+- (d) Maintains records for nonlocal maintenance and diagnostic activities; and
+- (e) Terminates session and network connections when nonlocal maintenance is completed.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # AC-5 - Separation Of Duties
 {: #ac-5}
 
@@ -19,11 +20,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Separates [organization-defined duties of individuals];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Documents separation of duties of individuals; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) Defines information system access authorizations to support separation of duties.
+- (a) Separates _[organization-defined duties of individuals]_;
+- (b) Documents separation of duties of individuals; and
+- (c) Defines information system access authorizations to support separation of duties.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -53,4 +52,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 {: #supplemental-guidance}
 
 Separation of duties addresses the potential for abuse of authorized privileges and helps to reduce the risk of malevolent activity without collusion. Separation of duties includes, for example: (i) dividing mission functions and information system support functions among different individuals and/or roles; (ii) conducting information system support functions with different individuals (e.g., system management, programming, configuration management, quality assurance and testing, and network security); and (iii) ensuring security personnel administering access control functions do not also administer audit functions.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| ac-5_prm_1 |  | organization-defined duties of individuals |
 

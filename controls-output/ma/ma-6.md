@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,16 +11,22 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # MA-6 - Timely Maintenance
 {: #ma-6}
 
 ## Requirements
 {: #requirements}
 
-The organization obtains maintenance support and/or spare parts for [organization-defined information system components] within [organization-defined time period] of failure.
+The organization obtains maintenance support and/or spare parts for _[organization-defined information system components] within [organization-defined time period]_ of failure.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 
 Organizations specify the information system components that result in increased risk to organizational operations and assets, individuals, other organizations, or the Nation when the functionality provided by those components is not operational. Organizational actions to obtain maintenance support typically include having appropriate contracts in place.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| ma-6_prm_1 |  | organization-defined information system components |
+| ma-6_prm_2 |  | organization-defined time period |
 

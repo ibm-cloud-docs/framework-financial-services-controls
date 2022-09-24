@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # SC-7 (4) - External Telecommunications Services
 {: #sc-7.4}
 
@@ -19,13 +20,12 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;((a)\] Implements a managed interface for each external telecommunication service;
-
-&nbsp;&nbsp;&nbsp;&nbsp;((b)\] Establishes a traffic flow policy for each managed interface;
-
-&nbsp;&nbsp;&nbsp;&nbsp;((c)\] Protects the confidentiality and integrity of the information being transmitted across each interface;
-
-&nbsp;&nbsp;&nbsp;&nbsp;((d)\] Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;((e)\] Reviews exceptions to the traffic flow policy [at least annually] and removes exceptions that are no longer supported by an explicit mission/business need.
+- ((a)\] Implements a managed interface for each external telecommunication service;
+- ((b)\] Establishes a traffic flow policy for each managed interface;
+- ((c)\] Protects the confidentiality and integrity of the information being transmitted across each interface;
+- ((d)\] Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and
+- ((e)\] Reviews exceptions to the traffic flow policy _[at least annually]_ and removes exceptions that are no longer supported by an explicit mission/business need.
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| sc-7.4_prm_1 | at least annually | organization-defined frequency |
 

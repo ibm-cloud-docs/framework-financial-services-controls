@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # CP-9 - Information System Backup
 {: #cp-9}
 
@@ -19,13 +20,10 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Conducts backups of user-level information contained in the information system [daily incremental; weekly full];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Conducts backups of system-level information contained in the information system [daily incremental; weekly full];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) Conducts backups of information system documentation including security-related documentation [daily incremental; weekly full]; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(d) Protects the confidentiality, integrity, and availability of backup information at storage locations.
+- (a) Conducts backups of user-level information contained in the information system ___[daily incremental; weekly full]___;
+- (b) Conducts backups of system-level information contained in the information system ___[daily incremental; weekly full]___;
+- (c) Conducts backups of information system documentation including security-related documentation ___[daily incremental; weekly full]___; and
+- (d) Protects the confidentiality, integrity, and availability of backup information at storage locations.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -49,4 +47,10 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 {: #supplemental-guidance}
 
 System-level information includes, for example, system-state information, operating system and application software, and licenses. User-level information includes any information other than system-level information. Mechanisms employed by organizations to protect the integrity of information system backups include, for example, digital signatures and cryptographic hashes. Protection of system backup information while in transit is beyond the scope of this control. Information system backups reflect the requirements in contingency plans as well as other organizational requirements for backing up information.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| cp-9_prm_1 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
+| cp-9_prm_2 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
+| cp-9_prm_3 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
 

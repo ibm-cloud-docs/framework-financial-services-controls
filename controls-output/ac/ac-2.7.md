@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # AC-2 (7) - Role-Based Schemes
 {: #ac-2.7}
 
@@ -19,11 +20,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;((a)\] Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
-
-&nbsp;&nbsp;&nbsp;&nbsp;((b)\] Monitors privileged role assignments; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;((c)\] Takes [organization-defined actions] when privileged role assignments are no longer appropriate.
+- ((a)\] Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
+- ((b)\] Monitors privileged role assignments; and
+- ((c)\] Takes _[organization-defined actions]_ when privileged role assignments are no longer appropriate.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -38,4 +37,8 @@ See the resources that follow to learn more about how to implement this control.
 {: #supplemental-guidance}
 
 Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. These privileged roles include, for example, key management, account management, network and system administration, database administration, and web administration.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| ac-2.7_prm_1 |  | organization-defined actions |
 

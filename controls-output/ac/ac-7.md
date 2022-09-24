@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # AC-7 - Unsuccessful Logon Attempts
 {: #ac-7}
 
@@ -19,9 +20,8 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Enforces a limit of [not more than five (5)] consecutive invalid logon attempts by a user during a [fifteen (15) minutes]; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Automatically [locks the account/node for a thirty (30) minutes] when the maximum number of unsuccessful attempts is exceeded.
+- (a) Enforces a limit of _[not more than five (5)] consecutive invalid logon attempts by a user during a [fifteen (15) minutes]_; and
+- (b) Automatically _[locks the account/node for a thirty (30) minutes]_ when the maximum number of unsuccessful attempts is exceeded.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
@@ -38,4 +38,12 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 {: #supplemental-guidance}
 
 This control applies regardless of whether the logon occurs via a local or network connection. Due to the potential for denial of service, automatic lockouts initiated by information systems are usually temporary and automatically release after a predetermined time period established by organizations. If a delay algorithm is selected, organizations may choose to employ different algorithms for different information system components based on the capabilities of those components. Responses to unsuccessful logon attempts may be implemented at both the operating system and the application levels.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| ac-7_prm_1 | not more than five (5) | organization-defined number |
+| ac-7_prm_2 | fifteen (15) minutes | organization-defined time period |
+| ac-7_prm_3 | locks the account/node for a thirty (30) minutes | Choose : locks the account/node for an organization-defined time period; locks the account/node until released by an administrator; delays next logon prompt according to organization-defined delay algorithm |
+| ac-7_prm_4 |  | organization-defined time period |
+| ac-7_prm_5 |  | organization-defined delay algorithm |
 

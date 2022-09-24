@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # MA-5 - Maintenance Personnel
 {: #ma-5}
 
@@ -19,11 +20,9 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Establishes a process for maintenance personnel authorization and maintains a list of authorized maintenance organizations or personnel;
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Ensures that non-escorted personnel performing maintenance on the information system have required access authorizations; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) Designates organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
+- (a) Establishes a process for maintenance personnel authorization and maintains a list of authorized maintenance organizations or personnel;
+- (b) Ensures that non-escorted personnel performing maintenance on the information system have required access authorizations; and
+- (c) Designates organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

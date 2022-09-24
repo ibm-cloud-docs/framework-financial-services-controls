@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-22"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,13 +11,19 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # RA-5 (2) - Update By Frequency / Prior To New Scan / When Identified
 {: #ra-5.2}
 
 ## Requirements
 {: #requirements}
 
-The organization updates the information system vulnerabilities scanned [prior to a new scan].
+The organization updates the information system vulnerabilities scanned _[prior to a new scan]_.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| ra-5.2_prm_1 | prior to a new scan | Choose one or more: organization-defined frequency; prior to a new scan; when new vulnerabilities are identified and reported |
+| ra-5.2_prm_2 |  | organization-defined frequency |
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

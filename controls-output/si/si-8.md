@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # SI-8 - Spam Protection
 {: #si-8}
 
@@ -19,9 +20,8 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+- (a) Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
+- (b) Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

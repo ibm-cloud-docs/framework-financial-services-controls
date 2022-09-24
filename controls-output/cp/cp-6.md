@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # CP-6 - Alternate Storage Site
 {: #cp-6}
 
@@ -19,9 +20,8 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
+- (a) Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and
+- (b) Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
 
 ## Implementation guidance
 {: #implementation-guidance}

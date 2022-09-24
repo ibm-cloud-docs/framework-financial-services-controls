@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # AU-5 - Response To Audit Processing Failures
 {: #au-5}
 
@@ -19,9 +20,8 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Alerts [organization-defined personnel or roles] in the event of an audit processing failure; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Takes the following additional actions: [organization-defined actions to be taken (overwrite oldest record)].
+- (a) Alerts _[organization-defined personnel or roles]_ in the event of an audit processing failure; and
+- (b) Takes the following additional actions: _[organization-defined actions to be taken (overwrite oldest record)]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -41,4 +41,9 @@ See the resources that follow to learn more about how to implement this control.
 {: #supplemental-guidance}
 
 Audit processing failures include, for example, software/hardware errors, failures in the audit capturing mechanisms, and audit storage capacity being reached or exceeded. Organizations may choose to define additional actions for different audit processing failures (e.g., by type, by location, by severity, or a combination of such factors). This control applies to each audit data storage repository (i.e., distinct information system component where audit records are stored), the total audit storage capacity of organizations (i.e., all audit data storage repositories combined), or both.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| au-5_prm_1 |  | organization-defined personnel or roles |
+| au-5_prm_2 | organization-defined actions to be taken (overwrite oldest record) | organization-defined actions to be taken (e.g., shut down information system, overwrite oldest audit records, stop generating audit records) |
 

@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # CM-2 (1) - Reviews And Updates
 {: #cm-2.1}
 
@@ -19,9 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization reviews and updates the baseline configuration of the information system:
 
-&nbsp;&nbsp;&nbsp;&nbsp;((a)\] [at least annually];
-
-&nbsp;&nbsp;&nbsp;&nbsp;((b)\] When required due to [to include when directed by IBM and/or customer]; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;((c)\] As an integral part of information system component installations and upgrades.
+- ((a)\] _[at least annually]_;
+- ((b)\] When required due to _[to include when directed by IBM and/or customer]_; and
+- ((c)\] As an integral part of information system component installations and upgrades.
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| cm-2.1_prm_1 | at least annually | organization-defined frequency |
+| cm-2.1_prm_2 | to include when directed by IBM and/or customer | Assignment organization-defined circumstances |
 

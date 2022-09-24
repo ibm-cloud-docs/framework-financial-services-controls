@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-20"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,16 +11,22 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # CP-8 - Telecommunications Services
 {: #cp-8}
 
 ## Requirements
 {: #requirements}
 
-The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of [organization-defined information system operations] for essential missions and business functions within [organization-defined time period] when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
+The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of _[organization-defined information system operations] for essential missions and business functions within [organization-defined time period]_ when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 
 This control applies to telecommunications services (data and voice) for primary and alternate processing and storage sites. Alternate telecommunications services reflect the continuity requirements in contingency plans to maintain essential missions/business functions despite the loss of primary telecommunications services. Organizations may specify different time periods for primary/alternate sites. Alternate telecommunications services include, for example, additional organizational or commercial ground-based circuits/lines or satellites in lieu of ground-based communications. Organizations consider factors such as availability, quality of service, and access when entering into alternate telecommunications agreements.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| cp-8_prm_1 |  | organization-defined information system operations |
+| cp-8_prm_2 |  | organization-defined time period |
 

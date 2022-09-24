@@ -11,6 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
+         
 # PL-2 - System Security Plan
 {: #pl-2}
 
@@ -19,33 +20,20 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(a) Develops a security plan for the information system that:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Is consistent with the organization’s enterprise architecture;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Explicitly defines the authorization boundary for the system;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Describes the operational context of the information system in terms of missions and business processes;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4) Provides the security categorization of the information system including supporting rationale;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5) Describes the operational environment for the information system and relationships with or connections to other information systems;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6) Provides an overview of the security requirements for the system;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7) Identifies any relevant overlays, if applicable;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(8) Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9) Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
-
-&nbsp;&nbsp;&nbsp;&nbsp;(b) Distributes copies of the security plan and communicates subsequent changes to the plan to [organization-defined personnel or roles];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(c) Reviews the security plan for the information system [at least annually];
-
-&nbsp;&nbsp;&nbsp;&nbsp;(d) Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;(e) Protects the security plan from unauthorized disclosure and modification.
+- (a) Develops a security plan for the information system that:
+    - (1) Is consistent with the organization’s enterprise architecture;
+    - (2) Explicitly defines the authorization boundary for the system;
+    - (3) Describes the operational context of the information system in terms of missions and business processes;
+    - (4) Provides the security categorization of the information system including supporting rationale;
+    - (5) Describes the operational environment for the information system and relationships with or connections to other information systems;
+    - (6) Provides an overview of the security requirements for the system;
+    - (7) Identifies any relevant overlays, if applicable;
+    - (8) Describes the security controls in place or planned for meeting those requirements including a rationale for the tailoring decisions; and
+    - (9) Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
+- (b) Distributes copies of the security plan and communicates subsequent changes to the plan to _[organization-defined personnel or roles]_;
+- (c) Reviews the security plan for the information system _[at least annually]_;
+- (d) Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and
+- (e) Protects the security plan from unauthorized disclosure and modification.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -57,4 +45,9 @@ The organization:
 {: #supplemental-guidance}
 
 Security plans relate security requirements to a set of security controls and control enhancements. Security plans also describe, at a high level, how the security controls and control enhancements meet those security requirements, but do not provide detailed, technical descriptions of the specific design or implementation of the controls/enhancements. Security plans contain sufficient information (including the specification of parameter values for assignment and selection statements either explicitly or by reference) to enable a design and implementation that is unambiguously compliant with the intent of the plans and subsequent determinations of risk to organizational operations and assets, individuals, other organizations, and the Nation if the plan is implemented as intended. Organizations can also apply tailoring guidance to the security control baselines in Appendix D and CNSS Instruction 1253 to develop overlays for community-wide use or to address specialized requirements, technologies, or missions/environments of operation (e.g., DoD-tactical, Federal Public Key Infrastructure, or Federal Identity, Credential, and Access Management, space operations). Appendix I provides guidance on developing overlays. Security plans need not be single documents; the plans can be a collection of various documents including documents that already exist. Effective security plans make extensive use of references to policies, procedures, and additional documents (e.g., design and implementation specifications) where more detailed information can be obtained. This reduces the documentation requirements associated with security programs and maintains security-related information in other established management/operational areas related to enterprise architecture, system development life cycle, systems engineering, and acquisition. For example, security plans do not contain detailed contingency plan or incident response plan information but instead provide explicitly or by reference, sufficient information to define what needs to be accomplished by those plans.
+
+| Parameter ID | Values | Label or Choices |
+|---|---|---|
+| pl-2_prm_1 |  | organization-defined personnel or roles |
+| pl-2_prm_2 | at least annually | organization-defined frequency |
 
