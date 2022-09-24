@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-24"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -23,11 +23,11 @@ The organization:
 
 (b) Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
 
-&nbsp;&nbsp;&nbsp;&nbsp;(1) Enumerating platforms, software flaws, and improper configurations;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Enumerating platforms, software flaws, and improper configurations;
 
-&nbsp;&nbsp;&nbsp;&nbsp;(2) Formatting checklists and test procedures; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2) Formatting checklists and test procedures; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;(3) Measuring vulnerability impact;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3) Measuring vulnerability impact;
 
 (c) Analyzes vulnerability scan reports and results from security control assessments;
 
