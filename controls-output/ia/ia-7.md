@@ -23,7 +23,7 @@ The information system implements mechanisms for authentication to a cryptograph
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 - 3000009: Check whether IAM roles are used to create IAM policies for IBM resources 
 - 3000015: Check whether IAM users are attached to at least one access group 

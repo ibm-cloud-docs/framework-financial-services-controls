@@ -23,7 +23,7 @@ The information system backs up audit records _[at least weekly]_ onto a physica
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
 

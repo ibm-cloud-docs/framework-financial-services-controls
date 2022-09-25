@@ -31,7 +31,7 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 - 3000020: Check whether authorized IP ranges are configured for the account 
 - 3000105: Check whether Cloud Object Storage is accessible only by using private endpoints 
@@ -57,6 +57,7 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 - 3000469: Check whether Application Load Balancer for VPC is configured with at least one VPC security group 
 - 3000475: Check whether Virtual Private Cloud (VPC) security groups have inbound ports that are open only to permitted IPs 
 - 3000476: Check whether Virtual Private Cloud (VPC) security groups have outbound ports that are open only to permitted IPs 
+- 3000478: Check whether a security group in Virtual Private Cloud, other than the default, is attached to all virtual private endpoints 
 - 3000510: Check whether Hyper Protect Crypto Services is accessible only through private endpoints 
 - 3000526: Check whether Hyper Protect DBaaS for MongoDB is accessible only using private endpoints 
 - 3000534: Check whether Hyper Protect DBaaS for PostgreSQL is accessible only using private endpoints 

@@ -23,7 +23,7 @@ The organization prevents the unauthorized exfiltration of information across ma
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 - 3000406: Check whether Virtual Private Cloud (VPC) has no rules in the default security group 
 - 3000412: Check whether all virtual server instances have at least one Virtual Private Cloud (VPC) security group attached 

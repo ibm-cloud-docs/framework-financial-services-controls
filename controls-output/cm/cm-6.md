@@ -43,12 +43,12 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement | Goals |
 |-------------|-------|
 | Part a | - 3000721: Check whether App ID email verification is enabled for Cloud Directory users \n - 3000722: Check whether App ID customer-provided email service is used | 
-{: caption="Goals for CM-6" caption-side="top"}
+{: caption="Goals for CM-6 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

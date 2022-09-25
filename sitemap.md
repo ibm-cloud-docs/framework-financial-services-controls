@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-23"
+lastupdated: "2022-09-25"
 
 keywords: 
 
@@ -260,6 +260,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17#requirements)
 
+* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17#scc-fs-cloud-profile)
+
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17#supplemental-guidance)
 
 [AC-17 (9) - Disconnect / Disable Access](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17.9#ac-17.9)
@@ -492,6 +494,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#requirements)
 
+* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#scc-fs-cloud-profile)
+
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#supplemental-guidance)
 
 
@@ -591,6 +595,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cm-2#requirements)
 
 * [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cm-2#additional-fs-cloud-specifications)
+
+* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cm-2#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cm-2#supplemental-guidance)
 
@@ -867,6 +873,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8#requirements)
 
+* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8#scc-fs-cloud-profile)
+
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8#supplemental-guidance)
 
 [CP-8 (1) - Priority Of Service Provisions](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8.1#cp-8.1)
@@ -878,6 +886,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [CP-8 (2) - Single Points Of Failure](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8.2#cp-8.2)
 
 * [Requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8.2#requirements)
+
+* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-8.2#scc-fs-cloud-profile)
 
 [CP-9 - Information System Backup](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-cp-9#cp-9)
 
@@ -1969,6 +1979,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-si-5#requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-si-5#implementation-guidance)
+
+* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-si-5#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-si-5#supplemental-guidance)
 

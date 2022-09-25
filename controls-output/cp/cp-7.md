@@ -42,14 +42,14 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement | Goals |
 |-------------|-------|
-| Part a | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region \n - 3000233: Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones \n - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones | 
+| Part a | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region \n - 3000233: Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones \n - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - 3000479: Check whether there are at least two instances of Direct Link in an account \n - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones | 
 | Part b | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region \n - 3000233: Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones \n - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones | 
 | Part c | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region \n - 3000233: Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - 3000473: Check whether each Virtual Private Cloud is configured to use at least # zones \n - 3000474: Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - 3000915: Check whether an OpenShift cluster has worker nodes across multiple zones | 
-{: caption="Goals for CP-7" caption-side="top"}
+{: caption="Goals for CP-7 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

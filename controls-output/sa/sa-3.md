@@ -40,13 +40,13 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement | Goals |
 |-------------|-------|
 | Part a | - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection \n - 3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints | 
 | Part d | - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection \n - 3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints | 
-{: caption="Goals for SA-3" caption-side="top"}
+{: caption="Goals for SA-3 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

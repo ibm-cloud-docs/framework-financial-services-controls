@@ -23,7 +23,7 @@ The organization employs automated tools to determine if password authenticators
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 - 3000001: Check whether IBMid password policy requires at least one uppercase letter 
 - 3000006: Check whether IBMid password may contain only printable ASCII characters (in the range 33 - 126) 

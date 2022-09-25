@@ -20,6 +20,13 @@ subcollection: framework-financial-services-controls
 
 The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of _[organization-defined information system operations] for essential missions and business functions within [organization-defined time period]_ when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
 
+## IBM Cloud for Financial Services profile
+{: #scc-fs-cloud-profile}
+
+The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+- 3000479: Check whether there are at least two instances of Direct Link in an account
+
 ## NIST supplemental guidance
 {: #supplemental-guidance}
 
