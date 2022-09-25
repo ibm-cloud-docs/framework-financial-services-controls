@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -53,8 +53,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 Encrypting information for transmission protects information from unauthorized disclosure and modification. Cryptographic mechanisms implemented to protect information integrity include, for example, cryptographic hash functions which have common application in digital signatures, checksums, and message authentication codes. Alternative physical security safeguards include, for example, protected distribution systems.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| sc-8.1_prm_1 | prevent unauthorized disclosure of information, highest financial institution standard (FIPS140-2 L3) for Highly Restricted Confidential Information (HRCI) | Choose one or more: prevent unauthorized disclosure of information; detect changes to information |
-| sc-8.1_prm_2 | none | organization-defined alternative physical safeguards |
+
 

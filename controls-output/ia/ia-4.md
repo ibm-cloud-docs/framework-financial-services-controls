@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -50,9 +50,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 Common device identifiers include, for example, media access control (MAC), Internet protocol (IP) addresses, or device-unique token identifiers. Management of individual identifiers is not applicable to shared information system accounts (e.g., guest and anonymous accounts). Typically, individual identifiers are the user names of the information system accounts assigned to those individuals. In such instances, the account management activities of AC-2 use account names provided by IA-4. This control also addresses individual identifiers not necessarily associated with information system accounts (e.g., identifiers used in physical security control databases accessed by badge reader systems for access to information systems). Preventing reuse of identifiers implies preventing the assignment of previously used individual, group, role, or device identifiers to different individuals, groups, roles, or devices.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ia-4_prm_1 |  | organization-defined personnel or roles |
-| ia-4_prm_2 | at least two (2) years | organization-defined time period |
-| ia-4_prm_3 | ninety (90) calendar days for user identifiers | organization-defined time period of inactivity |
+
 

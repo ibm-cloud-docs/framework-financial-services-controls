@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -48,9 +48,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 System-level information includes, for example, system-state information, operating system and application software, and licenses. User-level information includes any information other than system-level information. Mechanisms employed by organizations to protect the integrity of information system backups include, for example, digital signatures and cryptographic hashes. Protection of system backup information while in transit is beyond the scope of this control. Information system backups reflect the requirements in contingency plans as well as other organizational requirements for backing up information.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-9_prm_1 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
-| cp-9_prm_2 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
-| cp-9_prm_3 | daily incremental; weekly full | organization-defined frequency consistent with recovery time and recovery point objectives |
+
 

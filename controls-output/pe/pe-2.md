@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -30,7 +30,5 @@ The organization:
 
 This control applies to organizational employees and visitors. Individuals (e.g., employees, contractors, and others) with permanent physical access authorization credentials are not considered visitors. Authorization credentials include, for example, badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed (including level of forge-proof badges, smart cards, or identification cards) consistent with federal standards, policies, and procedures. This control only applies to areas within facilities that have not been designated as publicly accessible.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| pe-2_prm_1 | at least annually | organization-defined frequency |
+
 

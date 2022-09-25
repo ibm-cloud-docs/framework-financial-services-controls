@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,7 +20,5 @@ subcollection: framework-financial-services-controls
 
 The organization employs a penetration testing process that includes _[annually]_, unannounced attempts to bypass or circumvent security controls associated with physical access points to the facility.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| pe-3.6_prm_1 | annually | organization-defined frequency |
+
 

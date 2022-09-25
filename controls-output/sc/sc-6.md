@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -49,9 +49,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 Priority protection helps prevent lower-priority processes from delaying or interfering with the information system servicing any higher-priority processes. Quotas prevent users or processes from obtaining more than predetermined amounts of resources. This control does not apply to information system components for which there are only single users/roles.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| sc-6_prm_1 |  | organization-defined resources |
-| sc-6_prm_2 |  | Choose one or more: priority; quota; organization-defined security safeguards |
-| sc-6_prm_3 |  | organization-defined security safeguards |
+
 

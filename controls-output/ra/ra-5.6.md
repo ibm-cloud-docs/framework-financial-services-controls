@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,4 +19,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization employs automated mechanisms to compare the results of vulnerability scans over time to determine trends in information system vulnerabilities.
+
+
 

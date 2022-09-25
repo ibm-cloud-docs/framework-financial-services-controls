@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -32,7 +32,5 @@ See the resources that follow to learn more about how to implement this control.
 
 For remote access to privileged/non-privileged accounts, the purpose of requiring a device that is separate from the information system gaining access for one of the factors during multifactor authentication is to reduce the likelihood of compromising authentication credentials stored on the system. For example, adversaries deploying malicious code on organizational information systems can potentially compromise such credentials resident on the system and subsequently impersonate authorized users.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ia-2.11_prm_1 | FIPS 140-2 level 2 capable or above or equivalent | organization-defined strength of mechanism requirements |
+
 

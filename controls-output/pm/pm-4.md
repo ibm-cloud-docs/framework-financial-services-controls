@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,4 +25,6 @@ The organization:
     - (2) Document the remedial information security actions to adequately respond to risk to organizational operations and assets, individuals, other organizations, and the Nation; and
     - (3) Are reported in accordance with OMB FISMA reporting requirements.
 - (b) Reviews plans of action and milestones for consistency with the organizational risk management strategy and organization-wide priorities for risk response actions.
+
+
 

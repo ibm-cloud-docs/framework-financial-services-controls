@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,7 +25,5 @@ The organization reviews and updates the audited events _[annually or whenever t
 
 Over time, the events that organizations believe should be audited may change. Reviewing and updating the set of audited events periodically is necessary to ensure that the current set is still necessary and sufficient.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| au-2.3_prm_1 | annually or whenever there is a change in the threat environment | organization-defined frequency |
+
 

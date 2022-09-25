@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,9 +28,5 @@ The information system:
 
 This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| au-8.1_prm_1 | authoritative time source: servertime.service.softlayer.com | organization-defined frequency |
-| au-8.1_prm_2 | at least hourly | organization-defined authoritative time source |
-| au-8.1_prm_3 |  | organization-defined time period |
+
 

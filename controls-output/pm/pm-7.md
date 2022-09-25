@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,4 +24,6 @@ The organization develops an enterprise architecture with consideration for info
 {: #additional-fs-cloud-specifications}
 
 - Contingency planning activities must consider all dependencies within the supply chain.
+
+
 

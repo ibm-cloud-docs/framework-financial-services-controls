@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -56,8 +56,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 Alternate processing sites are sites that are geographically distinct from primary processing sites. An alternate processing site provides processing capability in the event that the primary processing site is not available. Items covered by alternate processing site agreements include, for example, environmental conditions at alternate sites, access rules, physical and environmental protection requirements, and coordination for the transfer/assignment of personnel. Requirements are specifically allocated to alternate processing sites that reflect the requirements in contingency plans to maintain essential missions/business functions despite disruption, compromise, or failure in organizational information systems.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-7_prm_1 | customer applications must failover production workload to an alternate site for a period of five (5) consecutive days | organization-defined information system operations |
-| cp-7_prm_2 | customer defined RTO/RPO for application | organization-defined time period consistent with recovery time and recovery point objectives |
+
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,7 +25,6 @@ The organization:
 - ((c)\] Protects the confidentiality and integrity of the information being transmitted across each interface;
 - ((d)\] Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and
 - ((e)\] Reviews exceptions to the traffic flow policy _[at least annually]_ and removes exceptions that are no longer supported by an explicit mission/business need.
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| sc-7.4_prm_1 | at least annually | organization-defined frequency |
+
+
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -38,7 +38,5 @@ See the resources that follow to learn more about how to implement this control.
 
 Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. These privileged roles include, for example, key management, account management, network and system administration, database administration, and web administration.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ac-2.7_prm_1 |  | organization-defined actions |
+
 

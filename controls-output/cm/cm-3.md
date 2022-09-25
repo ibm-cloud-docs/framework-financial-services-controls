@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -74,11 +74,5 @@ The organization:
 
 Configuration change controls for organizational information systems involve the systematic proposal, justification, implementation, testing, review, and disposition of changes to the systems, including system upgrades and modifications. Configuration change control includes changes to baseline configurations for components and configuration items of information systems, changes to configuration settings for information technology products (e.g., operating systems, applications, firewalls, routers, and mobile devices), unscheduled/unauthorized changes, and changes to remediate vulnerabilities. Typical processes for managing configuration changes to information systems include, for example, Configuration Control Boards that approve proposed changes to systems. For new development information systems or systems undergoing major upgrades, organizations consider including representatives from development organizations on the Configuration Control Boards. Auditing of changes includes activities before and after changes are made to organizational information systems and the auditing activities required to implement such changes.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cm-3_prm_1 | in accordance with record retention policies and procedures | organization-defined time period |
-| cm-3_prm_2 |  | organization-defined configuration change control element (e.g., committee, board) |
-| cm-3_prm_3 |  | Choose one or more: organization-defined frequency; organization-defined configuration change conditions |
-| cm-3_prm_4 |  | organization-defined frequency |
-| cm-3_prm_5 |  | organization-defined configuration change conditions |
+
 

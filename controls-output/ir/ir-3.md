@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -30,8 +30,5 @@ The organization tests the incident response capability for the information syst
 
 Organizations test incident response capabilities to determine the overall effectiveness of the capabilities and to identify potential weaknesses or deficiencies. Incident response testing includes, for example, the use of checklists, walk-through or tabletop exercises, simulations (parallel/full interrupt), and comprehensive exercises. Incident response testing can also include a determination of the effects on organizational operations (e.g., reduction in mission capabilities), organizational assets, and individuals due to incident response.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ir-3_prm_1 | at least annually | organization-defined frequency |
-| ir-3_prm_2 |  | organization-defined tests |
+
 

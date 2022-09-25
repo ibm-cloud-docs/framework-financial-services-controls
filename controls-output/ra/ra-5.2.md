@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,11 +20,6 @@ subcollection: framework-financial-services-controls
 
 The organization updates the information system vulnerabilities scanned _[prior to a new scan]_.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ra-5.2_prm_1 | prior to a new scan | Choose one or more: organization-defined frequency; prior to a new scan; when new vulnerabilities are identified and reported |
-| ra-5.2_prm_2 |  | organization-defined frequency |
-
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
@@ -32,4 +27,6 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 - 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) 
 - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection
+
+
 

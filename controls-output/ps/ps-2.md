@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -29,7 +29,5 @@ The organization:
 
 Position risk designations reflect Office of Personnel Management policy and guidance. Risk designations can guide and inform the types of authorizations individuals receive when accessing organizational information and information systems. Position screening criteria include explicit information security role appointment requirements (e.g., training, security clearances).
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ps-2_prm_1 | at least every three years | organization-defined frequency |
+
 

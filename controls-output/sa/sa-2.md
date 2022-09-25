@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,4 +28,6 @@ The organization:
 {: #supplemental-guidance}
 
 Resource allocation for information security includes funding for the initial information system or information system service acquisition and funding for the sustainment of the system/service.
+
+
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,7 +20,5 @@ subcollection: framework-financial-services-controls
 
 The organization tests backup information _[at least annually]_ to verify media reliability and information integrity.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-9.1_prm_1 | at least annually | organization-defined frequency |
+
 

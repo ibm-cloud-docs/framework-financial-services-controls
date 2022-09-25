@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,8 +28,5 @@ The organization:
 
 Organizational sanctions processes reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Sanctions processes are described in access agreements and can be included as part of general personnel policies and procedures for organizations. Organizations consult with the Office of the General Counsel regarding matters of employee sanctions.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ps-8_prm_1 |  | organization-defined personnel or roles |
-| ps-8_prm_2 |  | organization-defined time period |
+
 

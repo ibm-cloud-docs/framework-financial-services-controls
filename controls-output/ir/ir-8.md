@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -45,10 +45,5 @@ The organization:
 
 It is important that organizations develop and implement a coordinated approach to incident response. Organizational missions, business functions, strategies, goals, and objectives for incident response help to determine the structure of incident response capabilities. As part of a comprehensive incident response capability, organizations consider the coordination and sharing of information with external organizations, including, for example, external service providers and organizations involved in the supply chain for organizational information systems.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ir-8_prm_1 |  | organization-defined personnel or roles |
-| ir-8_prm_2 |  | organization-defined incident response personnel (identified by name and/or by role) and organizational elements |
-| ir-8_prm_3 | at least annually | organization-defined frequency |
-| ir-8_prm_4 |  | organization-defined incident response personnel (identified by name and/or by role) and organizational elements |
+
 

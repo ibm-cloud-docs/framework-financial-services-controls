@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,8 +28,5 @@ The organization:
 
 The organization can either make a determination of the relative security of the function, port, protocol, and/or service or base the security decision on the assessment of other entities. Bluetooth, FTP, and peer-to-peer networking are examples of less than secure protocols.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cm-7.1_prm_1 | at least monthly | organization-defined frequency |
-| cm-7.1_prm_2 |  | organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure |
+
 

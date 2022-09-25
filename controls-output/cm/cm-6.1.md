@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,14 +20,12 @@ subcollection: framework-financial-services-controls
 
 The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for _[organization-defined information system components]_.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cm-6.1_prm_1 |  | organization-defined information system components |
-
 ## Implementation guidance
 {: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 
 - [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
+
+
 

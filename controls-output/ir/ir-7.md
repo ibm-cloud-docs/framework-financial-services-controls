@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,4 +24,6 @@ The organization provides an incident response support resource, integral to the
 {: #supplemental-guidance}
 
 Incident response support resources provided by organizations include, for example, help desks, assistance groups, and access to forensics services, when required.
+
+
 

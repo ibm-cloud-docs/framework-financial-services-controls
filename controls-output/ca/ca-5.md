@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,7 +28,5 @@ The organization:
 
 Plans of action and milestones are key documents in security authorization packages and are subject to federal reporting requirements established by OMB.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ca-5_prm_1 | at least monthly | organization-defined frequency |
+
 

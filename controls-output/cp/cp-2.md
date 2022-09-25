@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -53,10 +53,5 @@ See the resources that follow to learn more about how to implement this control.
 
 Contingency planning for information systems is part of an overall organizational program for achieving continuity of operations for mission/business functions. Contingency planning addresses both information system restoration and implementation of alternative mission/business processes when systems are compromised. The effectiveness of contingency planning is maximized by considering such planning throughout the phases of the system development life cycle. Performing contingency planning on hardware, software, and firmware development can be an effective means of achieving information system resiliency. Contingency plans reflect the degree of restoration required for organizational information systems since not all systems may need to fully recover to achieve the level of continuity of operations desired. Information system recovery objectives reflect applicable laws, Executive Orders, directives, policies, standards, regulations, and guidelines. In addition to information system availability, contingency plans also address other security-related events resulting in a reduction in mission and/or business effectiveness, such as malicious attacks compromising the confidentiality or integrity of information systems. Actions addressed in contingency plans include, for example, orderly/graceful degradation, information system shutdown, fallback to a manual mode, alternate information flows, and operating in modes reserved for when systems are under attack. By closely coordinating contingency planning with incident handling activities, organizations can ensure that the necessary contingency planning activities are in place and activated in the event of a security incident.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-2_prm_1 | designated senior management personnel who is not an author or contributor to the plan | organization-defined personnel or roles |
-| cp-2_prm_2 |  | organization-defined key contingency personnel (identified by name and/or by role) and organizational elements |
-| cp-2_prm_3 | annually or within 90 calendar days of significant changes | organization-defined frequency |
-| cp-2_prm_4 |  | organization-defined key contingency personnel (identified by name and/or by role) and organizational elements |
+
 

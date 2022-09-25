@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,4 +19,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization addresses information security issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan.
+
+
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,7 +25,5 @@ The organization retains _[organization-defined previous versions of baseline co
 
 Retaining previous versions of baseline configurations to support rollback may include, for example, hardware, software, firmware, configuration files, and configuration records.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cm-2.3_prm_1 |  | organization-defined previous versions of baseline configurations of the information system |
+
 

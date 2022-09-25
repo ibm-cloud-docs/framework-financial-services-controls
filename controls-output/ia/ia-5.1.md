@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -39,10 +39,5 @@ See the resources that follow to learn more about how to implement this control.
 
 This control enhancement applies to single-factor authentication of individuals using passwords as individual or group authenticators, and in a similar manner, when passwords are part of multifactor authenticators. This control enhancement does not apply when passwords are used to unlock hardware authenticators (e.g., Personal Identity Verification cards). The implementation of such password mechanisms may not meet all of the requirements in the enhancement. Cryptographically-protected passwords include, for example, encrypted versions of passwords and one-way cryptographic hashes of passwords. The number of changed characters refers to the number of changes required with respect to the total number of positions in the current password. Password lifetime restrictions do not apply to temporary passwords. To mitigate certain brute force attacks against passwords, organizations may also consider salting passwords.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ia-5.1_prm_1 | minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters | organization-defined requirements for case sensitivity, number of characters, mix of upper-case letters, lower-case letters, numbers, and special characters, including minimum requirements for each type |
-| ia-5.1_prm_2 | at least one (1) | organization-defined number |
-| ia-5.1_prm_3 | require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours | organization-defined numbers for lifetime minimum, lifetime maximum |
-| ia-5.1_prm_4 | twenty-four (24) | organization-defined number |
+
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -36,8 +36,5 @@ The information system:
 
 System use notifications can be implemented using messages or warning banners displayed before individuals log in to information systems. System use notifications are used only for access via logon interfaces with human users and are not required when such human interfaces do not exist. Organizations consider system use notification messages/banners displayed in multiple languages based on specific organizational needs and the demographics of information system users. Organizations also consult with the Office of the General Counsel for legal review and approval of warning banner content.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ac-8_prm_1 |  | organization-defined system use notification message or banner |
-| ac-8_prm_2 |  | organization-defined conditions |
+
 

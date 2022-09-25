@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -32,7 +32,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| au-9.2_prm_1 | at least weekly | organization-defined frequency |
+
 

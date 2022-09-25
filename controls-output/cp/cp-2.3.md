@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -39,7 +39,5 @@ See the resources that follow to learn more about how to implement this control.
 
 Organizations may choose to carry out the contingency planning activities in this control enhancement as part of organizational business continuity planning including, for example, as part of business impact analyses. The time period for resumption of essential missions/business functions may be dependent on the severity/extent of disruptions to the information system and its supporting infrastructure.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| cp-2.3_prm_1 |  | organization-defined time period |
+
 

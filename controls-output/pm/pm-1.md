@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,4 +28,6 @@ The organization:
 - (b) Reviews the organization-wide information security program plan _[at least annually]_;
 - (c) Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; and
 - (d) Protects the information security program plan from unauthorized disclosure and modification.
+
+
 

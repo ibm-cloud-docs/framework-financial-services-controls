@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,7 +28,5 @@ The organization:
 
 Documentation for specialized training may be maintained by individual supervisors at the option of the organization.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| at-4_prm_1 | at least one year | organization-defined time period |
+
 

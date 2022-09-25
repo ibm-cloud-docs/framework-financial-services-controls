@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -27,4 +27,6 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 - 3000017: Check whether multifactor authentication (MFA) is enabled at the account level 
 - 3000723: Check whether App ID multifactor authentication (MFA) is enabled for Cloud Directory users
+
+
 

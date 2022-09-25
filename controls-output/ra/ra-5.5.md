@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,8 +25,5 @@ The information system implements privileged access authorization to _[operating
 
 In certain situations, the nature of the vulnerability scanning may be more intrusive or the information system component that is the subject of the scanning may contain highly sensitive information. Privileged access authorization to selected system components facilitates more thorough vulnerability scanning and also protects the sensitive nature of such scanning.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ra-5.5_prm_1 | operating systems, databases, container images, and web applications | organization-identified information system components |
-| ra-5.5_prm_2 | vulnerability scans | organization-defined vulnerability scanning activities |
+
 

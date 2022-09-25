@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,7 +20,5 @@ subcollection: framework-financial-services-controls
 
 The organization only permits the use of shared/group accounts that meet _[organization-defined conditions for establishing shared/group accounts]_.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ac-2.9_prm_1 |  | organization-defined conditions for establishing shared/group accounts |
+
 

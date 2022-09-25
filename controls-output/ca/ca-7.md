@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-24"
+lastupdated: "2022-09-25"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -55,11 +55,5 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.5.0 pr
 
 Continuous monitoring programs facilitate ongoing awareness of threats, vulnerabilities, and information security to support organizational risk management decisions. The terms continuous and ongoing imply that organizations assess/analyze security controls and information security-related risks at a frequency sufficient to support organizational risk-based decisions. The results of continuous monitoring programs generate appropriate risk response actions by organizations. Continuous monitoring programs also allow organizations to maintain the security authorizations of information systems and common controls over time in highly dynamic environments of operation with changing mission/business needs, threats, vulnerabilities, and technologies. Having access to security-related information on a continuing basis through reports/dashboards gives organizational officials the capability to make more effective and timely risk management decisions, including ongoing security authorization decisions. Automation supports more frequent updates to security authorization packages, hardware/software/firmware inventories, and other system information. Effectiveness is further enhanced when continuous monitoring outputs are formatted to provide information that is specific, measurable, actionable, relevant, and timely. Continuous monitoring activities are scaled in accordance with the security categories of information systems.
 
-| Parameter ID | Values | Label or Choices |
-|---|---|---|
-| ca-7_prm_1 |  | organization-defined metrics |
-| ca-7_prm_2 |  | organization-defined frequencies |
-| ca-7_prm_3 |  | organization-defined frequencies |
-| ca-7_prm_4 | to meet customer requirements | organization-defined personnel or roles |
-| ca-7_prm_5 | quarterly | organization-defined frequency |
+
 
