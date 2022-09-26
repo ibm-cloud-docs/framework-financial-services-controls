@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-26"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,6 +19,13 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system isolates security functions from nonsecurity functions.
+
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

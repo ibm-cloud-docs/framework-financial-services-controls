@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-26"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -27,6 +27,11 @@ See the resources that follow to learn more about how to implement this control.
 
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 - [Working with {{site.data.keyword.openshiftlong_notm}}](/docs/framework-financial-services?topic=framework-financial-services-shared-containers-openshift)
+- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
+- [Accessing the public internet](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-to-internet)
+- [Connectivity to {{site.data.keyword.cloud_notm}} services with private endpoints](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-to-ibm-services)
+- [Consumer connectivity to workload VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-workload)
+- [Working with {{site.data.keyword.openshiftlong_notm}}](/docs/framework-financial-services?topic=framework-financial-services-DELETE-MAYBE-vpc-architecture-containers-openshift)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
@@ -43,6 +48,7 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 - 3000413: Check whether all network interfaces of a virtual server instance have at least one Virtual Private Cloud (VPC) security group attached 
 - 3000418: Check whether account has at least one VPN or Direct Link configured 
 - 3000427: Check whether Application Load Balancer for VPC has public access disabled 
+- 3000442: Check whether Virtual Private Cloud (VPC) network access control lists don't allow ingress from 0.0.0.0/0 to RDP port 
 - 3000444: Check whether Security Groups for VPC contains no outbound rules in security groups that specify source IP 8.8.8.8/32 to DNS port 
 - 3000447: Check whether Virtual Private Cloud (VPC) classic access is disabled 
 - 3000448: Check whether Virtual Private Cloud (VPC) has no public gateways attached at the time of provisioning 

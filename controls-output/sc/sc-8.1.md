@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-26"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -31,6 +31,8 @@ The information system implements cryptographic mechanisms to _[prevent unauthor
 See the resources that follow to learn more about how to implement this control.
 
 - [Data encryption in transit](/docs/framework-financial-services?topic=framework-financial-services-shared-encryption-in-transit)
+- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
+- [Consumer connectivity to workload VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-workload)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

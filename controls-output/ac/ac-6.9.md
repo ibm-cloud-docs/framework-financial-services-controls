@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-26"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,6 +19,13 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system audits the execution of privileged functions.
+
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Running operator actions through a bastion host](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-bastion)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

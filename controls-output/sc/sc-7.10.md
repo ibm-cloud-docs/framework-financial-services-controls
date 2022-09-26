@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-26"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,6 +19,16 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization prevents the unauthorized exfiltration of information across managed interfaces.
+
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
+- [Accessing the public internet](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-to-internet)
+- [Connectivity to {{site.data.keyword.cloud_notm}} services with private endpoints](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-to-ibm-services)
+- [Consumer connectivity to workload VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-workload)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

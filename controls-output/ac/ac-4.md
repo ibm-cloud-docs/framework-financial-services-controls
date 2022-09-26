@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-26"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -49,6 +49,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 - 3000413: Check whether all network interfaces of a virtual server instance have at least one Virtual Private Cloud (VPC) security group attached 
 - 3000418: Check whether account has at least one VPN or Direct Link configured 
 - 3000427: Check whether Application Load Balancer for VPC has public access disabled 
+- 3000441: Check whether Virtual Private Cloud (VPC) network access control lists don't allow ingress from 0.0.0.0/0 to SSH port 
+- 3000442: Check whether Virtual Private Cloud (VPC) network access control lists don't allow ingress from 0.0.0.0/0 to RDP port 
 - 3000444: Check whether Security Groups for VPC contains no outbound rules in security groups that specify source IP 8.8.8.8/32 to DNS port 
 - 3000447: Check whether Virtual Private Cloud (VPC) classic access is disabled 
 - 3000448: Check whether Virtual Private Cloud (VPC) has no public gateways attached at the time of provisioning 
