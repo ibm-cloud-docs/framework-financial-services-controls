@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -27,11 +27,11 @@ The organization:
     - (4) Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure;
     - (5) Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and
     - (6) Is reviewed and approved by _[designated senior management personnel who is not an author or contributor to the plan]_;
-- (b) Distributes copies of the contingency plan to __[organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]__;
+- (b) Distributes copies of the contingency plan to _[organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]_;
 - (c) Coordinates contingency planning activities with incident handling activities;
 - (d) Reviews the contingency plan for the information system _[annually or within 90 calendar days of significant changes]_;
 - (e) Updates the contingency plan to address changes to the organization, information system, or environment of operation and problems encountered during contingency plan implementation, execution, or testing;
-- (f) Communicates contingency plan changes to __[organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]__; and
+- (f) Communicates contingency plan changes to _[organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]_; and
 - (g) Protects the contingency plan from unauthorized disclosure and modification.
 
 ## Additional IBM Cloud for Financial Services specifications

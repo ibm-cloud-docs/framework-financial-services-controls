@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,8 +24,8 @@ The organization:
     - (1) An incident response policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
     - (2) Procedures to facilitate the implementation of the incident response policy and associated incident response controls; and
 - (b) Reviews and updates the current:
-    - (1) Incident response policy __[at least annually]__; and
-    - (2) Incident response procedures __[at least annually]__.
+    - (1) Incident response policy _[at least annually]_; and
+    - (2) Incident response procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

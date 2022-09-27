@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,8 +24,8 @@ The organization:
     - (1) A system and services acquisition policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
     - (2) Procedures to facilitate the implementation of the system and services acquisition policy and associated system and services acquisition controls; and
 - (b) Reviews and updates the current:
-    - (1) System and services acquisition policy __[at least annually]__; and
-    - (2) System and services acquisition procedures __[at least annually]__.
+    - (1) System and services acquisition policy _[at least annually]_; and
+    - (2) System and services acquisition procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

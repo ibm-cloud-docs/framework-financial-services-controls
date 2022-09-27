@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,10 +21,10 @@ subcollection: framework-financial-services-controls
 The organization:
 
 - (a) Develops and documents access agreements for organizational information systems;
-- (b) Reviews and updates the access agreements __[at least annually]__; and
+- (b) Reviews and updates the access agreements _[at least annually]_; and
 - (c) Ensures that individuals requiring access to organizational information and information systems:
     - (1) Sign appropriate access agreements prior to being granted access; and
-    - (2) Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or __[at least annually]__.
+    - (2) Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or _[at least annually]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

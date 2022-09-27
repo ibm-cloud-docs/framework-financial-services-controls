@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,7 +25,7 @@ The organization, upon termination of individual employment:
 - (c) Conducts exit interviews that include a discussion of _[organization-defined information security topics]_;
 - (d) Retrieves all security-related organizational information system-related property;
 - (e) Retains access to organizational information and information systems formerly controlled by terminated individual; and
-- (f) Notifies [organization-defined personnel or roles] within _[same day]_.
+- (f) Notifies _[organization-defined personnel or roles] within _[same day]__.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

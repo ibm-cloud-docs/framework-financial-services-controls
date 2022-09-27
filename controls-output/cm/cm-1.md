@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,8 +24,8 @@ The organization:
     - (1) A configuration management policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
     - (2) Procedures to facilitate the implementation of the configuration management policy and associated configuration management controls; and
 - (b) Reviews and updates the current:
-    - (1) Configuration management policy __[at least annually]__; and
-    - (2) Configuration management procedures __[at least annually]__.
+    - (1) Configuration management policy _[at least annually]_; and
+    - (2) Configuration management procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

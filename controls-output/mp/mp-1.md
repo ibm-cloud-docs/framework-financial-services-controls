@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,8 +24,8 @@ The organization:
     - (1) A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
     - (2) Procedures to facilitate the implementation of the media protection policy and associated media protection controls; and
 - (b) Reviews and updates the current:
-    - (1) Media protection policy __[at least annually]__; and
-    - (2) Media protection procedures __[at least annually]__.
+    - (1) Media protection policy _[at least annually]_; and
+    - (2) Media protection procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

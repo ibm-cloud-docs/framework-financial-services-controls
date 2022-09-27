@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,8 +24,8 @@ The organization:
     - (1) An audit and accountability policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
     - (2) Procedures to facilitate the implementation of the audit and accountability policy and associated audit and accountability controls; and
 - (b) Reviews and updates the current:
-    - (1) Audit and accountability policy __[at least annually]__; and
-    - (2) Audit and accountability procedures __[at least annually]__.
+    - (1) Audit and accountability policy _[at least annually]_; and
+    - (2) Audit and accountability procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
