@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -32,29 +32,6 @@ The organization includes the following requirements, descriptions, and criteria
 {: #additional-fs-cloud-specifications}
 
 - Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
-| Part b | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part c | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part d | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part e | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part f | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part g | - 3000047: Check whether provisioned services are IAM enabled | 
-{: caption="Goals for SA-4 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The information system automatically _[removes; disables] temporary and emergency accounts after [no more than 30 days for temporary and emergency account types]_.
+The information system automatically _[removes; disables]_ temporary and emergency accounts after _[no more than 30 days for temporary and emergency account types]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

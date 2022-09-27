@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system obscures feedback of authentication information during the authentication process to protect the information from possible exploitation/use by unauthorized individuals.
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- 3000074: IBMid protects user information during the authentication process from possible exploitation by unauthorized individuals by obscuring it
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

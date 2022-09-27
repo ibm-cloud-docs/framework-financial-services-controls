@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The information system backs up audit records _[at least weekly]_ onto a physically different system or system component than the system or component being audited.
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

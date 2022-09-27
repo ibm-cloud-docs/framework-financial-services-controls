@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization requires the developer of the information system, system component, or information system service to provide design and implementation information for the security controls to be employed that includes: _[security-relevant external system interfaces; high-level design; low-level design; source code or hardware schematics; organization-defined design/implementation information] at [organization-defined level of detail]_.
+The organization requires the developer of the information system, system component, or information system service to provide design and implementation information for the security controls to be employed that includes: _[security-relevant external system interfaces; high-level design; low-level design; source code or hardware schematics; organization-defined design/implementation information]_ at _[organization-defined level of detail]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

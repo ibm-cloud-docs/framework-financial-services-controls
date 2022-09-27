@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 - (a) Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
-- (b) Exempts _[no removable media types] from marking as long as the media remain within [Guidance: Second parameter not-applicable]_.
+- (b) Exempts _[no removable media types]_ from marking as long as the media remain within _[Guidance: Second parameter not-applicable]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

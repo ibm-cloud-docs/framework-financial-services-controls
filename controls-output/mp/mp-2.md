@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization restricts access to _[organization-defined types of digital and/or non-digital media] to [organization-defined personnel or roles]_.
+The organization restricts access to _[organization-defined types of digital and/or non-digital media]_ to _[organization-defined personnel or roles]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

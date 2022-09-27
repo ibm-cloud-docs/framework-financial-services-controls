@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization obtains maintenance support and/or spare parts for _[organization-defined information system components] within [organization-defined time period]_ of failure.
+The organization obtains maintenance support and/or spare parts for _[organization-defined information system components]_ within _[organization-defined time period]_ of failure.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

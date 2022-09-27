@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization conducts penetration testing _[prior to production use, at least annually, and after significant changes] on [applications that are utilized by FS-ready public cloud customers or process customer’s data]_.
+The organization conducts penetration testing _[prior to production use, at least annually, and after significant changes]_ on _[applications that are utilized by FS-ready public cloud customers or process customer’s data]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

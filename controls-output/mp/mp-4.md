@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Physically controls and securely stores _[all types of digital and non-digital media with sensitive information] within [organization-defined controlled areas]_; and
+- (a) Physically controls and securely stores _[all types of digital and non-digital media with sensitive information]_ within _[organization-defined controlled areas]_; and
 - (b) Protects information system media until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
 
 ## NIST supplemental guidance

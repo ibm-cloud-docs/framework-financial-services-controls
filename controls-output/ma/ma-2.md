@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -26,13 +26,6 @@ The organization:
 - (d) Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
 - (e) Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
 - (f) Includes _[organization-defined maintenance-related information]_ in organizational maintenance records.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

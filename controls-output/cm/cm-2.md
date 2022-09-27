@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -24,13 +24,6 @@ The organization develops, documents, and maintains under configuration control,
 {: #additional-fs-cloud-specifications}
 
 - Baseline configuration must include any APIs enabled in the production environment.
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- 3000478: Check whether a security group in Virtual Private Cloud, other than the default, is attached to all virtual private endpoints
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

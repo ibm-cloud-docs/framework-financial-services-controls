@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization tests the incident response capability for the information system _[at least annually] using [organization-defined tests]_ to determine the incident response effectiveness and documents the results.
+The organization tests the incident response capability for the information system _[at least annually]_ using _[organization-defined tests]_ to determine the incident response effectiveness and documents the results.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -22,7 +22,7 @@ The organization:
 
 - (a) Establishes and documents configuration settings for information technology products employed within the information system using _[see CM-6 (a) Additional Requirements and Guidance]_ that reflect the most restrictive mode consistent with operational requirements;
 - (b) Implements the configuration settings;
-- (c) Identifies, documents, and approves any deviations from established configuration settings for _[organization-defined information system components] based on [organization-defined operational requirements]_; and
+- (c) Identifies, documents, and approves any deviations from established configuration settings for _[organization-defined information system components]_ based on _[organization-defined operational requirements]_; and
 - (d) Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.
 
 ## Additional IBM Cloud for Financial Services specifications
@@ -32,23 +32,6 @@ The organization:
 - NIST SP 800-125A Security Recommendations for Server-based Hypervisor Platforms should be consulted for additional guidance.
 - CM-6(a) Additional Requirements and Guidance: 
 - Requirement 1: The service provider must use the Center for Internet Security (CIS) and/or DISA STIG guidelines as a starting point to establish configuration settings.  If no recognized CIS or DISA STIGS are available for the technology in use, the CSP should create their own baseline and include a justification statement as to how they came up with the baseline configuration settings.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000721: Check whether App ID email verification is enabled for Cloud Directory users \n - 3000722: Check whether App ID customer-provided email service is used | 
-{: caption="Goals for CM-6 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Sanitizes _[assets holding customer data] prior to disposal, release out of organizational control, or release for reuse using [customer approved sanitization process corresponding to the customer&#39;s retention schedule]_ in accordance with applicable federal and organizational standards and policies; and
+- (a) Sanitizes _[assets holding customer data]_ prior to disposal, release out of organizational control, or release for reuse using _[customer approved sanitization process corresponding to the customer&#39;s retention schedule]_ in accordance with applicable federal and organizational standards and policies; and
 - (b) Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.
 
 ## NIST supplemental guidance

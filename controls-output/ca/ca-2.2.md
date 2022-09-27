@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,15 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization includes as part of security control assessments, _[at least annually], [announced; unannounced], [in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; organization-defined other forms of security assessment]_.
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) 
-- 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection
+The organization includes as part of security control assessments, _[at least annually]_, _[announced; unannounced]_, _[in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; organization-defined other forms of security assessment]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -25,7 +25,7 @@ The organization, upon termination of individual employment:
 - (c) Conducts exit interviews that include a discussion of _[organization-defined information security topics]_;
 - (d) Retrieves all security-related organizational information system-related property;
 - (e) Retains access to organizational information and information systems formerly controlled by terminated individual; and
-- (f) Notifies [organization-defined personnel or roles] within _[same day]_.
+- (f) Notifies _[organization-defined personnel or roles]_ within _[same day]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

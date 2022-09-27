@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The information system routes _[organization-defined internal communications traffic] to [organization-defined external networks]_ through authenticated proxy servers at managed interfaces.
+The information system routes _[organization-defined internal communications traffic]_ to _[organization-defined external networks]_ through authenticated proxy servers at managed interfaces.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

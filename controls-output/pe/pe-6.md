@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 - (a) Monitors physical access to the facility where the information system resides to detect and respond to physical security incidents;
-- (b) Reviews physical access logs _[at least monthly] and upon occurrence of [organization-defined events or potential indications of events]_; and
+- (b) Reviews physical access logs _[at least monthly]_ and upon occurrence of _[organization-defined events or potential indications of events]_; and
 - (c) Coordinates results of reviews and investigations with the organizational incident response capability.
 
 ## NIST supplemental guidance

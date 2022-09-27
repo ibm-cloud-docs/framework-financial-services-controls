@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -26,13 +26,6 @@ The information system, for password-based authentication:
 - ((d)\] Enforces password minimum and maximum lifetime restrictions of _[require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours]_;
 - ((e)\] Prohibits password reuse for _[twenty-four (24)]_ generations; and
 - ((f)\] Allows the use of a temporary password for system logons with an immediate change to a permanent password.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

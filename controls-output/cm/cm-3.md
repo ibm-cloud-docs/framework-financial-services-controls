@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -26,7 +26,7 @@ The organization:
 - (d) Implements approved configuration-controlled changes to the information system;
 - (e) Retains records of configuration-controlled changes to the information system for _[in accordance with record retention policies and procedures]_;
 - (f) Audits and reviews activities associated with configuration-controlled changes to the information system; and
-- (g) Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)] that convenes [organization-defined frequency; organization-defined configuration change conditions]_.
+- (g) Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[organization-defined frequency; organization-defined configuration change conditions]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

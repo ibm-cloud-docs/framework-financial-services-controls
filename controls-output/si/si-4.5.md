@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The information system alerts _[organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [organization-defined compromise indicators]_.
+The information system alerts _[organization-defined personnel or roles]_ when the following indications of compromise or potential compromise occur: _[organization-defined compromise indicators]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

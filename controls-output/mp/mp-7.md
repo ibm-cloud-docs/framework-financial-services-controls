@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization _[Selection: restricts; prohibits] the use of [Assignment: organization-defined types of information system media] on [Assignment: organization-defined information systems or system components] using [Assignment: organization-defined security safeguards]_.
+The organization _[Selection: restricts; prohibits]_ the use of _[Assignment: organization-defined types of information system media]_ on _[Assignment: organization-defined information systems or system components]_ using _[Assignment: organization-defined security safeguards]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The information system implements privileged access authorization to _[operating systems, databases, container images, and web applications] for selected [vulnerability scans]_.
+The information system implements privileged access authorization to _[operating systems, databases, container images, and web applications]_ for selected _[vulnerability scans]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

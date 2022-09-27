@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -30,23 +30,6 @@ The organization:
 
 - The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
 - All software/technology is upgraded to a supported version and kept up to date.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000324: Check whether Event Notifications is configured for each of the supported services | 
-{: caption="Goals for SI-2 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

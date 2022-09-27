@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,13 +19,6 @@ subcollection: framework-financial-services-controls
 {: #requirements}
 
 The organization employs integrity verification tools to detect unauthorized changes to _[organization-defined software, firmware, and information]_.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

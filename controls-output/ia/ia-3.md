@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,20 +18,12 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The information system uniquely identifies and authenticates _[all devices] before establishing a [network]_ connection.
+The information system uniquely identifies and authenticates _[all devices]_ before establishing a _[network]_ connection.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 - All devices must be authorized by organization security prior to allowing such network connections.
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- 3000020: Check whether authorized IP ranges are configured for the account 
-- 3000076: IBM Cloud VPC uniquely identifies all physical devices before accepting a network connection
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

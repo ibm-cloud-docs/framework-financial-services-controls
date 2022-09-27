@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-26"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,14 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The information system separates information flows logically or physically using _[organization-defined mechanisms and/or techniques] to accomplish [organization-defined required separations by types of information]_.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
+The information system separates information flows logically or physically using _[organization-defined mechanisms and/or techniques]_ to accomplish _[organization-defined required separations by types of information]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

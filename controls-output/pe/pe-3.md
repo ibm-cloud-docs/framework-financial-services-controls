@@ -27,7 +27,7 @@ The organization:
 - (c) Provides _[organization-defined security safeguards]_ to control access to areas within the facility officially designated as publicly accessible;
 - (d) Escorts visitors and monitors visitor activity _[in all circumstances within restricted access area where the information system resides]_;
 - (e) Secures keys, combinations, and other physical access devices;
-- (f) Inventories [organization-defined physical access devices] every _[at least annually]_; and
+- (f) Inventories _[organization-defined physical access devices]_ every _[at least annually]_; and
 - (g) Changes combinations and keys _[at least annually]_ and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.
 
 ## NIST supplemental guidance

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,14 +25,6 @@ The organization plans for the resumption of essential missions and business fun
 
 - Contingency plans should also include planning for the resumption of all missions and business functions within an organization-defined time period of contingency plan activation.
 - Recovery strategies must meet the RTOs (Recovery Time Objectives) and RPOs (Recovery Point Objectives) for a minimum of six (6) weeks.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Operational logging](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-operational)
-- [Operational monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-operational)
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

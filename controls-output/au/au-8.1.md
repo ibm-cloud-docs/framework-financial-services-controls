@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-- ((a)\] Compares the internal information system clocks _[authoritative time source: servertime.service.softlayer.com] with [at least hourly]_; and
+- ((a)\] Compares the internal information system clocks _[authoritative time source: servertime.service.softlayer.com]_ with _[at least hourly]_; and
 - ((b)\] Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than _[organization-defined time period]_.
 
 ## NIST supplemental guidance

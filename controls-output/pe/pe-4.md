@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Requirements
 {: #requirements}
 
-The organization controls physical access to _[organization-defined information system distribution and transmission lines] within organizational facilities using [organization-defined security safeguards]_.
+The organization controls physical access to _[organization-defined information system distribution and transmission lines]_ within organizational facilities using _[organization-defined security safeguards]_.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

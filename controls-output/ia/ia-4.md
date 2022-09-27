@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -32,18 +32,6 @@ The organization manages information system identifiers by:
 The organization must follow customer requirements when establishing customer identifiers including:
 - aligning with customer email address or unique number corresponding to a user
 - prohibiting the use of Social Security Numbers (SSN) or customer-specific identifiers in the organization&#39;s internal environment
-
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-| Requirement | Goals |
-|-------------|-------|
-| Part b | - 3000062: IBMid selects and assigns identifiers that identify individuals \n - 3000063: IBM Cloud assigns identifiers that identify individuals, groups, roles, and devices \n - 3000463: Check whether Virtual Servers for VPC instances are identifable by the workload they are running based on the Auto Scale for VPC instance group definition \n - 3000464: Check whether Application Load Balancer for VPC has application port of the workload that is identifiable by the Auto Scale for VPC instance group definition \n - 3000465: Check whether Application Load Balancer for VPC has subnet identifiers of the workload that are identifiable by the Auto Scale for VPC instance group definition | 
-| Part c | - 3000062: IBMid selects and assigns identifiers that identify individuals \n - 3000063: IBM Cloud assigns identifiers that identify individuals, groups, roles, and devices \n - 3000463: Check whether Virtual Servers for VPC instances are identifable by the workload they are running based on the Auto Scale for VPC instance group definition \n - 3000464: Check whether Application Load Balancer for VPC has application port of the workload that is identifiable by the Auto Scale for VPC instance group definition \n - 3000465: Check whether Application Load Balancer for VPC has subnet identifiers of the workload that are identifiable by the Auto Scale for VPC instance group definition | 
-| Part d | - 3000064: IBM Cloud prevents reuse of identifiers | 
-{: caption="Goals for IA-4 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}

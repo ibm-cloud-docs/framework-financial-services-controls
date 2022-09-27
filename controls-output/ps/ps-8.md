@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -21,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 - (a) Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and
-- (b) Notifies _[organization-defined personnel or roles] within [organization-defined time period]_ when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
+- (b) Notifies _[organization-defined personnel or roles]_ within _[organization-defined time period]_ when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
 
 ## NIST supplemental guidance
 {: #supplemental-guidance}
