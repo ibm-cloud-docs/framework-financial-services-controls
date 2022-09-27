@@ -15,10 +15,17 @@ subcollection: framework-financial-services-controls
 # CM-6 (1) - Automated Central Management / Application / Verification
 {: #cm-6.1}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for _[organization-defined information system components]_.
+
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 
 

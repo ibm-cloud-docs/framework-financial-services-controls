@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # PS-2 - Position Risk Designation
 {: #ps-2}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The organization:
 
@@ -25,7 +25,7 @@ The organization:
 - (c) Reviews and updates position risk designations _[at least every three years]_.
 
 ## NIST supplemental guidance
-{: #supplemental-guidance}
+{: #nist-supplemental-guidance}
 
 Position risk designations reflect Office of Personnel Management policy and guidance. Risk designations can guide and inform the types of authorizations individuals receive when accessing organizational information and information systems. Position screening criteria include explicit information security role appointment requirements (e.g., training, security clearances).
 

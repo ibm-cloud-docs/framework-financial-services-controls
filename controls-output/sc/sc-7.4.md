@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # SC-7 (4) - External Telecommunications Services
 {: #sc-7.4}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The organization:
 

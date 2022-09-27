@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # IA-5 (3) - In-Person Or Trusted Third-Party Registration
 {: #ia-5.3}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The organization requires that the registration process to receive _[All hardware/biometric (multifactor authenticators]_ be conducted _[in person or by a trusted third party]_ before _[organization-defined registration authority]_ with authorization by _[organization-defined personnel or roles]_.
 

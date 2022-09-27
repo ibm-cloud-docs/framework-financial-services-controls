@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # ESA-1 - Accessibility Guidelines
 {: #esa-1}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 Applications with web content must be accessible to people with disabilities. Standards such as Web Content Accessibility Guidelines (WCAG) v 2.1 should be used.
 

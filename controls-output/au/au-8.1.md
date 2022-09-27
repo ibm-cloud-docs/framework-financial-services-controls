@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # AU-8 (1) - Synchronization With Authoritative Time Source
 {: #au-8.1}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The information system:
 
@@ -24,7 +24,7 @@ The information system:
 - ((b)\] Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than _[organization-defined time period]_.
 
 ## NIST supplemental guidance
-{: #supplemental-guidance}
+{: #nist-supplemental-guidance}
 
 This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.
 

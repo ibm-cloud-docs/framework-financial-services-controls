@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # AC-4 (4) - Content Check Encrypted Information
 {: #ac-4.4}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The information system prevents encrypted information from bypassing content-checking mechanisms by _[decrypting the information; blocking the flow of the encrypted information; terminating communications sessions attempting to pass encrypted information; organization-defined procedure or method]_.
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # PM-8 - Critical Infrastructure Plan
 {: #pm-8}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The organization addresses information security issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan.
 

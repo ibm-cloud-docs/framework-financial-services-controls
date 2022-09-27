@@ -1,10 +1,10 @@
 toc:
   properties:
-    subcollection: ibmcloud-ciso
+    subcollection: framework-financial-services-controls
     category: platform_services
-    audience: internal
-    href: /docs/ibmcloud-ciso
-    path: ibmcloud-ciso
+    audience: platform
+    href: /docs/framework-financial-services-controls
+    path: framework-financial-services-controls
     label: IBM Cloud Framework for Financial Services - Control Requirements
   entries:
   - navgroup:

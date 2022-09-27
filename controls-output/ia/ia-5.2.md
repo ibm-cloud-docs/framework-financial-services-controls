@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # IA-5 (2) - Pki-Based Authentication
 {: #ia-5.2}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The information system, for PKI-based authentication:
 
@@ -31,7 +31,7 @@ The information system, for PKI-based authentication:
 - TLS certificate revocation status checking and revocation status caching is only applicable to connections between a browser and server
 
 ## NIST supplemental guidance
-{: #supplemental-guidance}
+{: #nist-supplemental-guidance}
 
 Status information for certification paths includes, for example, certificate revocation lists or certificate status protocol responses. For PIV cards, validation of certifications involves the construction and verification of a certification path to the Common Policy Root trust anchor including certificate policy processing.
 

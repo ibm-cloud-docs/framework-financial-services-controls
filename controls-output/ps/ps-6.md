@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # PS-6 - Access Agreements
 {: #ps-6}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The organization:
 
@@ -46,7 +46,7 @@ Rules of behavior must include customer required restrictions on sending externa
 - All email exchanges with the customer must be encrypted via customer-approved solutions
 
 ## NIST supplemental guidance
-{: #supplemental-guidance}
+{: #nist-supplemental-guidance}
 
 Access agreements include, for example, nondisclosure agreements, acceptable use agreements, rules of behavior, and conflict-of-interest agreements. Signed access agreements include an acknowledgement that individuals have read, understand, and agree to abide by the constraints associated with organizational information systems to which access is authorized. Organizations can use electronic signatures to acknowledge access agreements unless specifically prohibited by organizational policy.
 

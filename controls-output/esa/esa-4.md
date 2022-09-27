@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-25"
+lastupdated: "2022-09-27"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # ESA-4 - Tracking And Removal Of Npt
 {: #esa-4}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 Software that has flaws that cannot be remediated per vendor dependency must be tracked and possibly removed if it poses high risk and is no longer supported.
 

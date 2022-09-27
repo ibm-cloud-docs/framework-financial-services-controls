@@ -15,8 +15,8 @@ subcollection: framework-financial-services-controls
 # SI-6 - Security Function Verification
 {: #si-6}
 
-## Requirements
-{: #requirements}
+## Control requirements
+{: #control-requirements}
 
 The information system:
 
@@ -25,8 +25,15 @@ The information system:
 - (c) Notifies _[to include system administrators and security personnel]_ of failed security verification tests; and
 - (d) _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
+
 ## NIST supplemental guidance
-{: #supplemental-guidance}
+{: #nist-supplemental-guidance}
 
 Transitional states for information systems include, for example, system startup, restart, shutdown, and abort. Notifications provided by information systems include, for example, electronic alerts to system administrators, messages to local computer consoles, and/or hardware indications such as lights.
 
