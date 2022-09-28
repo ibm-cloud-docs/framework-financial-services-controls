@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Assigns a risk designation to all organizational positions;
-- (b) Establishes screening criteria for individuals filling those positions; and
-- (c) Reviews and updates position risk designations _[at least every three years]_.
+PS-2 (a)
+    : Assigns a risk designation to all organizational positions;
+
+PS-2 (b)
+    : Establishes screening criteria for individuals filling those positions; and
+
+PS-2 (c)
+    : Reviews and updates position risk designations _[at least every three years]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,16 +20,23 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Identifies, reports, and corrects information system flaws;
-- (b) Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
-- (c) Installs security-relevant software and firmware updates within _[RA-5 (d) timeframes]_ of the release of the updates; and
-- (d) Incorporates flaw remediation into the organizational configuration management process.
+SI-2 (a)
+    : Identifies, reports, and corrects information system flaws;
+
+SI-2 (b)
+    : Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
+
+SI-2 (c)
+    : Installs security-relevant software and firmware updates within _[RA-5 (d) timeframes]_ of the release of the updates; and
+
+SI-2 (d)
+    : Incorporates flaw remediation into the organizational configuration management process.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
 - The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
-- All software/technology is upgraded to a supported version and kept up to date.
+- All software/technology is upgraded to the most up to date supported version.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -43,9 +50,9 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000324: Check whether Event Notifications is configured for each of the supported services | 
+| Requirement ID | Goals |
+|----------------|-------|
+| SI-2 (a) | - 3000324: Check whether Event Notifications is configured for each of the supported services | 
 {: caption="Goals for SI-2 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

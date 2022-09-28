@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,12 +20,15 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
-    - (1) A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (2) Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; and
-- (b) Reviews and updates the current:
-    - (1) Physical and environmental protection policy _[at least annually]_; and
-    - (2) Physical and environmental protection procedures _[at least annually]_.
+PE-1 (a)
+    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
+      1. A physical and environmental protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+      2. Procedures to facilitate the implementation of the physical and environmental protection policy and associated physical and environmental protection controls; and
+
+PE-1 (b)
+    : Reviews and updates the current:
+      1. Physical and environmental protection policy _[at least annually]_; and
+      2. Physical and environmental protection procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

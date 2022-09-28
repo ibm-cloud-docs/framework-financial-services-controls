@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,13 +20,26 @@ subcollection: framework-financial-services-controls
 
 The organization includes the following requirements, descriptions, and criteria, explicitly or by reference, in the acquisition contract for the information system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs:
 
-- (a) Security functional requirements;
-- (b) Security strength requirements;
-- (c) Security assurance requirements;
-- (d) Security-related documentation requirements;
-- (e) Requirements for protecting security-related documentation;
-- (f) Description of the information system development environment and environment in which the system is intended to operate; and
-- (g) Acceptance criteria.
+SA-4 (a)
+    : Security functional requirements;
+
+SA-4 (b)
+    : Security strength requirements;
+
+SA-4 (c)
+    : Security assurance requirements;
+
+SA-4 (d)
+    : Security-related documentation requirements;
+
+SA-4 (e)
+    : Requirements for protecting security-related documentation;
+
+SA-4 (f)
+    : Description of the information system development environment and environment in which the system is intended to operate; and
+
+SA-4 (g)
+    : Acceptance criteria.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -45,15 +58,15 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
-| Part b | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part c | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part d | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part e | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part f | - 3000047: Check whether provisioned services are IAM enabled | 
-| Part g | - 3000047: Check whether provisioned services are IAM enabled | 
+| Requirement ID | Goals |
+|----------------|-------|
+| SA-4 (a) | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
+| SA-4 (b) | - 3000047: Check whether provisioned services are IAM enabled | 
+| SA-4 (c) | - 3000047: Check whether provisioned services are IAM enabled | 
+| SA-4 (d) | - 3000047: Check whether provisioned services are IAM enabled | 
+| SA-4 (e) | - 3000047: Check whether provisioned services are IAM enabled | 
+| SA-4 (f) | - 3000047: Check whether provisioned services are IAM enabled | 
+| SA-4 (g) | - 3000047: Check whether provisioned services are IAM enabled | 
 {: caption="Goals for SA-4 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

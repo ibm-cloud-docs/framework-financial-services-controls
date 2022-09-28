@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,12 +20,17 @@ subcollection: framework-financial-services-controls
 
 The information system, for password-based authentication:
 
-- ((a)\] Enforces minimum password complexity of _[minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters]_;
-- ((b)\] Enforces at least the following number of changed characters when new passwords are created: _[at least one (1)]_;
-- ((c)\] Stores and transmits only cryptographically-protected passwords;
-- ((d)\] Enforces password minimum and maximum lifetime restrictions of _[require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours]_;
-- ((e)\] Prohibits password reuse for _[twenty-four (24)]_ generations; and
-- ((f)\] Allows the use of a temporary password for system logons with an immediate change to a permanent password.
+IA-5 (1) ((a) Enforces minimum password complexity of _[minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters]_;
+
+IA-5 (1) ((b) Enforces at least the following number of changed characters when new passwords are created: _[at least one (1)]_;
+
+IA-5 (1) ((c) Stores and transmits only cryptographically-protected passwords;
+
+IA-5 (1) ((d) Enforces password minimum and maximum lifetime restrictions of _[require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours]_;
+
+IA-5 (1) ((e) Prohibits password reuse for _[twenty-four (24)]_ generations; and
+
+IA-5 (1) ((f) Allows the use of a temporary password for system logons with an immediate change to a permanent password.
 
 ## Implementation guidance
 {: #implementation-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -19,6 +19,11 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 The information system isolates security functions from nonsecurity functions.
+
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-fs-cloud-specifications}
+
+- This control is required for ISVs.
 
 ## Implementation guidance
 {: #implementation-guidance}

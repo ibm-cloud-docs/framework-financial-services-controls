@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,12 +20,23 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;
-- (b) Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
-- (c) Requires that _[organization-defined personnel or roles]_ explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
-- (d) Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
-- (e) Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
-- (f) Includes _[organization-defined maintenance-related information]_ in organizational maintenance records.
+MA-2 (a)
+    : Schedules, performs, documents, and reviews records of maintenance and repairs on information system components in accordance with manufacturer or vendor specifications and/or organizational requirements;
+
+MA-2 (b)
+    : Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
+
+MA-2 (c)
+    : Requires that _[organization-defined personnel or roles]_ explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
+
+MA-2 (d)
+    : Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
+
+MA-2 (e)
+    : Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
+
+MA-2 (f)
+    : Includes _[organization-defined maintenance-related information]_ in organizational maintenance records.
 
 ## Implementation guidance
 {: #implementation-guidance}

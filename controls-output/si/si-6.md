@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The information system:
 
-- (a) Verifies the correct operation of _[organization-defined security functions]_;
-- (b) Performs this verification _[to include upon system startup and/or restart and at least monthly]_;
-- (c) Notifies _[to include system administrators and security personnel]_ of failed security verification tests; and
-- (d) _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
+SI-6 (a)
+    : Verifies the correct operation of _[organization-defined security functions]_;
+
+SI-6 (b)
+    : Performs this verification _[to include upon system startup and/or restart and at least monthly]_;
+
+SI-6 (c)
+    : Notifies _[to include system administrators and security personnel]_ of failed security verification tests; and
+
+SI-6 (d)
+    : _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
 
 ## Implementation guidance
 {: #implementation-guidance}

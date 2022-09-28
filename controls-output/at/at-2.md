@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization provides basic security awareness training to information system users (including managers, senior executives, and contractors):
 
-- (a) As part of initial training for new users;
-- (b) When required by information system changes; and
-- (c) _[at least annually]_ thereafter.
+AT-2 (a)
+    : As part of initial training for new users;
+
+AT-2 (b)
+    : When required by information system changes; and
+
+AT-2 (c)
+    : _[at least annually]_ thereafter.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

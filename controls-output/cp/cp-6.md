@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,8 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and
-- (b) Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
+CP-6 (a)
+    : Establishes an alternate storage site including necessary agreements to permit the storage and retrieval of information system backup information; and
+
+CP-6 (b)
+    : Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -37,10 +40,10 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000116: Check whether Cloud Object Storage bucket resiliency is set to cross region \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
-| Part b | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000116: Check whether Cloud Object Storage bucket resiliency is set to cross region \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
+| Requirement ID | Goals |
+|----------------|-------|
+| CP-6 (a) | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000116: Check whether Cloud Object Storage bucket resiliency is set to cross region \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
+| CP-6 (b) | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000116: Check whether Cloud Object Storage bucket resiliency is set to cross region \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
 {: caption="Goals for CP-6 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

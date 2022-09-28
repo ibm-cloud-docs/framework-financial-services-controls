@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,8 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Screens individuals prior to authorizing access to the information system; and
-- (b) Rescreens individuals according to _[organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening]_.
+PS-3 (a)
+    : Screens individuals prior to authorizing access to the information system; and
+
+PS-3 (b)
+    : Rescreens individuals according to _[organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

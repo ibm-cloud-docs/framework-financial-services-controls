@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,8 +20,11 @@ subcollection: framework-financial-services-controls
 
 The information system provides an audit reduction and report generation capability that:
 
-- (a) Supports on-demand audit review, analysis, and reporting requirements and after-the-fact investigations of security incidents; and
-- (b) Does not alter the original content or time ordering of audit records.
+AU-7 (a)
+    : Supports on-demand audit review, analysis, and reporting requirements and after-the-fact investigations of security incidents; and
+
+AU-7 (b)
+    : Does not alter the original content or time ordering of audit records.
 
 ## Implementation guidance
 {: #implementation-guidance}

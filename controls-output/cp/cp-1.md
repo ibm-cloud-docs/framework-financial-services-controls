@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,12 +20,15 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
-    - (1) A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-    - (2) Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and
-- (b) Reviews and updates the current:
-    - (1) Contingency planning policy _[at least annually]_; and
-    - (2) Contingency planning procedures _[at least annually]_.
+CP-1 (a)
+    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
+      1. A contingency planning policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+      2. Procedures to facilitate the implementation of the contingency planning policy and associated contingency planning controls; and
+
+CP-1 (b)
+    : Reviews and updates the current:
+      1. Contingency planning policy _[at least annually]_; and
+      2. Contingency planning procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

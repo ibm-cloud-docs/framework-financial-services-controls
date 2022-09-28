@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Manages the information system using _[organization-defined system development life cycle]_ that incorporates information security considerations;
-- (b) Defines and documents information security roles and responsibilities throughout the system development life cycle;
-- (c) Identifies individuals having information security roles and responsibilities; and
-- (d) Integrates the organizational information security risk management process into system development life cycle activities.
+SA-3 (a)
+    : Manages the information system using _[organization-defined system development life cycle]_ that incorporates information security considerations;
+
+SA-3 (b)
+    : Defines and documents information security roles and responsibilities throughout the system development life cycle;
+
+SA-3 (c)
+    : Identifies individuals having information security roles and responsibilities; and
+
+SA-3 (d)
+    : Integrates the organizational information security risk management process into system development life cycle activities.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -42,10 +49,10 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection \n - 3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints | 
-| Part d | - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection \n - 3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints | 
+| Requirement ID | Goals |
+|----------------|-------|
+| SA-3 (a) | - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection \n - 3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints | 
+| SA-3 (d) | - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection \n - 3000625: Check whether Container Registry image pushes and pulls take place only over private endpoints | 
 {: caption="Goals for SA-3 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

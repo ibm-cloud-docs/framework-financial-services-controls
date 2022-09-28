@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization develops, documents, and implements a configuration management plan for the information system that:
 
-- (a) Addresses roles, responsibilities, and configuration management processes and procedures;
-- (b) Establishes a process for identifying configuration items throughout the system development life cycle and for managing the configuration of the configuration items;
-- (c) Defines the configuration items for the information system and places the configuration items under configuration management; and
-- (d) Protects the configuration management plan from unauthorized disclosure and modification.
+CM-9 (a)
+    : Addresses roles, responsibilities, and configuration management processes and procedures;
+
+CM-9 (b)
+    : Establishes a process for identifying configuration items throughout the system development life cycle and for managing the configuration of the configuration items;
+
+CM-9 (c)
+    : Defines the configuration items for the information system and places the configuration items under configuration management; and
+
+CM-9 (d)
+    : Protects the configuration management plan from unauthorized disclosure and modification.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

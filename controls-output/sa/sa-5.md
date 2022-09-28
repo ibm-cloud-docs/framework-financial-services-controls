@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,17 +20,26 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Obtains administrator documentation for the information system, system component, or information system service that describes:
-    - (1) Secure configuration, installation, and operation of the system, component, or service;
-    - (2) Effective use and maintenance of security functions/mechanisms; and
-    - (3) Known vulnerabilities regarding configuration and use of administrative (i.e., privileged) functions;
-- (b) Obtains user documentation for the information system, system component, or information system service that describes:
-    - (1) User-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms;
-    - (2) Methods for user interaction, which enables individuals to use the system, component, or service in a more secure manner; and
-    - (3) User responsibilities in maintaining the security of the system, component, or service;
-- (c) Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and takes _[organization-defined actions]_ in response;
-- (d) Protects documentation as required, in accordance with the risk management strategy; and
-- (e) Distributes documentation to _[organization-defined personnel or roles]_.
+SA-5 (a)
+    : Obtains administrator documentation for the information system, system component, or information system service that describes:
+      1. Secure configuration, installation, and operation of the system, component, or service;
+      2. Effective use and maintenance of security functions/mechanisms; and
+      3. Known vulnerabilities regarding configuration and use of administrative (i.e., privileged) functions;
+
+SA-5 (b)
+    : Obtains user documentation for the information system, system component, or information system service that describes:
+      1. User-accessible security functions/mechanisms and how to effectively use those security functions/mechanisms;
+      2. Methods for user interaction, which enables individuals to use the system, component, or service in a more secure manner; and
+      3. User responsibilities in maintaining the security of the system, component, or service;
+
+SA-5 (c)
+    : Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and takes _[organization-defined actions]_ in response;
+
+SA-5 (d)
+    : Protects documentation as required, in accordance with the risk management strategy; and
+
+SA-5 (e)
+    : Distributes documentation to _[organization-defined personnel or roles]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

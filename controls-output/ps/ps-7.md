@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,11 +20,20 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Establishes personnel security requirements including security roles and responsibilities for third-party providers;
-- (b) Requires third-party providers to comply with personnel security policies and procedures established by the organization;
-- (c) Documents personnel security requirements;
-- (d) Requires third-party providers to notify _[organization-defined personnel or roles]_ of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within _[same day]_; and
-- (e) Monitors provider compliance.
+PS-7 (a)
+    : Establishes personnel security requirements including security roles and responsibilities for third-party providers;
+
+PS-7 (b)
+    : Requires third-party providers to comply with personnel security policies and procedures established by the organization;
+
+PS-7 (c)
+    : Documents personnel security requirements;
+
+PS-7 (d)
+    : Requires third-party providers to notify _[organization-defined personnel or roles]_ of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within _[same day]_; and
+
+PS-7 (e)
+    : Monitors provider compliance.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

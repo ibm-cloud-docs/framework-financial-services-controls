@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,12 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Develops an information security architecture for the information system that:
-    - (1) Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;
-    - (2) Describes how the information security architecture is integrated into and supports the enterprise architecture; and
-    - (3) Describes any information security assumptions about, and dependencies on, external services;
-- (b) Reviews and updates the information security architecture _[at least annually or when a significant change occurs]_ to reflect updates in the enterprise architecture; and
-- (c) Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.
+PL-8 (a)
+    : Develops an information security architecture for the information system that:
+      1. Describes the overall philosophy, requirements, and approach to be taken with regard to protecting the confidentiality, integrity, and availability of organizational information;
+      2. Describes how the information security architecture is integrated into and supports the enterprise architecture; and
+      3. Describes any information security assumptions about, and dependencies on, external services;
+
+PL-8 (b)
+    : Reviews and updates the information security architecture _[at least annually or when a significant change occurs]_ to reflect updates in the enterprise architecture; and
+
+PL-8 (c)
+    : Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;
-- (b) Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
-- (c) Reviews and updates Interconnection Security Agreements _[at least annually and on input from the customer]_.
+CA-3 (a)
+    : Authorizes connections from the information system to other information systems through the use of Interconnection Security Agreements;
+
+CA-3 (b)
+    : Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
+
+CA-3 (c)
+    : Reviews and updates Interconnection Security Agreements _[at least annually and on input from the customer]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -45,9 +50,9 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
+| Requirement ID | Goals |
+|----------------|-------|
+| CA-3 (a) | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
 {: caption="Goals for CA-3 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

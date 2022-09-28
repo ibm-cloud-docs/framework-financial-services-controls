@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 
@@ -213,6 +213,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [AC-7 - Unsuccessful Logon Attempts](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-7#ac-7)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-7#control-requirements)
+
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-7#additional-fs-cloud-specifications)
 
 * [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-7#scc-fs-cloud-profile)
 
@@ -1278,6 +1280,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-3.6#control-requirements)
 
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-3.6#additional-fs-cloud-specifications)
+
 [PE-4 - Access Control For Transmission Medium](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-4#pe-4)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-4#control-requirements)
@@ -1640,6 +1644,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-14#control-requirements)
 
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-14#additional-fs-cloud-specifications)
+
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-14#nist-supplemental-guidance)
 
 [SA-15 - Development Process, Standards, And Tools](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-15#sa-15)
@@ -1686,6 +1692,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [SC-3 - Security Function Isolation](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-3#sc-3)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-3#control-requirements)
+
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-3#additional-fs-cloud-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-3#implementation-guidance)
 
@@ -1795,6 +1803,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-11#control-requirements)
 
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-11#additional-fs-cloud-specifications)
+
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-11#implementation-guidance)
 
 * [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-11#scc-fs-cloud-profile)
@@ -1844,6 +1854,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [SC-16 - Transmission Of Security Attributes](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-16#sc-16)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-16#control-requirements)
+
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-16#additional-fs-cloud-specifications)
 
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-16#implementation-guidance)
 
@@ -2111,6 +2123,8 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [EDM-1 - Enterprise Data Management (Quality Assurance)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#edm-1)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#control-requirements)
+
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#additional-fs-cloud-specifications)
 
 
 ## Accessibility Guidelines (ESA)

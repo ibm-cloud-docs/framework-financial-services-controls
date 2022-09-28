@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Reviews and confirms ongoing operational need for current logical and physical access authorizations to information systems/facilities when individuals are reassigned or transferred to other positions within the organization;
-- (b) Initiates _[organization-defined transfer or reassignment actions]_ within _[two (2) days following the formal transfer action]_;
-- (c) Modifies access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; and
-- (d) Notifies _[organization-defined personnel or roles]_ within _[two (2) days of the formal transfer action]_.
+PS-5 (a)
+    : Reviews and confirms ongoing operational need for current logical and physical access authorizations to information systems/facilities when individuals are reassigned or transferred to other positions within the organization;
+
+PS-5 (b)
+    : Initiates _[organization-defined transfer or reassignment actions]_ within _[two (2) days following the formal transfer action]_;
+
+PS-5 (c)
+    : Modifies access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; and
+
+PS-5 (d)
+    : Notifies _[organization-defined personnel or roles]_ within _[two (2) days of the formal transfer action]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

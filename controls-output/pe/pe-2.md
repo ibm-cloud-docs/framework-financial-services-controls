@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
-- (b) Issues authorization credentials for facility access;
-- (c) Reviews the access list detailing authorized facility access by individuals _[at least annually]_; and
-- (d) Removes individuals from the facility access list when access is no longer required.
+PE-2 (a)
+    : Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
+
+PE-2 (b)
+    : Issues authorization credentials for facility access;
+
+PE-2 (c)
+    : Reviews the access list detailing authorized facility access by individuals _[at least annually]_; and
+
+PE-2 (d)
+    : Removes individuals from the facility access list when access is no longer required.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

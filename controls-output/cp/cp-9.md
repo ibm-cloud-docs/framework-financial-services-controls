@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Conducts backups of user-level information contained in the information system _[daily incremental; weekly full]_;
-- (b) Conducts backups of system-level information contained in the information system _[daily incremental; weekly full]_;
-- (c) Conducts backups of information system documentation including security-related documentation _[daily incremental; weekly full]_; and
-- (d) Protects the confidentiality, integrity, and availability of backup information at storage locations.
+CP-9 (a)
+    : Conducts backups of user-level information contained in the information system _[daily incremental; weekly full]_;
+
+CP-9 (b)
+    : Conducts backups of system-level information contained in the information system _[daily incremental; weekly full]_;
+
+CP-9 (c)
+    : Conducts backups of information system documentation including security-related documentation _[daily incremental; weekly full]_; and
+
+CP-9 (d)
+    : Protects the confidentiality, integrity, and availability of backup information at storage locations.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -37,10 +44,10 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part b | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
-| Part d | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
+| Requirement ID | Goals |
+|----------------|-------|
+| CP-9 (b) | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
+| CP-9 (d) | - 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region | 
 {: caption="Goals for CP-9 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,10 +20,17 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Receives information system security alerts, advisories, and directives from _[to include IaaS/PaaS providers and additional organization-defined external organizations]_ on an ongoing basis;
-- (b) Generates internal security alerts, advisories, and directives as deemed necessary;
-- (c) Disseminates security alerts, advisories, and directives to: _[to include system security personnel and administrators with configuration/patch-management responsibilities]_; and
-- (d) Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
+SI-5 (a)
+    : Receives information system security alerts, advisories, and directives from _[to include IaaS/PaaS providers and additional organization-defined external organizations]_ on an ongoing basis;
+
+SI-5 (b)
+    : Generates internal security alerts, advisories, and directives as deemed necessary;
+
+SI-5 (c)
+    : Disseminates security alerts, advisories, and directives to: _[to include system security personnel and administrators with configuration/patch-management responsibilities]_; and
+
+SI-5 (d)
+    : Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.
 
 ## Implementation guidance
 {: #implementation-guidance}
@@ -37,9 +44,9 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000324: Check whether Event Notifications is configured for each of the supported services | 
+| Requirement ID | Goals |
+|----------------|-------|
+| SI-5 (a) | - 3000324: Check whether Event Notifications is configured for each of the supported services | 
 {: caption="Goals for SI-5 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

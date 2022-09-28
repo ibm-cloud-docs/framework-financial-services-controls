@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -23,7 +23,7 @@ The information system enforces information flow control based on _[organization
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
 
-- This control is required for ISVs; This control is NOT required for IBM Cloud Platform at this time (bank risk accepted for IBM)
+- This control is required for ISVs.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

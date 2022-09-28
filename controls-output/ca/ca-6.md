@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Assigns a senior-level executive or manager as the authorizing official for the information system;
-- (b) Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
-- (c) Updates the security authorization _[at least every three (3) years or when a significant change occurs]_.
+CA-6 (a)
+    : Assigns a senior-level executive or manager as the authorizing official for the information system;
+
+CA-6 (b)
+    : Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
+
+CA-6 (c)
+    : Updates the security authorization _[at least every three (3) years or when a significant change occurs]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

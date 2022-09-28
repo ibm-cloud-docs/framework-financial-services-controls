@@ -353,8 +353,8 @@ toc:
       - topicgroup:
           label: Privacy
           topics:
-          - controls-output/privacy/ar-2.md
-          - controls-output/privacy/ul-2.md
+          - controls-output/ar_ul/ar-2.md
+          - controls-output/ar_ul/ul-2.md
   - navgroup:
       id: help
       topics:

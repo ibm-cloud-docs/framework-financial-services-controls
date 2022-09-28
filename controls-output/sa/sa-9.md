@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Requires that providers of external information system services comply with organizational information security requirements and employ _[business continuity service level agreements]_ in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
-- (b) Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
-- (c) Employs _[Continuous monitoring requirements must be met for external systems where customer information is processed or stored]_ to monitor security control compliance by external service providers on an ongoing basis.
+SA-9 (a)
+    : Requires that providers of external information system services comply with organizational information security requirements and employ _[business continuity service level agreements]_ in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+
+SA-9 (b)
+    : Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
+
+SA-9 (c)
+    : Employs _[Continuous monitoring requirements must be met for external systems where customer information is processed or stored]_ to monitor security control compliance by external service providers on an ongoing basis.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -43,9 +48,9 @@ See the resources that follow to learn more about how to implement this control.
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
+| Requirement ID | Goals |
+|----------------|-------|
+| SA-9 (a) | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
 {: caption="Goals for SA-9 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

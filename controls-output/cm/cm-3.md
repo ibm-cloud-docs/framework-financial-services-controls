@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,13 +20,26 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Determines the types of changes to the information system that are configuration-controlled;
-- (b) Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;
-- (c) Documents configuration change decisions associated with the information system;
-- (d) Implements approved configuration-controlled changes to the information system;
-- (e) Retains records of configuration-controlled changes to the information system for _[in accordance with record retention policies and procedures]_;
-- (f) Audits and reviews activities associated with configuration-controlled changes to the information system; and
-- (g) Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[organization-defined frequency; organization-defined configuration change conditions]_.
+CM-3 (a)
+    : Determines the types of changes to the information system that are configuration-controlled;
+
+CM-3 (b)
+    : Reviews proposed configuration-controlled changes to the information system and approves or disapproves such changes with explicit consideration for security impact analyses;
+
+CM-3 (c)
+    : Documents configuration change decisions associated with the information system;
+
+CM-3 (d)
+    : Implements approved configuration-controlled changes to the information system;
+
+CM-3 (e)
+    : Retains records of configuration-controlled changes to the information system for _[in accordance with record retention policies and procedures]_;
+
+CM-3 (f)
+    : Audits and reviews activities associated with configuration-controlled changes to the information system; and
+
+CM-3 (g)
+    : Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[organization-defined frequency; organization-defined configuration change conditions]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
@@ -47,6 +60,8 @@ The organization:
 - Summary description :
 - Business case :
 - Reason for the Change to be implemented :
+- Costs :
+- Benefits :
 - Consequences if the Change is not implemented :
 - References (e.g. to a Problem Record triggering this RFC) :
 - Business areas on the client-side affected by the Change :
@@ -60,6 +75,9 @@ The organization:
 - Time schedule :
 - Estimate of resources for the implementation :
 - Required personnel resources :
+- Estimated work effort for the required personnel resources :
+- Cost estimate :
+- Budget :
 - Additional supporting documents :
 - Approval or rejection :
 - Date :

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Establishes a process for maintenance personnel authorization and maintains a list of authorized maintenance organizations or personnel;
-- (b) Ensures that non-escorted personnel performing maintenance on the information system have required access authorizations; and
-- (c) Designates organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
+MA-5 (a)
+    : Establishes a process for maintenance personnel authorization and maintains a list of authorized maintenance organizations or personnel;
+
+MA-5 (b)
+    : Ensures that non-escorted personnel performing maintenance on the information system have required access authorizations; and
+
+MA-5 (c)
+    : Designates organizational personnel with required access authorizations and technical competence to supervise the maintenance activities of personnel who do not possess the required access authorizations.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,7 +18,7 @@ subcollection: framework-financial-services-controls
 ## Control requirements
 {: #control-requirements}
 
-The information system uniquely identifies and authenticates _[all devices]_ before establishing a _[network]_ connection.
+The information system uniquely identifies and authenticates _[organization-defined specific and/or types of devices]_ before establishing a _[local; remote; network]_ connection.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Determines information security requirements for the information system or information system service in mission/business process planning;
-- (b) Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; and
-- (c) Establishes a discrete line item for information security in organizational programming and budgeting documentation.
+SA-2 (a)
+    : Determines information security requirements for the information system or information system service in mission/business process planning;
+
+SA-2 (b)
+    : Determines, documents, and allocates the resources required to protect the information system or information system service as part of its capital planning and investment control process; and
+
+SA-2 (c)
+    : Establishes a discrete line item for information security in organizational programming and budgeting documentation.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

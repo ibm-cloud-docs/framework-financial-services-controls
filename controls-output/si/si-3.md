@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,21 +20,28 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
-- (b) Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
-- (c) Configures malicious code protection mechanisms to:
-    - (1) Perform periodic scans of the information system _[at least weekly]_ and real-time scans of files from external sources at _[to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)]_ as the files are downloaded, opened, or executed in accordance with organizational security policy; and
-    - (2) _[to include alerting administrator or defined security personnel]_ in response to malicious code detection; and
-- (d) Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
+SI-3 (a)
+    : Employs malicious code protection mechanisms at information system entry and exit points to detect and eradicate malicious code;
+
+SI-3 (b)
+    : Updates malicious code protection mechanisms whenever new releases are available in accordance with organizational configuration management policy and procedures;
+
+SI-3 (c)
+    : Configures malicious code protection mechanisms to:
+      1. Perform periodic scans of the information system _[at least weekly]_ and real-time scans of files from external sources at _[to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)]_ as the files are downloaded, opened, or executed in accordance with organizational security policy; and
+      2. _[to include alerting administrator or defined security personnel]_ in response to malicious code detection; and
+
+SI-3 (d)
+    : Addresses the receipt of false positives during malicious code detection and eradication and the resulting potential impact on the availability of the information system.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
 The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement | Goals |
-|-------------|-------|
-| Part a | - 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) \n - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection | 
+| Requirement ID | Goals |
+|----------------|-------|
+| SI-3 (a) | - 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) \n - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection | 
 {: caption="Goals for SI-3 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance

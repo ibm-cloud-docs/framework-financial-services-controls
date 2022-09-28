@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-28"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,9 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-- (a) Tests the contingency plan for the information system _[at least annually]_ using _[functional exercises]_ to determine the effectiveness of the plan and the organizational readiness to execute the plan;
-- (b) Reviews the contingency plan test results; and
-- (c) Initiates corrective actions, if needed.
+CP-4 (a)
+    : Tests the contingency plan for the information system _[at least annually]_ using _[functional exercises]_ to determine the effectiveness of the plan and the organizational readiness to execute the plan;
+
+CP-4 (b)
+    : Reviews the contingency plan test results; and
+
+CP-4 (c)
+    : Initiates corrective actions, if needed.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
