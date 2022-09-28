@@ -20,9 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-CM-7 (1) ((a) Reviews the information system _[at least monthly]_ to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and
+CM-7 (1) (a)
+    : Reviews the information system _[at least monthly]_ to identify unnecessary and/or nonsecure functions, ports, protocols, and services; and
 
-CM-7 (1) ((b) Disables _[organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure]_.
+CM-7 (1) (b)
+    : Disables _[organization-defined functions, ports, protocols, and services within the information system deemed to be unnecessary and/or nonsecure]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

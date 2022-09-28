@@ -20,9 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-CM-8 (3) ((a) Employs automated mechanisms _[Continuously, using automated mechanisms with a maximum five-minute delay in detection]_ to detect the presence of unauthorized hardware, software, and firmware components within the information system; and
+CM-8 (3) (a)
+    : Employs automated mechanisms _[Continuously, using automated mechanisms with a maximum five-minute delay in detection]_ to detect the presence of unauthorized hardware, software, and firmware components within the information system; and
 
-CM-8 (3) ((b) Takes the following actions when unauthorized components are detected: _[disables network access by such components; isolates the components; notifies organization-defined personnel or roles]_.
+CM-8 (3) (b)
+    : Takes the following actions when unauthorized components are detected: _[disables network access by such components; isolates the components; notifies organization-defined personnel or roles]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

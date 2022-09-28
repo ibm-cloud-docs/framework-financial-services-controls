@@ -20,9 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-SI-2 (3) ((a) Measures the time between flaw identification and flaw remediation; and
+SI-2 (3) (a)
+    : Measures the time between flaw identification and flaw remediation; and
 
-SI-2 (3) ((b) Establishes _[organization-defined benchmarks]_ for taking corrective actions.
+SI-2 (3) (b)
+    : Establishes _[organization-defined benchmarks]_ for taking corrective actions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

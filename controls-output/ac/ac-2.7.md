@@ -20,11 +20,14 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-AC-2 (7) ((a) Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
+AC-2 (7) (a)
+    : Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
 
-AC-2 (7) ((b) Monitors privileged role assignments; and
+AC-2 (7) (b)
+    : Monitors privileged role assignments; and
 
-AC-2 (7) ((c) Takes _[organization-defined actions]_ when privileged role assignments are no longer appropriate.
+AC-2 (7) (c)
+    : Takes _[organization-defined actions]_ when privileged role assignments are no longer appropriate.
 
 ## Implementation guidance
 {: #implementation-guidance}

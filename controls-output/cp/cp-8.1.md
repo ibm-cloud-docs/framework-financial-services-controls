@@ -20,9 +20,11 @@ subcollection: framework-financial-services-controls
 
 The organization:
 
-CP-8 (1) ((a) Develops primary and alternate telecommunications service agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives); and
+CP-8 (1) (a)
+    : Develops primary and alternate telecommunications service agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives); and
 
-CP-8 (1) ((b) Requests Telecommunications Service Priority for all telecommunications services used for national security emergency preparedness in the event that the primary and/or alternate telecommunications services are provided by a common carrier.
+CP-8 (1) (b)
+    : Requests Telecommunications Service Priority for all telecommunications services used for national security emergency preparedness in the event that the primary and/or alternate telecommunications services are provided by a common carrier.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

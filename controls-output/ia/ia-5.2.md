@@ -20,13 +20,17 @@ subcollection: framework-financial-services-controls
 
 The information system, for PKI-based authentication:
 
-IA-5 (2) ((a) Validates certifications by constructing and verifying a certification path to an accepted trust anchor including checking certificate status information;
+IA-5 (2) (a)
+    : Validates certifications by constructing and verifying a certification path to an accepted trust anchor including checking certificate status information;
 
-IA-5 (2) ((b) Enforces authorized access to the corresponding private key;
+IA-5 (2) (b)
+    : Enforces authorized access to the corresponding private key;
 
-IA-5 (2) ((c) Maps the authenticated identity to the account of the individual or group; and
+IA-5 (2) (c)
+    : Maps the authenticated identity to the account of the individual or group; and
 
-IA-5 (2) ((d) Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.
+IA-5 (2) (d)
+    : Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-fs-cloud-specifications}
