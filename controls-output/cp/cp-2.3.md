@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CP-2 (3) - Resume Essential Missions / Business Functions
 {: #cp-2.3}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization plans for the resumption of essential missions and business functions within _[organization-defined time period]_ of contingency plan activation.
+CP-2 (3) - 0
+    : The organization plans for the resumption of essential missions and business functions within [organization-defined time period] of contingency plan activation.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Contingency plans should also include planning for the resumption of all missions and business functions within an organization-defined time period of contingency plan activation.
 - Recovery strategies must meet the RTOs (Recovery Time Objectives) and RPOs (Recovery Point Objectives) for a minimum of six (6) weeks.

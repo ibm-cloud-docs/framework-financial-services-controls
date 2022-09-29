@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SI-2 (3) - Time To Remediate Flaws / Benchmarks For Corrective Actions
+               
+# SI-2 (3) - Time to Remediate Flaws / Benchmarks for Corrective Actions
 {: #si-2.3}
 
 ## Control requirements

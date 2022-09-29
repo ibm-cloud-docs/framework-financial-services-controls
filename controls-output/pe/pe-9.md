@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# PE-9 - Power Equipment And Cabling
+               
+# PE-9 - Power Equipment and Cabling
 {: #pe-9}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization protects power equipment and power cabling for the information system from damage and destruction.
+PE-9 - 0
+    : The organization protects power equipment and power cabling for the information system from damage and destruction.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

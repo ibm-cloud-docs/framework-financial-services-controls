@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CP-7 (3) - Priority Of Service
+               
+# CP-7 (3) - Priority of Service
 {: #cp-7.3}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).
+CP-7 (3) - 0
+    : The organization develops alternate processing site agreements that contain priority-of-service provisions in accordance with organizational availability requirements (including recovery time objectives).
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

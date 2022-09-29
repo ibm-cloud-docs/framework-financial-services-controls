@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CP-2 (1) - Coordinate With Related Plans
+               
+# CP-2 (1) - Coordinate with Related Plans
 {: #cp-2.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization coordinates contingency plan development with organizational elements responsible for related plans.
+CP-2 (1) - 0
+    : The organization coordinates contingency plan development with organizational elements responsible for related plans.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

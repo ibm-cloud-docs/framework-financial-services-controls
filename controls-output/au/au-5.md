@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AU-5 - Response To Audit Processing Failures
+               
+# AU-5 - Response to Audit Processing Failures
 {: #au-5}
 
 ## Control requirements
@@ -27,7 +27,7 @@ AU-5 (b)
     : Takes the following additional actions: _[organization-defined actions to be taken (overwrite oldest record)]_.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The status of all security audit log sources must be monitored for integrity and functionality as designed, at least hourly, and following policy changes, patch updates, and changes.
 

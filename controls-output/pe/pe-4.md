@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# PE-4 - Access Control For Transmission Medium
+               
+# PE-4 - Access Control for Transmission Medium
 {: #pe-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization controls physical access to _[organization-defined information system distribution and transmission lines]_ within organizational facilities using _[organization-defined security safeguards]_.
+PE-4 - 0
+    : The organization controls physical access to [organization-defined information system distribution and transmission lines] within organizational facilities using [organization-defined security safeguards].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

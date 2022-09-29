@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CP-7 - Alternate Processing Site
 {: #cp-7}
 
@@ -30,7 +30,7 @@ CP-7 (c)
     : Ensures that the alternate processing site provides information security safeguards equivalent to those of the primary site.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Where failover is used, applications must failover and maintain production workload to an alternate site for a period of five (5) consecutive days.
 

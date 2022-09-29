@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IA-8 - Identification And Authentication (Non-Organizational Users)
+               
+# IA-8 - Identification and Authentication (non-organizational Users)
 {: #ia-8}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users).
+IA-8 - 0
+    : The information system uniquely identifies and authenticates non-organizational users (or processes acting on behalf of non-organizational users).
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

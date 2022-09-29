@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AC-6 (9) - Auditing Use Of Privileged Functions
+               
+# AC-6 (9) - Auditing Use of Privileged Functions
 {: #ac-6.9}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system audits the execution of privileged functions.
+AC-6 (9) - 0
+    : The information system audits the execution of privileged functions.
 
 ## Implementation guidance
 {: #implementation-guidance}

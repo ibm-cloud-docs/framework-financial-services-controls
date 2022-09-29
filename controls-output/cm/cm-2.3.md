@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CM-2 (3) - Retention Of Previous Configurations
+               
+# CM-2 (3) - Retention of Previous Configurations
 {: #cm-2.3}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization retains _[organization-defined previous versions of baseline configurations of the information system]_ to support rollback.
+CM-2 (3) - 0
+    : The organization retains [organization-defined previous versions of baseline configurations of the information system] to support rollback.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

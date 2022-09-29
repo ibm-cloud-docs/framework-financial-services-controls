@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-7 - Unsuccessful Logon Attempts
 {: #ac-7}
 
@@ -27,7 +27,7 @@ AC-7 (b)
     : Automatically _[locks the account/node for a thirty (30) minutes]_ when the maximum number of unsuccessful attempts is exceeded.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Internal privileged accounts must remain locked until released by an administrator.
 

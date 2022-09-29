@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CM-5 - Access Restrictions For Change
+               
+# CM-5 - Access Restrictions for Change
 {: #cm-5}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization defines, documents, approves, and enforces physical and logical access restrictions associated with changes to the information system.
+CM-5 - 0
+    : The organization defines, documents, approves, and enforces physical and logical access restrictions associated with changes to the information system.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Access to test environments must be restricted to only authorized personnel and roles.  Only authorized individuals should be permitted access to information systems and data for purposes of testing changes.
 

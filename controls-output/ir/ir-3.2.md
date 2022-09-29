@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IR-3 (2) - Coordination With Related Plans
+               
+# IR-3 (2) - Coordination with Related Plans
 {: #ir-3.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization coordinates incident response testing with organizational elements responsible for related plans.
+IR-3 (2) - 0
+    : The organization coordinates incident response testing with organizational elements responsible for related plans.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Testing must also include the time it takes for resources to assemble in response to an incident, event, or crisis.
 - The 3rd/4th Party Response Teams must be included as part of the exercises.

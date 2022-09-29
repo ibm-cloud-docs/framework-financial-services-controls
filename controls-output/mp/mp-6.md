@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # MP-6 - Media Sanitization
 {: #mp-6}
 
@@ -21,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 MP-6 (a)
-    : Sanitizes _[assets holding customer data]_ prior to disposal, release out of organizational control, or release for reuse using _[customer approved sanitization process corresponding to the customer&#39;s retention schedule]_ in accordance with applicable federal and organizational standards and policies; and
+    : Sanitizes _[assets holding customer data]_ prior to disposal, release out of organizational control, or release for reuse using _[customer approved sanitization process corresponding to the customer's retention schedule]_ in accordance with applicable federal and organizational standards and policies; and
 
 MP-6 (b)
     : Employs sanitization mechanisms with the strength and integrity commensurate with the security category or classification of the information.

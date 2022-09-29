@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # RA-5 - Vulnerability Scanning
 {: #ra-5}
 
@@ -39,7 +39,7 @@ RA-5 (e)
     : Shares information obtained from the vulnerability scanning process and security control assessments with _[organization-defined personnel or roles]_ to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must remediate all Priority 1 (critical/high risk) and Priority 2 (moderate risk) vulnerabilities identified in new applications, releases, or public-facing systems before rolling out to production.
 - All software/technology is upgraded to the most up to date supported version.

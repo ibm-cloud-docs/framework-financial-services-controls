@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SA-4 - Acquisition Process
 {: #sa-4}
 
@@ -42,7 +42,7 @@ SA-4 (g)
     : Acceptance criteria.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
 

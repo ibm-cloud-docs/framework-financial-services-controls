@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # IR-4 - Incident Handling
 {: #ir-4}
 
@@ -30,7 +30,7 @@ IR-4 (c)
     : Incorporates lessons learned from ongoing incident handling activities into incident response procedures, training, and testing, and implements the resulting changes accordingly.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must develop, document, and implement a forensics evidence process for the gathering, protection, preservation, and retention (including controlled access and evidence chain) of forensic evidence and investigation activities in accordance with customer requirements.
 

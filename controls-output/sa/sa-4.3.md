@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SA-4 (3) - Development Methods / Techniques / Practices
 {: #sa-4.3}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization requires the developer of the information system, system component, or information system service to demonstrate the use of a system development life cycle that includes _[organization-defined state-of-the-practice system/security engineering methods, software development methods, testing/evaluation/validation techniques, and quality control processes]_.
+SA-4 (3) - 0
+    : The organization requires the developer of the information system, system component, or information system service to demonstrate the use of a system development life cycle that includes [organization-defined state-of-the-practice system/security engineering methods, software development methods, testing/evaluation/validation techniques, and quality control processes].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

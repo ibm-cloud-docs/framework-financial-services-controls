@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # RA-3 - Risk Assessment
 {: #ra-3}
 
@@ -36,7 +36,7 @@ RA-3 (e)
     : Updates the risk assessment _[at least annually]_ or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization shall conduct a risk assessment identifying all applicable threats to the organization portion of the FS-ready public cloud.  Risk assessment methodology shall adhere to the guidance contained in NIST Special Publication 800-30, Revision 1, Guide for Conducting Risk Assessments.
 

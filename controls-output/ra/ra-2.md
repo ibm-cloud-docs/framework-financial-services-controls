@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # RA-2 - Security Categorization
 {: #ra-2}
 
@@ -30,7 +30,7 @@ RA-2 (c)
     : Ensures that the authorizing official or authorizing official designated representative reviews and approves the security categorization decision.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Customer PII must be categorized and stored in appropriate data structures to meet customer, including regulatory and/or financial institution, requirements.
 

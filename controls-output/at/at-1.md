@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AT-1 - Security Awareness And Training Policy And Procedures
+               
+# AT-1 - Security Awareness and Training Policy and Procedures
 {: #at-1}
 
 ## Control requirements

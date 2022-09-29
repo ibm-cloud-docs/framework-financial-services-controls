@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SI-4 (4) - Inbound And Outbound Communications Traffic
+               
+# SI-4 (4) - Inbound and Outbound Communications Traffic
 {: #si-4.4}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system monitors inbound and outbound communications traffic _[continuously]_ for unusual or unauthorized activities or conditions.
+SI-4 (4) - 0
+    : The information system monitors inbound and outbound communications traffic [continuously] for unusual or unauthorized activities or conditions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

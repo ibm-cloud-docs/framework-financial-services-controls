@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SA-9 - External Information System Services
 {: #sa-9}
 
@@ -30,7 +30,7 @@ SA-9 (c)
     : Employs _[Continuous monitoring requirements must be met for external systems where customer information is processed or stored]_ to monitor security control compliance by external service providers on an ongoing basis.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Requirements for contingency planning and business continuity must be negotiated with third party service providers.
 - Degradation of performance by the same external vendor to the organization across different regions should be documented.

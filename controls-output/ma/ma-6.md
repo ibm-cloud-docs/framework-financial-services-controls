@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # MA-6 - Timely Maintenance
 {: #ma-6}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization obtains maintenance support and/or spare parts for _[organization-defined information system components]_ within _[organization-defined time period]_ of failure.
+MA-6 - 0
+    : The organization obtains maintenance support and/or spare parts for [organization-defined information system components] within [organization-defined time period] of failure.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

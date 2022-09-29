@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SC-3 - Security Function Isolation
 {: #sc-3}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system isolates security functions from nonsecurity functions.
+SC-3 - 0
+    : The information system isolates security functions from nonsecurity functions.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - This control is required for ISVs.
 

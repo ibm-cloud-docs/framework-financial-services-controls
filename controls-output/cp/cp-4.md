@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CP-4 - Contingency Plan Testing
 {: #cp-4}
 
@@ -30,7 +30,7 @@ CP-4 (c)
     : Initiates corrective actions, if needed.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Tests should be conducted in as close to an operational environment as possible.  If feasible, an actual test of the components or systems used to conduct daily operations should be used.
 - Test documentation must ensure contingency planning metrics such as the RTO, RPO and maximum tolerable downtime (MTD) are verified during testing.
@@ -38,7 +38,7 @@ CP-4 (c)
 - If lessons learned result in any necessary improvements to existing processes, ensure they are incorporated into the contingency plan no later than 30 days following all contingency events and exercises.
 - Critical issues discovered during contingency plan testing must be addressed within 45 calendars day.
 - Contingency plan tests should increase in scope over time in order to validate the operability of the plan and system components in an operational environment.
-- The organization must participate in customers&#39; and other third parties&#39; contingency plan tests as required.
+- The organization must participate in customers' and other third parties' contingency plan tests as required.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

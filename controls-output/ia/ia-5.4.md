@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IA-5 (4) - Automated Support For Password Strength Determination
+               
+# IA-5 (4) - Automated Support for Password Strength Determination
 {: #ia-5.4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization employs automated tools to determine if password authenticators are sufficiently strong to satisfy _[organization-defined requirements]_.
+IA-5 (4) - 0
+    : The organization employs automated tools to determine if password authenticators are sufficiently strong to satisfy [organization-defined requirements].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

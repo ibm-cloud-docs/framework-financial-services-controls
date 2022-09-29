@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CP-2 - Contingency Plan
 {: #cp-2}
 
@@ -48,7 +48,7 @@ CP-2 (g)
     : Protects the contingency plan from unauthorized disclosure and modification.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Documentation includes plan and playbook(s).
 - The organization must provide required pre-test documentation prior to test initiation. The customer must provide the organization with what is included in pre-test documentation.

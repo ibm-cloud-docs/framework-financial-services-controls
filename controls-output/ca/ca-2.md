@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CA-2 - Security Assessments
 {: #ca-2}
 
@@ -36,9 +36,9 @@ CA-2 (d)
     : Provides the results of the security control assessment to _[individuals or roles to include the customer management]_.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
-- The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer&#39;s policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
+- The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer's policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

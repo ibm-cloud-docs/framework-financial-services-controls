@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CM-2 - Baseline Configuration
 {: #cm-2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.
+CM-2 - 0
+    : The organization develops, documents, and maintains under configuration control, a current baseline configuration of the information system.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Baseline configuration must include any APIs enabled in the production environment.
 

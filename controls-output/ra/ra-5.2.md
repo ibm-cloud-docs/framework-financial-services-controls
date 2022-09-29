@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# RA-5 (2) - Update By Frequency / Prior To New Scan / When Identified
+               
+# RA-5 (2) - Update by Frequency / Prior to New Scan / When Identified
 {: #ra-5.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization updates the information system vulnerabilities scanned _[prior to a new scan]_.
+RA-5 (2) - 0
+    : The organization updates the information system vulnerabilities scanned [prior to a new scan].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

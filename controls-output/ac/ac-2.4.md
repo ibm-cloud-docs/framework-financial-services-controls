@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-2 (4) - Automated Audit Actions
 {: #ac-2.4}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies _[organization-defined personnel or roles]_.
+AC-2 (4) - 0
+    : The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [organization-defined personnel or roles].
 
 ## Implementation guidance
 {: #implementation-guidance}

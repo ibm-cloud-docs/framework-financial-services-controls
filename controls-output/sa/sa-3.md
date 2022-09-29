@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SA-3 - System Development Life Cycle
 {: #sa-3}
 
@@ -33,7 +33,7 @@ SA-3 (d)
     : Integrates the organizational information security risk management process into system development life cycle activities.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization should ensure that all applications have a specific start and end date.  Milestones for keeping applications under development, production lifetime, and retirement (decommissioning) will be defined by the customer.  Deviations from the established milestones must be documented, approved and shared with customer.
 

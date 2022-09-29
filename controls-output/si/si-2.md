@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SI-2 - Flaw Remediation
 {: #si-2}
 
@@ -33,7 +33,7 @@ SI-2 (d)
     : Incorporates flaw remediation into the organizational configuration management process.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
 - All software/technology is upgraded to the most up to date supported version.

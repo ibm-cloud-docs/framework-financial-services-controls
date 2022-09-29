@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CA-8 - Penetration Testing
 {: #ca-8}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization conducts penetration testing _[prior to production use, at least annually, and after significant changes]_ on _[applications that are utilized by FS-ready public cloud customers or process customer’s data]_.
+CA-8 - 0
+    : The organization conducts penetration testing [prior to production use, at least annually, and after significant changes] on [applications that are utilized by FS-ready public cloud customers or process customer’s data].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

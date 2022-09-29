@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SI-3 (2) - Automatic Updates
 {: #si-3.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system automatically updates malicious code protection mechanisms.
+SI-3 (2) - 0
+    : The information system automatically updates malicious code protection mechanisms.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

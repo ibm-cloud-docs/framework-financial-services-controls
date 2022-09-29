@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AC-4 (21) - Physical / Logical Separation Of Information Flows
+               
+# AC-4 (21) - Physical / Logical Separation of Information Flows
 {: #ac-4.21}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system separates information flows logically or physically using _[organization-defined mechanisms and/or techniques]_ to accomplish _[organization-defined required separations by types of information]_.
+AC-4 (21) - 0
+    : The information system separates information flows logically or physically using [organization-defined mechanisms and/or techniques] to accomplish [organization-defined required separations by types of information].
 
 ## Implementation guidance
 {: #implementation-guidance}

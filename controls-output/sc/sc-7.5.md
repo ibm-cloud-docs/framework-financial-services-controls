@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SC-7 (5) - Deny By Default / Allow By Exception
+               
+# SC-7 (5) - Deny by Default / Allow by Exception
 {: #sc-7.5}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception).
+SC-7 (5) - 0
+    : The information system at managed interfaces denies network communications traffic by default and allows network communications traffic by exception (i.e., deny all, permit by exception).
 
 ## Implementation guidance
 {: #implementation-guidance}

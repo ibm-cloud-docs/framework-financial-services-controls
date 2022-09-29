@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CP-2 (8) - Identify Critical Assets
 {: #cp-2.8}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization identifies critical information system assets supporting essential missions and business functions.
+CP-2 (8) - 0
+    : The organization identifies critical information system assets supporting essential missions and business functions.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The Business Impact Analysis must undergo annual review and approval.  Changes to the Business Impact Analysis should be communicated to the customer, reviewed, and approved within 90 days of significant changes to the system.
 

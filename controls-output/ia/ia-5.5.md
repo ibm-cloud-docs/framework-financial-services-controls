@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IA-5 (5) - Change Authenticators Prior To Delivery
+               
+# IA-5 (5) - Change Authenticators Prior to Delivery
 {: #ia-5.5}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization requires developers/installers of information system components to provide unique authenticators or change default authenticators prior to delivery/installation.
+IA-5 (5) - 0
+    : The organization requires developers/installers of information system components to provide unique authenticators or change default authenticators prior to delivery/installation.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

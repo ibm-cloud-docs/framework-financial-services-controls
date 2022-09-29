@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SI-4 (5) - System-Generated Alerts
+               
+# SI-4 (5) - System-generated Alerts
 {: #si-4.5}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system alerts _[organization-defined personnel or roles]_ when the following indications of compromise or potential compromise occur: _[organization-defined compromise indicators]_.
+SI-4 (5) - 0
+    : The information system alerts [organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [organization-defined compromise indicators].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CP-8 - Telecommunications Services
 {: #cp-8}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of _[organization-defined information system operations]_ for essential missions and business functions within _[organization-defined time period]_ when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
+CP-8 - 0
+    : The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of [organization-defined information system operations] for essential missions and business functions within [organization-defined time period] when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

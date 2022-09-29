@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-6 (5) - Privileged Accounts
 {: #ac-6.5}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization restricts privileged accounts on the information system to _[organization-defined personnel or roles]_.
+AC-6 (5) - 0
+    : The organization restricts privileged accounts on the information system to [organization-defined personnel or roles].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
