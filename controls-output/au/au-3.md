@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-09-30"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,8 +28,7 @@ The following events are to be audited within the system:
 - The identity of the account accessing the system, e.g., standard accounts, secondary accounts, external accounts, service accounts.
 - Date and local time zone (or UTC)
 - Authentication method, examples include but are not limited to SSO, mainframe, etc.
-
-System name generating the log
+- System name generating the log
 - Log recording system name
 - Source IP address
 - Port, where available
