@@ -1,0 +1,24 @@
+---
+
+copyright:
+  years: 2020, 2022
+
+lastupdated: "2022-09-27"
+
+keywords: 
+subcollection: framework-financial-services-controls
+---
+
+{{site.data.keyword.attribute-definition-list}}
+
+         
+# IR-2 (1) - Simulated Events
+{: #ir-2.1}
+
+## Control requirements
+{: #control-requirements}
+
+The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
+
+
+

@@ -1,0 +1,361 @@
+toc:
+  properties:
+    subcollection: framework-financial-services-controls
+    category: platform_services
+    audience: platform
+    href: /docs/framework-financial-services-controls
+    path: framework-financial-services-controls
+    label: IBM Cloud Framework for Financial Services - Control Requirements
+  entries:
+  - navgroup:
+      id: reference
+      topics:
+      - topic: overview.md
+        navtitle: Overview
+      - topicgroup:
+          label: Access Control (AC)
+          topics:
+          - controls-output/ac/ac-1.md
+          - controls-output/ac/ac-2.md
+          - controls-output/ac/ac-2.1.md
+          - controls-output/ac/ac-2.2.md
+          - controls-output/ac/ac-2.3.md
+          - controls-output/ac/ac-2.4.md
+          - controls-output/ac/ac-2.7.md
+          - controls-output/ac/ac-2.9.md
+          - controls-output/ac/ac-3.md
+          - controls-output/ac/ac-4.md
+          - controls-output/ac/ac-4.4.md
+          - controls-output/ac/ac-4.5.md
+          - controls-output/ac/ac-4.6.md
+          - controls-output/ac/ac-4.14.md
+          - controls-output/ac/ac-4.21.md
+          - controls-output/ac/ac-5.md
+          - controls-output/ac/ac-6.md
+          - controls-output/ac/ac-6.1.md
+          - controls-output/ac/ac-6.2.md
+          - controls-output/ac/ac-6.5.md
+          - controls-output/ac/ac-6.9.md
+          - controls-output/ac/ac-6.10.md
+          - controls-output/ac/ac-7.md
+          - controls-output/ac/ac-8.md
+          - controls-output/ac/ac-11.md
+          - controls-output/ac/ac-11.1.md
+          - controls-output/ac/ac-14.md
+          - controls-output/ac/ac-16.md
+          - controls-output/ac/ac-17.md
+          - controls-output/ac/ac-17.9.md
+          - controls-output/ac/ac-18.md
+          - controls-output/ac/ac-19.md
+          - controls-output/ac/ac-19.5.md
+          - controls-output/ac/ac-20.md
+          - controls-output/ac/ac-20.1.md
+          - controls-output/ac/ac-21.md
+      - topicgroup:
+          label: Awareness and Training (AT)
+          topics:
+          - controls-output/at/at-1.md
+          - controls-output/at/at-2.md
+          - controls-output/at/at-3.md
+          - controls-output/at/at-4.md
+      - topicgroup:
+          label: Audit and Accountability (AU)
+          topics:
+          - controls-output/au/au-1.md
+          - controls-output/au/au-2.md
+          - controls-output/au/au-2.3.md
+          - controls-output/au/au-3.md
+          - controls-output/au/au-4.md
+          - controls-output/au/au-5.md
+          - controls-output/au/au-6.md
+          - controls-output/au/au-6.1.md
+          - controls-output/au/au-7.md
+          - controls-output/au/au-8.md
+          - controls-output/au/au-8.1.md
+          - controls-output/au/au-9.md
+          - controls-output/au/au-9.2.md
+          - controls-output/au/au-10.md
+          - controls-output/au/au-11.md
+          - controls-output/au/au-12.md
+          - controls-output/au/au-13.md
+          - controls-output/au/au-14.md
+      - topicgroup:
+          label: Security Assessment and Authorization (CA)
+          topics:
+          - controls-output/ca/ca-1.md
+          - controls-output/ca/ca-2.md
+          - controls-output/ca/ca-2.1.md
+          - controls-output/ca/ca-2.2.md
+          - controls-output/ca/ca-3.md
+          - controls-output/ca/ca-5.md
+          - controls-output/ca/ca-6.md
+          - controls-output/ca/ca-7.md
+          - controls-output/ca/ca-7.1.md
+          - controls-output/ca/ca-8.md
+      - topicgroup:
+          label: Configuration Management (CM)
+          topics:
+          - controls-output/cm/cm-1.md
+          - controls-output/cm/cm-2.md
+          - controls-output/cm/cm-2.1.md
+          - controls-output/cm/cm-2.2.md
+          - controls-output/cm/cm-2.3.md
+          - controls-output/cm/cm-3.md
+          - controls-output/cm/cm-3.2.md
+          - controls-output/cm/cm-4.md
+          - controls-output/cm/cm-4.1.md
+          - controls-output/cm/cm-5.md
+          - controls-output/cm/cm-6.md
+          - controls-output/cm/cm-6.1.md
+          - controls-output/cm/cm-7.md
+          - controls-output/cm/cm-7.1.md
+          - controls-output/cm/cm-8.md
+          - controls-output/cm/cm-8.1.md
+          - controls-output/cm/cm-8.2.md
+          - controls-output/cm/cm-8.3.md
+          - controls-output/cm/cm-8.4.md
+          - controls-output/cm/cm-9.md
+          - controls-output/cm/cm-10.md
+          - controls-output/cm/cm-10.1.md
+          - controls-output/cm/cm-11.md
+      - topicgroup:
+          label: Contingency Planning (CP)
+          topics:
+          - controls-output/cp/cp-1.md
+          - controls-output/cp/cp-2.md
+          - controls-output/cp/cp-2.1.md
+          - controls-output/cp/cp-2.3.md
+          - controls-output/cp/cp-2.8.md
+          - controls-output/cp/cp-3.md
+          - controls-output/cp/cp-4.md
+          - controls-output/cp/cp-4.1.md
+          - controls-output/cp/cp-6.md
+          - controls-output/cp/cp-6.1.md
+          - controls-output/cp/cp-6.3.md
+          - controls-output/cp/cp-7.md
+          - controls-output/cp/cp-7.1.md
+          - controls-output/cp/cp-7.2.md
+          - controls-output/cp/cp-7.3.md
+          - controls-output/cp/cp-8.md
+          - controls-output/cp/cp-8.1.md
+          - controls-output/cp/cp-8.2.md
+          - controls-output/cp/cp-9.md
+          - controls-output/cp/cp-9.1.md
+          - controls-output/cp/cp-10.md
+          - controls-output/cp/cp-10.2.md
+      - topicgroup:
+          label: Identification and Authentication (IA)
+          topics:
+          - controls-output/ia/ia-1.md
+          - controls-output/ia/ia-2.md
+          - controls-output/ia/ia-2.1.md
+          - controls-output/ia/ia-2.2.md
+          - controls-output/ia/ia-2.11.md
+          - controls-output/ia/ia-3.md
+          - controls-output/ia/ia-4.md
+          - controls-output/ia/ia-5.md
+          - controls-output/ia/ia-5.1.md
+          - controls-output/ia/ia-5.2.md
+          - controls-output/ia/ia-5.3.md
+          - controls-output/ia/ia-5.4.md
+          - controls-output/ia/ia-5.5.md
+          - controls-output/ia/ia-5.6.md
+          - controls-output/ia/ia-5.7.md
+          - controls-output/ia/ia-6.md
+          - controls-output/ia/ia-7.md
+          - controls-output/ia/ia-8.md
+      - topicgroup:
+          label: Incident Response (IR)
+          topics:
+          - controls-output/ir/ir-1.md
+          - controls-output/ir/ir-2.md
+          - controls-output/ir/ir-2.1.md
+          - controls-output/ir/ir-3.md
+          - controls-output/ir/ir-3.2.md
+          - controls-output/ir/ir-4.md
+          - controls-output/ir/ir-5.md
+          - controls-output/ir/ir-6.md
+          - controls-output/ir/ir-7.md
+          - controls-output/ir/ir-8.md
+      - topicgroup:
+          label: Maintenance (MA)
+          topics:
+          - controls-output/ma/ma-1.md
+          - controls-output/ma/ma-2.md
+          - controls-output/ma/ma-3.md
+          - controls-output/ma/ma-3.1.md
+          - controls-output/ma/ma-3.2.md
+          - controls-output/ma/ma-4.md
+          - controls-output/ma/ma-4.2.md
+          - controls-output/ma/ma-5.md
+          - controls-output/ma/ma-6.md
+      - topicgroup:
+          label: Media Protection (MP)
+          topics:
+          - controls-output/mp/mp-1.md
+          - controls-output/mp/mp-2.md
+          - controls-output/mp/mp-3.md
+          - controls-output/mp/mp-4.md
+          - controls-output/mp/mp-5.md
+          - controls-output/mp/mp-6.md
+          - controls-output/mp/mp-7.md
+      - topicgroup:
+          label: Physical and Environmental Protection (PE)
+          topics:
+          - controls-output/pe/pe-1.md
+          - controls-output/pe/pe-2.md
+          - controls-output/pe/pe-3.md
+          - controls-output/pe/pe-3.6.md
+          - controls-output/pe/pe-4.md
+          - controls-output/pe/pe-5.md
+          - controls-output/pe/pe-6.md
+          - controls-output/pe/pe-6.1.md
+          - controls-output/pe/pe-8.md
+          - controls-output/pe/pe-9.md
+          - controls-output/pe/pe-10.md
+          - controls-output/pe/pe-11.md
+          - controls-output/pe/pe-12.md
+          - controls-output/pe/pe-13.md
+          - controls-output/pe/pe-13.3.md
+          - controls-output/pe/pe-14.md
+          - controls-output/pe/pe-15.md
+          - controls-output/pe/pe-17.md
+      - topicgroup:
+          label: Planning (PL)
+          topics:
+          - controls-output/pl/pl-1.md
+          - controls-output/pl/pl-2.md
+          - controls-output/pl/pl-4.md
+          - controls-output/pl/pl-4.1.md
+          - controls-output/pl/pl-8.md
+      - topicgroup:
+          label: Personnel Security (PS)
+          topics:
+          - controls-output/ps/ps-1.md
+          - controls-output/ps/ps-2.md
+          - controls-output/ps/ps-3.md
+          - controls-output/ps/ps-4.md
+          - controls-output/ps/ps-5.md
+          - controls-output/ps/ps-6.md
+          - controls-output/ps/ps-7.md
+          - controls-output/ps/ps-8.md
+      - topicgroup:
+          label: Risk Assessment (RA)
+          topics:
+          - controls-output/ra/ra-1.md
+          - controls-output/ra/ra-2.md
+          - controls-output/ra/ra-3.md
+          - controls-output/ra/ra-5.md
+          - controls-output/ra/ra-5.1.md
+          - controls-output/ra/ra-5.2.md
+          - controls-output/ra/ra-5.3.md
+          - controls-output/ra/ra-5.5.md
+          - controls-output/ra/ra-5.6.md
+      - topicgroup:
+          label: System and Services Acquisition (SA)
+          topics:
+          - controls-output/sa/sa-1.md
+          - controls-output/sa/sa-2.md
+          - controls-output/sa/sa-3.md
+          - controls-output/sa/sa-4.md
+          - controls-output/sa/sa-4.2.md
+          - controls-output/sa/sa-4.3.md
+          - controls-output/sa/sa-5.md
+          - controls-output/sa/sa-8.md
+          - controls-output/sa/sa-9.md
+          - controls-output/sa/sa-10.md
+          - controls-output/sa/sa-10.1.md
+          - controls-output/sa/sa-11.md
+          - controls-output/sa/sa-12.md
+          - controls-output/sa/sa-14.md
+          - controls-output/sa/sa-15.md
+          - controls-output/sa/sa-15.9.md
+      - topicgroup:
+          label: System and Communications Protection (SC)
+          topics:
+          - controls-output/sc/sc-1.md
+          - controls-output/sc/sc-2.md
+          - controls-output/sc/sc-3.md
+          - controls-output/sc/sc-4.md
+          - controls-output/sc/sc-5.md
+          - controls-output/sc/sc-6.md
+          - controls-output/sc/sc-7.md
+          - controls-output/sc/sc-7.4.md
+          - controls-output/sc/sc-7.5.md
+          - controls-output/sc/sc-7.8.md
+          - controls-output/sc/sc-7.10.md
+          - controls-output/sc/sc-8.md
+          - controls-output/sc/sc-8.1.md
+          - controls-output/sc/sc-10.md
+          - controls-output/sc/sc-11.md
+          - controls-output/sc/sc-12.md
+          - controls-output/sc/sc-12.2.md
+          - controls-output/sc/sc-12.3.md
+          - controls-output/sc/sc-13.md
+          - controls-output/sc/sc-16.md
+          - controls-output/sc/sc-17.md
+          - controls-output/sc/sc-18.md
+          - controls-output/sc/sc-19.md
+          - controls-output/sc/sc-20.md
+          - controls-output/sc/sc-21.md
+          - controls-output/sc/sc-22.md
+          - controls-output/sc/sc-23.md
+          - controls-output/sc/sc-28.md
+          - controls-output/sc/sc-28.1.md
+      - topicgroup:
+          label: System and Information Integrity (SI)
+          topics:
+          - controls-output/si/si-1.md
+          - controls-output/si/si-2.md
+          - controls-output/si/si-2.2.md
+          - controls-output/si/si-2.3.md
+          - controls-output/si/si-3.md
+          - controls-output/si/si-3.2.md
+          - controls-output/si/si-4.md
+          - controls-output/si/si-4.1.md
+          - controls-output/si/si-4.2.md
+          - controls-output/si/si-4.4.md
+          - controls-output/si/si-4.5.md
+          - controls-output/si/si-5.md
+          - controls-output/si/si-6.md
+          - controls-output/si/si-7.md
+          - controls-output/si/si-8.md
+          - controls-output/si/si-10.md
+          - controls-output/si/si-11.md
+          - controls-output/si/si-12.md
+      - topicgroup:
+          label: Program Management (PM)
+          topics:
+          - controls-output/pm/pm-1.md
+          - controls-output/pm/pm-2.md
+          - controls-output/pm/pm-4.md
+          - controls-output/pm/pm-5.md
+          - controls-output/pm/pm-6.md
+          - controls-output/pm/pm-7.md
+          - controls-output/pm/pm-8.md
+          - controls-output/pm/pm-9.md
+          - controls-output/pm/pm-10.md
+          - controls-output/pm/pm-11.md
+          - controls-output/pm/pm-12.md
+      - topicgroup:
+          label: Enterprise Data Management (EDM)
+          topics:
+          - controls-output/edm/edm-1.md
+      - topicgroup:
+          label: Accessibility Guidelines (ESA)
+          topics:
+          - controls-output/esa/esa-1.md
+          - controls-output/esa/esa-2.md
+          - controls-output/esa/esa-3.md
+          - controls-output/esa/esa-4.md
+          - controls-output/esa/esa-5.md
+          - controls-output/esa/esa-6.md
+      - topicgroup:
+          label: Privacy
+          topics:
+          - controls-output/ar_ul/ar-2.md
+          - controls-output/ar_ul/ul-2.md
+  - navgroup:
+      id: help
+      topics:
+      - sitemap.md
