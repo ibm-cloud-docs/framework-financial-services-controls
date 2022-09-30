@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # IA-2 (11) - Remote Access - Separate Device
 {: #ia-2.11}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system implements multifactor authentication for remote access to privileged and non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets _[FIPS 140-2 level 2 capable or above or equivalent]_.
+IA-2 (11) - 0
+    : The information system implements multifactor authentication for remote access to privileged and non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [FIPS 140-2 level 2 capable or above or equivalent].
 
 ## Implementation guidance
 {: #implementation-guidance}

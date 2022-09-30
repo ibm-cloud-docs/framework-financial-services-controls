@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SC-6 - Resource Availability
 {: #sc-6}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system protects the availability of resources by allocating _[organization-defined resources]_ by _[priority; quota; organization-defined security safeguards]_.
+SC-6 - 0
+    : The information system protects the availability of resources by allocating [organization-defined resources] by [priority; quota; organization-defined security safeguards].
 
 ## Implementation guidance
 {: #implementation-guidance}

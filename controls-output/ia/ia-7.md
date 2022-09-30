@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # IA-7 - Cryptographic Module Authentication
 {: #ia-7}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.
+IA-7 - 0
+    : The information system implements mechanisms for authentication to a cryptographic module that meet the requirements of applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance for such authentication.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

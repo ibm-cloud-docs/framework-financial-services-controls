@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SA-8 - Security Engineering Principles
 {: #sa-8}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.
+SA-8 - 0
+    : The organization applies information system security engineering principles in the specification, design, development, implementation, and modification of the information system.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Solutions must minimize the reliance on underlying network and operating system infrastructure to ensure system independence.
 - Develop applications to leverage cloud scalability capabilities, with service level obligations based on their availability requirements.

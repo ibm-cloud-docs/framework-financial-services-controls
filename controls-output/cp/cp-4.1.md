@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CP-4 (1) - Coordinate With Related Plans
+               
+# CP-4 (1) - Coordinate with Related Plans
 {: #cp-4.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization coordinates contingency plan testing with organizational elements responsible for related plans.
+CP-4 (1) - 0
+    : The organization coordinates contingency plan testing with organizational elements responsible for related plans.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - To ensure response times can be met, testing must be performed by all appropriate parties, including response teams, executives, management, and 3rd/4th party resources as needed.
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CP-7 (1) - Separation From Primary Site
+               
+# CP-7 (1) - Separation from Primary Site
 {: #cp-7.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization identifies an alternate processing site that is separated from the primary processing site to reduce susceptibility to the same threats.
+CP-7 (1) - 0
+    : The organization identifies an alternate processing site that is separated from the primary processing site to reduce susceptibility to the same threats.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

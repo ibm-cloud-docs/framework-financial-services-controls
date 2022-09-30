@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# PL-4 - Rules Of Behavior
+               
+# PL-4 - Rules of Behavior
 {: #pl-4}
 
 ## Control requirements
@@ -33,7 +33,7 @@ PL-4 (d)
     : Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 Customer consent must be obtained prior to releasing any data outside its intended use.
 

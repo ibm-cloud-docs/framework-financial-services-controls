@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AU-4 - Audit Storage Capacity
 {: #au-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization allocates audit record storage capacity in accordance with _[organization-defined audit record storage requirements]_.
+AU-4 - 0
+    : The organization allocates audit record storage capacity in accordance with [organization-defined audit record storage requirements].
 
 ## Implementation guidance
 {: #implementation-guidance}

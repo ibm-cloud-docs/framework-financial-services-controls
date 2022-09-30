@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AC-5 - Separation Of Duties
+               
+# AC-5 - Separation of Duties
 {: #ac-5}
 
 ## Control requirements
@@ -30,7 +30,7 @@ AC-5 (c)
     : Defines information system access authorizations to support separation of duties.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Ensure segregation exists such that no one individual has the authority/ability to develop, compile and/or move object code from non-production environments into production environments.
 

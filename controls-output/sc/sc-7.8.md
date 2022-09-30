@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SC-7 (8) - Route Traffic To Authenticated Proxy Servers
+               
+# SC-7 (8) - Route Traffic to Authenticated Proxy Servers
 {: #sc-7.8}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system routes _[organization-defined internal communications traffic]_ to _[organization-defined external networks]_ through authenticated proxy servers at managed interfaces.
+SC-7 (8) - 0
+    : The information system routes [organization-defined internal communications traffic] to [organization-defined external networks] through authenticated proxy servers at managed interfaces.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

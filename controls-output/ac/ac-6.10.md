@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AC-6 (10) - Prohibit Non-Privileged Users From Executing Privileged Functions
+               
+# AC-6 (10) - Prohibit Non-privileged Users from Executing Privileged Functions
 {: #ac-6.10}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system prevents non-privileged users from executing privileged functions to include disabling, circumventing, or altering implemented security safeguards/countermeasures.
+AC-6 (10) - 0
+    : The information system prevents non-privileged users from executing privileged functions to include disabling, circumventing, or altering implemented security safeguards/countermeasures.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

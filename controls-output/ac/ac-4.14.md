@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-4 (14) - Security Policy Filter Constraints
 {: #ac-4.14}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system, when transferring information between different security domains, implements _[organization-defined security policy filters]_ requiring fully enumerated formats that restrict data structure and content.
+AC-4 (14) - 0
+    : The information system, when transferring information between different security domains, implements [organization-defined security policy filters] requiring fully enumerated formats that restrict data structure and content.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - This control is required for ISVs.
 

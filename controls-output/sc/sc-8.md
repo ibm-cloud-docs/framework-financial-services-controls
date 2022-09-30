@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SC-8 - Transmission Confidentiality And Integrity
+               
+# SC-8 - Transmission Confidentiality and Integrity
 {: #sc-8}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system protects the _[confidentiality, integrity, AND availability]_ of transmitted information.
+SC-8 - 0
+    : The information system protects the [confidentiality, integrity, AND availability] of transmitted information.
 
 ## Implementation guidance
 {: #implementation-guidance}

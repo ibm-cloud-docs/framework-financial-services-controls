@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# PE-5 - Access Control For Output Devices
+               
+# PE-5 - Access Control for Output Devices
 {: #pe-5}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization controls physical access to information system output devices to prevent unauthorized individuals from obtaining the output.
+PE-5 - 0
+    : The organization controls physical access to information system output devices to prevent unauthorized individuals from obtaining the output.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

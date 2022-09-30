@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SC-5 - Denial Of Service Protection
+               
+# SC-5 - Denial of Service Protection
 {: #sc-5}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system protects against or limits the effects of the following types of denial of service attacks: _[application and volumetric based attacks (OSI layers 3, 4, 6, and 7)]_ by employing _[annual testing of the documented DoS and DDoS mitigation technologies]_.
+SC-5 - 0
+    : The information system protects against or limits the effects of the following types of denial of service attacks: [application and volumetric based attacks (OSI layers 3, 4, 6, and 7)] by employing [annual testing of the documented DoS and DDoS mitigation technologies].
 
 ## Implementation guidance
 {: #implementation-guidance}

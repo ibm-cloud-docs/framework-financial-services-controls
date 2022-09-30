@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-4 (5) - Embedded Data Types
 {: #ac-4.5}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system enforces _[organization-defined limitations]_ on embedding data types within other data types.
+AC-4 (5) - 0
+    : The information system enforces [organization-defined limitations] on embedding data types within other data types.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - This control is required for ISVs.
 

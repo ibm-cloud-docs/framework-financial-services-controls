@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-2 (1) - Automated System Account Management
 {: #ac-2.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization employs automated mechanisms to support the management of information system accounts.
+AC-2 (1) - 0
+    : The organization employs automated mechanisms to support the management of information system accounts.
 
 ## Implementation guidance
 {: #implementation-guidance}

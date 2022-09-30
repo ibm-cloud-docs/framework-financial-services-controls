@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IA-2 (1) - Network Access To Privileged Accounts
+               
+# IA-2 (1) - Network Access to Privileged Accounts
 {: #ia-2.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system implements multifactor authentication for network access to privileged accounts.
+IA-2 (1) - 0
+    : The information system implements multifactor authentication for network access to privileged accounts.
 
 ## Implementation guidance
 {: #implementation-guidance}

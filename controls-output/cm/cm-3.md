@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CM-3 - Configuration Change Control
 {: #cm-3}
 
@@ -42,12 +42,12 @@ CM-3 (g)
     : Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[organization-defined frequency; organization-defined configuration change conditions]_.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must notify impacted customers prior to implementing any changes.  The organization must validate changes after they have been implemented.
 - All changes to the systems / applications / processes used by the customer must be under a formal change management/control process and must be communicated to the customer prior to implementation. 
 - All changes to the customer environment (including supporting process) must be configuration-controlled.
-- The organization&#39;s change management process must address emergency changes.
+- The organization's change management process must address emergency changes.
 - The organization shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
 - Each change request must be properly documented to  ITIL v3 - Request for Change (RFC) Standards:  Each RFC must have the following fields: 
 - Unique ID :

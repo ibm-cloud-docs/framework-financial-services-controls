@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IA-5 (2) - Pki-Based Authentication
+               
+# IA-5 (2) - Pki-based Authentication
 {: #ia-5.2}
 
 ## Control requirements
@@ -33,7 +33,7 @@ IA-5 (2) (d)
     : Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - TLS certificate revocation status checking, and revocation status caching is only applicable to connections between a browser and server.
 

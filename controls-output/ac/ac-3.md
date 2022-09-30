@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-3 - Access Enforcement
 {: #ac-3}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies.
+AC-3 - 0
+    : The information system enforces approved authorizations for logical access to information and system resources in accordance with applicable access control policies.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Customer consent must be obtained prior to releasing any data outside its intended use.
 - Authorized individuals include Federal Regulators in the event of insolvency.

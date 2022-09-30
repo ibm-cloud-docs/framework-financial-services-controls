@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SC-2 - Application Partitioning
 {: #sc-2}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system separates user functionality (including user interface services) from information system management functionality.
+SC-2 - 0
+    : The information system separates user functionality (including user interface services) from information system management functionality.
 
 ## Implementation guidance
 {: #implementation-guidance}

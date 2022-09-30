@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SI-5 - Security Alerts, Advisories, And Directives
+               
+# SI-5 - Security Alerts, Advisories, and Directives
 {: #si-5}
 
 ## Control requirements

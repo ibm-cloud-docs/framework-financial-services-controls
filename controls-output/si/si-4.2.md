@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SI-4 (2) - Automated Tools For Real-Time Analysis
+               
+# SI-4 (2) - Automated Tools for Real-time Analysis
 {: #si-4.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization employs automated tools to support near real-time analysis of events.
+SI-4 (2) - 0
+    : The organization employs automated tools to support near real-time analysis of events.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

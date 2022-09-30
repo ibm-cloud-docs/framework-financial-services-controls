@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # IA-4 - Identifier Management
 {: #ia-4}
 
@@ -36,11 +36,11 @@ IA-4 (e)
     : Disabling the identifier after _[ninety (90) calendar days for user identifiers]_.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 The organization must follow customer requirements when establishing customer identifiers including:
 - aligning with customer email address or unique number corresponding to a user
-- prohibiting the use of Social Security Numbers (SSN) or customer-specific identifiers in the organization&#39;s internal environment
+- prohibiting the use of Social Security Numbers (SSN) or customer-specific identifiers in the organization's internal environment
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

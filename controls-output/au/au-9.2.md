@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AU-9 (2) - Audit Backup On Separate Physical Systems / Components
 {: #au-9.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system backs up audit records _[at least weekly]_ onto a physically different system or system component than the system or component being audited.
+AU-9 (2) - 0
+    : The information system backs up audit records [at least weekly] onto a physically different system or system component than the system or component being audited.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

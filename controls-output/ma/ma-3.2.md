@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # MA-3 (2) - Inspect Media
 {: #ma-3.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization checks media containing diagnostic and test programs for malicious code before the media are used in the information system.
+MA-3 (2) - 0
+    : The organization checks media containing diagnostic and test programs for malicious code before the media are used in the information system.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

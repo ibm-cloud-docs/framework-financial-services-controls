@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # RA-5 (1) - Update Tool Capability
 {: #ra-5.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization employs vulnerability scanning tools that include the capability to readily update the information system vulnerabilities to be scanned.
+RA-5 (1) - 0
+    : The organization employs vulnerability scanning tools that include the capability to readily update the information system vulnerabilities to be scanned.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

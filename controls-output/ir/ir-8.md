@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # IR-8 - Incident Response Plan
 {: #ir-8}
 
@@ -47,7 +47,7 @@ IR-8 (f)
     : Protects the incident response plan from unauthorized disclosure and modification.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Documentation includes plan and playbook(s).
 

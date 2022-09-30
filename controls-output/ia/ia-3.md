@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# IA-3 - Device Identification And Authentication
+               
+# IA-3 - Device Identification and Authentication
 {: #ia-3}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system uniquely identifies and authenticates _[organization-defined specific and/or types of devices]_ before establishing a _[local; remote; network]_ connection.
+IA-3 - 0
+    : The information system uniquely identifies and authenticates [organization-defined specific and/or types of devices] before establishing a [local; remote; network] connection.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - All devices must be authorized by organization security prior to allowing such network connections.
 

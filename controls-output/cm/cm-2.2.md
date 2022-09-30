@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# CM-2 (2) - Automation Support For Accuracy / Currency
+               
+# CM-2 (2) - Automation Support for Accuracy / Currency
 {: #cm-2.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization employs automated mechanisms to maintain an up-to-date, complete, accurate, and readily available baseline configuration of the information system.
+CM-2 (2) - 0
+    : The organization employs automated mechanisms to maintain an up-to-date, complete, accurate, and readily available baseline configuration of the information system.
 
 ## Implementation guidance
 {: #implementation-guidance}

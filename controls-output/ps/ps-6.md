@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # PS-6 - Access Agreements
 {: #ps-6}
 
@@ -32,7 +32,7 @@ PS-6 (c)
       2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or _[at least annually]_.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 The organization shall ensure their resources do not conduct customer business using non-customer accounts unless approved by the customer (e.g. personal email, social media, and blogs).
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CA-2 (2) - Specialized Assessments
 {: #ca-2.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization includes as part of security control assessments, _[at least annually]_, _[announced; unannounced]_, _[in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing; organization-defined other forms of security assessment]_.
+CA-2 (2) - 0
+    : The organization includes as part of security control assessments, [at least annually], [announced; unannounced], [in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing;  [organization-defined other forms of security assessment] ].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

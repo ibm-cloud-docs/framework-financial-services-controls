@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# ESA-3 - Non-Permitted Technology (Npt) List
+               
+# ESA-3 - Non-Permitted Technology (NPT) List
 {: #esa-3}
 
 ## Control requirements
 {: #control-requirements}
 
-Services and/or applications that are prohibited by the customer shall not be deployed in the FSS Cloud. Prohibited items will be negotiated directly with the customer.
+ESA-3 - 0
+    : Services and/or applications that are prohibited by the customer shall not be deployed in the FSS Cloud. Prohibited items will be negotiated directly with the customer.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

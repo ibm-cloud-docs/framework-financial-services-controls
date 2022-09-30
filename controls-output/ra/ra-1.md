@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,8 +11,8 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# RA-1 - Risk Assessment Policy And Procedures
+               
+# RA-1 - Risk Assessment Policy and Procedures
 {: #ra-1}
 
 ## Control requirements

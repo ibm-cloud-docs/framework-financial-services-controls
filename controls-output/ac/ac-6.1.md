@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AC-6 (1) - Authorize Access To Security Functions
+               
+# AC-6 (1) - Authorize Access to Security Functions
 {: #ac-6.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization explicitly authorizes access to _[organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information]_.
+AC-6 (1) - 0
+    : The organization explicitly authorizes access to [organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

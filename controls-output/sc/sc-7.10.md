@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # SC-7 (10) - Prevent Unauthorized Exfiltration
 {: #sc-7.10}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization prevents the unauthorized exfiltration of information across managed interfaces.
+SC-7 (10) - 0
+    : The organization prevents the unauthorized exfiltration of information across managed interfaces.
 
 ## Implementation guidance
 {: #implementation-guidance}

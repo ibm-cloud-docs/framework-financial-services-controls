@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CM-6 - Configuration Settings
 {: #cm-6}
 
@@ -33,7 +33,7 @@ CM-6 (d)
     : Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Usage and configuration changes made to Virtual Machine Monitors (VMM) and hypervisors must be documented and maintained for customer review.
 - NIST SP 800-125A Security Recommendations for Server-based Hypervisor Platforms should be consulted for additional guidance.

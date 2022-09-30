@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SC-4 - Information In Shared Resources
+               
+# SC-4 - Information in Shared Resources
 {: #sc-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system prevents unauthorized and unintended information transfer via shared system resources.
+SC-4 - 0
+    : The information system prevents unauthorized and unintended information transfer via shared system resources.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

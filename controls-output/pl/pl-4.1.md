@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,17 +11,18 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# PL-4 (1) - Social Media And Networking Restrictions
+               
+# PL-4 (1) - Social Media and Networking Restrictions
 {: #pl-4.1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.
+PL-4 (1) - 0
+    : The organization includes in the rules of behavior, explicit restrictions on the use of social media/networking sites and posting organizational information on public websites.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Restrictions on the use of social media/networking sites must include that customer data must not be processed, stored, or transmitted to open/global social spaces or collaboration sites.  Any customer data discovered must be deleted and/or restricted to authorized personnel.
 - Customer data must not be processed, stored, or transmitted to social media/networking sites without explicit customer approval.

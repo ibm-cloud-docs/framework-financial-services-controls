@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # CM-4 - Security Impact Analysis
 {: #cm-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.
+CM-4 - 0
+    : The organization analyzes changes to the information system to determine potential security impacts prior to change implementation.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

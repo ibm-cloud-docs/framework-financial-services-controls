@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-28"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,7 +11,7 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
+               
 # AC-2 - Account Management
 {: #ac-2}
 
@@ -60,13 +60,13 @@ AC-2 (k)
     : Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
 
 ## Additional IBM Cloud for Financial Services specifications
-{: #additional-fs-cloud-specifications}
+{: #additional-ibm-cloud-for-financial-services-specifications}
 
-- Prior to production access, users must be onboarded and registered in the customer&#39;s access management system.  
+- Prior to production access, users must be onboarded and registered in the customer's access management system.  
 - The organization must be able to export all current customer end users and permissions within the organization’s application/system.
 - Access activity/logs should be reported to the customer daily, as required.
 - Access activity/logs should contain the following content: user ID, associated roles and permissions, business/job function, last logon date.
-- Account managers must include the individual&#39;s or system&#39;s manager and account owner.
+- Account managers must include the individual's or system's manager and account owner.
 
 ## Implementation guidance
 {: #implementation-guidance}

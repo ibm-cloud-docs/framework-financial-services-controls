@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AC-2 (2) - Removal Of Temporary / Emergency Accounts
+               
+# AC-2 (2) - Removal of Temporary / Emergency Accounts
 {: #ac-2.2}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system automatically _[removes; disables]_ temporary and emergency accounts after _[no more than 30 days for temporary and emergency account types]_.
+AC-2 (2) - 0
+    : The information system automatically [removes; disables] temporary and emergency accounts after [no more than 30 days for temporary and emergency account types].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# SI-7 - Software, Firmware, And Information Integrity
+               
+# SI-7 - Software, Firmware, and Information Integrity
 {: #si-7}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization employs integrity verification tools to detect unauthorized changes to _[organization-defined software, firmware, and information]_.
+SI-7 - 0
+    : The organization employs integrity verification tools to detect unauthorized changes to [organization-defined software, firmware, and information].
 
 ## Implementation guidance
 {: #implementation-guidance}

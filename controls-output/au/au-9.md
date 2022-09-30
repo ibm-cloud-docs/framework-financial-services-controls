@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-27"
+lastupdated: "2022-09-29"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -11,14 +11,15 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-         
-# AU-9 - Protection Of Audit Information
+               
+# AU-9 - Protection of Audit Information
 {: #au-9}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system protects audit information and audit tools from unauthorized access, modification, and deletion.
+AU-9 - 0
+    : The information system protects audit information and audit tools from unauthorized access, modification, and deletion.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
