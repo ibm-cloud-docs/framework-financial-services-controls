@@ -11,7 +11,7 @@ Content in this repo is populated from [cloud-governance-framework/guidance](htt
 * [Staging](https://test.cloud.ibm.com/docs/framework-financial-services-controls
 )
 * [Production](https://cloud.ibm.com/docs/framework-financial-services-controls
-) - NOT YET AVAILABLE
+)
 
 ## Content Design and Development in IBM Cloud
 
