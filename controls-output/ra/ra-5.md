@@ -44,6 +44,13 @@ RA-5 (e)
 - The organization must remediate all Priority 1 (critical/high risk) and Priority 2 (moderate risk) vulnerabilities identified in new applications, releases, or public-facing systems before rolling out to production.
 - All software/technology is upgraded to the most up to date supported version.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

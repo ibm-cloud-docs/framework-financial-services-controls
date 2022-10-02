@@ -21,6 +21,15 @@ subcollection: framework-financial-services-controls
 IA-2 (1) - 0
     : The information system implements multifactor authentication for network access to privileged accounts.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+- [Working with {{site.data.keyword.openshiftlong_notm}}](/docs/framework-financial-services?topic=framework-financial-services-shared-containers-openshift)
+- [Running operator actions through a bastion host](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-bastion)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

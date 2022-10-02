@@ -32,6 +32,13 @@ ESA-5 (c)
 ESA-5 (d)
     : Review of subcontractor response framework to ensure adequate capabilities are in place for rapid assembly and response in the event of a disruption
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

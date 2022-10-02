@@ -21,6 +21,13 @@ subcollection: framework-financial-services-controls
 AC-4 (21) - 0
     : The information system separates information flows logically or physically using [organization-defined mechanisms and/or techniques] to accomplish [organization-defined required separations by types of information].
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 

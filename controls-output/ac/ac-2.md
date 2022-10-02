@@ -68,6 +68,17 @@ AC-2 (k)
 - Access activity/logs should contain the following content: user ID, associated roles and permissions, business/job function, last logon date.
 - Account managers must include the individual's or system's manager and account owner.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+- [Handling and securing secrets](/docs/framework-financial-services?topic=framework-financial-services-shared-secrets)
+- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
+- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

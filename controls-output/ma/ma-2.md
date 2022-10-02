@@ -38,6 +38,13 @@ MA-2 (e)
 MA-2 (f)
     : Includes _[organization-defined maintenance-related information]_ in organizational maintenance records.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 

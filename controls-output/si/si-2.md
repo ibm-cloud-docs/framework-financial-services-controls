@@ -38,6 +38,13 @@ SI-2 (d)
 - The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
 - All software/technology is upgraded to the most up to date supported version.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

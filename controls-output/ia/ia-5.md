@@ -50,6 +50,14 @@ IA-5 (i)
 IA-5 (j)
     : Changing authenticators for group/role accounts when membership to those accounts changes.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
+- [Handling and securing secrets](/docs/framework-financial-services?topic=framework-financial-services-shared-secrets)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

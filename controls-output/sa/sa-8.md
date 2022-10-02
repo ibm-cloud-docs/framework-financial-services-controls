@@ -31,6 +31,13 @@ SA-8 - 0
 - APIs shall be subject to the same security controls as any other resource within the system.
 - APIs shall be platform and operating system independent.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 

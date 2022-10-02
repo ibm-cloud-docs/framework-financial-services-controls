@@ -21,6 +21,13 @@ subcollection: framework-financial-services-controls
 SC-6 - 0
     : The information system protects the availability of resources by allocating [organization-defined resources] by [priority; quota; organization-defined security safeguards].
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [High availability overview](/docs/framework-financial-services?topic=framework-financial-services-shared-high-availability)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

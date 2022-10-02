@@ -21,6 +21,15 @@ subcollection: framework-financial-services-controls
 AU-4 - 0
     : The organization allocates audit record storage capacity in accordance with [organization-defined audit record storage requirements].
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
+- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

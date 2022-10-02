@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -34,6 +34,13 @@ SC-7 (4) (d)
 
 SC-7 (4) (e)
     : Reviews exceptions to the traffic flow policy _[at least annually]_ and removes exceptions that are no longer supported by an explicit mission/business need.
+
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
 
 
 

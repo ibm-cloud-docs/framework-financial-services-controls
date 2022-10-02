@@ -46,6 +46,13 @@ SA-4 (g)
 
 - Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

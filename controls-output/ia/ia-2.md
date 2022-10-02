@@ -21,6 +21,13 @@ subcollection: framework-financial-services-controls
 IA-2 - 0
     : The information system uniquely identifies and authenticates organizational users (or processes acting on behalf of organizational users).
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Handling and securing secrets](/docs/framework-financial-services?topic=framework-financial-services-shared-secrets)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 

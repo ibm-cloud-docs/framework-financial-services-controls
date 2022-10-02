@@ -21,6 +21,13 @@ subcollection: framework-financial-services-controls
 CM-2 (2) - 0
     : The organization employs automated mechanisms to maintain an up-to-date, complete, accurate, and readily available baseline configuration of the information system.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 

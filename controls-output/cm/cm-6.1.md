@@ -21,5 +21,12 @@ subcollection: framework-financial-services-controls
 CM-6 (1) - 0
     : The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [organization-defined information system components].
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
+
 
 

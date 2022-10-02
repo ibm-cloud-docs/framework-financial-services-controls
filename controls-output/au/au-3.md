@@ -41,6 +41,15 @@ In some cases, legal, compliance or business reasons may result in the need for 
 
 Validate audit/log files contain the necessary information the customer requires to meet policy/regulatory requirements.
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
+- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
+
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
