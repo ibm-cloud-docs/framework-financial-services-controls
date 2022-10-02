@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -37,13 +37,6 @@ IA-5 (1) (e)
 
 IA-5 (1) (f)
     : Allows the use of a temporary password for system logons with an immediate change to a permanent password.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

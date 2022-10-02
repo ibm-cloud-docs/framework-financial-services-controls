@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -52,14 +52,6 @@ CP-2 (g)
 
 - Documentation includes plan and playbook(s).
 - The organization must provide required pre-test documentation prior to test initiation. The customer must provide the organization with what is included in pre-test documentation.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [High availability overview](/docs/framework-financial-services?topic=framework-financial-services-shared-high-availability)
-- [Business continuity and disaster recovery overview](/docs/framework-financial-services?topic=framework-financial-services-shared-bcdr)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

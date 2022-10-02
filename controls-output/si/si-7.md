@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,13 +20,6 @@ subcollection: framework-financial-services-controls
 
 SI-7 - 0
     : The organization employs integrity verification tools to detect unauthorized changes to [organization-defined software, firmware, and information].
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

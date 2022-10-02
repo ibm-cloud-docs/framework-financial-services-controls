@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -37,13 +37,6 @@ MA-2 (e)
 
 MA-2 (f)
     : Includes _[organization-defined maintenance-related information]_ in organizational maintenance records.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

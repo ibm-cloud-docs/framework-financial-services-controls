@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -33,16 +33,6 @@ CP-7 (c)
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Where failover is used, applications must failover and maintain production workload to an alternate site for a period of five (5) consecutive days.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [High availability overview](/docs/framework-financial-services?topic=framework-financial-services-shared-high-availability)
-- [Business continuity and disaster recovery overview](/docs/framework-financial-services?topic=framework-financial-services-shared-bcdr)
-- [Operational logging](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-operational)
-- [Operational monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-operational)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

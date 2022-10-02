@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -31,13 +31,6 @@ SI-6 (c)
 
 SI-6 (d)
     : _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,15 +25,6 @@ CP-6 (a)
 
 CP-6 (b)
     : Ensures that the alternate storage site provides information security safeguards equivalent to that of the primary site.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Business continuity and disaster recovery overview](/docs/framework-financial-services?topic=framework-financial-services-shared-bcdr)
-- [Operational logging](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-operational)
-- [Operational monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-operational)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

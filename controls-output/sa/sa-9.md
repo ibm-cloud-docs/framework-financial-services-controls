@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -35,13 +35,6 @@ SA-9 (c)
 - Requirements for contingency planning and business continuity must be negotiated with third party service providers.
 - Degradation of performance by the same external vendor to the organization across different regions should be documented.
 - Authorized individuals include Federal Regulators in the event of insolvency.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

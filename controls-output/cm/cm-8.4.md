@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,13 +20,6 @@ subcollection: framework-financial-services-controls
 
 CM-8 (4) - 0
     : The organization includes in the information system component inventory information, a means for identifying by [asset owner/custodian], individuals responsible/accountable for administering those components.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -37,13 +37,6 @@ CM-6 (d)
 
 - Usage and configuration changes made to Virtual Machine Monitors (VMM) and hypervisors must be documented and maintained for customer review.
 - NIST SP 800-125A Security Recommendations for Server-based Hypervisor Platforms should be consulted for additional guidance.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

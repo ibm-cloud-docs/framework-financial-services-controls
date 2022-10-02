@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -31,13 +31,6 @@ CP-9 (c)
 
 CP-9 (d)
     : Protects the confidentiality, integrity, and availability of backup information at storage locations.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Business continuity and disaster recovery overview](/docs/framework-financial-services?topic=framework-financial-services-shared-bcdr)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

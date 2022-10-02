@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -67,17 +67,6 @@ AC-2 (k)
 - Access activity/logs should be reported to the customer daily, as required.
 - Access activity/logs should contain the following content: user ID, associated roles and permissions, business/job function, last logon date.
 - Account managers must include the individual's or system's manager and account owner.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
-- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
-- [Handling and securing secrets](/docs/framework-financial-services?topic=framework-financial-services-shared-secrets)
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
-- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

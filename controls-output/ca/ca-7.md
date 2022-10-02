@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -45,13 +45,6 @@ CA-7 (g)
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The customer has the right to request and review organization processes, procedures, and documentation (e.g. architecture diagrams, security and control environment, data management, incident management, etc.) in order to validate customer's policy, standards, outsourcing risk management framework, and regulatory requirements are being met by the organization.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Compliance monitoring](/docs/framework-financial-services?topic=framework-financial-services-shared-monitoring-compliance)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

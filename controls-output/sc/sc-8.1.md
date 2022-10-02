@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,15 +25,6 @@ SC-8 (1) - 0
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must encrypt customer data in transit regardless of the transport mechanism and/or digital media type used, except in the cases of DNS, NTP, BGP, ICMP, ARP, DHCP, TFTP, NFS v3, heartbeat, SNMP read-only, and logging (such as rsyslog/fluentd) traffic assessed as very low risk from a confidentiality/integrity standpoint. For web-based applications, the organization will ensure that transmitted data is protected in accordance with the recommendations of the Open Web Application Security Project (OWASP).
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Data encryption in transit](/docs/framework-financial-services?topic=framework-financial-services-shared-encryption-in-transit)
-- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
-- [Consumer connectivity to workload VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-workload)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

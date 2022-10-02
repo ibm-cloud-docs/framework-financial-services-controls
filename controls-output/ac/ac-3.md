@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -26,13 +26,6 @@ AC-3 - 0
 
 - Customer consent must be obtained prior to releasing any data outside its intended use.
 - Authorized individuals include Federal Regulators in the event of insolvency.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Access management in {{site.data.keyword.cloud_notm}}](/docs/framework-financial-services?topic=framework-financial-services-shared-account-access-management)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

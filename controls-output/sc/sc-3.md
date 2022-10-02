@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,13 +25,6 @@ SC-3 - 0
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - This control is required for ISVs.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

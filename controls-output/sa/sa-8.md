@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-02"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -30,13 +30,6 @@ SA-8 - 0
 - API architecture must utilize HTTP (W3C) standards and use RESTful APIs. 
 - APIs shall be subject to the same security controls as any other resource within the system.
 - APIs shall be platform and operating system independent.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
