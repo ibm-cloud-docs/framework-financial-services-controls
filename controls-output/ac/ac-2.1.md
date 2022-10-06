@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-02"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -26,9 +26,9 @@ AC-2 (1) - 0
 
 See the resources that follow to learn more about how to implement this control.
 
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 - [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
 - [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
+- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
