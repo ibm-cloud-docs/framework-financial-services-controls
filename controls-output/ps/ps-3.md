@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -30,6 +30,8 @@ PS-3 (b)
 {: #nist-supplemental-guidance}
 
 Personnel screening and rescreening activities reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, guidance, and specific criteria established for the risk designations of assigned positions. Organizations may define different rescreening conditions and frequencies for personnel accessing information systems based on types of information processed, stored, or transmitted by the systems.
+
+
 
 
 

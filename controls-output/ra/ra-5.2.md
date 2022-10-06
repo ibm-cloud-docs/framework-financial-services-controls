@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,6 +28,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 
 - 3000601: Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) 
 - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection
+
+
 
 
 

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,6 +20,8 @@ subcollection: framework-financial-services-controls
 
 PM-8 - 0
     : The organization addresses information security issues in the development, documentation, and updating of a critical infrastructure and key resources protection plan.
+
+
 
 
 

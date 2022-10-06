@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,6 +20,8 @@ subcollection: framework-financial-services-controls
 
 ESA-1 - 0
     : Applications with web content must be accessible to people with disabilities. Standards such as Web Content Accessibility Guidelines (WCAG) v 2.1 should be used.
+
+
 
 
 

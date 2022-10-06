@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -37,6 +37,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 {: #nist-supplemental-guidance}
 
 Authentication mechanisms may be required within a cryptographic module to authenticate an operator accessing the module and to verify that the operator is authorized to assume the requested role and perform services within that role.
+
+
 
 
 

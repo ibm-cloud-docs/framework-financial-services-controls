@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -39,6 +39,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 {: #nist-supplemental-guidance}
 
 This control enhancement focuses on the creation of strong passwords and the characteristics of such passwords (e.g., complexity) prior to use, the enforcement of which is carried out by organizational information systems in IA-5 (1).
+
+
 
 
 

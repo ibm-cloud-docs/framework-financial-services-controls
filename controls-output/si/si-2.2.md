@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-02"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -37,6 +37,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 - 3000611: Check whether Container Registry Vulnerability Advisor scans images for OS vulnerability detection 
 - 3000901: Check whether OpenShift worker nodes are updated to the latest image to ensure patching of vulnerabilities 
 - 3000907: Check whether OpenShift version is up-to-date
+
+
 
 
 

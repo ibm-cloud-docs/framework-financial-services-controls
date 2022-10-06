@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -25,6 +25,8 @@ PM-7 - 0
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Contingency planning activities must consider all dependencies within the supply chain.
+
+
 
 
 

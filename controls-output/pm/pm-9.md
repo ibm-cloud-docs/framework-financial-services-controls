@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -28,6 +28,8 @@ PM-9 (b)
 
 PM-9 (c)
     : Reviews and updates the risk management strategy _[at least annually]_ or as required, to address organizational changes.
+
+
 
 
 

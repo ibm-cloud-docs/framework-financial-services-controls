@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,6 +20,8 @@ subcollection: framework-financial-services-controls
 
 AC-2 (3) - 0
     : The information system automatically disables inactive accounts after [ninety (90) days for user accounts].
+
+
 
 
 

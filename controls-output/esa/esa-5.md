@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-02"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -46,6 +46,8 @@ The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 pr
 
 - 3000045: Check whether the Financial Services Validated setting is enabled in account settings 
 - 3000047: Check whether provisioned services are IAM enabled
+
+
 
 
 

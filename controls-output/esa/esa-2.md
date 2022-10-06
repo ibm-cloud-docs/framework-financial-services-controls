@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,6 +20,8 @@ subcollection: framework-financial-services-controls
 
 ESA-2 - 0
     : Help desk capabilities shall be able to meet the demands of fluctuating customer workloads with commensurate technologies.
+
+
 
 
 

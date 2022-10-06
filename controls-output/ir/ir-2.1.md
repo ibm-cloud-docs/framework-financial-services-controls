@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-09-29"
+lastupdated: "2022-10-06"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -20,6 +20,8 @@ subcollection: framework-financial-services-controls
 
 IR-2 (1) - 0
     : The organization incorporates simulated events into incident response training to facilitate effective response by personnel in crisis situations.
+
+
 
 
 
