@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-10-18"
 
 keywords: 
 subcollection: framework-financial-services-controls
@@ -18,19 +18,8 @@ subcollection: framework-financial-services-controls
 ## Control requirements
 {: #control-requirements}
 
-The organization must have oversight and controls on activities they outsource to subcontractors that contribute to the delivery of products or services contracted with the customer. The oversight and controls of these subcontractors must be commensurate with the level of risk associated with the products and services that the organization provides to the customer. If the organization is dependent on a subcontractor to meet Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO) contracted with the customer, the organization must be able to demonstrate that it monitors and oversees subcontractor recovery capabilities to ensure they can also recover within those RTO/RPO timeframes. Organization monitoring and oversight of subcontractors must include annual:
-
-ESA-5 (a)
-    : Review of subcontractor business continuity plans to ensure recovery strategies of product and services support the contracted RTO/RPO timeframes with the customer
-
-ESA-5 (b)
-    : Testing of subcontractor business continuity plans to ensure recovery occurs within the contracted RTO/RPO timeframes with the customer
-
-ESA-5 (c)
-    : Review of subcontractor testing results and validation that any findings generated are remediated and monitored to closure, with critical findings being addressed within 45 days of issue identification
-
-ESA-5 (d)
-    : Review of subcontractor response framework to ensure adequate capabilities are in place for rapid assembly and response in the event of a disruption
+ESA-5 - 0
+    : The organization must have oversight and controls on activities they outsource to subcontractors that contribute to the delivery of products or services contracted with the customer. The oversight and controls of these subcontractors must be commensurate with the level of risk associated with the products and services that the organization provides to the customer. If the organization is dependent on a subcontractor to meet Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO) contracted with the customer, the organization must be able to demonstrate that it monitors and oversees subcontractor recovery capabilities to ensure they can also recover within those RTO/RPO timeframes. Organization monitoring and oversight of subcontractors must include annual: - Review of subcontractor business continuity plans to ensure recovery strategies of product and services support the contracted RTO/RPO timeframes with the customer - Testing of subcontractor business continuity plans to ensure recovery occurs within the contracted RTO/RPO timeframes with the customer - Review of subcontractor testing results and validation that any findings generated are remediated and monitored to closure, with critical findings being addressed within 45 days of issue identification - Review of subcontractor response framework to ensure adequate capabilities are in place for rapid assembly and response in the event of a disruption
 
 ## Implementation guidance
 {: #implementation-guidance}
