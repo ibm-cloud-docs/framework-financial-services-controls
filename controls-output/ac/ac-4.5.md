@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-4 (5) - 0
-    : The information system enforces [organization-defined limitations] on embedding data types within other data types.
+    : The information system enforces [[Assignment: organization-defined limitations]] on embedding data types within other data types.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

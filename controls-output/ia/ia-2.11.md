@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 IA-2 (11) - 0
-    : The information system implements multifactor authentication for remote access to privileged and non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [FIPS 140-2 level 2 capable or above or equivalent].
+    : The information system implements multifactor authentication for remote access to privileged and non-privileged accounts such that one of the factors is provided by a device separate from the system gaining access and the device meets [[Assignment: organization-defined strength of mechanism requirements]].
 
 ## Implementation guidance
 {: #implementation-guidance}

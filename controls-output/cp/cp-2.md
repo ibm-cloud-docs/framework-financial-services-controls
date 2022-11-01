@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,22 +28,22 @@ CP-2 (a)
       3. Addresses contingency roles, responsibilities, assigned individuals with contact information;
       4. Addresses maintaining essential missions and business functions despite an information system disruption, compromise, or failure;
       5. Addresses eventual, full information system restoration without deterioration of the security safeguards originally planned and implemented; and
-      6. Is reviewed and approved by _[designated senior management personnel who is not an author or contributor to the plan]_;
+      6. Is reviewed and approved by _[[Assignment: organization-defined personnel or roles]_];
 
 CP-2 (b)
-    : Distributes copies of the contingency plan to _[organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]_;
+    : Distributes copies of the contingency plan to _[[Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]_];
 
 CP-2 (c)
     : Coordinates contingency planning activities with incident handling activities;
 
 CP-2 (d)
-    : Reviews the contingency plan for the information system _[annually or within 90 calendar days of significant changes]_;
+    : Reviews the contingency plan for the information system _[[Assignment: organization-defined frequency]_];
 
 CP-2 (e)
     : Updates the contingency plan to address changes to the organization, information system, or environment of operation and problems encountered during contingency plan implementation, execution, or testing;
 
 CP-2 (f)
-    : Communicates contingency plan changes to _[organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]_; and
+    : Communicates contingency plan changes to _[[Assignment: organization-defined key contingency personnel (identified by name and/or by role) and organizational elements]_]; and
 
 CP-2 (g)
     : Protects the contingency plan from unauthorized disclosure and modification.

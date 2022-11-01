@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ AT-2 (b)
     : When required by information system changes; and
 
 AT-2 (c)
-    : _[at least annually]_ thereafter.
+    : _[[Assignment: organization-defined frequency]_] thereafter.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

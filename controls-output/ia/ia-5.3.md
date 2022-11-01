@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 IA-5 (3) - 0
-    : The organization requires that the registration process to receive [All hardware/biometric (multifactor authenticators] be conducted [in person or by a trusted third party] before [organization-defined registration authority] with authorization by [organization-defined personnel or roles].
+    : The organization requires that the registration process to receive [[Assignment: organization-defined types of and/or specific authenticators]] be conducted [[Selection (): in person; by a trusted third party]] before [[Assignment: organization-defined registration authority]] with authorization by [[Assignment: organization-defined personnel or roles]].
 
 
 

@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CA-8 - 0
-    : The organization conducts penetration testing [prior to production use, at least annually, and after significant changes] on [applications that are utilized by FS-ready public cloud customers or process customer’s data].
+    : The organization conducts penetration testing [[Assignment: organization-defined frequency]] on [[Assignment: organization-defined information systems or system components]].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

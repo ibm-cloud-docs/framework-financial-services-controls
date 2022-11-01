@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CP-4 (a)
-    : Tests the contingency plan for the information system _[at least annually]_ using _[functional exercises]_ to determine the effectiveness of the plan and the organizational readiness to execute the plan;
+    : Tests the contingency plan for the information system _[[Assignment: organization-defined frequency]_] using _[[Assignment: organization-defined tests]_] to determine the effectiveness of the plan and the organizational readiness to execute the plan;
 
 CP-4 (b)
     : Reviews the contingency plan test results; and

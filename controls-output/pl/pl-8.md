@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ PL-8 (a)
       3. Describes any information security assumptions about, and dependencies on, external services;
 
 PL-8 (b)
-    : Reviews and updates the information security architecture _[at least annually or when a significant change occurs]_ to reflect updates in the enterprise architecture; and
+    : Reviews and updates the information security architecture _[[Assignment: organization-defined frequency]_] to reflect updates in the enterprise architecture; and
 
 PL-8 (c)
     : Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.

@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -33,7 +34,7 @@ SC-7 (4) (d)
     : Documents each exception to the traffic flow policy with a supporting mission/business need and duration of that need; and
 
 SC-7 (4) (e)
-    : Reviews exceptions to the traffic flow policy _[at least annually]_ and removes exceptions that are no longer supported by an explicit mission/business need.
+    : Reviews exceptions to the traffic flow policy _[[Assignment: organization-defined frequency]_] and removes exceptions that are no longer supported by an explicit mission/business need.
 
 ## Implementation guidance
 {: #implementation-guidance}

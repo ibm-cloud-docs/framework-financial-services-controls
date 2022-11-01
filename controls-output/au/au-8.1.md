@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,10 +22,10 @@ subcollection: framework-financial-services-controls
 The information system:
 
 AU-8 (1) (a)
-    : Compares the internal information system clocks _[authoritative time source: servertime.service.softlayer.com]_ with _[at least hourly]_; and
+    : Compares the internal information system clocks _[[Assignment: organization-defined frequency]_] with _[[Assignment: organization-defined authoritative time source]_]; and
 
 AU-8 (1) (b)
-    : Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than _[organization-defined time period]_.
+    : Synchronizes the internal system clocks to the authoritative time source when the time difference is greater than _[[Assignment: organization-defined time period]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

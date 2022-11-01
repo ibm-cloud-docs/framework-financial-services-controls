@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ MA-2 (b)
     : Approves and monitors all maintenance activities, whether performed on site or remotely and whether the equipment is serviced on site or removed to another location;
 
 MA-2 (c)
-    : Requires that _[organization-defined personnel or roles]_ explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
+    : Requires that _[[Assignment: organization-defined personnel or roles]_] explicitly approve the removal of the information system or system components from organizational facilities for off-site maintenance or repairs;
 
 MA-2 (d)
     : Sanitizes equipment to remove all information from associated media prior to removal from organizational facilities for off-site maintenance or repairs;
@@ -36,7 +37,7 @@ MA-2 (e)
     : Checks all potentially impacted security controls to verify that the controls are still functioning properly following maintenance or repair actions; and
 
 MA-2 (f)
-    : Includes _[organization-defined maintenance-related information]_ in organizational maintenance records.
+    : Includes _[[Assignment: organization-defined maintenance-related information]_] in organizational maintenance records.
 
 ## Implementation guidance
 {: #implementation-guidance}

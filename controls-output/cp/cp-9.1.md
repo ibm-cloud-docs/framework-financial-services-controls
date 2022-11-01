@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CP-9 (1) - 0
-    : The organization tests backup information [at least annually] to verify media reliability and information integrity.
+    : The organization tests backup information [[Assignment: organization-defined frequency]] to verify media reliability and information integrity.
 
 
 

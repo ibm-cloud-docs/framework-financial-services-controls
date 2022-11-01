@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 IA-3 - 0
-    : The information system uniquely identifies and authenticates [organization-defined specific and/or types of devices] before establishing a [local; remote; network] connection.
+    : The information system uniquely identifies and authenticates [[Assignment: organization-defined specific and/or types of devices]] before establishing a [[Selection (one or more): local; remote; network]] connection.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

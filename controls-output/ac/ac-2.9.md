@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-2 (9) - 0
-    : The organization only permits the use of shared/group accounts that meet [organization-defined conditions for establishing shared/group accounts].
+    : The organization only permits the use of shared/group accounts that meet [[Assignment: organization-defined conditions for establishing shared/group accounts]].
 
 
 

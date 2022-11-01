@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SC-5 - 0
-    : The information system protects against or limits the effects of the following types of denial of service attacks: [application and volumetric based attacks (OSI layers 3, 4, 6, and 7)] by employing [annual testing of the documented DoS and DDoS mitigation technologies].
+    : The information system protects against or limits the effects of the following types of denial of service attacks: [[Assignment: organization-defined types of denial of service attacks or references to sources for such information]] by employing [[Assignment: organization-defined security safeguards]].
 
 ## Implementation guidance
 {: #implementation-guidance}

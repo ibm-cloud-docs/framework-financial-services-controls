@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ PL-4 (b)
     : Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;
 
 PL-4 (c)
-    : Reviews and updates the rules of behavior _[at least every annually]_; and
+    : Reviews and updates the rules of behavior _[[Assignment: organization-defined frequency]_]; and
 
 PL-4 (d)
     : Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.

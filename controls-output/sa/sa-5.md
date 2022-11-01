@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -33,13 +34,13 @@ SA-5 (b)
       3. User responsibilities in maintaining the security of the system, component, or service;
 
 SA-5 (c)
-    : Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and takes _[organization-defined actions]_ in response;
+    : Documents attempts to obtain information system, system component, or information system service documentation when such documentation is either unavailable or nonexistent and takes _[[Assignment: organization-defined actions]_] in response;
 
 SA-5 (d)
     : Protects documentation as required, in accordance with the risk management strategy; and
 
 SA-5 (e)
-    : Distributes documentation to _[organization-defined personnel or roles]_.
+    : Distributes documentation to _[[Assignment: organization-defined personnel or roles]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

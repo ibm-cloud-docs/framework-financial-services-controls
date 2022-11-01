@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,14 +22,14 @@ subcollection: framework-financial-services-controls
 The organization:
 
 MP-1 (a)
-    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
+    : Develops, documents, and disseminates to _[[Assignment: organization-defined personnel or roles]_]:
       1. A media protection policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
       2. Procedures to facilitate the implementation of the media protection policy and associated media protection controls; and
 
 MP-1 (b)
     : Reviews and updates the current:
-      1. Media protection policy _[at least annually]_; and
-      2. Media protection procedures _[at least annually]_.
+      1. Media protection policy _[[Assignment: organization-defined frequency]_]; and
+      2. Media protection procedures _[[Assignment: organization-defined frequency]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

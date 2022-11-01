@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +29,7 @@ PM-1 (a)
       4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
 
 PM-1 (b)
-    : Reviews the organization-wide information security program plan _[at least annually]_;
+    : Reviews the organization-wide information security program plan _[[Assignment: organization-defined frequency]_];
 
 PM-1 (c)
     : Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; and

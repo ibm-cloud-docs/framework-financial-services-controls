@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization, upon termination of individual employment:
 
 PS-4 (a)
-    : Disables information system access within _[same day]_;
+    : Disables information system access within _[[Assignment: organization-defined time period]_];
 
 PS-4 (b)
     : Terminates/revokes any authenticators/credentials associated with the individual;
 
 PS-4 (c)
-    : Conducts exit interviews that include a discussion of _[organization-defined information security topics]_;
+    : Conducts exit interviews that include a discussion of _[[Assignment: organization-defined information security topics]_];
 
 PS-4 (d)
     : Retrieves all security-related organizational information system-related property;
@@ -36,7 +37,7 @@ PS-4 (e)
     : Retains access to organizational information and information systems formerly controlled by terminated individual; and
 
 PS-4 (f)
-    : Notifies _[organization-defined personnel or roles]_ within _[same day]_.
+    : Notifies _[[Assignment: organization-defined personnel or roles]_] within _[[Assignment: organization-defined time period]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

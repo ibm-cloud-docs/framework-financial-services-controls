@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CM-6 (1) - 0
-    : The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [organization-defined information system components].
+    : The organization employs automated mechanisms to centrally manage, apply, and verify configuration settings for [[Assignment: organization-defined information system components]].
 
 ## Implementation guidance
 {: #implementation-guidance}

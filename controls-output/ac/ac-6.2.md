@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-6 (2) - 0
-    : The organization requires that users of information system accounts, or roles, with access to [all security functions], use non-privileged accounts or roles, when accessing nonsecurity functions.
+    : The organization requires that users of information system accounts, or roles, with access to [[Assignment: organization-defined security functions or security-relevant information]], use non-privileged accounts or roles, when accessing nonsecurity functions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

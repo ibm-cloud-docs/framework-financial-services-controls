@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 RA-5 (5) - 0
-    : The information system implements privileged access authorization to [operating systems, databases, container images, and web applications] for selected [vulnerability scans].
+    : The information system implements privileged access authorization to [[Assignment: organization-identified information system components]] for selected [[Assignment: organization-defined vulnerability scanning activities]].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

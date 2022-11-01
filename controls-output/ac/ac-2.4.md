@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-2 (4) - 0
-    : The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [organization-defined personnel or roles].
+    : The information system automatically audits account creation, modification, enabling, disabling, and removal actions, and notifies [[Assignment: organization-defined personnel or roles]].
 
 ## Implementation guidance
 {: #implementation-guidance}

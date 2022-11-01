@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 IA-5 (4) - 0
-    : The organization employs automated tools to determine if password authenticators are sufficiently strong to satisfy [organization-defined requirements].
+    : The organization employs automated tools to determine if password authenticators are sufficiently strong to satisfy [[Assignment: organization-defined requirements]].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

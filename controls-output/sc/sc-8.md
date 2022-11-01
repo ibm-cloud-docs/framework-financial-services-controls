@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SC-8 - 0
-    : The information system protects the [confidentiality, integrity, AND availability] of transmitted information.
+    : The information system protects the [[Selection (one or more): confidentiality; integrity]] of transmitted information.
 
 ## Implementation guidance
 {: #implementation-guidance}

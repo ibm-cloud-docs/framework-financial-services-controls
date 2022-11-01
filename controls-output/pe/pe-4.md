@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 PE-4 - 0
-    : The organization controls physical access to [organization-defined information system distribution and transmission lines] within organizational facilities using [organization-defined security safeguards].
+    : The organization controls physical access to [[Assignment: organization-defined information system distribution and transmission lines]] within organizational facilities using [[Assignment: organization-defined security safeguards]].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

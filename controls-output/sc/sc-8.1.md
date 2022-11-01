@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SC-8 (1) - 0
-    : The information system implements cryptographic mechanisms to [prevent unauthorized disclosure of information] during transmission unless otherwise protected by [none].
+    : The information system implements cryptographic mechanisms to [[Selection (one or more): prevent unauthorized disclosure of information; detect changes to information]] during transmission unless otherwise protected by [[Assignment: organization-defined alternative physical safeguards]].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

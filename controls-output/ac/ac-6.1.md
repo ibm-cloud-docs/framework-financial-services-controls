@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-6 (1) - 0
-    : The organization explicitly authorizes access to [organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information].
+    : The organization explicitly authorizes access to [[Assignment: organization-defined security functions (deployed in hardware, software, and firmware) and security-relevant information]].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

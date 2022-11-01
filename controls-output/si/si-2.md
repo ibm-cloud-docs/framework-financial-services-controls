@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ SI-2 (b)
     : Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
 
 SI-2 (c)
-    : Installs security-relevant software and firmware updates within _[RA-5 (d) timeframes]_ of the release of the updates; and
+    : Installs security-relevant software and firmware updates within _[[Assignment: organization-defined time period]_] of the release of the updates; and
 
 SI-2 (d)
     : Incorporates flaw remediation into the organizational configuration management process.
@@ -35,7 +36,7 @@ SI-2 (d)
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-- The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
+- The organization must remediate vulnerability findings in accordance with customer remediation requirements.
 - All software/technology is upgraded to the most up to date supported version.
 
 ## Implementation guidance

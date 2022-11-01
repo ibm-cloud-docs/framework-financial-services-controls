@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,13 +25,13 @@ PS-5 (a)
     : Reviews and confirms ongoing operational need for current logical and physical access authorizations to information systems/facilities when individuals are reassigned or transferred to other positions within the organization;
 
 PS-5 (b)
-    : Initiates _[organization-defined transfer or reassignment actions]_ within _[two (2) days following the formal transfer action]_;
+    : Initiates _[[Assignment: organization-defined transfer or reassignment actions]_] within _[[Assignment: organization-defined time period following the formal transfer action]_];
 
 PS-5 (c)
     : Modifies access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; and
 
 PS-5 (d)
-    : Notifies _[organization-defined personnel or roles]_ within _[two (2) days of the formal transfer action]_.
+    : Notifies _[[Assignment: organization-defined personnel or roles]_] within _[[Assignment: organization-defined time period]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

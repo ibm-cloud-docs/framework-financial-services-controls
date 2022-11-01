@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,7 +25,7 @@ MP-3 (a)
     : Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
 
 MP-3 (b)
-    : Exempts _[no removable media types]_ from marking as long as the media remain within _[organization-defined controlled areas]_.
+    : Exempts _[[Assignment: organization-defined types of information system media]_] from marking as long as the media remain within _[[Assignment: organization-defined controlled areas]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

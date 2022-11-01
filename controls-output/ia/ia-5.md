@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -39,7 +40,7 @@ IA-5 (f)
     : Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators;
 
 IA-5 (g)
-    : Changing/refreshing authenticators _[90 days for user passwords and 365 days for system-to-system authenticators]_;
+    : Changing/refreshing authenticators _[[Assignment: organization-defined time period by authenticator type]_];
 
 IA-5 (h)
     : Protecting authenticator content from unauthorized disclosure and modification;

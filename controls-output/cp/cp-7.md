@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CP-7 (a)
-    : Establishes an alternate processing site including necessary agreements to permit the transfer and resumption of _[customer applications must failover production workload to an alternate site for a period of five (5) consecutive days]_ for essential missions/business functions within _[customer defined RTO/RPO for application]_ when the primary processing capabilities are unavailable;
+    : Establishes an alternate processing site including necessary agreements to permit the transfer and resumption of _[[Assignment: organization-defined information system operations]_] for essential missions/business functions within _[[Assignment: organization-defined time period consistent with recovery time and recovery point objectives]_] when the primary processing capabilities are unavailable;
 
 CP-7 (b)
     : Ensures that equipment and supplies required to transfer and resume operations are available at the alternate processing site or contracts are in place to support delivery to the site within the organization-defined time period for transfer/resumption; and

@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,10 +22,10 @@ subcollection: framework-financial-services-controls
 The organization develops a continuous monitoring strategy and implements a continuous monitoring program that includes:
 
 CA-7 (a)
-    : Establishment of _[organization-defined metrics]_ to be monitored;
+    : Establishment of _[[Assignment: organization-defined metrics]_] to be monitored;
 
 CA-7 (b)
-    : Establishment of _[organization-defined frequencies]_ for monitoring and _[organization-defined frequencies]_ for assessments supporting such monitoring;
+    : Establishment of _[[Assignment: organization-defined frequencies]_] for monitoring and _[[Assignment: organization-defined frequencies]_] for assessments supporting such monitoring;
 
 CA-7 (c)
     : Ongoing security control assessments in accordance with the organizational continuous monitoring strategy;
@@ -39,7 +40,7 @@ CA-7 (f)
     : Response actions to address results of the analysis of security-related information; and
 
 CA-7 (g)
-    : Reporting the security status of organization and the information system to _[to meet customer requirements]_ _[monthly]_.
+    : Reporting the security status of organization and the information system to _[[Assignment: organization-defined personnel or roles]_] _[[Assignment: organization-defined frequency]_].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

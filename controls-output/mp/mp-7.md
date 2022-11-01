@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -19,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 MP-7 - 0
-    : The organization [Selection: restricts; prohibits] the use of [Assignment: organization-defined types of information system media] on [Assignment: organization-defined information systems or system components] using [Assignment: organization-defined security safeguards].
+    : The organization [[Selection (): restricts; prohibits]] the use of [[Assignment: organization-defined types of information system media]] on [[Assignment: organization-defined information systems or system components]] using [[Assignment: organization-defined security safeguards]].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,7 +25,7 @@ AT-4 (a)
     : Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and
 
 AT-4 (b)
-    : Retains individual training records for _[at least one year]_.
+    : Retains individual training records for _[[Assignment: organization-defined time period]_].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

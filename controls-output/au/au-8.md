@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,7 +25,7 @@ AU-8 (a)
     : Uses internal system clocks to generate time stamps for audit records; and
 
 AU-8 (b)
-    : Records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and meets _[one second granularity of time measurement]_.
+    : Records time stamps for audit records that can be mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and meets _[[Assignment: organization-defined granularity of time measurement]_].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

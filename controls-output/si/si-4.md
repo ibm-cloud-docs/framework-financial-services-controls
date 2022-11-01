@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,11 +23,11 @@ The organization:
 
 SI-4 (a)
     : Monitors the information system to detect:
-      1. Attacks and indicators of potential attacks in accordance with _[organization-defined monitoring objectives]_; and
+      1. Attacks and indicators of potential attacks in accordance with _[[Assignment: organization-defined monitoring objectives]_]; and
       2. Unauthorized local, network, and remote connections;
 
 SI-4 (b)
-    : Identifies unauthorized use of the information system through _[organization-defined techniques and methods]_;
+    : Identifies unauthorized use of the information system through _[[Assignment: organization-defined techniques and methods]_];
 
 SI-4 (c)
     : Deploys monitoring devices:
@@ -43,7 +44,7 @@ SI-4 (f)
     : Obtains legal opinion with regard to information system monitoring activities in accordance with applicable federal laws, Executive Orders, directives, policies, or regulations; and
 
 SI-4 (g)
-    : Provides _[organization-defined information system monitoring information]_ to _[organization-defined personnel or roles]_ _[as needed; organization-defined frequency]_.
+    : Provides _[[Assignment: organization-defined information system monitoring information]_] to _[[Assignment: organization-defined personnel or roles]_] _[[Selection (one or more): as needed; [[Assignment: organization-defined frequency]_]]].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

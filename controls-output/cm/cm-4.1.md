@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,7 +25,7 @@ CM-4 (1) - 0
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-- The test environment must mirror the production environment.  
+- The test environment must mirror the production environment.
 - Customer data must not be placed into non-production environments.
 
 ## NIST supplemental guidance

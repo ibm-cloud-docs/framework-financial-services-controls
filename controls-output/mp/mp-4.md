@@ -3,9 +3,10 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-10-06"
+lastupdated: "2022-11-01"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -21,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 MP-4 (a)
-    : Physically controls and securely stores _[all types of digital and non-digital media with sensitive information]_ within _[organization-defined controlled areas]_; and
+    : Physically controls and securely stores _[[Assignment: organization-defined types of digital and/or non-digital media]_] within _[[Assignment: organization-defined controlled areas]_]; and
 
 MP-4 (b)
     : Protects information system media until the media are destroyed or sanitized using approved equipment, techniques, and procedures.
