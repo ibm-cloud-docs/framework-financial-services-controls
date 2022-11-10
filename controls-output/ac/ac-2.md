@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 AC-2 (a)
-    : Identifies and selects the following types of information system accounts to support organizational missions/business functions: _[[Assignment: organization-defined information system account types]_];
+    : Identifies and selects the following types of information system accounts to support organizational missions/business functions: _[organization-defined information system account types]_;
 
 AC-2 (b)
     : Assigns account managers for information system accounts;
@@ -34,10 +33,10 @@ AC-2 (d)
     : Specifies authorized users of the information system, group and role membership, and access authorizations (i.e., privileges) and other attributes (as required) for each account;
 
 AC-2 (e)
-    : Requires approvals by _[[Assignment: organization-defined personnel or roles]_] for requests to create information system accounts;
+    : Requires approvals by _[organization-defined personnel or roles]_ for requests to create information system accounts;
 
 AC-2 (f)
-    : Creates, enables, modifies, disables, and removes information system accounts in accordance with _[[Assignment: organization-defined procedures or conditions]_];
+    : Creates, enables, modifies, disables, and removes information system accounts in accordance with _[organization-defined procedures or conditions]_;
 
 AC-2 (g)
     : Monitors the use of information system accounts;
@@ -55,7 +54,7 @@ AC-2 (i)
       3. Other attributes as required by the organization or associated missions/business functions;
 
 AC-2 (j)
-    : Reviews accounts for compliance with account management requirements _[[Assignment: organization-defined frequency]_]; and
+    : Reviews accounts for compliance with account management requirements _[quarterly for privileged access; quarterly for any access to regulated systems, as specified by FS-ready public cloud customer vendor managers; annually for all other access]_; and
 
 AC-2 (k)
     : Establishes a process for reissuing shared/group account credentials (if deployed) when individuals are removed from the group.
@@ -63,7 +62,7 @@ AC-2 (k)
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-- Prior to production access, users must be onboarded and registered in the customer's access management system.
+- Prior to production access, users must be onboarded and registered in the customer's access management system.  
 - The organization must be able to export all current customer end users and permissions within the organization’s application/system.
 - Access activity/logs should be reported to the customer daily, as required.
 - Access activity/logs should contain the following content: user ID, associated roles and permissions, business/job function, last logon date.

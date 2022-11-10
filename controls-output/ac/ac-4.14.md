@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-4 (14) - 0
-    : The information system, when transferring information between different security domains, implements [[Assignment: organization-defined security policy filters]] requiring fully enumerated formats that restrict data structure and content.
+    : The information system, when transferring information between different security domains, implements [organization-defined security policy filters] requiring fully enumerated formats that restrict data structure and content.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

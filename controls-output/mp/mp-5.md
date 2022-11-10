@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 MP-5 (a)
-    : Protects and controls _[[Assignment: organization-defined types of information system media]_] during transport outside of controlled areas using _[[Assignment: organization-defined security safeguards]_];
+    : Protects and controls _[all media with sensitive information]_ during transport outside of controlled areas using _[for digital media, encryption using a FIPS 140-2 validated encryption module; for non-digital media, secured in locked container]_;
 
 MP-5 (b)
     : Maintains accountability for information system media during transport outside of controlled areas;

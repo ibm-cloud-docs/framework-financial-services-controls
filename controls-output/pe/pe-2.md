@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +27,7 @@ PE-2 (b)
     : Issues authorization credentials for facility access;
 
 PE-2 (c)
-    : Reviews the access list detailing authorized facility access by individuals _[[Assignment: organization-defined frequency]_]; and
+    : Reviews the access list detailing authorized facility access by individuals _[at least annually]_; and
 
 PE-2 (d)
     : Removes individuals from the facility access list when access is no longer required.

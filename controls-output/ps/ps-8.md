@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -25,7 +24,7 @@ PS-8 (a)
     : Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and
 
 PS-8 (b)
-    : Notifies _[[Assignment: organization-defined personnel or roles]_] within _[[Assignment: organization-defined time period]_] when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
+    : Notifies _[organization-defined personnel or roles]_ within _[organization-defined time period]_ when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CA-2 (1) - 0
-    : The organization employs assessors or assessment teams with [[Assignment: organization-defined level of independence]] to conduct security control assessments.
+    : The organization employs assessors or assessment teams with [organization-defined level of independence] to conduct security control assessments.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

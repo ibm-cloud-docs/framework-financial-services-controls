@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -34,32 +33,28 @@ CM-3 (d)
     : Implements approved configuration-controlled changes to the information system;
 
 CM-3 (e)
-    : Retains records of configuration-controlled changes to the information system for _[[Assignment: organization-defined time period]_];
+    : Retains records of configuration-controlled changes to the information system for _[in accordance with record retention policies and procedures]_;
 
 CM-3 (f)
     : Audits and reviews activities associated with configuration-controlled changes to the information system; and
 
 CM-3 (g)
-    : Coordinates and provides oversight for configuration change control activities through _[[Assignment: organization-defined configuration change control element (e.g., committee, board)]_] that convenes _[[Selection (one or more): [[Assignment: organization-defined frequency]_]; _[[Assignment: organization-defined configuration change conditions]_]]].
+    : Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[organization-defined frequency; organization-defined configuration change conditions]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must notify impacted customers prior to implementing any changes.  The organization must validate changes after they have been implemented.
-- All changes to the systems / applications / processes used by the customer must be under a formal change management/control process and must be communicated to the customer prior to implementation.
+- All changes to the systems / applications / processes used by the customer must be under a formal change management/control process and must be communicated to the customer prior to implementation. 
 - All changes to the customer environment (including supporting process) must be configuration-controlled.
 - The organization's change management process must address emergency changes.
 - The organization shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
-- Each change request must be properly documented to  ITIL v3 - Request for Change (RFC) Standards:  Each RFC must have the following fields:
+- Each change request must be properly documented to  ITIL v3 - Request for Change (RFC) Standards:  Each RFC must have the following fields: 
 - Unique ID :
 - Date of submission :
 - Change Owner :
 - Initiator of the RFC :
 - Proposed Change priority :
-- Low
-- Normal
-- High
-- Very High (Emergency Change)
 - Reference to Change Proposal
 - Description of the Change being applied for :
 - Summary description :

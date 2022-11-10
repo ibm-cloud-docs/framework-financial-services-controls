@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +27,7 @@ CA-3 (b)
     : Documents, for each interconnection, the interface characteristics, security requirements, and the nature of the information communicated; and
 
 CA-3 (c)
-    : Reviews and updates Interconnection Security Agreements _[[Assignment: organization-defined frequency]_].
+    : Reviews and updates Interconnection Security Agreements _[at least annually and on input from the customer]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

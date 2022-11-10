@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,10 +21,10 @@ subcollection: framework-financial-services-controls
 The organization:
 
 AU-6 (a)
-    : Reviews and analyzes information system audit records _[[Assignment: organization-defined frequency]_] for indications of _[[Assignment: organization-defined inappropriate or unusual activity]_]; and
+    : Reviews and analyzes information system audit records _[at least weekly]_ for indications of _[organization-defined inappropriate or unusual activity]_; and
 
 AU-6 (b)
-    : Reports findings to _[[Assignment: organization-defined personnel or roles]_].
+    : Reports findings to _[organization-defined personnel or roles]_.
 
 ## Implementation guidance
 {: #implementation-guidance}

@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -31,7 +30,7 @@ PS-7 (c)
     : Documents personnel security requirements;
 
 PS-7 (d)
-    : Requires third-party providers to notify _[[Assignment: organization-defined personnel or roles]_] of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within _[[Assignment: organization-defined time period]_]; and
+    : Requires third-party providers to notify _[organization-defined personnel or roles]_ of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within _[same day]_; and
 
 PS-7 (e)
     : Monitors provider compliance.

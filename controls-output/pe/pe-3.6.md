@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 PE-3 (6) - 0
-    : The organization employs a penetration testing process that includes [[Assignment: organization-defined frequency]], unannounced attempts to bypass or circumvent security controls associated with physical access points to the facility.
+    : The organization employs a penetration testing process that includes [organization-defined frequency], unannounced attempts to bypass or circumvent security controls associated with physical access points to the facility.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

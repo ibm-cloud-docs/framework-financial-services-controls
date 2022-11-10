@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,16 +21,16 @@ subcollection: framework-financial-services-controls
 The information system:
 
 SI-6 (a)
-    : Verifies the correct operation of _[[Assignment: organization-defined security functions]_];
+    : Verifies the correct operation of _[organization-defined security functions]_;
 
 SI-6 (b)
-    : Performs this verification _[[Selection (one or more): [[Assignment: organization-defined system transitional states]_]; upon command by user with appropriate privilege; _[[Assignment: organization-defined frequency]_]]];
+    : Performs this verification _[to include upon system startup and/or restart and at least monthly]_;
 
 SI-6 (c)
-    : Notifies _[[Assignment: organization-defined personnel or roles]_] of failed security verification tests; and
+    : Notifies _[to include system administrators and security personnel]_ of failed security verification tests; and
 
 SI-6 (d)
-    : _[[Selection (one or more): shuts the information system down; restarts the information system; [[Assignment: organization-defined alternative action(s)]_]]] when anomalies are discovered.
+    : _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
 
 ## Implementation guidance
 {: #implementation-guidance}

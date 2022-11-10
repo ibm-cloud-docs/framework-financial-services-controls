@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -25,16 +24,16 @@ RA-3 (a)
     : Conducts an assessment of risk, including the likelihood and magnitude of harm, from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information system and the information it processes, stores, or transmits;
 
 RA-3 (b)
-    : Documents risk assessment results in _[[Selection (): security plan; risk assessment report; [[Assignment: organization-defined document]_]]];
+    : Documents risk assessment results in _[security assessment report]_;
 
 RA-3 (c)
-    : Reviews risk assessment results _[[Assignment: organization-defined frequency]_];
+    : Reviews risk assessment results _[at least annually, when a significant change occurs, or when threats evolve]_;
 
 RA-3 (d)
-    : Disseminates risk assessment results to _[[Assignment: organization-defined personnel or roles]_]; and
+    : Disseminates risk assessment results to _[organization-defined personnel or roles]_; and
 
 RA-3 (e)
-    : Updates the risk assessment _[[Assignment: organization-defined frequency]_] or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
+    : Updates the risk assessment _[at least annually]_ or whenever there are significant changes to the information system or environment of operation (including the identification of new threats and vulnerabilities), or other conditions that may impact the security state of the system.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

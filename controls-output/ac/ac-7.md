@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,10 +21,10 @@ subcollection: framework-financial-services-controls
 The information system:
 
 AC-7 (a)
-    : Enforces a limit of _[[Assignment: organization-defined number]_] consecutive invalid logon attempts by a user during a _[[Assignment: organization-defined time period]_]; and
+    : Enforces a limit of _[not more than five (5)]_ consecutive invalid logon attempts by a user during a _[fifteen (15) minutes]_; and
 
 AC-7 (b)
-    : Automatically _[[Selection (): locks the account/node for an _[[Assignment: organization-defined time period]__]; locks the account/node until released by an administrator; delays next logon prompt according to _[[Assignment: organization-defined delay algorithm]_]]] when the maximum number of unsuccessful attempts is exceeded.
+    : Automatically _[locks the account/node for a thirty (30) minutes]_ when the maximum number of unsuccessful attempts is exceeded.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

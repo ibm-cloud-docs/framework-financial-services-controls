@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,14 +21,14 @@ subcollection: framework-financial-services-controls
 The organization:
 
 SA-1 (a)
-    : Develops, documents, and disseminates to _[[Assignment: organization-defined personnel or roles]_]:
+    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
       1. A system and services acquisition policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
       2. Procedures to facilitate the implementation of the system and services acquisition policy and associated system and services acquisition controls; and
 
 SA-1 (b)
     : Reviews and updates the current:
-      1. System and services acquisition policy _[[Assignment: organization-defined frequency]_]; and
-      2. System and services acquisition procedures _[[Assignment: organization-defined frequency]_].
+      1. System and services acquisition policy _[at least annually]_; and
+      2. System and services acquisition procedures _[at least annually]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

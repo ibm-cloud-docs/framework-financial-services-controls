@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +27,7 @@ CA-6 (b)
     : Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
 
 CA-6 (c)
-    : Updates the security authorization _[[Assignment: organization-defined frequency]_].
+    : Updates the security authorization _[at least every three (3) years or when a significant change occurs]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

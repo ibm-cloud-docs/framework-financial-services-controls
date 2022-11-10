@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +27,7 @@ PM-9 (b)
     : Implements the risk management strategy consistently across the organization; and
 
 PM-9 (c)
-    : Reviews and updates the risk management strategy _[[Assignment: organization-defined frequency]_] or as required, to address organizational changes.
+    : Reviews and updates the risk management strategy _[at least annually]_ or as required, to address organizational changes.
 
 
 

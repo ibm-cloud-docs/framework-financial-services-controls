@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +27,7 @@ AC-2 (7) (b)
     : Monitors privileged role assignments; and
 
 AC-2 (7) (c)
-    : Takes _[[Assignment: organization-defined actions]_] when privileged role assignments are no longer appropriate.
+    : Takes _[organization-defined actions]_ when privileged role assignments are no longer appropriate.
 
 ## Implementation guidance
 {: #implementation-guidance}

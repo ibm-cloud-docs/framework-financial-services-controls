@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -25,7 +24,7 @@ CA-5 (a)
     : Develops a plan of action and milestones for the information system to document the organization’s planned remedial actions to correct weaknesses or deficiencies noted during the assessment of the security controls and to reduce or eliminate known vulnerabilities in the system; and
 
 CA-5 (b)
-    : Updates existing plan of action and milestones _[[Assignment: organization-defined frequency]_] based on the findings from security controls assessments, security impact analyses, and continuous monitoring activities.
+    : Updates existing plan of action and milestones _[at least monthly]_ based on the findings from security controls assessments, security impact analyses, and continuous monitoring activities.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

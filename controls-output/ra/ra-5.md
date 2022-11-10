@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 RA-5 (a)
-    : Scans for vulnerabilities in the information system and hosted applications _[[Assignment: organization-defined frequency and/or randomly in accordance with organization-defined process]_] and when new vulnerabilities potentially affecting the system/applications are identified and reported;
+    : Scans for vulnerabilities in the information system and hosted applications _[weekly operating system/infrastructure and databases; weekly container images; quarterly web applications; annual source code/static analysis]_ and when new vulnerabilities potentially affecting the system/applications are identified and reported;
 
 RA-5 (b)
     : Employs vulnerability scanning tools and techniques that facilitate interoperability among tools and automate parts of the vulnerability management process by using standards for:
@@ -34,10 +33,10 @@ RA-5 (c)
     : Analyzes vulnerability scan reports and results from security control assessments;
 
 RA-5 (d)
-    : Remediates legitimate vulnerabilities _[[Assignment: organization-defined response times]_] in accordance with an organizational assessment of risk; and
+    : Remediates legitimate vulnerabilities _[Priority 1 (very high), such as publicly known vulnerabilities with very high likelihood and impact, must be mitigated within four (4) days from date of discovery; Priority 2 (high), such as vulnerabilities with high likelihood and high impact, must be remediated within 45 days; Priority 3 (moderate), such as vulnerabilities with moderate likelihood and impact, must be remediated within 100 days; Priority 4 (low) and 5 (very low) have no specific remediation period unless otherwise directed. Refer to table I-2 in NIST SP 800-30 for additional guidance on assessing risk]_ in accordance with an organizational assessment of risk; and
 
 RA-5 (e)
-    : Shares information obtained from the vulnerability scanning process and security control assessments with _[[Assignment: organization-defined personnel or roles]_] to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).
+    : Shares information obtained from the vulnerability scanning process and security control assessments with _[organization-defined personnel or roles]_ to help eliminate similar vulnerabilities in other information systems (i.e., systemic weaknesses or deficiencies).
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

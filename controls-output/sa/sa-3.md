@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,7 +21,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 SA-3 (a)
-    : Manages the information system using _[[Assignment: organization-defined system development life cycle]_] that incorporates information security considerations;
+    : Manages the information system using _[organization-defined system development life cycle]_ that incorporates information security considerations;
 
 SA-3 (b)
     : Defines and documents information security roles and responsibilities throughout the system development life cycle;

@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -25,7 +24,7 @@ SC-7 (a)
     : Monitors and controls communications at the external boundary of the system and at key internal boundaries within the system;
 
 SC-7 (b)
-    : Implements subnetworks for publicly accessible system components that are _[[Selection (): physically; logically]_] separated from internal organizational networks; and
+    : Implements subnetworks for publicly accessible system components that are _[physically; logically]_ separated from internal organizational networks; and
 
 SC-7 (c)
     : Connects to external networks or information systems only through managed interfaces consisting of boundary protection devices arranged in accordance with an organizational security architecture.

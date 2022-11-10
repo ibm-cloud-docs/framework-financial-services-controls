@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,10 +21,10 @@ subcollection: framework-financial-services-controls
 The organization:
 
 IR-6 (a)
-    : Requires personnel to report suspected security incidents to the organizational incident response capability within _[[Assignment: organization-defined time period]_]; and
+    : Requires personnel to report suspected security incidents to the organizational incident response capability within _[no longer than 24 hours for systems related to FS-ready public cloud customers]_; and
 
 IR-6 (b)
-    : Reports security incident information to _[[Assignment: organization-defined authorities]_].
+    : Reports security incident information to _[Information Security Incident Response Team of the FS-ready public cloud customers]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

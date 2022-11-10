@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,10 +21,10 @@ subcollection: framework-financial-services-controls
 The organization:
 
 PE-8 (a)
-    : Maintains visitor access records to the facility where the information system resides for _[[Assignment: organization-defined time period]_]; and
+    : Maintains visitor access records to the facility where the information system resides for _[for a minimum of one (1) year]_; and
 
 PE-8 (b)
-    : Reviews visitor access records _[[Assignment: organization-defined frequency]_].
+    : Reviews visitor access records _[at least monthly]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

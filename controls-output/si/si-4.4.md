@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SI-4 (4) - 0
-    : The information system monitors inbound and outbound communications traffic [[Assignment: organization-defined frequency]] for unusual or unauthorized activities or conditions.
+    : The information system monitors inbound and outbound communications traffic [continuously] for unusual or unauthorized activities or conditions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

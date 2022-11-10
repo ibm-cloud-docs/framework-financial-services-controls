@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,7 +27,7 @@ PS-2 (b)
     : Establishes screening criteria for individuals filling those positions; and
 
 PS-2 (c)
-    : Reviews and updates position risk designations _[[Assignment: organization-defined frequency]_].
+    : Reviews and updates position risk designations _[at least every three years]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

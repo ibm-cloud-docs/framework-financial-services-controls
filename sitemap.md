@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2022
-lastupdated: "2022-10-18"
+lastupdated: "2022-11-10"
 
 keywords: 
 
@@ -2122,7 +2122,7 @@ Find what you are looking for in the topics that are available for {{site.data.k
 {: #sitemap_enterprise_data_management_edm}
 
 
-[EDM-1 - Quality Assurance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#edm-1)
+[EDM-1 - Enterprise Data Management (Quality Assurance)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#edm-1)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#control-requirements)
 
@@ -2175,3 +2175,5 @@ Find what you are looking for in the topics that are available for {{site.data.k
 [UL-2 - Information Sharing With Third Parties](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#ul-2)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#control-requirements)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#nist-supplemental-guidance)

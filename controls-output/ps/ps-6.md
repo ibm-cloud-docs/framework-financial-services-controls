@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -25,12 +24,12 @@ PS-6 (a)
     : Develops and documents access agreements for organizational information systems;
 
 PS-6 (b)
-    : Reviews and updates the access agreements _[[Assignment: organization-defined frequency]_]; and
+    : Reviews and updates the access agreements _[at least annually]_; and
 
 PS-6 (c)
     : Ensures that individuals requiring access to organizational information and information systems:
       1. Sign appropriate access agreements prior to being granted access; and
-      2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or _[[Assignment: organization-defined frequency]_].
+      2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or _[at least annually]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

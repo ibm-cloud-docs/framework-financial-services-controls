@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 RA-5 (2) - 0
-    : The organization updates the information system vulnerabilities scanned [[Selection (one or more):  [[Assignment: organization-defined frequency]] ; prior to a new scan; when new vulnerabilities are identified and reported]].
+    : The organization updates the information system vulnerabilities scanned [prior to a new scan].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -25,7 +24,7 @@ SI-2 (3) (a)
     : Measures the time between flaw identification and flaw remediation; and
 
 SI-2 (3) (b)
-    : Establishes _[[Assignment: organization-defined benchmarks]_] for taking corrective actions.
+    : Establishes _[organization-defined benchmarks]_ for taking corrective actions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

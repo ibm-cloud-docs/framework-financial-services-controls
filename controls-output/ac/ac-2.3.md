@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-2 (3) - 0
-    : The information system automatically disables inactive accounts after [[Assignment: organization-defined time period]].
+    : The information system automatically disables inactive accounts after [ninety (90) days for user accounts].
 
 
 

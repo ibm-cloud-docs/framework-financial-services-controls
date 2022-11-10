@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -22,13 +21,13 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CP-9 (a)
-    : Conducts backups of user-level information contained in the information system _[[Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]_];
+    : Conducts backups of user-level information contained in the information system _[daily incremental; weekly full]_;
 
 CP-9 (b)
-    : Conducts backups of system-level information contained in the information system _[[Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]_];
+    : Conducts backups of system-level information contained in the information system _[daily incremental; weekly full]_;
 
 CP-9 (c)
-    : Conducts backups of information system documentation including security-related documentation _[[Assignment: organization-defined frequency consistent with recovery time and recovery point objectives]_]; and
+    : Conducts backups of information system documentation including security-related documentation _[daily incremental; weekly full]_; and
 
 CP-9 (d)
     : Protects the confidentiality, integrity, and availability of backup information at storage locations.

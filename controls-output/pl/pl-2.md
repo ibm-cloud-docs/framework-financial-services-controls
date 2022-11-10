@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -34,10 +33,10 @@ PL-2 (a)
       9. Is reviewed and approved by the authorizing official or designated representative prior to plan implementation;
 
 PL-2 (b)
-    : Distributes copies of the security plan and communicates subsequent changes to the plan to _[[Assignment: organization-defined personnel or roles]_];
+    : Distributes copies of the security plan and communicates subsequent changes to the plan to _[organization-defined personnel or roles]_;
 
 PL-2 (c)
-    : Reviews the security plan for the information system _[[Assignment: organization-defined frequency]_];
+    : Reviews the security plan for the information system _[at least annually]_;
 
 PL-2 (d)
     : Updates the plan to address changes to the information system/environment of operation or problems identified during plan implementation or security control assessments; and

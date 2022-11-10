@@ -3,10 +3,9 @@
 copyright:
   years: 2020, 2022
 
-lastupdated: "2022-11-01"
+lastupdated: "2022-11-10"
 
-keywords:
-
+keywords: 
 subcollection: framework-financial-services-controls
 ---
 
@@ -20,7 +19,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AU-2 (3) - 0
-    : The organization reviews and updates the audited events [[Assignment: organization-defined frequency]].
+    : The organization reviews and updates the audited events [annually or whenever there is a change in the threat environment].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
