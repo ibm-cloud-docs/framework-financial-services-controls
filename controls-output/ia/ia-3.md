@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -29,10 +30,10 @@ IA-3 - 0
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000020: Check whether authorized IP ranges are configured for the account 
-- 3000076: IBM Cloud VPC uniquely identifies all physical devices before accepting a network connection
+- Check whether authorized IP ranges are configured for the account 
+- Check whether IBM Cloud VPC uniquely identifies all physical devices before accepting a network connection
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

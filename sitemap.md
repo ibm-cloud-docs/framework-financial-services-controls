@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2020, 2022
-lastupdated: "2022-11-10"
+  years: 2020, 2023
+lastupdated: "2023-02-08"
 
 keywords: 
 
@@ -268,8 +268,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17#implementation-guidance)
 
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17#scc-fs-cloud-profile)
-
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17#nist-supplemental-guidance)
 
 [AC-17 (9) - Disconnect / Disable Access](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ac-17.9#ac-17.9)
@@ -503,8 +501,6 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#control-requirements)
 
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#implementation-guidance)
-
-* [IBM Cloud for Financial Services profile](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#scc-fs-cloud-profile)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-au-14#nist-supplemental-guidance)
 
@@ -2122,7 +2118,7 @@ Find what you are looking for in the topics that are available for {{site.data.k
 {: #sitemap_enterprise_data_management_edm}
 
 
-[EDM-1 - Enterprise Data Management (Quality Assurance)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#edm-1)
+[EDM-1 - Quality Assurance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#edm-1)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-edm-1#control-requirements)
 
@@ -2176,4 +2172,3 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#control-requirements)
 
-* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#nist-supplemental-guidance)

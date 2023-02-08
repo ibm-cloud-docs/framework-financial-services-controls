@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -45,16 +46,20 @@ CM-3 (g)
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - The organization must notify impacted customers prior to implementing any changes.  The organization must validate changes after they have been implemented.
-- All changes to the systems / applications / processes used by the customer must be under a formal change management/control process and must be communicated to the customer prior to implementation. 
+- All changes to the systems / applications / processes used by the customer must be under a formal change management/control process and must be communicated to the customer prior to implementation.
 - All changes to the customer environment (including supporting process) must be configuration-controlled.
 - The organization's change management process must address emergency changes.
 - The organization shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
-- Each change request must be properly documented to  ITIL v3 - Request for Change (RFC) Standards:  Each RFC must have the following fields: 
+- Each change request must be properly documented to  ITIL v3 - Request for Change (RFC) Standards:  Each RFC must have the following fields:
 - Unique ID :
 - Date of submission :
 - Change Owner :
 - Initiator of the RFC :
 - Proposed Change priority :
+- Low
+- Normal
+- High
+- Very High (Emergency Change)
 - Reference to Change Proposal
 - Description of the Change being applied for :
 - Summary description :

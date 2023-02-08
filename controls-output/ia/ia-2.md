@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -31,11 +32,11 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000060: IBMid uniquely identifies and authenticates organizational users or processes that act on behalf of organizational users 
-- 3000061: IBM Cloud IAM uniquely identifies and authenticates organizational users or processes that act on behalf of organizational users 
-- 3000903: Check whether OpenShift cluster has image pull secrets enabled
+- IBMid uniquely identifies and authenticates organizational users or processes that act on behalf of organizational users 
+- IBM Cloud IAM uniquely identifies and authenticates organizational users or processes that act on behalf of organizational users 
+- Check whether OpenShift cluster has image pull secrets enabled
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

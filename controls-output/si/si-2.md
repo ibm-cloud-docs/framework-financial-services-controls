@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -35,7 +36,7 @@ SI-2 (d)
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-- The organization must remediate vulnerability findings in accordance with customer remediation requirements.  
+- The organization must remediate vulnerability findings in accordance with customer remediation requirements.
 - All software/technology is upgraded to the most up to date supported version.
 
 ## Implementation guidance
@@ -48,12 +49,12 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Goals |
+| Requirement ID | Rules |
 |----------------|-------|
-| SI-2 (a) | - 3000324: Check whether Event Notifications is configured for each of the supported services | 
-{: caption="Goals for SI-2 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
+| SI-2 (a) | - Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) \n - Check whether Event Notifications are configured for each of the supported Service | 
+{: caption="Rules for SI-2 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

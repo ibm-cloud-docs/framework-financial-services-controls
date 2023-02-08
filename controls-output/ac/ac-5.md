@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -46,12 +47,12 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Goals |
+| Requirement ID | Rules |
 |----------------|-------|
-| AC-5 (c) | - 3000009: Check whether IAM roles are used to create IAM policies for IBM resources \n - 3000015: Check whether IAM users are attached to at least one access group \n - 3000016: Check whether IAM policies for users are attached only to groups or roles \n - 3000027: Check whether permissions for API key creation are limited and configured in IAM settings for the account owner \n - 3000035: Check whether account service access is managed only by IAM access groups \n - 3000106: Check whether Cloud Object Storage bucket access is restricted by using IAM and S3 access control \n - 3000707: Check whether App ID user profile updates from client apps is disabled \n - 3000708: Check whether App ID Cloud Directory users aren't able to update their own accounts \n - 3000709: Check whether App ID Cloud Directory users aren't able to self-sign up to applications | 
-{: caption="Goals for AC-5 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
+| AC-5 (c) | - Check whether permissions for API key creation are limited and configured in IAM settings for the account owner \n - Check whether App ID Cloud Directory users aren't able to update their own accounts \n - Check whether IAM roles are used to create IAM policies for IBM resources \n - Check whether IAM users are attached to at least one access group \n - Check whether App ID Cloud Directory users aren't able to self-sign up to applications \n - Check whether App ID user profile updates from client apps is disabled | 
+{: caption="Rules for AC-5 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

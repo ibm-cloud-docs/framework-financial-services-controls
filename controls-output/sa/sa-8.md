@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ SA-8 - 0
 - Solutions must minimize the reliance on underlying network and operating system infrastructure to ensure system independence.
 - Develop applications to leverage cloud scalability capabilities, with service level obligations based on their availability requirements.
 - NIST Publication 800-144 - Guidelines on Security and Privacy in Public Cloud Computing emphasize logical separation of resources.  The organization must ensure applications are designed to separate each layer of the stack.  Access to each layer must ensure separation of duties.
-- API architecture must utilize HTTP (W3C) standards and use RESTful APIs. 
+- API architecture must utilize HTTP (W3C) standards and use RESTful APIs.
 - APIs shall be subject to the same security controls as any other resource within the system.
 - APIs shall be platform and operating system independent.
 

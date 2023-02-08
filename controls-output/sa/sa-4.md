@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -56,18 +57,18 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Goals |
+| Requirement ID | Rules |
 |----------------|-------|
-| SA-4 (a) | - 3000045: Check whether the Financial Services Validated setting is enabled in account settings \n - 3000047: Check whether provisioned services are IAM enabled | 
-| SA-4 (b) | - 3000047: Check whether provisioned services are IAM enabled | 
-| SA-4 (c) | - 3000047: Check whether provisioned services are IAM enabled | 
-| SA-4 (d) | - 3000047: Check whether provisioned services are IAM enabled | 
-| SA-4 (e) | - 3000047: Check whether provisioned services are IAM enabled | 
-| SA-4 (f) | - 3000047: Check whether provisioned services are IAM enabled | 
-| SA-4 (g) | - 3000047: Check whether provisioned services are IAM enabled | 
-{: caption="Goals for SA-4 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
+| SA-4 (a) | - Check whether provisioned services are IAM enabled \n - Check whether the Financial Services Validated setting is enabled in account settings | 
+| SA-4 (b) | - Check whether provisioned services are IAM enabled | 
+| SA-4 (c) | - Check whether provisioned services are IAM enabled | 
+| SA-4 (d) | - Check whether provisioned services are IAM enabled | 
+| SA-4 (e) | - Check whether provisioned services are IAM enabled | 
+| SA-4 (f) | - Check whether provisioned services are IAM enabled | 
+| SA-4 (g) | - Check whether provisioned services are IAM enabled | 
+{: caption="Rules for SA-4 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

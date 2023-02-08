@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -27,7 +28,7 @@ CM-6 (b)
     : Implements the configuration settings;
 
 CM-6 (c)
-    : Identifies, documents, and approves any deviations from established configuration settings for _[see CM-6(a) Additional Requirements and Guidance]_ based on _[organization-defined operational requirements]_; and
+    : Identifies, documents, and approves any deviations from established configuration settings for _[organization-defined information system components]_ based on _[organization-defined operational requirements]_; and
 
 CM-6 (d)
     : Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.
@@ -48,12 +49,12 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Goals |
+| Requirement ID | Rules |
 |----------------|-------|
-| CM-6 (a) | - 3000721: Check whether App ID email verification is enabled for Cloud Directory users \n - 3000722: Check whether App ID customer-provided email service is used | 
-{: caption="Goals for CM-6 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
+| CM-6 (a) | - Check whether App ID customer-provided email service is used \n - Check whether App ID email verification is enabled for Cloud Directory users | 
+{: caption="Rules for CM-6 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

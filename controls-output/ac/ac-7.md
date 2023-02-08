@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -34,13 +35,13 @@ AC-7 (b)
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Goals |
+| Requirement ID | Rules |
 |----------------|-------|
-| AC-7 (a) | - 3000053: IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts \n - 3000716: Check whether App ID lockout policy after failed # of sign-in attempts is enabled | 
-| AC-7 (b) | - 3000054: IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts \n - 3000717: Check whether App ID lockout policy after a maximum specified time is set to # minute(s) | 
-{: caption="Goals for AC-7 in IBM Cloud for Financial Services v0.6.0 profile" caption-side="top"}
+| AC-7 (a) | - IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID avoid password reuse policy is enabled | 
+| AC-7 (b) | - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts \n - Check whether App ID avoid password reuse policy is enabled \n - Check whether App ID lockout policy after a maximum specified time is set to # minute(s) | 
+{: caption="Rules for AC-7 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

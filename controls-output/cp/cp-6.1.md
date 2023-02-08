@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-11-10"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,10 +25,10 @@ CP-6 (1) - 0
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000051: Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated 
-- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
+- Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region 
+- Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
