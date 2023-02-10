@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -30,6 +31,8 @@ AU-8 (1) (b)
 {: #nist-supplemental-guidance}
 
 This control enhancement provides uniformity of time stamps for information systems with multiple system clocks and systems connected over a network.
+
+
 
 
 

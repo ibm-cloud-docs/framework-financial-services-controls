@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -30,6 +31,8 @@ CA-5 (b)
 {: #nist-supplemental-guidance}
 
 Plans of action and milestones are key documents in security authorization packages and are subject to federal reporting requirements established by OMB.
+
+
 
 
 

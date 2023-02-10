@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,14 +25,16 @@ AU-9 (2) - 0
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000117: Check that any Cloud Object Storage buckets used by Activity Tracker event routing are configured as cross-region
+- Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
 This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records.
+
+
 
 
 

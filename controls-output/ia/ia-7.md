@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,19 +25,20 @@ IA-7 - 0
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000009: Check whether IAM roles are used to create IAM policies for IBM resources 
-- 3000015: Check whether IAM users are attached to at least one access group 
-- 3000016: Check whether IAM policies for users are attached only to groups or roles 
-- 3000017: Check whether multifactor authentication (MFA) is enabled at the account level 
-- 3000234: Check whether Hyper Protect Crypto Services instance is enabled with a dual authorization deletion policy 
-- 3000510: Check whether Hyper Protect Crypto Services is accessible only through private endpoints
+- Check whether multifactor authentication (MFA) is enabled at the account level 
+- Check whether IAM roles are used to create IAM policies for IBM resources 
+- Check whether IAM users are attached to at least one access group 
+- Check whether Hyper Protect Crypto Services is accessible only through private endpoints 
+- Check whether Hyper Protect Crypto Services instance is enabled with a dual authorization deletion policy
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
 Authentication mechanisms may be required within a cryptographic module to authenticate an operator accessing the module and to verify that the operator is authorized to assume the requested role and perform services within that role.
+
+
 
 
 

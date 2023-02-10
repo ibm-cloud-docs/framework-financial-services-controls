@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,6 +29,8 @@ CM-2 (1) (b)
 
 CM-2 (1) (c)
     : As an integral part of information system component installations and upgrades.
+
+
 
 
 

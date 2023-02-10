@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -30,6 +31,8 @@ AT-4 (b)
 {: #nist-supplemental-guidance}
 
 Documentation for specialized training may be maintained by individual supervisors at the option of the organization.
+
+
 
 
 

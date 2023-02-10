@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -28,6 +29,8 @@ PM-4 (a)
 
 PM-4 (b)
     : Reviews plans of action and milestones for consistency with the organizational risk management strategy and organization-wide priorities for risk response actions.
+
+
 
 
 

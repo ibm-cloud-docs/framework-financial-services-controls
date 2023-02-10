@@ -1,11 +1,12 @@
 ---
 
 copyright:
-  years: 2020, 2022
+  years: 2020, 2023
 
-lastupdated: "2022-09-29"
+lastupdated: "2023-02-08"
 
-keywords: 
+keywords:
+
 subcollection: framework-financial-services-controls
 ---
 
@@ -24,10 +25,12 @@ IA-2 (2) - 0
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The goals that follow are part of the IBM Cloud for Financial Services v0.6.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- 3000017: Check whether multifactor authentication (MFA) is enabled at the account level 
-- 3000723: Check whether App ID multifactor authentication (MFA) is enabled for Cloud Directory users
+- Check whether App ID multifactor authentication (MFA) is enabled for Cloud Directory users 
+- Check whether multifactor authentication (MFA) is enabled at the account level
+
+
 
 
 
