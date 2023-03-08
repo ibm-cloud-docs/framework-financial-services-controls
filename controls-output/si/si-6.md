@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,16 +22,16 @@ subcollection: framework-financial-services-controls
 The information system:
 
 SI-6 (a)
-    : Verifies the correct operation of _[organization-defined security functions]_;
+    : Verifies the correct operation of _[Assignment: organization-defined security functions]_;
 
 SI-6 (b)
-    : Performs this verification _[to include upon system startup and/or restart and at least monthly]_;
+    : Performs this verification _[IBM Assignment: to include upon system startup and/or restart and at least monthly]_;
 
 SI-6 (c)
-    : Notifies _[to include system administrators and security personnel]_ of failed security verification tests; and
+    : Notifies _[IBM Assignment: to include system administrators and security personnel]_ of failed security verification tests; and
 
 SI-6 (d)
-    : _[shuts the information system down; restarts the information system; to include notification of system administrators and security personnel]_ when anomalies are discovered.
+    : _[Selection (one or more): shuts the information system down; restarts the information system; [IBM Assignment: to include notification of system administrators and security personnel]_] when anomalies are discovered.
 
 ## Implementation guidance
 {: #implementation-guidance}

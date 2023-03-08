@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 RA-5 (2) - 0
-    : The organization updates the information system vulnerabilities scanned [prior to a new scan].
+    : The organization updates the information system vulnerabilities scanned [IBM Assignment: prior to a new scan].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

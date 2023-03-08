@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -25,7 +25,7 @@ MP-3 (a)
     : Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
 
 MP-3 (b)
-    : Exempts _[no removable media types]_ from marking as long as the media remain within _[organization-defined controlled areas]_.
+    : Exempts _[IBM Assignment: no removable media types]_ from marking as long as the media remain within _[Assignment: organization-defined controlled areas]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

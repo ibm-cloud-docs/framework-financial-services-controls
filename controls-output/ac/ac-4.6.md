@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-4 (6) - 0
-    : The information system enforces information flow control based on [organization-defined metadata].
+    : The information system enforces information flow control based on [Assignment: organization-defined metadata].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

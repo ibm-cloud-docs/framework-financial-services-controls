@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ PE-2 (b)
     : Issues authorization credentials for facility access;
 
 PE-2 (c)
-    : Reviews the access list detailing authorized facility access by individuals _[at least annually]_; and
+    : Reviews the access list detailing authorized facility access by individuals _[IBM Assignment: at least annually]_; and
 
 PE-2 (d)
     : Removes individuals from the facility access list when access is no longer required.

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SI-4 (4) - 0
-    : The information system monitors inbound and outbound communications traffic [continuously] for unusual or unauthorized activities or conditions.
+    : The information system monitors inbound and outbound communications traffic [IBM Assignment: continuously] for unusual or unauthorized activities or conditions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

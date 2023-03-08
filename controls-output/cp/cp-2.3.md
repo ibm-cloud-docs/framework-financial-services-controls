@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CP-2 (3) - 0
-    : The organization plans for the resumption of essential missions and business functions within [organization-defined time period] of contingency plan activation.
+    : The organization plans for the resumption of essential missions and business functions within [Assignment: organization-defined time period] of contingency plan activation.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

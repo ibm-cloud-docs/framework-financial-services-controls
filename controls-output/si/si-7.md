@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SI-7 - 0
-    : The organization employs integrity verification tools to detect unauthorized changes to [organization-defined software, firmware, and information].
+    : The organization employs integrity verification tools to detect unauthorized changes to [Assignment: organization-defined software, firmware, and information].
 
 ## Implementation guidance
 {: #implementation-guidance}

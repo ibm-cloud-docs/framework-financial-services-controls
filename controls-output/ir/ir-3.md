@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 IR-3 - 0
-    : The organization tests the incident response capability for the information system [at least annually] using [organization-defined tests] to determine the incident response effectiveness and documents the results.
+    : The organization tests the incident response capability for the information system [IBM Assignment: at least annually] using [Assignment: organization-defined tests] to determine the incident response effectiveness and documents the results.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

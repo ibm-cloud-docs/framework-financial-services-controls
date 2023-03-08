@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -25,7 +25,7 @@ SI-2 (3) (a)
     : Measures the time between flaw identification and flaw remediation; and
 
 SI-2 (3) (b)
-    : Establishes _[organization-defined benchmarks]_ for taking corrective actions.
+    : Establishes _[Assignment: organization-defined benchmarks]_ for taking corrective actions.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

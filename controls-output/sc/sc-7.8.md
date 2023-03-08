@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SC-7 (8) - 0
-    : The information system routes [organization-defined internal communications traffic] to [organization-defined external networks] through authenticated proxy servers at managed interfaces.
+    : The information system routes [Assignment: organization-defined internal communications traffic] to [Assignment: organization-defined external networks] through authenticated proxy servers at managed interfaces.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

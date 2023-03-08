@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,27 +22,27 @@ subcollection: framework-financial-services-controls
 The organization:
 
 PE-3 (a)
-    : Enforces physical access authorizations at _[organization-defined entry/exit points to the facility where the information system resides]_ by;
+    : Enforces physical access authorizations at _[Assignment: organization-defined entry/exit points to the facility where the information system resides]_ by;
       1. Verifying individual access authorizations before granting access to the facility; and
-      2. Controlling ingress/egress to the facility using _[locks, guards, badge systems, and video cameras]_;
+      2. Controlling ingress/egress to the facility using _[IBM Assignment: locks, guards, badge systems, and video cameras]_;
 
 PE-3 (b)
-    : Maintains physical access audit logs for _[organization-defined entry/exit points]_;
+    : Maintains physical access audit logs for _[Assignment: organization-defined entry/exit points]_;
 
 PE-3 (c)
-    : Provides _[organization-defined security safeguards]_ to control access to areas within the facility officially designated as publicly accessible;
+    : Provides _[Assignment: organization-defined security safeguards]_ to control access to areas within the facility officially designated as publicly accessible;
 
 PE-3 (d)
-    : Escorts visitors and monitors visitor activity _[in all circumstances within restricted access area where the information system resides]_;
+    : Escorts visitors and monitors visitor activity _[IBM Assignment: in all circumstances within restricted access area where the information system resides]_;
 
 PE-3 (e)
     : Secures keys, combinations, and other physical access devices;
 
 PE-3 (f)
-    : Inventories _[organization-defined physical access devices]_ every _[at least annually]_; and
+    : Inventories _[Assignment: organization-defined physical access devices]_ every _[IBM Assignment: at least annually]_; and
 
 PE-3 (g)
-    : Changes combinations and keys _[at least annually]_ and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.
+    : Changes combinations and keys _[IBM Assignment: at least annually]_ and/or when keys are lost, combinations are compromised, or individuals are transferred or terminated.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

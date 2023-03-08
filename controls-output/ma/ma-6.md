@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 MA-6 - 0
-    : The organization obtains maintenance support and/or spare parts for [organization-defined information system components] within [organization-defined time period] of failure.
+    : The organization obtains maintenance support and/or spare parts for [Assignment: organization-defined information system components] within [Assignment: organization-defined time period] of failure.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 MP-5 (a)
-    : Protects and controls _[all media with sensitive information]_ during transport outside of controlled areas using _[for digital media, encryption using a FIPS 140-2 validated encryption module; for non-digital media, secured in locked container]_;
+    : Protects and controls _[IBM Assignment: all media with sensitive information]_ during transport outside of controlled areas using _[IBM Assignment: for digital media, encryption using a FIPS 140-2 validated encryption module; for non-digital media, secured in locked container]_;
 
 MP-5 (b)
     : Maintains accountability for information system media during transport outside of controlled areas;

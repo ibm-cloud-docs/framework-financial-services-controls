@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 MP-7 - 0
-    : The organization [Selection: restricts; prohibits] the use of [Assignment: organization-defined types of information system media] on [Assignment: organization-defined information systems or system components] using [Assignment: organization-defined security safeguards].
+    : The organization [IBM Assignment: Selection: restricts; prohibits] the use of [IBM Assignment: Assignment: organization-defined types of information system media] on [IBM Assignment: Assignment: organization-defined information systems or system components] using [IBM Assignment: Assignment: organization-defined security safeguards].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

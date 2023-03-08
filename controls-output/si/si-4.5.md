@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SI-4 (5) - 0
-    : The information system alerts [organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [organization-defined compromise indicators].
+    : The information system alerts [Assignment: organization-defined personnel or roles] when the following indications of compromise or potential compromise occur: [Assignment: organization-defined compromise indicators].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

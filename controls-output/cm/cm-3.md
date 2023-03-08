@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -34,13 +34,13 @@ CM-3 (d)
     : Implements approved configuration-controlled changes to the information system;
 
 CM-3 (e)
-    : Retains records of configuration-controlled changes to the information system for _[in accordance with record retention policies and procedures]_;
+    : Retains records of configuration-controlled changes to the information system for _[IBM Assignment: in accordance with record retention policies and procedures]_;
 
 CM-3 (f)
     : Audits and reviews activities associated with configuration-controlled changes to the information system; and
 
 CM-3 (g)
-    : Coordinates and provides oversight for configuration change control activities through _[organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[organization-defined frequency; organization-defined configuration change conditions]_.
+    : Coordinates and provides oversight for configuration change control activities through _[Assignment: organization-defined configuration change control element (e.g., committee, board)]_ that convenes _[Selection (one or more): [Assignment: organization-defined frequency]_; _[Assignment: organization-defined configuration change conditions]_].
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

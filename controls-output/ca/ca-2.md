@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,13 +28,13 @@ CA-2 (a)
       3. Assessment environment, assessment team, and assessment roles and responsibilities;
 
 CA-2 (b)
-    : Assesses the security controls in the information system and its environment of operation _[at least annually]_ to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;
+    : Assesses the security controls in the information system and its environment of operation _[IBM Assignment: at least annually]_ to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting established security requirements;
 
 CA-2 (c)
     : Produces a security assessment report that documents the results of the assessment; and
 
 CA-2 (d)
-    : Provides the results of the security control assessment to _[individuals or roles to include the customer management]_.
+    : Provides the results of the security control assessment to _[IBM Assignment: individuals or roles to include the customer management]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

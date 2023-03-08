@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CM-2 (3) - 0
-    : The organization retains [organization-defined previous versions of baseline configurations of the information system] to support rollback.
+    : The organization retains [Assignment: organization-defined previous versions of baseline configurations of the information system] to support rollback.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

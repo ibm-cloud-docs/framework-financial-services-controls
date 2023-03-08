@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,14 +22,14 @@ subcollection: framework-financial-services-controls
 The organization:
 
 AT-1 (a)
-    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
+    : Develops, documents, and disseminates to _[Assignment: organization-defined personnel or roles]_:
       1. A security awareness and training policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
       2. Procedures to facilitate the implementation of the security awareness and training policy and associated security awareness and training controls; and
 
 AT-1 (b)
     : Reviews and updates the current:
-      1. Security awareness and training policy _[at least annually]_; and
-      2. Security awareness and training procedures _[at least annually]_.
+      1. Security awareness and training policy _[IBM Assignment: at least annually]_; and
+      2. Security awareness and training procedures _[IBM Assignment: at least annually]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

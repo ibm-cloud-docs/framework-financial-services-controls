@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 MP-2 - 0
-    : The organization restricts access to [organization-defined types of digital and/or non-digital media] to [organization-defined personnel or roles].
+    : The organization restricts access to [Assignment: organization-defined types of digital and/or non-digital media] to [Assignment: organization-defined personnel or roles].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

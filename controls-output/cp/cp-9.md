@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CP-9 (a)
-    : Conducts backups of user-level information contained in the information system _[daily incremental; weekly full]_;
+    : Conducts backups of user-level information contained in the information system _[IBM Assignment: daily incremental; weekly full]_;
 
 CP-9 (b)
-    : Conducts backups of system-level information contained in the information system _[daily incremental; weekly full]_;
+    : Conducts backups of system-level information contained in the information system _[IBM Assignment: daily incremental; weekly full]_;
 
 CP-9 (c)
-    : Conducts backups of information system documentation including security-related documentation _[daily incremental; weekly full]_; and
+    : Conducts backups of information system documentation including security-related documentation _[IBM Assignment: daily incremental; weekly full]_; and
 
 CP-9 (d)
     : Protects the confidentiality, integrity, and availability of backup information at storage locations.

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CM-8 (4) - 0
-    : The organization includes in the information system component inventory information, a means for identifying by [asset owner/custodian], individuals responsible/accountable for administering those components.
+    : The organization includes in the information system component inventory information, a means for identifying by [IBM Assignment: asset owner/custodian], individuals responsible/accountable for administering those components.
 
 ## Implementation guidance
 {: #implementation-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ SI-2 (b)
     : Tests software and firmware updates related to flaw remediation for effectiveness and potential side effects before installation;
 
 SI-2 (c)
-    : Installs security-relevant software and firmware updates within _[RA-5 (d) timeframes]_ of the release of the updates; and
+    : Installs security-relevant software and firmware updates within _[IBM Assignment: RA-5 (d) timeframes]_ of the release of the updates; and
 
 SI-2 (d)
     : Incorporates flaw remediation into the organizational configuration management process.

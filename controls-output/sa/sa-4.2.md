@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SA-4 (2) - 0
-    : The organization requires the developer of the information system, system component, or information system service to provide design and implementation information for the security controls to be employed that includes: [security-relevant external system interfaces; high-level design; low-level design; source code or hardware schematics;  [organization-defined design/implementation information] ] at [organization-defined level of detail].
+    : The organization requires the developer of the information system, system component, or information system service to provide design and implementation information for the security controls to be employed that includes: [Selection (one or more): security-relevant external system interfaces; high-level design; low-level design; source code or hardware schematics;  [Assignment: organization-defined design/implementation information] ] at [Assignment: organization-defined level of detail].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

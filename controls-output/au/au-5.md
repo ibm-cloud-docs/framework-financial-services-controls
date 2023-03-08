@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,10 +22,10 @@ subcollection: framework-financial-services-controls
 The information system:
 
 AU-5 (a)
-    : Alerts _[organization-defined personnel or roles]_ in the event of an audit processing failure; and
+    : Alerts _[Assignment: organization-defined personnel or roles]_ in the event of an audit processing failure; and
 
 AU-5 (b)
-    : Takes the following additional actions: _[organization-defined actions to be taken (overwrite oldest record)]_.
+    : Takes the following additional actions: _[IBM Assignment: organization-defined actions to be taken (overwrite oldest record)]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

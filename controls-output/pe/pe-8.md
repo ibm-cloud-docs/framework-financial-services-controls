@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,10 +22,10 @@ subcollection: framework-financial-services-controls
 The organization:
 
 PE-8 (a)
-    : Maintains visitor access records to the facility where the information system resides for _[for a minimum of one (1) year]_; and
+    : Maintains visitor access records to the facility where the information system resides for _[IBM Assignment: for a minimum of one (1) year]_; and
 
 PE-8 (b)
-    : Reviews visitor access records _[at least monthly]_.
+    : Reviews visitor access records _[IBM Assignment: at least monthly]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

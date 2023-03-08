@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,14 +22,14 @@ subcollection: framework-financial-services-controls
 The organization:
 
 IA-1 (a)
-    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
+    : Develops, documents, and disseminates to _[Assignment: organization-defined personnel or roles]_:
       1. An identification and authentication policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
       2. Procedures to facilitate the implementation of the identification and authentication policy and associated identification and authentication controls; and
 
 IA-1 (b)
     : Reviews and updates the current:
-      1. Identification and authentication policy _[at least annually]_; and
-      2. Identification and authentication procedures _[at least annually]_.
+      1. Identification and authentication policy _[IBM Assignment: at least annually]_; and
+      2. Identification and authentication procedures _[IBM Assignment: at least annually]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

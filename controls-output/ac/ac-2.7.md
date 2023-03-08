@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ AC-2 (7) (b)
     : Monitors privileged role assignments; and
 
 AC-2 (7) (c)
-    : Takes _[organization-defined actions]_ when privileged role assignments are no longer appropriate.
+    : Takes _[Assignment: organization-defined actions]_ when privileged role assignments are no longer appropriate.
 
 ## Implementation guidance
 {: #implementation-guidance}

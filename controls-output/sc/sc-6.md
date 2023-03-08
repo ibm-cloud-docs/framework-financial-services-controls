@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SC-6 - 0
-    : The information system protects the availability of resources by allocating [organization-defined resources] by [priority; quota; organization-defined security safeguards].
+    : The information system protects the availability of resources by allocating [Assignment: organization-defined resources] by [Selection (one or more): priority; quota; [Assignment: organization-defined security safeguards]].
 
 ## Implementation guidance
 {: #implementation-guidance}

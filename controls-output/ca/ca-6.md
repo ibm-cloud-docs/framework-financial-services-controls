@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ CA-6 (b)
     : Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
 
 CA-6 (c)
-    : Updates the security authorization _[at least every three (3) years or when a significant change occurs]_.
+    : Updates the security authorization _[IBM Assignment: at least every three (3) years or when a significant change occurs]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

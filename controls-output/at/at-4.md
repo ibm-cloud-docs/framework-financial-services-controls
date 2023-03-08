@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -25,7 +25,7 @@ AT-4 (a)
     : Documents and monitors individual information system security training activities including basic security awareness training and specific information system security training; and
 
 AT-4 (b)
-    : Retains individual training records for _[at least one year]_.
+    : Retains individual training records for _[IBM Assignment: at least one year]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
