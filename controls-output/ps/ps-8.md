@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -25,7 +25,7 @@ PS-8 (a)
     : Employs a formal sanctions process for individuals failing to comply with established information security policies and procedures; and
 
 PS-8 (b)
-    : Notifies _[organization-defined personnel or roles]_ within _[organization-defined time period]_ when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
+    : Notifies _[Assignment: organization-defined personnel or roles]_ within _[Assignment: organization-defined time period]_ when a formal employee sanctions process is initiated, identifying the individual sanctioned and the reason for the sanction.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

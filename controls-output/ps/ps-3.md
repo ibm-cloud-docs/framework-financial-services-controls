@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -25,7 +25,7 @@ PS-3 (a)
     : Screens individuals prior to authorizing access to the information system; and
 
 PS-3 (b)
-    : Rescreens individuals according to _[organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening]_.
+    : Rescreens individuals according to _[Assignment: organization-defined conditions requiring rescreening and, where rescreening is so indicated, the frequency of such rescreening]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

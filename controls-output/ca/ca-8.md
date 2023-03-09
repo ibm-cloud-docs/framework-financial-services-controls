@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CA-8 - 0
-    : The organization conducts penetration testing [prior to production use, at least annually, and after significant changes] on [applications that are utilized by FS-ready public cloud customers or process customer’s data].
+    : The organization conducts penetration testing [IBM Assignment: prior to production use, at least annually, and after significant changes] on [IBM Assignment: applications that are utilized by FS-ready public cloud customers or process customer’s data].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

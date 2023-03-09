@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization manages information system identifiers by:
 
 IA-4 (a)
-    : Receiving authorization from _[organization-defined personnel or roles]_ to assign an individual, group, role, or device identifier;
+    : Receiving authorization from _[Assignment: organization-defined personnel or roles]_ to assign an individual, group, role, or device identifier;
 
 IA-4 (b)
     : Selecting an identifier that identifies an individual, group, role, or device;
@@ -31,10 +31,10 @@ IA-4 (c)
     : Assigning the identifier to the intended individual, group, role, or device;
 
 IA-4 (d)
-    : Preventing reuse of identifiers for _[at least two (2) years]_; and
+    : Preventing reuse of identifiers for _[IBM Assignment: at least two (2) years]_; and
 
 IA-4 (e)
-    : Disabling the identifier after _[ninety (90) calendar days for user identifiers]_.
+    : Disabling the identifier after _[IBM Assignment: ninety (90) calendar days for user identifiers]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

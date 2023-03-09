@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,14 +22,14 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CM-1 (a)
-    : Develops, documents, and disseminates to _[organization-defined personnel or roles]_:
+    : Develops, documents, and disseminates to _[Assignment: organization-defined personnel or roles]_:
       1. A configuration management policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
       2. Procedures to facilitate the implementation of the configuration management policy and associated configuration management controls; and
 
 CM-1 (b)
     : Reviews and updates the current:
-      1. Configuration management policy _[at least annually]_; and
-      2. Configuration management procedures _[at least annually]_.
+      1. Configuration management policy _[IBM Assignment: at least annually]_; and
+      2. Configuration management procedures _[IBM Assignment: at least annually]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

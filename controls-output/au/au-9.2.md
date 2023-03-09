@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AU-9 (2) - 0
-    : The information system backs up audit records [at least weekly] onto a physically different system or system component than the system or component being audited.
+    : The information system backs up audit records [IBM Assignment: at least weekly] onto a physically different system or system component than the system or component being audited.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

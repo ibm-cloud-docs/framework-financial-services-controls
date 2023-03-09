@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -26,10 +26,10 @@ CM-8 (a)
       1. Accurately reflects the current information system;
       2. Includes all components within the authorization boundary of the information system;
       3. Is at the level of granularity deemed necessary for tracking and reporting; and
-      4. Includes _[organization-defined information deemed necessary to achieve effective information system component accountability]_; and
+      4. Includes _[Assignment: organization-defined information deemed necessary to achieve effective information system component accountability]_; and
 
 CM-8 (b)
-    : Reviews and updates the information system component inventory _[at least monthly]_.
+    : Reviews and updates the information system component inventory _[IBM Assignment: at least monthly]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

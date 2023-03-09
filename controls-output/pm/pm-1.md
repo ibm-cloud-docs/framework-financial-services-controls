@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -29,7 +29,7 @@ PM-1 (a)
       4. Is approved by a senior official with responsibility and accountability for the risk being incurred to organizational operations (including mission, functions, image, and reputation), organizational assets, individuals, other organizations, and the Nation;
 
 PM-1 (b)
-    : Reviews the organization-wide information security program plan _[at least annually]_;
+    : Reviews the organization-wide information security program plan _[IBM Assignment: at least annually]_;
 
 PM-1 (c)
     : Updates the plan to address organizational changes and problems identified during plan implementation or security control assessments; and

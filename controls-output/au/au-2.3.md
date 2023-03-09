@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AU-2 (3) - 0
-    : The organization reviews and updates the audited events [annually or whenever there is a change in the threat environment].
+    : The organization reviews and updates the audited events [IBM Assignment: annually or whenever there is a change in the threat environment].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -31,7 +31,7 @@ PS-7 (c)
     : Documents personnel security requirements;
 
 PS-7 (d)
-    : Requires third-party providers to notify _[organization-defined personnel or roles]_ of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within _[same day]_; and
+    : Requires third-party providers to notify _[Assignment: organization-defined personnel or roles]_ of any personnel transfers or terminations of third-party personnel who possess organizational credentials and/or badges, or who have information system privileges within _[IBM Assignment: same day]_; and
 
 PS-7 (e)
     : Monitors provider compliance.

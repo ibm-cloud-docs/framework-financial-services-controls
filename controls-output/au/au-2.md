@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 AU-2 (a)
-    : Determines that the information system is capable of auditing the following events: _[for required audit events, refer to Additional FS-ready public cloud Guidance]_;
+    : Determines that the information system is capable of auditing the following events: _[IBM Assignment: for required audit events, refer to Additional FS-ready public cloud Guidance]_;
 
 AU-2 (b)
     : Coordinates the security audit function with other organizational entities requiring audit-related information to enhance mutual support and to help guide the selection of auditable events;
@@ -31,7 +31,7 @@ AU-2 (c)
     : Provides a rationale for why the auditable events are deemed to be adequate to support after-the-fact investigations of security incidents; and
 
 AU-2 (d)
-    : Determines that the following events are to be audited within the information system: _[auditable events defined in AU-2 a. to be audited continually for each identified event]_.
+    : Determines that the following events are to be audited within the information system: _[IBM Assignment: auditable events defined in AU-2 a. to be audited continually for each identified event]_.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

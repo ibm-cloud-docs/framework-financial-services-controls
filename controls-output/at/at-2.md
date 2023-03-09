@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ AT-2 (b)
     : When required by information system changes; and
 
 AT-2 (c)
-    : _[at least annually]_ thereafter.
+    : _[IBM Assignment: at least annually]_ thereafter.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

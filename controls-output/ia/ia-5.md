@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -40,7 +40,7 @@ IA-5 (f)
     : Establishing minimum and maximum lifetime restrictions and reuse conditions for authenticators;
 
 IA-5 (g)
-    : Changing/refreshing authenticators _[90 days for user passwords and 365 days for system-to-system authenticators]_;
+    : Changing/refreshing authenticators _[IBM Assignment: 90 days for user passwords and 365 days for system-to-system authenticators]_;
 
 IA-5 (h)
     : Protecting authenticator content from unauthorized disclosure and modification;

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization provides contingency training to information system users consistent with assigned roles and responsibilities:
 
 CP-3 (a)
-    : Within _[90 days]_ of assuming a contingency role or responsibility;
+    : Within _[IBM Assignment: 90 days]_ of assuming a contingency role or responsibility;
 
 CP-3 (b)
     : When required by information system changes; and
 
 CP-3 (c)
-    : _[at least annually]_ thereafter.
+    : _[IBM Assignment: at least annually]_ thereafter.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

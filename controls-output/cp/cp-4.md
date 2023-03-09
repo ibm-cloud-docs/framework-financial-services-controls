@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CP-4 (a)
-    : Tests the contingency plan for the information system _[at least annually]_ using _[functional exercises]_ to determine the effectiveness of the plan and the organizational readiness to execute the plan;
+    : Tests the contingency plan for the information system _[IBM Assignment: at least annually]_ using _[IBM Assignment: functional exercises]_ to determine the effectiveness of the plan and the organizational readiness to execute the plan;
 
 CP-4 (b)
     : Reviews the contingency plan test results; and

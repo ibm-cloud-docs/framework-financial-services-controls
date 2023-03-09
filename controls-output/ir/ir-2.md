@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization provides incident response training to information system users consistent with assigned roles and responsibilities:
 
 IR-2 (a)
-    : Within _[within 90 calendar days]_ of assuming an incident response role or responsibility;
+    : Within _[IBM Assignment: within 90 calendar days]_ of assuming an incident response role or responsibility;
 
 IR-2 (b)
     : When required by information system changes; and
 
 IR-2 (c)
-    : _[at least annually]_ thereafter.
+    : _[IBM Assignment: at least annually]_ thereafter.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -25,7 +25,7 @@ CM-7 (a)
     : Configures the information system to provide only essential capabilities; and
 
 CM-7 (b)
-    : Prohibits or restricts the use of the following functions, ports, protocols, and/or services: _[limiting, disabling, and/or controlling services, features, applications, functions, ports, and protocols not explicitly required to support business functionality]_.
+    : Prohibits or restricts the use of the following functions, ports, protocols, and/or services: _[IBM Assignment: limiting, disabling, and/or controlling services, features, applications, functions, ports, and protocols not explicitly required to support business functionality]_.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

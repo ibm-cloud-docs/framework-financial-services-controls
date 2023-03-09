@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization:
 
 SA-9 (a)
-    : Requires that providers of external information system services comply with organizational information security requirements and employ _[business continuity service level agreements]_ in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
+    : Requires that providers of external information system services comply with organizational information security requirements and employ _[IBM Assignment: business continuity service level agreements]_ in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance;
 
 SA-9 (b)
     : Defines and documents government oversight and user roles and responsibilities with regard to external information system services; and
 
 SA-9 (c)
-    : Employs _[Continuous monitoring requirements must be met for external systems where customer information is processed or stored]_ to monitor security control compliance by external service providers on an ongoing basis.
+    : Employs _[IBM Assignment: Continuous monitoring requirements must be met for external systems where customer information is processed or stored]_ to monitor security control compliance by external service providers on an ongoing basis.
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}

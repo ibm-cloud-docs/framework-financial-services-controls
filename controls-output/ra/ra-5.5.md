@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 RA-5 (5) - 0
-    : The information system implements privileged access authorization to [operating systems, databases, container images, and web applications] for selected [vulnerability scans].
+    : The information system implements privileged access authorization to [IBM Assignment: operating systems, databases, container images, and web applications] for selected [IBM Assignment: vulnerability scans].
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

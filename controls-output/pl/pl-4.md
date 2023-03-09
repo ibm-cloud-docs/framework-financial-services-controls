@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ PL-4 (b)
     : Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;
 
 PL-4 (c)
-    : Reviews and updates the rules of behavior _[at least every annually]_; and
+    : Reviews and updates the rules of behavior _[IBM Assignment: at least every annually]_; and
 
 PL-4 (d)
     : Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.

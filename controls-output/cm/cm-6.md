@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization:
 
 CM-6 (a)
-    : Establishes and documents configuration settings for information technology products employed within the information system using _[see CM-6 (a) Additional Requirements and Guidance]_ that reflect the most restrictive mode consistent with operational requirements;
+    : Establishes and documents configuration settings for information technology products employed within the information system using _[IBM Assignment: see CM-6 (a) Additional Requirements and Guidance]_ that reflect the most restrictive mode consistent with operational requirements;
 
 CM-6 (b)
     : Implements the configuration settings;
 
 CM-6 (c)
-    : Identifies, documents, and approves any deviations from established configuration settings for _[organization-defined information system components]_ based on _[organization-defined operational requirements]_; and
+    : Identifies, documents, and approves any deviations from established configuration settings for _[Assignment: organization-defined information system components]_ based on _[Assignment: organization-defined operational requirements]_; and
 
 CM-6 (d)
     : Monitors and controls changes to the configuration settings in accordance with organizational policies and procedures.

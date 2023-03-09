@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ PS-2 (b)
     : Establishes screening criteria for individuals filling those positions; and
 
 PS-2 (c)
-    : Reviews and updates position risk designations _[at least every three years]_.
+    : Reviews and updates position risk designations _[IBM Assignment: at least every three years]_.
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 AC-4 (21) - 0
-    : The information system separates information flows logically or physically using [organization-defined mechanisms and/or techniques] to accomplish [organization-defined required separations by types of information].
+    : The information system separates information flows logically or physically using [Assignment: organization-defined mechanisms and/or techniques] to accomplish [Assignment: organization-defined required separations by types of information].
 
 ## Implementation guidance
 {: #implementation-guidance}

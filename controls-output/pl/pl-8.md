@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -28,7 +28,7 @@ PL-8 (a)
       3. Describes any information security assumptions about, and dependencies on, external services;
 
 PL-8 (b)
-    : Reviews and updates the information security architecture _[at least annually or when a significant change occurs]_ to reflect updates in the enterprise architecture; and
+    : Reviews and updates the information security architecture _[IBM Assignment: at least annually or when a significant change occurs]_ to reflect updates in the enterprise architecture; and
 
 PL-8 (c)
     : Ensures that planned information security architecture changes are reflected in the security plan, the security Concept of Operations (CONOPS), and organizational procurements/acquisitions.

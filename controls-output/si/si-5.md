@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -22,13 +22,13 @@ subcollection: framework-financial-services-controls
 The organization:
 
 SI-5 (a)
-    : Receives information system security alerts, advisories, and directives from _[to include IaaS/PaaS providers and additional organization-defined external organizations]_ on an ongoing basis;
+    : Receives information system security alerts, advisories, and directives from _[IBM Assignment: to include IaaS/PaaS providers and additional organization-defined external organizations]_ on an ongoing basis;
 
 SI-5 (b)
     : Generates internal security alerts, advisories, and directives as deemed necessary;
 
 SI-5 (c)
-    : Disseminates security alerts, advisories, and directives to: _[to include system security personnel and administrators with configuration/patch-management responsibilities]_; and
+    : Disseminates security alerts, advisories, and directives to: _[IBM Assignment: to include system security personnel and administrators with configuration/patch-management responsibilities]_; and
 
 SI-5 (d)
     : Implements security directives in accordance with established time frames, or notifies the issuing organization of the degree of noncompliance.

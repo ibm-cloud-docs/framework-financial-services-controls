@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CA-2 (2) - 0
-    : The organization includes as part of security control assessments, [at least annually], [announced; unannounced], [in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing;  [organization-defined other forms of security assessment] ].
+    : The organization includes as part of security control assessments, [IBM Assignment: at least annually], [Selection: announced; unannounced], [Selection (one or more): in-depth monitoring; vulnerability scanning; malicious user testing; insider threat assessment; performance/load testing;  [Assignment: organization-defined other forms of security assessment] ].
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

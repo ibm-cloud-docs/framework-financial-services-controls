@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SI-2 (2) - 0
-    : The organization employs automated mechanisms [at least monthly] to determine the state of information system components with regard to flaw remediation.
+    : The organization employs automated mechanisms [IBM Assignment: at least monthly] to determine the state of information system components with regard to flaw remediation.
 
 ## Implementation guidance
 {: #implementation-guidance}

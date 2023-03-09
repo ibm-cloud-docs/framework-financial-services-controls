@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 CP-8 - 0
-    : The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of [organization-defined information system operations] for essential missions and business functions within [organization-defined time period] when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
+    : The organization establishes alternate telecommunications services including necessary agreements to permit the resumption of [Assignment: organization-defined information system operations] for essential missions and business functions within [Assignment: organization-defined time period] when the primary telecommunications capabilities are unavailable at either the primary or alternate processing or storage sites.
 
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}

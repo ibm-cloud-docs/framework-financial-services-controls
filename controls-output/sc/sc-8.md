@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-03-08"
 
 keywords:
 
@@ -20,7 +20,7 @@ subcollection: framework-financial-services-controls
 {: #control-requirements}
 
 SC-8 - 0
-    : The information system protects the [confidentiality, integrity, AND availability] of transmitted information.
+    : The information system protects the [IBM Assignment: confidentiality, integrity, AND availability] of transmitted information.
 
 ## Implementation guidance
 {: #implementation-guidance}
