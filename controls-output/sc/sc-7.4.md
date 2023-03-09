@@ -45,5 +45,14 @@ See the resources that follow to learn more about how to implement this control.
 
 
 
+## Implementation guidance
+{: #implementation-guidance}
+
+See the resources that follow to learn more about how to implement this control.
+
+- [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
+
+
+
 
 
