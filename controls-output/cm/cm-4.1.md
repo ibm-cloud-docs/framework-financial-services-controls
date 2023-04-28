@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -27,6 +27,19 @@ CM-4 (1) - 0
 
 - The test environment must mirror the production environment.
 - Customer data must not be placed into non-production environments.
+
+## IBM Cloud for Financial Services profile
+{: #scc-fs-cloud-profile}
+
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+- Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities 
+- Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely 
+- Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts 
+- Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities 
+- Check whether DevSecOps Toolchain source code contains no secrets 
+- Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code 
+- Check whether DevSecOps Toolchain passes acceptance tests to validate every deployment
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

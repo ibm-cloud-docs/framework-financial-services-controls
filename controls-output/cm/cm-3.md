@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -91,6 +91,22 @@ CM-3 (g)
 - Priority assigned by Change Management :
 - Restrictions :
 - If applicable, reasons for rejecting the RFC :.
+
+## IBM Cloud for Financial Services profile
+{: #scc-fs-cloud-profile}
+
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+| Requirement ID | Rules |
+|----------------|-------|
+| CM-3 (a) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-3 (b) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-3 (c) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-3 (d) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-3 (e) | - Check whether DevSecOps Toolchain collects software bills of materials (SBOM) to provide transparency in build artifacts \n - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-3 (f) | - Check whether DevSecOps Toolchain collects software bills of materials (SBOM) to provide transparency in build artifacts \n - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-3 (g) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+{: caption="Rules for CM-3 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

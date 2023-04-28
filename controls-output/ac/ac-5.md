@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -47,12 +47,12 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement ID | Rules |
 |----------------|-------|
 | AC-5 (c) | - Check whether permissions for API key creation are limited and configured in IAM settings for the account owner \n - Check whether App ID Cloud Directory users aren't able to update their own accounts \n - Check whether IAM roles are used to create IAM policies for IBM resources \n - Check whether IAM users are attached to at least one access group \n - Check whether App ID Cloud Directory users aren't able to self-sign up to applications \n - Check whether App ID user profile updates from client apps is disabled | 
-{: caption="Rules for AC-5 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
+{: caption="Rules for AC-5 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

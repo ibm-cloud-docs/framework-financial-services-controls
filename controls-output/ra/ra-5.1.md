@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -25,9 +25,15 @@ RA-5 (1) - 0
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s)
+- Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities 
+- Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) 
+- Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely 
+- Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts 
+- Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities 
+- Check whether DevSecOps Toolchain source code contains no secrets 
+- Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

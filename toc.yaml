@@ -342,7 +342,7 @@ toc:
           topics:
           - controls-output/edm/edm-1.md
       - topicgroup:
-          label: Accessibility Guidelines (ESA)
+          label: Enterprise System and Services Acquisition (ESA)
           topics:
           - controls-output/esa/esa-1.md
           - controls-output/esa/esa-2.md

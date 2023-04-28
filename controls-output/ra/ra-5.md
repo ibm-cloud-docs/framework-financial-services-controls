@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -55,12 +55,15 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement ID | Rules |
 |----------------|-------|
-| RA-5 (a) | - Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) | 
-{: caption="Rules for RA-5 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
+| RA-5 (a) | - Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities \n - Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) \n - Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely \n - Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts \n - Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities \n - Check whether DevSecOps Toolchain source code contains no secrets \n - Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code | 
+| RA-5 (b) | - Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities \n - Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) \n - Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely \n - Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts \n - Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities \n - Check whether DevSecOps Toolchain source code contains no secrets \n - Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code | 
+| RA-5 (c) | - Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities \n - Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely \n - Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts \n - Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities \n - Check whether DevSecOps Toolchain source code contains no secrets \n - Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code \n - Check whether DevSecOps Toolchain passes acceptance tests to validate every deployment | 
+| RA-5 (d) | - Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities \n - Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely \n - Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts \n - Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities \n - Check whether DevSecOps Toolchain source code contains no secrets \n - Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code \n - Check whether DevSecOps Toolchain passes acceptance tests to validate every deployment | 
+{: caption="Rules for RA-5 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

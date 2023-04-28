@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -48,14 +48,14 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement ID | Rules |
 |----------------|-------|
 | CP-7 (a) | - Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - Check whether an OpenShift cluster has worker nodes across multiple zones \n - Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region \n - Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - Check whether there are at least # instances of Direct Link in an account \n - Check whether OpenShift version is up-to-date \n - Check whether each Virtual Private Cloud is configured to use at least # zones | 
 | CP-7 (b) | - Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - Check whether an OpenShift cluster has worker nodes across multiple zones \n - Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region \n - Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - Check whether each Virtual Private Cloud is configured to use at least # zones | 
 | CP-7 (c) | - Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - Check whether Hyper Protect Crypto Services instance has at least # crypto units \n - Check whether each Application Load Balancer for VPC is configured to use at least # zones \n - Check whether an OpenShift cluster has worker nodes across multiple zones \n - Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region \n - Check that Hyper Protect Crypto Services has failover units in at least 2 different regions that are Financial Services Validated \n - Check whether each Virtual Private Cloud is configured to use at least # zones | 
-{: caption="Rules for CP-7 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
+{: caption="Rules for CP-7 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

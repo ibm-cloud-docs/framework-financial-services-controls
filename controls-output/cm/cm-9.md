@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -37,6 +37,19 @@ CM-9 (d)
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - ISV shall ensure that changes to customer data are subject to change control per customer requirements.  Changes of any type should be communicated to the customer as they arise.
+
+## IBM Cloud for Financial Services profile
+{: #scc-fs-cloud-profile}
+
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+| Requirement ID | Rules |
+|----------------|-------|
+| CM-9 (a) | - Check whether DevSecOps Toolchain verifies source code branch protection rules to enforce security policies \n - Check whether DevSecOps Toolchain passes acceptance tests to validate every deployment \n - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-9 (b) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-9 (c) | - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| CM-9 (d) | - Check whether DevSecOps Toolchain verifies source code branch protection rules to enforce security policies \n - Check whether DevSecOps Toolchain source code contains no secrets | 
+{: caption="Rules for CM-9 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

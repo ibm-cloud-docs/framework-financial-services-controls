@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -48,13 +48,13 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement ID | Rules |
 |----------------|-------|
-| SA-3 (a) | - Check whether Container Registry image pushes and pulls take place only over private endpoints | 
-| SA-3 (d) | - Check whether Container Registry image pushes and pulls take place only over private endpoints | 
-{: caption="Rules for SA-3 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
+| SA-3 (a) | - Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities \n - Check whether DevSecOps Toolchain verifies source code branch protection rules to enforce security policies \n - Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely \n - Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts \n - Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities \n - Check whether DevSecOps Toolchain source code contains no secrets \n - Check whether Container Registry image pushes and pulls take place only over private endpoints \n - Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code \n - Check whether DevSecOps Toolchain collects software bills of materials (SBOM) to provide transparency in build artifacts \n - Check whether DevSecOps Toolchain signs build artifacts to attest their provenance \n - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+| SA-3 (d) | - Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities \n - Check whether DevSecOps Toolchain verifies source code branch protection rules to enforce security policies \n - Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely \n - Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts \n - Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities \n - Check whether DevSecOps Toolchain source code contains no secrets \n - Check whether Container Registry image pushes and pulls take place only over private endpoints \n - Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code \n - Check whether DevSecOps Toolchain collects software bills of materials (SBOM) to provide transparency in build artifacts \n - Check whether DevSecOps Toolchain signs build artifacts to attest their provenance \n - Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis | 
+{: caption="Rules for SA-3 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

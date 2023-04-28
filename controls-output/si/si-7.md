@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -28,6 +28,16 @@ SI-7 - 0
 See the resources that follow to learn more about how to implement this control.
 
 - [Development processes and software integrity](/docs/framework-financial-services?topic=framework-financial-services-shared-development-processes)
+
+## IBM Cloud for Financial Services profile
+{: #scc-fs-cloud-profile}
+
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+- Check whether DevSecOps Toolchain verifies source code branch protection rules to enforce security policies 
+- Check whether DevSecOps Toolchain collects software bills of materials (SBOM) to provide transparency in build artifacts 
+- Check whether DevSecOps Toolchain signs build artifacts to attest their provenance 
+- Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

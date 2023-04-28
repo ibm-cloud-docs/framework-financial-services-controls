@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -26,6 +26,13 @@ CM-5 - 0
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 - Access to test environments must be restricted to only authorized personnel and roles.  Only authorized individuals should be permitted access to information systems and data for purposes of testing changes.
+
+## IBM Cloud for Financial Services profile
+{: #scc-fs-cloud-profile}
+
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+
+- Check whether DevSecOps Toolchain verifies source code branch protection rules to enforce security policies
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

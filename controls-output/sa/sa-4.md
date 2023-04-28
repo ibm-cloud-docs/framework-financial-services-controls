@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-02-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -57,7 +57,7 @@ See the resources that follow to learn more about how to implement this control.
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement ID | Rules |
 |----------------|-------|
@@ -68,7 +68,7 @@ The rules related to this control that follow are part of the IBM Cloud for Fina
 | SA-4 (e) | - Check whether provisioned services are IAM enabled | 
 | SA-4 (f) | - Check whether provisioned services are IAM enabled | 
 | SA-4 (g) | - Check whether provisioned services are IAM enabled | 
-{: caption="Rules for SA-4 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
+{: caption="Rules for SA-4 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}

@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-04-27"
 
 keywords:
 
@@ -35,13 +35,13 @@ AC-7 (b)
 ## IBM Cloud for Financial Services profile
 {: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.1.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
 | Requirement ID | Rules |
 |----------------|-------|
 | AC-7 (a) | - IBMid enforces a limit of 5 consecutive unsuccessful sign in attempts \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID avoid password reuse policy is enabled | 
 | AC-7 (b) | - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - Check whether App ID lockout policy after failed # of sign-in attempts is enabled \n - IBMid automatically locks an account for 30 minutes after 5 consecutive unsuccessful sign in attempts \n - Check whether App ID avoid password reuse policy is enabled \n - Check whether App ID lockout policy after a maximum specified time is set to # minute(s) | 
-{: caption="Rules for AC-7 in IBM Cloud for Financial Services v1.1.0 profile" caption-side="top"}
+{: caption="Rules for AC-7 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
