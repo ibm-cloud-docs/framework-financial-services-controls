@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-09-21"
 
 keywords:
 
@@ -35,15 +35,6 @@ SC-7 (4) (d)
 
 SC-7 (4) (e)
     : Reviews exceptions to the traffic flow policy _[IBM Assignment: at least annually]_ and removes exceptions that are no longer supported by an explicit mission/business need.
-
-## Implementation guidance
-{: #implementation-guidance}
-
-See the resources that follow to learn more about how to implement this control.
-
-- [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
-
-
 
 ## Implementation guidance
 {: #implementation-guidance}

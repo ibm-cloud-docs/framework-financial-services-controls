@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-09-21"
 
 keywords:
 
@@ -29,8 +29,6 @@ PM-9 (b)
 
 PM-9 (c)
     : Reviews and updates the risk management strategy _[IBM Assignment: at least annually]_ or as required, to address organizational changes.
-
-
 
 
 
