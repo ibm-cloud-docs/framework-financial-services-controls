@@ -17,11 +17,18 @@ Content in this repo is populated from [cloud-governance-framework/guidance](htt
 
 To learn about using the Cloud Docs framework, see [Content Design and Development in IBM Cloud](https://test.cloud.ibm.com/docs/writing?topic=writing-get-started-onboarding).
 
-## Richie-enabled
+## Markdown Enricher-enabled
 
-This repo is enabled with the [markdown enricher (Richie)](https://github.ibm.com/cloud-docs-automation/md-enricher-for-cicd/wiki/Overview) which allows writers to single-source content delivery from one branch to multiple branches in the same or different GitHub repositories. It also has a number of other really cool features in the [Usage Guide](https://github.ibm.com/cloud-docs-automation/md-enricher-for-cicd/wiki/Usage)
+This repo is enabled with the [Markdown Enricher](https://pages.github.ibm.com/cloud-docs-automation/md-enricher-for-cicd/#/). The Markdown Enricher is a pre-processing script that brings a few of the best features of more complex authoring methods to markdown and other text-based files.
 
-All PR's for new content should be made against the `source` branch. When content is committed to the `source` branch, the Travis script invokes the Richie. When Richie finishes its processing, it pushes the result to the `draft` branch.
+**All PR's for new content should be made against the `source` branch.** When content is committed to the `source` branch, the Travis script invokes Markdown Enricher. When Richie finishes its processing, it pushes the result to the `draft` and `review` branches (and creates a PR to the `publish` branch).
+
+NOTE: By using the [feature flags feature ](https://pages.github.ibm.com/cloud-docs-automation/md-enricher-for-cicd/#/feature-flags) of the Markdown Enricher and the specific [feature-flags.json](https://github.ibm.com/cloud-docs/framework-financial-services-controls/blob/source/feature-flags.json) file in this repo, you can use the following tags to control which branches content is published to:
+
+- no tag -- Content goes to all branches
+- `dev` -- Content will only show up in `draft` branch
+- `staging` -- Content will show up in both `draft` and `review` branches (and _not_ the `publish` branch)
+- `prod` -- Content will show up only in `publish` branch (and only once `review` branch is merged to `publish` branch via the PR created by Markdown Enricher)
 
 ## Checking build status
 
