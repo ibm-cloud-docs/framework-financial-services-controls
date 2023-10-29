@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-09-21"
 
 keywords:
 
@@ -21,8 +21,6 @@ subcollection: framework-financial-services-controls
 
 CP-9 (1) - 0
     : The organization tests backup information [IBM Assignment: at least annually] to verify media reliability and information integrity.
-
-
 
 
 

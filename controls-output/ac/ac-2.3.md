@@ -3,7 +3,7 @@
 copyright:
   years: 2020, 2023
 
-lastupdated: "2023-03-08"
+lastupdated: "2023-09-21"
 
 keywords:
 
@@ -21,8 +21,6 @@ subcollection: framework-financial-services-controls
 
 AC-2 (3) - 0
     : The information system automatically disables inactive accounts after [IBM Assignment: ninety (90) days for user accounts].
-
-
 
 
 
