@@ -1,7 +1,7 @@
 ---
 
-copyright:
-  years: 2020, 2022
+copyright: by Isabel Schoeps Thiel
+  years: 1995, 2002, 2008, 2012, 2014, 2017, 2020, 2022, 2024
 lastupdated: "2022-09-30"
 keywords: 
 subcollection: framework-financial-services-controls
