@@ -1,0 +1,46 @@
+{
+    "version": 2,
+    "title": "IBM Cloud Framework for Financial Services - Control Requirements",
+    "introduction": "Control requirements for IBM Cloud Framework for Financial Services",
+    "product_page": "https://www.ibm.com/cloud/financial-services",
+    "section_topics": {
+      "links": [
+        {
+          "title": "IBM Cloud Framework for Financial Services - Control Requirements overview",
+          "href": "/docs/framework-financial-services-controls?topic=framework-financial-services-controls-overview"
+        },
+        {
+          "title": "Getting started with IBM Cloud for Financial Services",
+          "href": "/docs/framework-financial-services?topic=framework-financial-services-about"
+        },
+        {
+          "title": "Sitemap",
+          "href": "/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sitemap"
+        }
+      ]
+    },
+    "section_highlights": [
+      {
+        "title": "Built for the Financial Services industry",
+        "description": "This guide introduces how IBM Cloud for Financial Services helps client mitigate risk and accelerate cloud adoption for even the most sensitive workloads.",
+        "href": "https://www.ibm.com/resources/guides/speed-innovation-financial-services-industry",
+        "type": "white-paper"
+      },
+      {
+        "title": "Financial services industry transformation",
+        "description": "This article discusses how you can future-proof your digital ecosystem with scalable AI and automation technology.",
+        "href": "https://www.ibm.com/industries/financial-services",
+        "type": "white-paper"
+      }
+    ],
+
+    "section_updates": {
+      "view_more": "/docs/framework-financial-services-controls?topic=framework-financial-services-controls-overview",
+      "tiles": [
+        {
+          "date": "15 February 2025",
+          "title": "Control requirements for IBM Cloud Framework for Financial Services"
+        }
+      ]
+    }
+  }

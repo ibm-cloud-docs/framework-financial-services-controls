@@ -1362,6 +1362,16 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-2 (2)#nist-supplemental-guidance)
 
+[IA-2 (6) -  Access to Accounts — Separate Device](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-2 (6)#ia-2)
+
+* [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-2 (6)#control-requirements)
+
+    * [IA-2 (6) (a)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-2 (6)#ia-2-6-a)
+
+    * [IA-2 (6) (b)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-2 (6)#ia-2-6-b)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-2 (6)#nist-supplemental-guidance)
+
 [IA-3 - Device Identification and Authentication](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-3#ia-3)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ia-3#control-requirements)
@@ -1942,6 +1952,16 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-13#nist-supplemental-guidance)
 
+[PE-13 (2) -  Suppression Systems – Automatic Activation and Notification](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-13 (2)#pe-13)
+
+* [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-13 (2)#control-requirements)
+
+    * [PE-13 (2) (a)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-13 (2)#pe-13-2-a)
+
+    * [PE-13 (2) (b)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-13 (2)#pe-13-2-b)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-13 (2)#nist-supplemental-guidance)
+
 [PE-14 - Environmental Controls](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-14#pe-14)
 
 * [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-pe-14#control-requirements)
@@ -2265,6 +2285,14 @@ Find what you are looking for in the topics that are available for {{site.data.k
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ra-5 (6)#nist-supplemental-guidance)
 
+[RA-9 - Criticality Analysis](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ra-9#ra-9)
+
+* [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ra-9#control-requirements)
+
+    * [RA-9 - 0](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ra-9#ra-9---0)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ra-9#nist-supplemental-guidance)
+
 
 ## System and Services Acquisition (SA)
 {: #sitemap_system_and_services_acquisition_sa}
@@ -2311,6 +2339,18 @@ Find what you are looking for in the topics that are available for {{site.data.k
 * [Implementation guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3#implementation-guidance)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3#nist-supplemental-guidance)
+
+[SA-3 (2) -  Use of Live or Operational Data](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3 (2)#sa-3)
+
+* [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3 (2)#control-requirements)
+
+    * [SA-3 (2) (a)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3 (2)#sa-3-2-a)
+
+    * [SA-3 (2) (b)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3 (2)#sa-3-2-b)
+
+* [Additional IBM Cloud for Financial Services specifications](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3 (2)#additional-ibm-cloud-for-financial-services-specifications)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-3 (2)#nist-supplemental-guidance)
 
 [SA-4 - Acquisition Process](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sa-4#sa-4)
 
@@ -2766,6 +2806,24 @@ Find what you are looking for in the topics that are available for {{site.data.k
     * [SC-28 (1) - 0](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-28 (1)#sc-28-1---0)
 
 * [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-28 (1)#nist-supplemental-guidance)
+
+[SC-45 - System Time Synchronization](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45#sc-45)
+
+* [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45#control-requirements)
+
+    * [SC-45 - 0](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45#sc-45---0)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45#nist-supplemental-guidance)
+
+[SC-45 (1) -  Synchronization with Authoritative Time Source](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45 (1)#sc-45)
+
+* [Control requirements](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45 (1)#control-requirements)
+
+    * [SC-45 (1) (a)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45 (1)#sc-45-1-a)
+
+    * [SC-45 (1) (b)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45 (1)#sc-45-1-b)
+
+* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-sc-45 (1)#nist-supplemental-guidance)
 
 
 ## System and Information Integrity (SI)
