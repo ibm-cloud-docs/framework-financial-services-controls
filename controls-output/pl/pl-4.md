@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,26 +11,41 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # PL-4 - Rules of Behavior
 {: #pl-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-PL-4 (a)
-    : Establishes and makes readily available to individuals requiring access to the information system, the rules that describe their responsibilities and expected behavior with regard to information and information system usage;
 
-PL-4 (b)
-    : Receives a signed acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the information system;
+### PL-4 (a)
 
-PL-4 (c)
-    : Reviews and updates the rules of behavior _[IBM Assignment: at least every annually]_; and
 
-PL-4 (d)
-    : Requires individuals who have signed a previous version of the rules of behavior to read and re-sign when the rules of behavior are revised/updated.
+Establish and provide to individuals requiring access to the system, the rules that describe their responsibilities and expected behavior for information and system usage, security, and privacy.
+
+
+### PL-4 (b)
+
+
+Receive a documented acknowledgment from such individuals, indicating that they have read, understand, and agree to abide by the rules of behavior, before authorizing access to information and the system.
+
+
+### PL-4 (c)
+
+
+Review and update the rules of behavior _[IBM Assignment: at least annually]_.
+
+
+### PL-4 (d)
+
+
+Require individuals who have acknowledged a previous version of the rules of behavior to read and re-acknowledge _[Selection (one or more): _[IBM Assignment: at least annually and when the rules are revised or changed]_; when the rules are revised or updated]_.
+
+
+
+
+
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
@@ -62,12 +76,13 @@ Rules of behavior must include customer required restrictions on sending externa
 - Never sending or forwarding customer-related content to personal email addresses
 - All email exchanges with the customer must be encrypted via customer-approved solutions
 
+
+
+
+
+
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-This control enhancement applies to organizational users. Organizations consider rules of behavior based on individual user roles and responsibilities, differentiating, for example, between rules that apply to privileged users and rules that apply to general users. Establishing rules of behavior for some types of non-organizational users including, for example, individuals who simply receive data/information from federal information systems, is often not feasible given the large number of such users and the limited nature of their interactions with the systems. Rules of behavior for both organizational and non-organizational users can also be established in AC-8, System Use Notification. PL-4 b. (the signed acknowledgment portion of this control) may be satisfied by the security awareness training and role-based security training programs conducted by organizations if such training includes rules of behavior. Organizations can use electronic signatures for acknowledging rules of behavior.
-
-
-
-
-
+Rules of behavior represent a type of access agreement for organizational users. Other types of access agreements include nondisclosure agreements, conflict-of-interest agreements, and acceptable use agreements (see PS-6). Organizations consider rules of behavior based on individual user roles and responsibilities and differentiate between rules that apply to privileged users and rules that apply to general users. Establishing rules of behavior for some types of non-organizational users, including individuals who receive information from federal systems, is often not feasible given the large number of such users and the limited nature of their interactions with the systems. Rules of behavior for organizational and non-organizational users can also be established in AC-8. The related controls section provides a list of controls that are relevant to organizational rules of behavior. PL-4b, the documented acknowledgment portion of the control, may be satisfied by the literacy training and awareness and role-based training programs conducted by organizations if such training includes rules of behavior. Documented acknowledgements for rules of behavior include electronic or physical signatures and electronic agreement check boxes or radio buttons.

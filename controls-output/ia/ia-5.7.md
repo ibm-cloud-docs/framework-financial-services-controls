@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-02-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,22 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# IA-5 (7) - No Embedded Unencrypted Static Authenticators
-{: #ia-5.7}
+# IA-5 (7) -  No Embedded Unencrypted Static Authenticators
+{: #ia-5 (7)}
 
 ## Control requirements
 {: #control-requirements}
 
-IA-5 (7) - 0
-    : The organization ensures that unencrypted static authenticators are not embedded in applications or access scripts or stored on function keys.
+
+
+### IA-5 (7) - 0
+
+
+Ensure that unencrypted static authenticators are not embedded in applications or other forms of static storage.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Organizations exercise caution in determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators. This is irrespective of whether that representation is perhaps an encrypted version of something else (e.g., a password).
-
-
-
-
-
+In addition to applications, other forms of static storage include access scripts and function keys. Organizations exercise caution when determining whether embedded or stored authenticators are in encrypted or unencrypted form. If authenticators are used in the manner stored, then those representations are considered unencrypted authenticators.

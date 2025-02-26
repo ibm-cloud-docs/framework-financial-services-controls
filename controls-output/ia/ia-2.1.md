@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-04-27"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,34 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# IA-2 (1) - Network Access to Privileged Accounts
-{: #ia-2.1}
+# IA-2 (1) -  Multi-factor Authentication to Privileged Accounts
+{: #ia-2 (1)}
 
 ## Control requirements
 {: #control-requirements}
 
-IA-2 (1) - 0
-    : The information system implements multifactor authentication for network access to privileged accounts.
 
-## Implementation guidance
-{: #implementation-guidance}
 
-See the resources that follow to learn more about how to implement this control.
+### IA-2 (1) - 0
 
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
-- [Running operator actions through a bastion host](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-bastion)
-- [Working with {{site.data.keyword.openshiftlong_notm}}](/docs/framework-financial-services?topic=framework-financial-services-shared-containers-openshift)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
-
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
-
-- Check whether App ID multifactor authentication (MFA) is enabled for Cloud Directory users 
-- Check whether multifactor authentication (MFA) is enabled at the account level
+Implement multi-factor authentication for access to privileged accounts.
 
 
 
 
 
+
+
+
+
+
+
+
+## NIST supplemental guidance
+{: #nist-supplemental-guidance}
+
+Multi-factor authentication requires the use of two or more different factors to achieve authentication. The authentication factors are defined as follows: something you know (e.g., a personal identification number [PIN]), something you have (e.g., a physical authenticator such as a cryptographic private key), or something you are (e.g., a biometric). Multi-factor authentication solutions that feature physical authenticators include hardware authenticators that provide time-based or challenge-response outputs and smart cards such as the U.S. Government Personal Identity Verification (PIV) card or the Department of Defense (DoD) Common Access Card. In addition to authenticating users at the system level (i.e., at logon), organizations may employ authentication mechanisms at the application level, at their discretion, to provide increased security. Regardless of the type of access (i.e., local, network, remote), privileged accounts are authenticated using multi-factor options appropriate for the level of risk. Organizations can add additional security measures, such as additional or more rigorous authentication mechanisms, for specific types of access.

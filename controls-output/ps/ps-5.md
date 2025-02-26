@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,33 +11,49 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # PS-5 - Personnel Transfer
 {: #ps-5}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-PS-5 (a)
-    : Reviews and confirms ongoing operational need for current logical and physical access authorizations to information systems/facilities when individuals are reassigned or transferred to other positions within the organization;
 
-PS-5 (b)
-    : Initiates _[Assignment: organization-defined transfer or reassignment actions]_ within _[IBM Assignment: two (2) days following the formal transfer action]_;
+### PS-5 (a)
 
-PS-5 (c)
-    : Modifies access authorization as needed to correspond with any changes in operational need due to reassignment or transfer; and
 
-PS-5 (d)
-    : Notifies _[Assignment: organization-defined personnel or roles]_ within _[IBM Assignment: two (2) days of the formal transfer action]_.
+Review and confirm ongoing operational need for current logical and physical access authorizations to systems and facilities when individuals are reassigned or transferred to other positions within the organization.
+
+
+### PS-5 (b)
+
+
+Initiate _[Assignment: organization-defined transfer or reassignment actions]_ within _[IBM Assignment: two (2) days following the formal transfer action]_.
+
+
+### PS-5 (c)
+
+
+Modify access authorization as needed to correspond with any changes in operational need due to reassignment or transfer.
+
+
+### PS-5 (d)
+
+
+Notify _[Assignment: organization-defined personnel or roles]_ within _[IBM Assignment: two (2) days of the formal transfer action]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-This control applies when reassignments or transfers of individuals are permanent or of such extended durations as to make the actions warranted. Organizations define actions appropriate for the types of reassignments or transfers, whether permanent or extended. Actions that may be required for personnel transfers or reassignments to other positions within organizations include, for example: (i) returning old and issuing new keys, identification cards, and building passes; (ii) closing information system accounts and establishing new accounts; (iii) changing information system access authorizations (i.e., privileges); and (iv) providing for access to official records to which individuals had access at previous work locations and in previous information system accounts.
-
-
-
-
-
+Personnel transfer applies when reassignments or transfers of individuals are permanent or of such extended duration as to make the actions warranted. Organizations define actions appropriate for the types of reassignments or transfers, whether permanent or extended. Actions that may be required for personnel transfers or reassignments to other positions within organizations include returning old and issuing new keys, identification cards, and building passes; closing system accounts and establishing new accounts; changing system access authorizations (i.e., privileges); and providing for access to official records to which individuals had access at previous work locations and in previous system accounts.

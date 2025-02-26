@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,33 +11,49 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # PE-2 - Physical Access Authorizations
 {: #pe-2}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-PE-2 (a)
-    : Develops, approves, and maintains a list of individuals with authorized access to the facility where the information system resides;
 
-PE-2 (b)
-    : Issues authorization credentials for facility access;
+### PE-2 (a)
 
-PE-2 (c)
-    : Reviews the access list detailing authorized facility access by individuals _[IBM Assignment: at least annually]_; and
 
-PE-2 (d)
-    : Removes individuals from the facility access list when access is no longer required.
+Develop, approve, and maintain a list of individuals with authorized access to the facility where the system resides.
+
+
+### PE-2 (b)
+
+
+Issue authorization credentials for facility access.
+
+
+### PE-2 (c)
+
+
+Review the access list detailing authorized facility access by individuals _[IBM Assignment: at least annually]_.
+
+
+### PE-2 (d)
+
+
+Remove individuals from the facility access list when access is no longer required.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-This control applies to organizational employees and visitors. Individuals (e.g., employees, contractors, and others) with permanent physical access authorization credentials are not considered visitors. Authorization credentials include, for example, badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed (including level of forge-proof badges, smart cards, or identification cards) consistent with federal standards, policies, and procedures. This control only applies to areas within facilities that have not been designated as publicly accessible.
-
-
-
-
-
+Physical access authorizations apply to employees and visitors. Individuals with permanent physical access authorization credentials are not considered visitors. Authorization credentials include ID badges, identification cards, and smart cards. Organizations determine the strength of authorization credentials needed consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines. Physical access authorizations may not be necessary to access certain areas within facilities that are designated as publicly accessible.

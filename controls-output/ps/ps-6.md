@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,25 +11,37 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # PS-6 - Access Agreements
 {: #ps-6}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-PS-6 (a)
-    : Develops and documents access agreements for organizational information systems;
 
-PS-6 (b)
-    : Reviews and updates the access agreements _[IBM Assignment: at least annually]_; and
+### PS-6 (a)
 
-PS-6 (c)
-    : Ensures that individuals requiring access to organizational information and information systems:
-      1. Sign appropriate access agreements prior to being granted access; and
-      2. Re-sign access agreements to maintain access to organizational information systems when access agreements have been updated or _[IBM Assignment: at least annually]_.
+
+Develop and document access agreements for organizational systems.
+
+
+### PS-6 (b)
+
+
+Review and update the access agreements _[IBM Assignment: at least annually]_.
+
+
+### PS-6 (c)
+
+
+Verify that individuals requiring access to organizational information and systems:
+1. Sign appropriate access agreements prior to being granted access; and
+2. Re-sign access agreements to maintain access to organizational systems when access agreements have been updated or _[IBM Assignment: at least annually]_.
+
+
+
+
+
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
@@ -51,12 +62,13 @@ Rules of behavior must include customer required restrictions on sending externa
 - Never sending or forwarding customer-related content to personal email addresses
 - All email exchanges with the customer must be encrypted via customer-approved solutions
 
+
+
+
+
+
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Access agreements include, for example, nondisclosure agreements, acceptable use agreements, rules of behavior, and conflict-of-interest agreements. Signed access agreements include an acknowledgement that individuals have read, understand, and agree to abide by the constraints associated with organizational information systems to which access is authorized. Organizations can use electronic signatures to acknowledge access agreements unless specifically prohibited by organizational policy.
-
-
-
-
-
+Access agreements include nondisclosure agreements, acceptable use agreements, rules of behavior, and conflict-of-interest agreements. Signed access agreements include an acknowledgement that individuals have read, understand, and agree to abide by the constraints associated with organizational systems to which access is authorized. Organizations can use electronic signatures to acknowledge access agreements unless specifically prohibited by organizational policy.

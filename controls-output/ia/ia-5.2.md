@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-02-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,38 +11,46 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# IA-5 (2) - Pki-based Authentication
-{: #ia-5.2}
+# IA-5 (2) -  Public Key-based Authentication
+{: #ia-5 (2)}
 
 ## Control requirements
 {: #control-requirements}
 
-The information system, for PKI-based authentication:
 
-IA-5 (2) (a)
-    : Validates certifications by constructing and verifying a certification path to an accepted trust anchor including checking certificate status information;
 
-IA-5 (2) (b)
-    : Enforces authorized access to the corresponding private key;
+### IA-5 (2) (a)
 
-IA-5 (2) (c)
-    : Maps the authenticated identity to the account of the individual or group; and
 
-IA-5 (2) (d)
-    : Implements a local cache of revocation data to support path discovery and validation in case of inability to access revocation information via the network.
+For public key-based authentication:
+(1) Enforce authorized access to the corresponding private key; and
+(2) Map the authenticated identity to the account of the individual or group.
+
+
+### IA-5 (2) (b)
+
+
+When public key infrastructure (PKI) is used:
+(1) Validate certificates by constructing and verifying a certification path to an accepted trust anchor, including checking certificate status information; and
+(2) Implement a local cache of revocation data to support path discovery and validation.
+
+
+
+
+
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-- TLS certificate revocation status checking, and revocation status caching is only applicable to connections between a browser and server.
+TLS certificate revocation status checking, and revocation status caching is only applicable to connections between a browser and server.
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Status information for certification paths includes, for example, certificate revocation lists or certificate status protocol responses. For PIV cards, validation of certifications involves the construction and verification of a certification path to the Common Policy Root trust anchor including certificate policy processing.
-
-
-
-
-
+Public key cryptography is a valid authentication mechanism for individuals, machines, and devices. For PKI solutions, status information for certification paths includes certificate revocation lists or certificate status protocol responses. For PIV cards, certificate validation involves the construction and verification of a certification path to the Common Policy Root trust anchor, which includes certificate policy processing. Implementing a local cache of revocation data to support path discovery and validation also supports system availability in situations where organizations are unable to access revocation information via the network.

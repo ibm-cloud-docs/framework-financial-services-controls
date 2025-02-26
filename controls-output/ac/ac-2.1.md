@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-02-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,31 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# AC-2 (1) - Automated System Account Management
-{: #ac-2.1}
+# AC-2 (1) -  Automated System Account Management
+{: #ac-2 (1)}
 
 ## Control requirements
 {: #control-requirements}
 
-AC-2 (1) - 0
-    : The organization employs automated mechanisms to support the management of information system accounts.
 
-## Implementation guidance
-{: #implementation-guidance}
 
-See the resources that follow to learn more about how to implement this control.
+### AC-2 (1) - 0
 
-- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
-- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+
+Support the management of system accounts using _[Assignment: organization-defined automated mechanisms]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-The use of automated mechanisms can include, for example: using email or text messaging to automatically notify account managers when users are terminated or transferred; using the information system to monitor account usage; and using telephonic notification to report atypical system account usage.
-
-
-
-
-
+Automated system account management includes using automated mechanisms to create, enable, modify, disable, and remove accounts; notify account managers when an account is created, enabled, modified, disabled, or removed, or when users are terminated or transferred; monitor system account usage; and report atypical system account usage. Automated mechanisms can include internal system functions and email, telephonic, and text messaging notifications.

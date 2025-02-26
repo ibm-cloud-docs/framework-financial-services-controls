@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,39 +11,60 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # PS-4 - Personnel Termination
 {: #ps-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization, upon termination of individual employment:
 
-PS-4 (a)
-    : Disables information system access within _[IBM Assignment: same day]_;
 
-PS-4 (b)
-    : Terminates/revokes any authenticators/credentials associated with the individual;
+### PS-4 (a)
 
-PS-4 (c)
-    : Conducts exit interviews that include a discussion of _[Assignment: organization-defined information security topics]_;
 
-PS-4 (d)
-    : Retrieves all security-related organizational information system-related property;
+Upon termination of individual employment:
+Disable system access within _[IBM Assignment: same day]_.
 
-PS-4 (e)
-    : Retains access to organizational information and information systems formerly controlled by terminated individual; and
 
-PS-4 (f)
-    : Notifies _[Assignment: organization-defined personnel or roles]_ within _[IBM Assignment: same day]_.
+### PS-4 (b)
+
+
+Upon termination of individual employment:
+Terminate or revoke any authenticators and credentials associated with the individual.
+
+
+### PS-4 (c)
+
+
+Upon termination of individual employment:
+Conduct exit interviews that include a discussion of _[Assignment: organization-defined information security topics]_.
+
+
+### PS-4 (d)
+
+
+Upon termination of individual employment:
+Retrieve all security-related organizational system-related property.
+
+
+### PS-4 (e)
+
+
+Upon termination of individual employment:
+Retain access to organizational information and systems formerly controlled by terminated individual.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Information system-related property includes, for example, hardware authentication tokens, system administration technical manuals, keys, identification cards, and building passes. Exit interviews ensure that terminated individuals understand the security constraints imposed by being former employees and that proper accountability is achieved for information system-related property. Security topics of interest at exit interviews can include, for example, reminding terminated individuals of nondisclosure agreements and potential limitations on future employment. Exit interviews may not be possible for some terminated individuals, for example, in cases related to job abandonment, illnesses, and nonavailability of supervisors. Exit interviews are important for individuals with security clearances. Timely execution of termination actions is essential for individuals terminated for cause. In certain situations, organizations consider disabling the information system accounts of individuals that are being terminated prior to the individuals being notified.
-
-
-
-
-
+System property includes hardware authentication tokens, system administration technical manuals, keys, identification cards, and building passes. Exit interviews ensure that terminated individuals understand the security constraints imposed by being former employees and that proper accountability is achieved for system-related property. Security topics at exit interviews include reminding individuals of nondisclosure agreements and potential limitations on future employment. Exit interviews may not always be possible for some individuals, including in cases related to the unavailability of supervisors, illnesses, or job abandonment. Exit interviews are important for individuals with security clearances. The timely execution of termination actions is essential for individuals who have been terminated for cause. In certain situations, organizations consider disabling the system accounts of individuals who are being terminated prior to the individuals being notified.

@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,31 +11,49 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# PS-1 - Personnel Security Policy and Procedures
+# PS-1 - Policy and Procedures
 {: #ps-1}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-PS-1 (a)
-    : Develops, documents, and disseminates to _[Assignment: organization-defined personnel or roles]_:
-      1. A personnel security policy that addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
-      2. Procedures to facilitate the implementation of the personnel security policy and associated personnel security controls; and
 
-PS-1 (b)
-    : Reviews and updates the current:
-      1. Personnel security policy _[IBM Assignment: at least annually]_; and
-      2. Personnel security procedures _[IBM Assignment: at least annually]_.
+### PS-1 (a)
+
+
+Develop, document, and disseminate to _[Assignment: organization-defined personnel or roles]_:
+1. _[Selection (one or more): organization-level; mission/business process-level; system-level]_ personnel security policy that:
+(a) Addresses purpose, scope, roles, responsibilities, management commitment, coordination among organizational entities, and compliance; and
+(b) Is consistent with applicable laws, executive orders, directives, regulations, policies, standards, and guidelines; and
+2. Procedures to facilitate the implementation of the personnel security policy and the associated personnel security controls.
+
+
+### PS-1 (b)
+
+
+Designate an _[Assignment: organization-defined official]_ to manage the development, documentation, and dissemination of the personnel security policy and procedures.
+
+
+### PS-1 (c)
+
+
+Review and update the current personnel security:
+1. Policy _[IBM Assignment: at least annually]_ and following _[Assignment: organization-defined events]_; and
+2. Procedures _[IBM Assignment: at least annually]_ and following _[Assignment: organization-defined events]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-This control addresses the establishment of policy and procedures for the effective implementation of selected security controls and control enhancements in the PS family. Policy and procedures reflect applicable federal laws, Executive Orders, directives, regulations, policies, standards, and guidance. Security program policies and procedures at the organization level may make the need for system-specific policies and procedures unnecessary. The policy can be included as part of the general information security policy for organizations or conversely, can be represented by multiple policies reflecting the complex nature of certain organizations. The procedures can be established for the security program in general and for particular information systems, if needed. The organizational risk management strategy is a key factor in establishing policy and procedures.
-
-
-
-
-
+Personnel security policy and procedures for the controls in the PS family that are implemented within systems and organizations. The risk management strategy is an important factor in establishing such policies and procedures. Policies and procedures contribute to security and privacy assurance. Therefore, it is important that security and privacy programs collaborate on their development. Security and privacy program policies and procedures at the organization level are preferable, in general, and may obviate the need for mission level or system-specific policies and procedures. The policy can be included as part of the general security and privacy policy or be represented by multiple policies reflecting the complex nature of organizations. Procedures can be established for security and privacy programs, for mission/business processes, and for systems, if needed. Procedures describe how the policies or controls are implemented and can be directed at the individual or role that is the object of the procedure. Procedures can be documented in system security and privacy plans or in one or more separate documents. Events that may precipitate an update to personnel security policy and procedures include, but are not limited to, assessment or audit findings, security or privacy incidents, or changes in applicable laws, executive orders, directives, regulations, policies, standards, and guidelines. Simply restating controls does not constitute an organizational policy or procedure.
