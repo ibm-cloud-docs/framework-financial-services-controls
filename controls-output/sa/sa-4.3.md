@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # SA-4 (3) -  Development Methods, Techniques, and Practices
-{: #sa-4 (3)}
+{: #sa-4.3}
 
 ## Control requirements
 {: #control-requirements}

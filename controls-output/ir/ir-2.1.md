@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # IR-2 (1) -  Simulated Events
-{: #ir-2 (1)}
+{: #ir-2.1}
 
 ## Control requirements
 {: #control-requirements}

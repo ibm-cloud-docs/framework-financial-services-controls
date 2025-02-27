@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # RA-5 (6) -  Automated Trend Analyses
-{: #ra-5 (6)}
+{: #ra-5.6}
 
 ## Control requirements
 {: #control-requirements}

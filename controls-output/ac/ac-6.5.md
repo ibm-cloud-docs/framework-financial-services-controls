@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # AC-6 (5) -  Privileged Accounts
-{: #ac-6 (5)}
+{: #ac-6.5}
 
 ## Control requirements
 {: #control-requirements}

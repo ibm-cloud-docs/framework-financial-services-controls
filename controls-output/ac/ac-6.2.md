@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # AC-6 (2) -  Non-privileged Access for Nonsecurity Functions
-{: #ac-6 (2)}
+{: #ac-6.2}
 
 ## Control requirements
 {: #control-requirements}

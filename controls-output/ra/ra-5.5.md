@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # RA-5 (5) -  Privileged Access
-{: #ra-5 (5)}
+{: #ra-5.5}
 
 ## Control requirements
 {: #control-requirements}

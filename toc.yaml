@@ -1,6 +1,7 @@
 toc:
   properties:
     subcollection: framework-financial-services-controls
+    service-name: framework-financial-services-controls
     category: platform_services
     audience: platform
     href: /docs/framework-financial-services-controls

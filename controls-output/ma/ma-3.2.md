@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # MA-3 (2) -  Inspect Media
-{: #ma-3 (2)}
+{: #ma-3.2}
 
 ## Control requirements
 {: #control-requirements}

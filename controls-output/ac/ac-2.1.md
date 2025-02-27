@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # AC-2 (1) -  Automated System Account Management
-{: #ac-2 (1)}
+{: #ac-2.1}
 
 ## Control requirements
 {: #control-requirements}

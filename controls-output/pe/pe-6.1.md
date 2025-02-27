@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,7 +12,7 @@ subcollection: framework-financial-services-controls
 {{site.data.keyword.attribute-definition-list}}
 
 # PE-6 (1) -  Intrusion Alarms and Surveillance Equipment
-{: #pe-6 (1)}
+{: #pe-6.1}
 
 ## Control requirements
 {: #control-requirements}
