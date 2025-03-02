@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-02"
 
 keywords:
 
@@ -133,9 +133,6 @@ See the resources that follow to learn more about how to implement this control.
 
 
 - [Handling and securing secrets](/docs/framework-financial-services?topic=framework-financial-services-shared-secrets)
-
-
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
 
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
