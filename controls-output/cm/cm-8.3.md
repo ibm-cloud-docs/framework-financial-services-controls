@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-27"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 ### CM-8 (3) (a)
 
 
-Detect the presence of unauthorized hardware, software, and firmware components within the system using _[IBM Assignment: automated mechanisms with a maximum five-minute delay in detection.]_ _[IBM Assignment: continuously]_.
+Detect the presence of unauthorized hardware, software, and firmware components within the system using _[IBM Assignment: automated mechanisms with a maximum five-minute delay in detection]_ _[IBM Assignment: continuously]_.
 
 
 ### CM-8 (3) (b)

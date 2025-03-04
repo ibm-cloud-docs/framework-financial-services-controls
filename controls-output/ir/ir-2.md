@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -23,7 +23,7 @@ subcollection: framework-financial-services-controls
 
 
 Provide incident response training to system users consistent with assigned roles and responsibilities:
-1. Within _[IBM Assignment: within 90 calendar days]_ of assuming an incident response role or responsibility or acquiring system access;
+1. Within _[IBM Assignment: 90 calendar days]_ of assuming an incident response role or responsibility or acquiring system access;
 2. When required by system changes; and
 3. _[IBM Assignment: at least annually]_ thereafter.
 

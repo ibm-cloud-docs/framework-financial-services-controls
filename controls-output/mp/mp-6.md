@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 ### MP-6 (a)
 
 
-Sanitize _[Assignment: organization-defined system media]_ prior to disposal, release out of organizational control, or release for reuse using _[IBM Assignment: customer approved sanitization process corresponding to the customer's retention schedule]_.
+Sanitize _[IBM Assignment: assets holding customer data]_ prior to disposal, release out of organizational control, or release for reuse using _[IBM Assignment: customer approved sanitization process corresponding to the customer's retention schedule]_.
 
 
 ### MP-6 (b)

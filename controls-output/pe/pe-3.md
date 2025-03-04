@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -24,7 +24,7 @@ subcollection: framework-financial-services-controls
 
 Enforce physical access authorizations at _[Assignment: organization-defined entry and exit points to the facility where the system resides]_ by:
 1. Verifying individual access authorizations before granting access to the facility; and
-2. Controlling ingress and egress to the facility using _[Selection (one or more): _[IBM Assignment: locks, guards, badge systems, and video cameras]_; guards]_.
+2. Controlling ingress and egress to the facility using _[IBM Assignment: locks, guards, badge systems, and video cameras]_.
 
 
 ### PE-3 (b)

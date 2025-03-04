@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -56,9 +56,8 @@ Changing default authenticators prior to first use.
 
 ### IA-5 (f)
 
-
 Manage system authenticators by:
-Changing or refreshing authenticators _[Assignment: organization-defined time period by authenticator type]_ or when _[Assignment: organization-defined events]_ occur.
+Changing or refreshing authenticators _[IBM Assignment: 90 days for user passwords and 365 days for system-to-system authenticators]_ or when _[IBM Assignment: enforce password change or refresh when a known compromise has occurred]_ occur.
 
 
 ### IA-5 (g)
@@ -89,7 +88,7 @@ Changing authenticators for group or role accounts when membership to those acco
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-The registration process to receive all hardware/biometric (multifactor authenticators] should be conducted in person or by a trusted third party with authorization by a member of the approved registration authority (e.g., help desk or network administrator).   
+The registration process to receive all hardware/biometric (multifactor authenticators] should be conducted in person or by a trusted third party with authorization by a member of the approved registration authority (e.g., help desk or network administrator).
 
 
 

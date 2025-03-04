@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -28,7 +28,7 @@ Configure the system to provide only _[Assignment: organization-defined mission 
 ### CM-7 (b)
 
 
-Prohibit or restrict the use of the following functions, ports, protocols, software, and/or services: _[Assignment: organization-defined prohibited or restricted functions, system ports, protocols, software, and/or services]_.
+Prohibit or restrict the use of the following functions, ports, protocols, software, and/or services: _[IBM Assignment: limiting, disabling, and/or controlling services, features, applications, functions, ports, and protocols not explicitly required to support business functionality]_.
 
 
 
@@ -39,7 +39,7 @@ Prohibit or restrict the use of the following functions, ports, protocols, softw
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
 Container Security Requirements:
-• Images must be restricted to only utilizing necessary features to reduce the attack surface and potential vulnerabilities (for example: only necessary libraries must be implemented).
+* Images must be restricted to only utilizing necessary features to reduce the attack surface and potential vulnerabilities (for example: only necessary libraries must be implemented).
 
 
 

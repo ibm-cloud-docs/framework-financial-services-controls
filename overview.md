@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2025
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 keywords:
 subcollection: framework-financial-services-controls
 
@@ -27,8 +27,6 @@ See [IBM Cloud Framework for Financial Services - Control Requirements v2.0](htt
 
 To refer to the previous version of the IBM Cloud Framework for Financial Services (i.e. v1.1), please click [here](https://cloud.ibm.com/media/docs/downloads/framework-financial-services/IBM_Cloud_Framework_for_Financial_Services_-_Control_Requirements_v1.1.0.xlsx){: external}.
 
-
-See [{{site.data.keyword.framework-fs_notm}} - Control Requirements](https://cloud.ibm.com/media/docs/downloads/framework-financial-services/IBM_Cloud_Framework_for_Financial_Services_-_Control_Requirements_v1.1.0.xlsx){: external} for a spreadsheet of the control requirements.
 
 See [Getting started with {{site.data.keyword.cloud_notm}} for Financial Services](/docs/framework-financial-services) for reference architectures and prescriptive implementation guidance to help you build solutions on {{site.data.keyword.cloud_notm}} that meet the control requirements.
 {: note}

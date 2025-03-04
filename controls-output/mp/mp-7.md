@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -22,7 +22,7 @@ subcollection: framework-financial-services-controls
 ### MP-7 (a)
 
 
-_[IBM Assignment: Selection: Restrict; Prohibit]_ the use of _[IBM Assignment: Assignment: organization-defined types of system media]_ on _[IBM Assignment: Assignment: organization-defined systems or system components]_ using _[IBM Assignment: Assignment: organization-defined controls]_.
+_[Selection: Restrict; Prohibit]_ the use of _[Assignment: organization-defined types of system media]_ on _[Assignment: organization-defined systems or system components]_ using _[Assignment: organization-defined controls]_.
 
 
 ### MP-7 (b)

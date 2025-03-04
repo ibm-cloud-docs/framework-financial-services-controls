@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -36,7 +36,7 @@ Automatically update malicious code protection mechanisms as new releases are av
 
 Configure malicious code protection mechanisms to:
 1. Perform periodic scans of the system _[IBM Assignment: at least weekly]_ and real-time scans of files from external sources at _[IBM Assignment: to include endpoints, including removable media and devices (e.g., USB drives, CD/DVDs)]_ as the files are downloaded, opened, or executed in accordance with organizational policy; and
-2. _[IBM Assignment: to include alerting administrator or defined security personnel]_; and send alert to __##1 in response to malicious code detection.
+2. _[IBM Assignment: to include alerting administrator or defined security personnel]_ in response to malicious code detection.
 
 
 ### SI-3 (d)

@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -65,7 +65,7 @@ Response actions to address results of the analysis of control assessment and mo
 
 
 Develop a system-level continuous monitoring strategy and implement continuous monitoring in accordance with the organization-level continuous monitoring strategy that includes:
-Reporting the security and privacy status of the system to _[IBM Assignment: to meet customer requirements]__[IBM Assignment: monthly]_.
+Reporting the security and privacy status of the system to _[IBM Assignment: to meet customer requirements]_ _[IBM Assignment: monthly]_.
 
 
 

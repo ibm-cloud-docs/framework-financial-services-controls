@@ -2,7 +2,7 @@
 
 copyright:
   years: 2020, 2025
-lastupdated: "2025-02-27"
+lastupdated: "2025-03-04"
 
 keywords: 
 
@@ -3225,5 +3225,3 @@ Find what you are looking for in the topics that are available for {{site.data.k
     * [UL-2 (c)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#ul-2-c)
 
     * [UL-2 (d)](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#ul-2-d)
-
-* [NIST supplemental guidance](/docs/framework-financial-services-controls?topic=framework-financial-services-controls-ul-2#nist-supplemental-guidance)

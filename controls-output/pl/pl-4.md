@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-26"
+lastupdated: "2025-03-04"
 
 keywords:
 
@@ -40,7 +40,7 @@ Review and update the rules of behavior _[IBM Assignment: at least annually]_.
 ### PL-4 (d)
 
 
-Require individuals who have acknowledged a previous version of the rules of behavior to read and re-acknowledge _[Selection (one or more): _[IBM Assignment: at least annually and when the rules are revised or changed]_; when the rules are revised or updated]_.
+Require individuals who have acknowledged a previous version of the rules of behavior to read and re-acknowledge _[IBM Assignment: at least annually and when the rules are revised or changed]_.
 
 
 
