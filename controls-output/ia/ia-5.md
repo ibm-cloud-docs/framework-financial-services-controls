@@ -57,7 +57,7 @@ Changing default authenticators prior to first use.
 ### IA-5 (f)
 
 Manage system authenticators by:
-Changing or refreshing authenticators _[IBM Assignment: 90 days for user passwords and 365 days for system-to-system authenticators]_ or when _[IBM Assignment: enforce password change or refresh when a known compromise has occurred]_ occur.
+Changing or refreshing authenticators _[IBM Assignment: 90 days for user passwords and 365 days for system-to-system authenticators]_ or when _[IBM Assignment: a known compromise]_ occur.
 
 
 ### IA-5 (g)
