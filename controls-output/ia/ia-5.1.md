@@ -2,7 +2,7 @@
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-27"
+lastupdated: "2025-03-11"
 
 keywords:
 
@@ -23,8 +23,7 @@ subcollection: framework-financial-services-controls
 
 
 For password-based authentication:
-Maintain a list of commonly-used, expected, or compromised passwords and update the list _[IBM Assignment: at least monthly]_ and when organizational passwords are suspected to have been compromised directly or indirectly.
-
+Maintain a list of commonly-used, expected, or compromised passwords and update the list _[Assignment: organization-defined frequency]_ and when organizational passwords are suspected to have been compromised directly or indirectly.
 
 ### IA-5 (1) (b)
 
@@ -82,9 +81,9 @@ Enforce the following composition and complexity rules: _[IBM Assignment: minimu
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-Temporary passwords for web applications should only be valid for 24 hours. 
+Temporary passwords for web applications should only be valid for 24 hours.
 
-At least one (1) character change should be enforced when new passwords are created. 
+At least one (1) character change should be enforced when new passwords are created.
 
 Password reuse should be prohibited for ten (10) generations.
 
