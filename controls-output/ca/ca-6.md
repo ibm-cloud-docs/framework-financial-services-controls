@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,30 +11,58 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# CA-6 - Security Authorization
+# CA-6 - Authorization
 {: #ca-6}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-CA-6 (a)
-    : Assigns a senior-level executive or manager as the authorizing official for the information system;
 
-CA-6 (b)
-    : Ensures that the authorizing official authorizes the information system for processing before commencing operations; and
+### CA-6 (a)
 
-CA-6 (c)
-    : Updates the security authorization _[IBM Assignment: at least every three (3) years or when a significant change occurs]_.
+
+Assign a senior official as the authorizing official for the system.
+
+
+### CA-6 (b)
+
+
+Assign a senior official as the authorizing official for common controls available for inheritance by organizational systems.
+
+
+### CA-6 (c)
+
+
+Ensure that the authorizing official for the system, before commencing operations:
+1. Accepts the use of common controls inherited by the system; and
+2. Authorizes the system to operate.
+
+
+### CA-6 (d)
+
+
+Ensure that the authorizing official for common controls authorizes the use of those controls for inheritance by organizational systems.
+
+
+### CA-6 (e)
+
+
+Update the authorizations _[IBM Assignment: at least every three (3) years or when a significant change occurs]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Security authorizations are official management decisions, conveyed through authorization decision documents, by senior organizational officials or executives (i.e., authorizing officials) to authorize operation of information systems and to explicitly accept the risk to organizational operations and assets, individuals, other organizations, and the Nation based on the implementation of agreed-upon security controls. Authorizing officials provide budgetary oversight for organizational information systems or assume responsibility for the mission/business operations supported by those systems. The security authorization process is an inherently federal responsibility and therefore, authorizing officials must be federal employees. Through the security authorization process, authorizing officials assume responsibility and are accountable for security risks associated with the operation and use of organizational information systems. Accordingly, authorizing officials are in positions with levels of authority commensurate with understanding and accepting such information security-related risks. OMB policy requires that organizations conduct ongoing authorizations of information systems by implementing continuous monitoring programs. Continuous monitoring programs can satisfy three-year reauthorization requirements, so separate reauthorization processes are not necessary. Through the employment of comprehensive continuous monitoring processes, critical information contained in authorization packages (i.e., security plans, security assessment reports, and plans of action and milestones) is updated on an ongoing basis, providing authorizing officials and information system owners with an up-to-date status of the security state of organizational information systems and environments of operation. To reduce the administrative cost of security reauthorization, authorizing officials use the results of continuous monitoring processes to the maximum extent possible as the basis for rendering reauthorization decisions.
-
-
-
-
-
+Authorizations are official management decisions by senior officials to authorize operation of systems, authorize the use of common controls for inheritance by organizational systems, and explicitly accept the risk to organizational operations and assets, individuals, other organizations, and the Nation based on the implementation of agreed-upon controls. Authorizing officials provide budgetary oversight for organizational systems and common controls or assume responsibility for the mission and business functions supported by those systems or common controls. The authorization process is a federal responsibility, and therefore, authorizing officials must be federal employees. Authorizing officials are both responsible and accountable for security and privacy risks associated with the operation and use of organizational systems. Nonfederal organizations may have similar processes to authorize systems and senior officials that assume the authorization role and associated responsibilities.
+Authorizing officials issue ongoing authorizations of systems based on evidence produced from implemented continuous monitoring programs. Robust continuous monitoring programs reduce the need for separate reauthorization processes. Through the employment of comprehensive continuous monitoring processes, the information contained in authorization packages (i.e., security and privacy plans, assessment reports, and plans of action and milestones) is updated on an ongoing basis. This provides authorizing officials, common control providers, and system owners with an up-to-date status of the security and privacy posture of their systems, controls, and operating environments. To reduce the cost of reauthorization, authorizing officials can leverage the results of continuous monitoring processes to the maximum extent possible as the basis for rendering reauthorization decisions.

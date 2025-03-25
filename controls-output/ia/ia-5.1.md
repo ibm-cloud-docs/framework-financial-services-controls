@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-03-11"
 
 keywords:
 
@@ -12,46 +11,89 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# IA-5 (1) - Password-based Authentication
+# IA-5 (1) -  Password-based Authentication
 {: #ia-5.1}
 
 ## Control requirements
 {: #control-requirements}
 
+
+
+### IA-5 (1) (a)
+
+
+For password-based authentication:
+Maintain a list of commonly-used, expected, or compromised passwords and update the list _[Assignment: organization-defined frequency]_ and when organizational passwords are suspected to have been compromised directly or indirectly.
+
+### IA-5 (1) (b)
+
+
+For password-based authentication:
+Verify, when users create or update passwords, that the passwords are not found on the list of commonly-used, expected, or compromised passwords in IA-5(1)(a).
+
+
+### IA-5 (1) (c)
+
+
+For password-based authentication:
+Transmit passwords only over cryptographically-protected channels.
+
+
+### IA-5 (1) (d)
+
+
+For password-based authentication:
+Store passwords using an approved salted key derivation function, preferably using a keyed hash.
+
+
+### IA-5 (1) (e)
+
+
+For password-based authentication:
+Require immediate selection of a new password upon account recovery.
+
+
+### IA-5 (1) (f)
+
+
+For password-based authentication:
+Allow user selection of long passwords and passphrases, including spaces and all printable characters.
+
+
+### IA-5 (1) (g)
+
+
 The information system, for password-based authentication:
+Employ automated tools to assist the user in selecting strong password authenticators.
 
-IA-5 (1) (a)
-    : Enforces minimum password complexity of _[IBM Assignment: minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters]_;
 
-IA-5 (1) (b)
-    : Enforces at least the following number of changed characters when new passwords are created: _[IBM Assignment: at least one (1)]_;
+### IA-5 (1) (h)
 
-IA-5 (1) (c)
-    : Stores and transmits only cryptographically-protected passwords;
 
-IA-5 (1) (d)
-    : Enforces password minimum and maximum lifetime restrictions of _[IBM Assignment: require passwords to be changed every 90 days, temporary passwords for web applications only valid for 24 hours]_;
+The information system, for password-based authentication:
+Enforce the following composition and complexity rules: _[IBM Assignment: minimum length of 8 characters, cannot be a derivative of the username, and must have a combination of alpha and numeric characters]_.
 
-IA-5 (1) (e)
-    : Prohibits password reuse for _[IBM Assignment: twenty-four (24)]_ generations; and
 
-IA-5 (1) (f)
-    : Allows the use of a temporary password for system logons with an immediate change to a permanent password.
 
-## Implementation guidance
-{: #implementation-guidance}
 
-See the resources that follow to learn more about how to implement this control.
 
-- [Consumer accounts for application provider workloads](/docs/framework-financial-services?topic=framework-financial-services-shared-account-consumer)
+
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-ibm-cloud-for-financial-services-specifications}
+
+Temporary passwords for web applications should only be valid for 24 hours.
+
+At least one (1) character change should be enforced when new passwords are created.
+
+Password reuse should be prohibited for ten (10) generations.
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-This control enhancement applies to single-factor authentication of individuals using passwords as individual or group authenticators, and in a similar manner, when passwords are part of multifactor authenticators. This control enhancement does not apply when passwords are used to unlock hardware authenticators (e.g., Personal Identity Verification cards). The implementation of such password mechanisms may not meet all of the requirements in the enhancement. Cryptographically-protected passwords include, for example, encrypted versions of passwords and one-way cryptographic hashes of passwords. The number of changed characters refers to the number of changes required with respect to the total number of positions in the current password. Password lifetime restrictions do not apply to temporary passwords. To mitigate certain brute force attacks against passwords, organizations may also consider salting passwords.
-
-
-
-
-
+Password-based authentication applies to passwords regardless of whether they are used in single-factor or multi-factor authentication. Long passwords or passphrases are preferable over shorter passwords. Enforced composition rules provide marginal security benefits while decreasing usability. However, organizations may choose to establish certain rules for password generation (e.g., minimum character length for long passwords) under certain circumstances and can enforce this requirement in IA-5(1)(h). Account recovery can occur, for example, in situations when a password is forgotten. Cryptographically protected passwords include salted one-way cryptographic hashes of passwords. The list of commonly used, compromised, or expected passwords includes passwords obtained from previous breach corpuses, dictionary words, and repetitive or sequential characters. The list includes context-specific words, such as the name of the service, username, and derivatives thereof.

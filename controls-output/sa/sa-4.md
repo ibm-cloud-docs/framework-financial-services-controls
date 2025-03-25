@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-04-27"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,70 +11,110 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # SA-4 - Acquisition Process
 {: #sa-4}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization includes the following requirements, descriptions, and criteria, explicitly or by reference, in the acquisition contract for the information system, system component, or information system service in accordance with applicable federal laws, Executive Orders, directives, policies, regulations, standards, guidelines, and organizational mission/business needs:
 
-SA-4 (a)
-    : Security functional requirements;
 
-SA-4 (b)
-    : Security strength requirements;
+### SA-4 (a)
 
-SA-4 (c)
-    : Security assurance requirements;
 
-SA-4 (d)
-    : Security-related documentation requirements;
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Security and privacy functional requirements.
 
-SA-4 (e)
-    : Requirements for protecting security-related documentation;
 
-SA-4 (f)
-    : Description of the information system development environment and environment in which the system is intended to operate; and
+### SA-4 (b)
 
-SA-4 (g)
-    : Acceptance criteria.
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Strength of mechanism requirements.
+
+
+### SA-4 (c)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Security and privacy assurance requirements.
+
+
+### SA-4 (d)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Controls needed to satisfy the security and privacy requirements.
+
+
+### SA-4 (e)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Security and privacy documentation requirements.
+
+
+### SA-4 (f)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Requirements for protecting security and privacy documentation.
+
+
+### SA-4 (g)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Description of the system development environment and environment in which the system is intended to operate.
+
+
+### SA-4 (h)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Allocation of responsibility or identification of parties responsible for information security, privacy, and supply chain risk management.
+
+
+### SA-4 (i)
+
+
+Include the following requirements, descriptions, and criteria, explicitly or by reference, using _[Selection (one or more): standardized contract language; _[Assignment: organization-defined contract language]_]_ in the acquisition contract for the system, system component, or system service:
+Acceptance criteria.
+
+
+
+
+
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
 
-- Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
+Requirements, including service level agreements, for contingency planning and business continuity must be negotiated with 3rd/4th party service providers to meet customer requirements.
+
+Container Security Requirements: 
+• In case of deployment of Secured images generated by third parties, the following conditions must be considered: 
+ a. The supplier/provider must ensure and enforce image security, integrity and support and provide evidence (image signature, image scans, hardening, etc.). 
+ b. A support contract defining responsibilities on images are established between the supplier and customer. 
+
+
+
 
 ## Implementation guidance
 {: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 
+
 - [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-| Requirement ID | Rules |
-|----------------|-------|
-| SA-4 (a) | - Check whether provisioned services are IAM enabled \n - Check whether the Financial Services Validated setting is enabled in account settings | 
-| SA-4 (b) | - Check whether provisioned services are IAM enabled | 
-| SA-4 (c) | - Check whether provisioned services are IAM enabled | 
-| SA-4 (d) | - Check whether provisioned services are IAM enabled | 
-| SA-4 (e) | - Check whether provisioned services are IAM enabled | 
-| SA-4 (f) | - Check whether provisioned services are IAM enabled | 
-| SA-4 (g) | - Check whether provisioned services are IAM enabled | 
-{: caption="Rules for SA-4 in IBM Cloud for Financial Services v1.2.0 profile" caption-side="top"}
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Information system components are discrete, identifiable information technology assets (e.g., hardware, software, or firmware) that represent the building blocks of an information system. Information system components include commercial information technology products. Security functional requirements include security capabilities, security functions, and security mechanisms. Security strength requirements associated with such capabilities, functions, and mechanisms include degree of correctness, completeness, resistance to direct attack, and resistance to tampering or bypass. Security assurance requirements include: (i) development processes, procedures, practices, and methodologies; and (ii) evidence from development and assessment activities providing grounds for confidence that the required security functionality has been implemented and the required security strength has been achieved. Security documentation requirements address all phases of the system development life cycle. Security functionality, assurance, and documentation requirements are expressed in terms of security controls and control enhancements that have been selected through the tailoring process. The security control tailoring process includes, for example, the specification of parameter values through the use of assignment and selection statements and the specification of platform dependencies and implementation information. Security documentation provides user and administrator guidance regarding the implementation and operation of security controls. The level of detail required in security documentation is based on the security category or classification level of the information system and the degree to which organizations depend on the stated security capability, functions, or mechanisms to meet overall risk response expectations (as defined in the organizational risk management strategy). Security requirements can also include organizationally mandated configuration settings specifying allowed functions, ports, protocols, and services. Acceptance criteria for information systems, information system components, and information system services are defined in the same manner as such criteria for any organizational acquisition or procurement. The Federal Acquisition Regulation (FAR) Section 7.103 contains information security requirements from FISMA.
-
-
-
-
-
+Security and privacy functional requirements are typically derived from the high-level security and privacy requirements described in SA-2. The derived requirements include security and privacy capabilities, functions, and mechanisms. Strength requirements associated with such capabilities, functions, and mechanisms include degree of correctness, completeness, resistance to tampering or bypass, and resistance to direct attack. Assurance requirements include development processes, procedures, and methodologies as well as the evidence from development and assessment activities that provide grounds for confidence that the required functionality is implemented and possesses the required strength of mechanism. [SP 800-160-1] describes the process of requirements engineering as part of the system development life cycle.
+Controls can be viewed as descriptions of the safeguards and protection capabilities appropriate for achieving the particular security and privacy objectives of the organization and for reflecting the security and privacy requirements of stakeholders. Controls are selected and implemented in order to satisfy system requirements and include developer and organizational responsibilities. Controls can include technical, administrative, and physical aspects. In some cases, the selection and implementation of a control may necessitate additional specification by the organization in the form of derived requirements or instantiated control parameter values. The derived requirements and control parameter values may be necessary to provide the appropriate level of implementation detail for controls within the system development life cycle.
+Security and privacy documentation requirements address all stages of the system development life cycle. Documentation provides user and administrator guidance for the implementation and operation of controls. The level of detail required in such documentation is based on the security categorization or classification level of the system and the degree to which organizations depend on the capabilities, functions, or mechanisms to meet risk response expectations. Requirements can include mandated configuration settings that specify allowed functions, ports, protocols, and services. Acceptance criteria for systems, system components, and system services are defined in the same manner as the criteria for any organizational acquisition or procurement.

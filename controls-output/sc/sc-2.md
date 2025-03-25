@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-04-27"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,37 +11,50 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# SC-2 - Application Partitioning
+# SC-2 - Separation of System and User Functionality
 {: #sc-2}
 
 ## Control requirements
 {: #control-requirements}
 
-SC-2 - 0
-    : The information system separates user functionality (including user interface services) from information system management functionality.
+
+
+### SC-2 - 0
+
+
+Separate user functionality, including user interface services, from system management functionality.
+
+
+
+
+
+
+## Additional IBM Cloud for Financial Services specifications
+{: #additional-ibm-cloud-for-financial-services-specifications}
+
+Container Security Requirements: 
+• The management plane traffic must be separated from data plane traffic.
+
+
+
 
 ## Implementation guidance
 {: #implementation-guidance}
 
 See the resources that follow to learn more about how to implement this control.
 
+
+- [Ensuring isolation between {{site.data.keyword.satelliteshort}} management functions and workload functions](/docs/framework-financial-services?topic=framework-financial-services-satellite-architecture-connectivity-management-isolation)
+
+
 - [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- Check whether at least # Virtual Private Cloud (VPC)s have been created 
-- Check whether at least # instances of Transit Gateway have been created
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Information system management functionality includes, for example, functions necessary to administer databases, network components, workstations, or servers, and typically requires privileged user access. The separation of user functionality from information system management functionality is either physical or logical. Organizations implement separation of system management-related functionality from user functionality by using different computers, different central processing units, different instances of operating systems, different network addresses, virtualization techniques, or combinations of these or other methods, as appropriate. This type of separation includes, for example, web administrative interfaces that use separate authentication methods for users of any other information system resources. Separation of system and user functionality may include isolating administrative interfaces on different domains and with additional access controls.
-
-
-
-
-
+System management functionality includes functions that are necessary to administer databases, network components, workstations, or servers. These functions typically require privileged user access. The separation of user functions from system management functions is physical or logical. Organizations may separate system management functions from user functions by using different computers, instances of operating systems, central processing units, or network addresses; by employing virtualization techniques; or some combination of these or other methods. Separation of system management functions from user functions includes web administrative interfaces that employ separate authentication methods for users of any other system resources. Separation of system and user functions may include isolating administrative interfaces on different domains and with additional access controls. The separation of system and user functionality can be achieved by applying the systems security engineering design principles in SA-8, including SA-8(1), SA-8(3), SA-8(4), SA-8(10), SA-8(12), SA-8(13), SA-8(14), and SA-8(18).

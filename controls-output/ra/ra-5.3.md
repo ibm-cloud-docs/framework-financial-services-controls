@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-04-27"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,30 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# RA-5 (3) - Breadth / Depth of Coverage
+# RA-5 (3) -  Breadth and Depth of Coverage
 {: #ra-5.3}
 
 ## Control requirements
 {: #control-requirements}
 
-RA-5 (3) - 0
-    : The organization employs vulnerability scanning procedures that can identify the breadth and depth of coverage (i.e., information system components scanned and vulnerabilities checked).
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+### RA-5 (3) - 0
 
-- Check whether DevSecOps Toolchain scans build artifacts to identify vulnerabilities 
-- Check whether Container Registry Vulnerability Advisor scans for critical or high vulnerabilities in the system at least every # day(s) 
-- Check whether DevSecOps Toolchain validates code against Center for Internet Security (CIS) Docker benchmarks to ensure container runtimes are configured securely 
-- Check whether DevSecOps Toolchain passes dynamic code scan to identify vulnerabilities in deployed artifacts 
-- Check whether DevSecOps Toolchain scans source code and their dependencies to identify vulnerabilities 
-- Check whether DevSecOps Toolchain source code contains no secrets 
-- Check whether DevSecOps Toolchain passes static code scan to identify vulnerabilities in source code
+
+Define the breadth and depth of vulnerability scanning coverage.
 
 
 
 
 
+
+
+
+
+
+
+
+## NIST supplemental guidance
+{: #nist-supplemental-guidance}
+
+The breadth of vulnerability scanning coverage can be expressed as a percentage of components within the system, by the particular types of systems, by the criticality of systems, or by the number of vulnerabilities to be checked. Conversely, the depth of vulnerability scanning coverage can be expressed as the level of the system design that the organization intends to monitor (e.g., component, module, subsystem, element). Organizations can determine the sufficiency of vulnerability scanning coverage with regard to its risk tolerance and other factors. Scanning tools and how the tools are configured may affect the depth and coverage. Multiple scanning tools may be needed to achieve the desired depth and coverage. [SP 800-53A] provides additional information on the breadth and depth of coverage.

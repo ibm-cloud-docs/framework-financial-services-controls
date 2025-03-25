@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,39 +11,49 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# AC-2 (7) - Role-based Schemes
+# AC-2 (7) -  Privileged User Accounts
 {: #ac-2.7}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-AC-2 (7) (a)
-    : Establishes and administers privileged user accounts in accordance with a role-based access scheme that organizes allowed information system access and privileges into roles;
 
-AC-2 (7) (b)
-    : Monitors privileged role assignments; and
+### AC-2 (7) (a)
 
-AC-2 (7) (c)
-    : Takes _[Assignment: organization-defined actions]_ when privileged role assignments are no longer appropriate.
 
-## Implementation guidance
-{: #implementation-guidance}
+Establish and administer privileged user accounts in accordance with _[Selection: a role-based access scheme; an attribute-based access scheme]_.
 
-See the resources that follow to learn more about how to implement this control.
 
-- [Audit logging of application provider events and SIEM](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit-provider)
-- [Audit logging of {{site.data.keyword.cloud_notm}} events](/docs/framework-financial-services?topic=framework-financial-services-shared-logging-audit)
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+### AC-2 (7) (b)
+
+
+Monitor privileged role or attribute assignments.
+
+
+### AC-2 (7) (c)
+
+
+Monitor changes to roles or attributes.
+
+
+### AC-2 (7) (d)
+
+
+Revoke access when privileged role or attribute assignments are no longer appropriate.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. These privileged roles include, for example, key management, account management, network and system administration, database administration, and web administration.
-
-
-
-
-
+Privileged roles are organization-defined roles assigned to individuals that allow those individuals to perform certain security-relevant functions that ordinary users are not authorized to perform. Privileged roles include key management, account management, database administration, system and network administration, and web administration. A role-based access scheme organizes permitted system access and privileges into roles. In contrast, an attribute-based access scheme specifies allowed system access and privileges based on attributes.

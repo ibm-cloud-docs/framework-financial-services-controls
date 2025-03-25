@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,22 +11,46 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# SA-4 (3) - Development Methods / Techniques / Practices
+# SA-4 (3) -  Development Methods, Techniques, and Practices
 {: #sa-4.3}
 
 ## Control requirements
 {: #control-requirements}
 
-SA-4 (3) - 0
-    : The organization requires the developer of the information system, system component, or information system service to demonstrate the use of a system development life cycle that includes [Assignment: organization-defined state-of-the-practice system/security engineering methods, software development methods, testing/evaluation/validation techniques, and quality control processes].
+
+
+### SA-4 (3) (a)
+
+
+Require the developer of the system, system component, or system service to demonstrate the use of a system development life cycle process that includes:
+_[Assignment: organization-defined systems engineering methods]_.
+
+
+### SA-4 (3) (b)
+
+
+Require the developer of the system, system component, or system service to demonstrate the use of a system development life cycle process that includes:
+_[Assignment: organization-defined Selection (one or more): systems security; privacy]_ engineering methods]_.
+
+
+### SA-4 (3) (c)
+
+
+Require the developer of the system, system component, or system service to demonstrate the use of a system development life cycle process that includes:
+_[Assignment: organization-defined software development methods; testing, evaluation, assessment, verification, and validation methods; and quality control processes]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Following a well-defined system development life cycle that includes state-of-the-practice software development methods, systems/security engineering methods, quality control processes, and testing, evaluation, and validation techniques helps to reduce the number and severity of latent errors within information systems, system components, and information system services. Reducing the number/severity of such errors reduces the number of vulnerabilities in those systems, components, and services.
-
-
-
-
-
+Following a system development life cycle that includes state-of-the-practice software development methods, systems engineering methods, systems security and privacy engineering methods, and quality control processes helps to reduce the number and severity of latent errors within systems, system components, and system services. Reducing the number and severity of such errors reduces the number of vulnerabilities in those systems, components, and services. Transparency in the methods and techniques that developers select and implement for systems engineering, systems security and privacy engineering, software development, component and system assessments, and quality control processes provides an increased level of assurance in the trustworthiness of the system, system component, or system service being acquired.

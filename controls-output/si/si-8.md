@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-02-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,20 +11,29 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # SI-8 - Spam Protection
 {: #si-8}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-SI-8 (a)
-    : Employs spam protection mechanisms at information system entry and exit points to detect and take action on unsolicited messages; and
 
-SI-8 (b)
-    : Updates spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+### SI-8 (a)
+
+
+Employ spam protection mechanisms at system entry and exit points to detect and act on unsolicited messages.
+
+
+### SI-8 (b)
+
+
+Update spam protection mechanisms when new releases are available in accordance with organizational configuration management policy and procedures.
+
+
+
+
+
 
 ## Additional IBM Cloud for Financial Services specifications
 {: #additional-ibm-cloud-for-financial-services-specifications}
@@ -36,12 +44,13 @@ The organization must send email to or on behalf of the customer, in accordance 
 - Organizations must provide customers with the needed information (including any changes) for customers to publish Domain Keys Identified Mail (DKIM) and Sender Policy Framework (SPF) records for the assigned subdomain.
 - DKIM key must be 1024 bits in length.
 
+
+
+
+
+
+
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Information system entry and exit points include, for example, firewalls, electronic mail servers, web servers, proxy servers, remote-access servers, workstations, mobile devices, and notebook/laptop computers. Spam can be transported by different means including, for example, electronic mail, electronic mail attachments, and web accesses. Spam protection mechanisms include, for example, signature definitions.
-
-
-
-
-
+System entry and exit points include firewalls, remote-access servers, electronic mail servers, web servers, proxy servers, workstations, notebook computers, and mobile devices. Spam can be transported by different means, including email, email attachments, and web accesses. Spam protection mechanisms include signature definitions.

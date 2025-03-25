@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,29 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# CM-8 (4) - Accountability Information
+# CM-8 (4) -  Accountability Information
 {: #cm-8.4}
 
 ## Control requirements
 {: #control-requirements}
 
-CM-8 (4) - 0
-    : The organization includes in the information system component inventory information, a means for identifying by [IBM Assignment: asset owner/custodian], individuals responsible/accountable for administering those components.
 
-## Implementation guidance
-{: #implementation-guidance}
 
-See the resources that follow to learn more about how to implement this control.
+### CM-8 (4) - 0
 
-- [{{site.data.keyword.cloud_notm}} account setup](/docs/framework-financial-services?topic=framework-financial-services-shared-account-setup)
+
+Include in the system component inventory information, a means for identifying by _[IBM Assignment: asset owner/custodian]_, individuals responsible and accountable for administering those components.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Identifying individuals who are both responsible and accountable for administering information system components helps to ensure that the assigned components are properly administered and organizations can contact those individuals if some action is required (e.g., component is determined to be the source of a breach/compromise, component needs to be recalled/replaced, or component needs to be relocated).
-
-
-
-
-
+Identifying individuals who are responsible and accountable for administering system components ensures that the assigned components are properly administered and that organizations can contact those individuals if some action is required (e.g., when the component is determined to be the source of a breach, needs to be recalled or replaced, or needs to be relocated).

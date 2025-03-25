@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-02-08"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,22 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# CP-7 (2) - Accessibility
+# CP-7 (2) -  Accessibility
 {: #cp-7.2}
 
 ## Control requirements
 {: #control-requirements}
 
-CP-7 (2) - 0
-    : The organization identifies potential accessibility problems to the alternate processing site in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.
+
+
+### CP-7 (2) - 0
+
+
+Identify potential accessibility problems to alternate processing sites in the event of an area-wide disruption or disaster and outlines explicit mitigation actions.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Area-wide disruptions refer to those types of disruptions that are broad in geographic scope (e.g., hurricane, regional power outage) with such determinations made by organizations based on organizational assessments of risk.
-
-
-
-
-
+Area-wide disruptions refer to those types of disruptions that are broad in geographic scope with such determinations made by organizations based on organizational assessments of risk.

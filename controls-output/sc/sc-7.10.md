@@ -1,9 +1,8 @@
 ---
-
 copyright:
   years: 2020, 2025
 
-lastupdated: "2025-02-16"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,47 +11,37 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-
-# SC-7 (10) - Prevent Unauthorized Exfiltration
+# SC-7 (10) -  Prevent Exfiltration
 {: #sc-7.10}
 
 ## Control requirements
 {: #control-requirements}
 
-SC-7 (10) - 0
-    : The organization prevents the unauthorized exfiltration of information across managed interfaces.
 
-## Implementation guidance
-{: #implementation-guidance}
 
-See the resources that follow to learn more about how to implement this control.
+### SC-7 (10) (a)
 
-- [Accessing the public internet](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-to-internet)
-- [Connecting application provider to the management VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-management)
-- [Connectivity to {{site.data.keyword.cloud_notm}} services with private endpoints](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-to-services)
-- [Consumer connectivity to workload VPC](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-workload)
-- [Creating and connecting the management and workload VPCs](/docs/framework-financial-services?topic=framework-financial-services-vpc-architecture-connectivity-create-vpcs)
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
+Prevent the exfiltration of information.
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
 
-- Check whether Security Groups for VPC contains no outbound rules in security groups that specify source IP 8.8.8.8/32 to DNS port
-- Check whether Virtual Private Cloud (VPC) has no public gateways attached
-- Check whether all virtual server instances have at least one Virtual Private Cloud (VPC) security group attached
-- Check whether Virtual Private Cloud (VPC) has no public gateways attached at the time of provisioning
-- Check whether account has at least one VPN or Direct Link configured
-- Check whether Virtual Private Cloud (VPC) classic access is disabled
-- Check whether Virtual Private Cloud (VPC) has no rules in the default security group
-- Check whether all network interfaces of a virtual server instance have at least one Virtual Private Cloud (VPC) security group attached
-- Check whether Virtual Servers for VPC instance has the minimum # interfaces
-- Check whether Virtual Private Cloud (VPC) has no subnet with public gateway attached
-- Check whether Virtual Private Cloud (VPC) security groups have outbound ports that are open only to permitted IP addresses
-- Check whether Virtual Private Cloud (VPC) is configured with public gateways that are provisionable only within permitted zones
-- Check whether Virtual Private Cloud (VPC) network access control lists don't allow egress from 0.0.0.0/0 to any port
+### SC-7 (10) (b)
+
+
+Conduct exfiltration tests _[IBM Assignment: at least annually]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Safeguards implemented by organizations to prevent unauthorized exfiltration of information from information systems include, for example: (i) strict adherence to protocol formats; (ii) monitoring for beaconing from information systems; (iii) monitoring for steganography; (iv) disconnecting external network interfaces except when explicitly needed; (v) disassembling and reassembling packet headers; and (vi) employing traffic profile analysis to detect deviations from the volume/types of traffic expected within organizations or call backs to command and control centers. Devices enforcing strict adherence to protocol formats include, for example, deep packet inspection firewalls and XML gateways. These devices verify adherence to protocol formats and specification at the application layer and serve to identify vulnerabilities that cannot be detected by devices operating at the network or transport layers. This control enhancement is closely associated with cross-domain solutions and system guards enforcing information flow requirements.
+Prevention of exfiltration applies to both the intentional and unintentional exfiltration of information. Techniques used to prevent the exfiltration of information from systems may be implemented at internal endpoints, external boundaries, and across managed interfaces and include adherence to protocol formats, monitoring for beaconing activity from systems, disconnecting external network interfaces except when explicitly needed, employing traffic profile analysis to detect deviations from the volume and types of traffic expected, call backs to command and control centers, conducting penetration testing, monitoring for steganography, disassembling and reassembling packet headers, and using data loss and data leakage prevention tools. Devices that enforce strict adherence to protocol formats include deep packet inspection firewalls and Extensible Markup Language (XML) gateways. The devices verify adherence to protocol formats and specifications at the application layer and identify vulnerabilities that cannot be detected by devices that operate at the network or transport layers. The prevention of exfiltration is similar to data loss prevention or data leakage prevention and is closely associated with cross-domain solutions and system guards that enforce information flow requirements.

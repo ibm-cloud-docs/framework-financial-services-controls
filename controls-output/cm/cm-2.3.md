@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-04-27"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,30 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# CM-2 (3) - Retention of Previous Configurations
+# CM-2 (3) -  Retention of Previous Configurations
 {: #cm-2.3}
 
 ## Control requirements
 {: #control-requirements}
 
-CM-2 (3) - 0
-    : The organization retains [Assignment: organization-defined previous versions of baseline configurations of the information system] to support rollback.
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+### CM-2 (3) - 0
 
-- Check whether DevSecOps Toolchain collects software bills of materials (SBOM) to provide transparency in build artifacts 
-- Check whether DevSecOps Toolchain deployment has approved change documentation including security impact analysis
+
+Retain _[Assignment: organization-defined number]_ of previous versions of baseline configurations of the system to support rollback.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Retaining previous versions of baseline configurations to support rollback may include, for example, hardware, software, firmware, configuration files, and configuration records.
-
-
-
-
-
+Retaining previous versions of baseline configurations to support rollback include hardware, software, firmware, configuration files, configuration records, and associated documentation.

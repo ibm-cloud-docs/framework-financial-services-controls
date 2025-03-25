@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-04-27"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,29 +11,31 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# AU-9 (2) - Audit Backup On Separate Physical Systems / Components
+# AU-9 (2) -  Store on Separate Physical Systems or Components
 {: #au-9.2}
 
 ## Control requirements
 {: #control-requirements}
 
-AU-9 (2) - 0
-    : The information system backs up audit records [IBM Assignment: at least weekly] onto a physically different system or system component than the system or component being audited.
 
-## IBM Cloud for Financial Services profile
-{: #scc-fs-cloud-profile}
 
-The rules related to this control that follow are part of the IBM Cloud for Financial Services v1.2.0 profile in [{{site.data.keyword.compliance_full}}](/docs/security-compliance?topic=security-compliance-getting-started).
+### AU-9 (2) - 0
 
-- Check that any Cloud Object Storage buckets used by Activity Tracker Event Routing are configured as cross-region
+
+Store audit records _[IBM Assignment: at least weekly]_ in a repository that is part of a physically different system or system component than the system or component being audited.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-This control enhancement helps to ensure that a compromise of the information system being audited does not also result in a compromise of the audit records.
-
-
-
-
-
+Storing audit records in a repository separate from the audited system or system component helps to ensure that a compromise of the system being audited does not also result in a compromise of the audit records. Storing audit records on separate physical systems or components also preserves the confidentiality and integrity of audit records and facilitates the management of audit records as an organization-wide activity. Storing audit records on separate systems or components applies to initial generation as well as backup or long-term storage of audit records.

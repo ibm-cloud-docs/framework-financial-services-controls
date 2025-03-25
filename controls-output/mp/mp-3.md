@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-26"
 
 keywords:
 
@@ -12,27 +11,37 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
 # MP-3 - Media Marking
 {: #mp-3}
 
 ## Control requirements
 {: #control-requirements}
 
-The organization:
 
-MP-3 (a)
-    : Marks information system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information; and
 
-MP-3 (b)
-    : Exempts _[IBM Assignment: no removable media types]_ from marking as long as the media remain within _[Assignment: organization-defined controlled areas]_.
+### MP-3 (a)
+
+
+Mark system media indicating the distribution limitations, handling caveats, and applicable security markings (if any) of the information.
+
+
+### MP-3 (b)
+
+
+Exempt _[IBM Assignment: no removable media types]_ from marking if the media remain within _[IBM Assignment: Second parameter not-applicable]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-The term security marking refers to the application/use of human-readable security attributes. The term security labeling refers to the application/use of security attributes with regard to internal data structures within information systems (see AC-16). Information system media includes both digital and non-digital media. Digital media includes, for example, diskettes, magnetic tapes, external/removable hard disk drives, flash drives, compact disks, and digital video disks. Non-digital media includes, for example, paper and microfilm. Security marking is generally not required for media containing information determined by organizations to be in the public domain or to be publicly releasable. However, some organizations may require markings for public information indicating that the information is publicly releasable. Marking of information system media reflects applicable federal laws, Executive Orders, directives, policies, regulations, standards, and guidance.
-
-
-
-
-
+Security marking refers to the application or use of human-readable security attributes. Digital media includes diskettes, magnetic tapes, external or removable hard disk drives (e.g., solid state, magnetic), flash drives, compact discs, and digital versatile discs. Non-digital media includes paper and microfilm. Controlled unclassified information is defined by the National Archives and Records Administration along with the appropriate safeguarding and dissemination requirements for such information and is codified in [32 CFR 2002]. Security markings are generally not required for media that contains information determined by organizations to be in the public domain or to be publicly releasable. Some organizations may require markings for public information indicating that the information is publicly releasable. System media marking reflects applicable laws, executive orders, directives, policies, regulations, standards, and guidelines.

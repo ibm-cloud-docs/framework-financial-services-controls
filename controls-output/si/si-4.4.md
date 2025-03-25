@@ -1,9 +1,8 @@
 ---
-
 copyright:
-  years: 2020, 2023
+  years: 2020, 2025
 
-lastupdated: "2023-03-08"
+lastupdated: "2025-02-27"
 
 keywords:
 
@@ -12,22 +11,37 @@ subcollection: framework-financial-services-controls
 
 {{site.data.keyword.attribute-definition-list}}
 
-               
-# SI-4 (4) - Inbound and Outbound Communications Traffic
+# SI-4 (4) -  Inbound and Outbound Communications Traffic
 {: #si-4.4}
 
 ## Control requirements
 {: #control-requirements}
 
-SI-4 (4) - 0
-    : The information system monitors inbound and outbound communications traffic [IBM Assignment: continuously] for unusual or unauthorized activities or conditions.
+
+
+### SI-4 (4) (a)
+
+
+Determine criteria for unusual or unauthorized activities or conditions for inbound and outbound communications traffic.
+
+
+### SI-4 (4) (b)
+
+
+Monitor inbound and outbound communications traffic _[IBM Assignment: continuously]_ for _[Assignment: organization-defined unusual or unauthorized activities or conditions]_.
+
+
+
+
+
+
+
+
+
+
+
 
 ## NIST supplemental guidance
 {: #nist-supplemental-guidance}
 
-Unusual/unauthorized activities or conditions related to information system inbound and outbound communications traffic include, for example, internal traffic that indicates the presence of malicious code within organizational information systems or propagating among system components, the unauthorized exporting of information, or signaling to external information systems. Evidence of malicious code is used to identify potentially compromised information systems or information system components.
-
-
-
-
-
+Unusual or unauthorized activities or conditions related to system inbound and outbound communications traffic includes internal traffic that indicates the presence of malicious code or unauthorized use of legitimate code or credentials within organizational systems or propagating among system components, signaling to external systems, and the unauthorized exporting of information. Evidence of malicious code or unauthorized use of legitimate code or credentials is used to identify potentially compromised systems or system components.
